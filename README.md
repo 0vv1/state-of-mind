@@ -1,8 +1,10 @@
 # Evidence for Stalking &c
-
+  
 Sammlung von Hinweisen auf Stalking und zahlreiche weitere Straftaten im
-Zusammenhang
-
+Zusammenhang  
+  
+Stand: 1. Sep. 2024  
+  
 ## Brief History
 
 Heute ist der 31. August 2024 und ich befinde mich seit über 1.300 Tagen
@@ -17,12 +19,12 @@ da viele sog. Negativsymptome einer Schizophrenie bei mir nicht
 auftreten, was ich so auch bestätigen kann.  
 Ich empfinde mich nicht als gedanklich zerfahren, depressiv, antriebslos
 oder irgendwie verzweifelt, sondern abgesehen von zahlreichen
-"Halluzinationen"(?) oder vielmehr einer differierenden Erlebenswelt als
-gedanklich vollkommen klar. Mein Denken ist schlüssig, mein Sprechen
+"Halluzinationen"(?), oder vielmehr einer differierenden Erlebenswelt,
+als gedanklich vollkommen klar. Mein Denken ist schlüssig, mein Sprechen
 klar, meine Stimmung dann gut, wenn ich nicht unter dem Einfluss von,
 von mir so wahrgenommenen, außerordentlich penetranten
 Manipulationsversuchen stehe.  
-
+  
 ## Idee
 
 Da den Stimmen in vielen Fällen in der eigenen Wohnung mental nur schwer
@@ -40,21 +42,22 @@ Weise von extern (in Grenzen) kontrollier-/lenkbar sind.
   
 Die Täter:innen scheinen sich auch mittels Hypnose-Techniken und
 Methoden der Manipulation, Zutritt zu fremden Wohnungen verschaffen zu
-können.
-
+können.  
+  
 Erschwerend käme (bei einigen Wohnungen) hinzu, dass die Raumakustik
 täuscht und nicht alles so zu sein scheint, wie man normal annehmen
-müsste. Geräusche, die aus Richtung Zimmerdecke zu kommen scheinen,
-kommen tatsächlich nicht aus der Wohnung über der eigenen.  
+müsste. Geräusche, die bspw. aus Richtung Zimmerdecke zu kommen
+scheinen, kommen tatsächlich nicht aus der Wohnung über der eigenen.  
   
-Die Tter:innen scheinen zudem zahlreiche, auf dem ersten Blick in keinem
-Zusammenhang stehenden, Ereignisse und Alltagsgeschehnisse auszunutzen,
-um ihre Opfer zu diffamieren und billige Verschwörungstheorien zu
-suggerieren, um ihre Glaubwürdigkeit und Reputation zu zerstören.  
+Die Täter:innen scheinen zudem zahlreiche, auf dem ersten Blick in
+keinem Zusammenhang stehenden, Ereignisse und Alltagsgeschehnisse
+auszunutzen, um ihre Opfer zu diffamieren und billige
+Verschwörungstheorien zu suggerieren, um ihre Glaubwürdigkeit und
+Reputation zu dezimieren.  
   
 Zahlreiche Beispiele werde ich in einem eigenen Dokument unter
 **Nebenschauplätze/Obfuskationsbemühungen** ausführen.  
-
+  
 ## Befürchtung
 
 Ich halte es für außerordentlich wahrscheinlich, dass ich nicht der
@@ -71,15 +74,15 @@ melden, um Welten besser sind aber natürlich Institute der
 Strafverfolgung oder Beratungsstellen (an die ich mich als nächstes
 wende, blitze ich das nächste Mal bei den Cops ab).  
 Problem: Es braucht (bei der Polizei) eben mehr als einen und die
-Aussage einer Katze zählt leider nicht (s.u.).. ;-)
-
+Aussage einer Katze zählt leider nicht (s.u.).. ;-)  
+  
 ## Kleine Auswahl von Recordings
 
 Ich habe irgendwann angefangen, die Raumakustik in verschiedenen von mir
 bewohnten Wohungen aufzunehmen, in deren Hintergrund ich weitere
 (sehr leise) Stimmen/Geräusche "halluziniere".
 Eine Auswahl wird hier hochgeladen.  
-
+  
 ## Besonderheiten
 
 Die Methoden der Täter:innen sind ausgesprochen perfide und spielen
@@ -89,6 +92,26 @@ Tätern vollkommen ausgeliefert sind, offenbar mit dem Ziel, ihre
 Wahrnehmung und Erlebenswelt zu isolieren und schlussendlich zu
 zerstören.  
   
+Methoden/Mittel:  
+Neuro-linguistische Programmierung
+(teils maschinell unterstützt, teils mit mehreren übereinander liegenden
+Tonspuren),
+Hypnose, Trance, Suggestion, Desinformation, nebeneinander bestehende
+alternative Realitäten, Manipulation von Emotionen durch Auslösen von
+Furcht/Panik, Zweifeln & Ungewissheit, emotionale Bindung/Lösung,
+Gaslighting, In-Frage-Stellen des Erlebten, Manipulation von Lautstärke
+und Intonation der eingesetzten Stimmen, Nutzen oder Imitieren von
+Stimmen real existierender Personen ohne (oder mit verändertem) Kontext,
+meistens ohne (oder falschem) zeitlichen Bezug, in der Satzbildung
+"geremixed" und ergänzt. Teilweise entsteht der Eindruck, dass normale
+Nachbarn über lange Zeiträume hinweg schreien, was so in der Realität
+nicht möglich ist.  
+Insofern nimmt die Atmosphäre teils irreale/skurrile Züge an.  
+  
+Eine besondere Befürchtung ist das gegenseitige Auspielen von Nachbarn
+durch das Aufnehmen und (manipulierte) Abspielen von
+Geräuschen/Gesprächen.  
+  
 In meinem Fall kommt hinzu, dass diese "Menschen" mir in jetzt vier
 Wohungen "gefolgt" sind, was selbstverständlich vollkommen absurd zu
 sein scheint.  
@@ -96,22 +119,21 @@ Genauso wie die Möglichkeit, die DSL-Leitung abzulauschen bzw. zu
 manipulieren.  
   
 Und ja: Mir ist vollkommen klar, dass solchen Behauptungen in keinster
-Weise irgendeine Glaubwürdigkeit zu Teil wird. ;-)
-
+Weise irgendeine Glaubwürdigkeit zu Teil wird. ;-)  
+  
 ## Motiv
 
 Nachdem ich vier Mal bei der Polizei vorstellig war, zwei Notrufe
 ignoriert wurden und mir auch sonst kein weiteres höheres Säugetier auf
 diesem Planeten in irgendeiner Weise, wenigstens auch nur halbherzig,
-Glauben schenkt,  hatte ich vor zwei Tagen ein spannendes Erlebnis:  
+Glauben schenkt, hatte ich vor zwei Tagen ein spannendes Erlebnis:  
 Eine kleine Katze (auf die ich bei einem Freund aufpassen soll) schien
 meine Wahrnehmung zu teilen und hörte die gleiche (von mir eingebildete)
 Stimme eines Stalkers/Stalkerin, die mir in die fremde Wohnung gefolgt
-waren.  
+war.  
 Die kleine war einigermaßen aufgebracht, weil sie diese leise
-menschliche Stimme nicht zuordnen konnte.  
-Als ich ihr sagte, ich würde mir diese nur einbilden, beruhigte sie sich
-langsam wieder..  
+menschliche Stimme nicht zuordnen konnte. Als ich ihr sagte,
+ich würde mir diese nur einbilden, beruhigte sie sich langsam wieder..  
   
 TBC
 
