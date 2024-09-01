@@ -33,7 +33,7 @@ bis gar nicht beizukommen ist, sie draußen aber (mit einer gewissen
 sind, halte ich es für möglich, dass nachts im Schlaf (in den intimsten
 und verletzlichsten Bereichen der eigenen Wohnung, Stichworte:
 Schlafzimmer / Safe Space) mit viel Zeit sog.
-[NLP](https://de.wikipedia.org/wiki/Neuro-linguistisches_Programmieren)s
+[NLP](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)s
 durchgeführt werden, deren Programm dann tagsüber in irgendeiner Weise
 fast zwingend abgearbeitet werden muss, so dass Symptome auftreten,
 die denen einer Schizophrenie sehr ähneln, mit dem feinen Unterschied,
