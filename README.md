@@ -92,7 +92,7 @@ Tätern vollkommen ausgeliefert sind, offenbar mit dem Ziel, ihre
 Wahrnehmung und Erlebenswelt zu isolieren und schlussendlich zu
 zerstören.  
   
-Methoden/Mittel:  
+**Auswahl angewandter Mittel**:  
 Neuro-linguistische Programmierung
 (teils maschinell unterstützt, teils mit mehreren übereinander liegenden
 Tonspuren),
