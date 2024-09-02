@@ -91,7 +91,7 @@ emotional sehr belastend sein können.
 Die Themen reichen von Missbrauchs-/Vergewaltigungsvorwürfen über Hass,
 Entwrürdigung und Rache bis zu mehrfachen Morddrohungen und konnten
 bisher wenigstens eine Depersonalisation auslösen.  
-  `
+  
 ## Besonderheiten
 
 Die Methoden der Täter:innen sind ausgesprochen perfide und spielen
