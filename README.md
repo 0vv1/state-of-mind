@@ -79,10 +79,19 @@ Aussage einer Katze zählt leider nicht (s.u.).. ;-)
 ## Kleine Auswahl von Recordings
 
 Ich habe irgendwann angefangen, die Raumakustik in verschiedenen von mir
-bewohnten Wohungen aufzunehmen, in deren Hintergrund ich weitere
+bewohnten Wohnungen aufzunehmen, in deren Hintergrund ich weitere
 (sehr leise) Stimmen/Geräusche "halluziniere".
 Eine Auswahl wird hier hochgeladen.  
   
+Diese difuse/unterschwellige Beschallung des Wohnraums bildet jedoch nur
+die Spitze des Eisbergs ab und sorgt "nur" für Atmosphäre.  
+Weit gravierender, weil grausamer, ist das "Abarbeiten" der
+NLP-Proagramme, die einen gesamten (auch Arbeits-)Tag ausfüllen und
+emotional sehr belastend sein können. 
+Die Themen reichen von Missbrauchs-/Vergewaltigungsvorwürfen über Hass,
+Entwrürdigung und Rache bis zu mehrfachen Morddrohungen und konnten
+bisher wenigstens eine Depersonalisation auslösen.  
+  `
 ## Besonderheiten
 
 Die Methoden der Täter:innen sind ausgesprochen perfide und spielen
@@ -92,7 +101,8 @@ Tätern vollkommen ausgeliefert sind, offenbar mit dem Ziel, ihre
 Wahrnehmung und Erlebenswelt zu isolieren und schlussendlich zu
 zerstören.  
   
-**Auswahl angewandter Mittel**:  
+### Auswahl eingesetzter Mittel
+
 Neuro-linguistische Programmierung
 (teils maschinell unterstützt, teils mit mehreren übereinander liegenden
 Tonspuren),
