@@ -1,9 +1,9 @@
-# Evidence for Stalking &c
+# Evidence for Stalking, NLPing &c
   
 Sammlung von Hinweisen auf Stalking und zahlreiche weitere Straftaten im
 Zusammenhang  
   
-Stand: Do., 3. Sep. 2024  
+Stand: Do., **3. Sep.** 2024  
   
 ## Brief History
 
@@ -90,15 +90,16 @@ bewohnten Wohnungen aufzunehmen, in deren Hintergrund ich weitere
 (sehr leise) Stimmen/Geräusche "halluziniere".
 Eine Auswahl wird hier hochgeladen.  
   
-Diese difuse/unterschwellige Beschallung des Wohnraums bildet jedoch nur
-die Spitze des Eisbergs ab und sorgt "nur" für Atmosphäre.
+Diese diffuse/unterschwellige Beschallung des Wohnraums bildet jedoch
+nur die Spitze des Eisbergs und sorgt "nur" für Atmosphäre.
 Weit gravierender, weil grausamer, ist das "Abarbeiten" der
-NLP-Proagramme, die einen gesamten (auch Arbeits-)Tag ausfüllen und
-emotional sehr belastend sein können. 
+NLP-Programme, die einen gesamten (auch Arbeits-)Tag ausfüllen und
+emotional sehr belastend sein können (siehe letztes Rec).   
 Die Themen reichen von Missbrauchs-/Vergewaltigungsvorwürfen über Hass,
 Entwrürdigung und Rache bis zu mehrfachen Morddrohungen (gegen mich,
 aber auch andere Personen) und konnten bisher wenigstens eine
 Depersonalisation auslösen.  
+Einige NLPs bildeten aus meiner Sicht Mordversuche ab.  
   
 ## Besonderheiten
 
@@ -134,10 +135,8 @@ durch das Aufnehmen und (manipulierte) Abspielen von
 Geräuschen/Gesprächen.  
   
 In meinem Fall kommt hinzu, dass diese "Menschen" mir in jetzt vier
-Wohungen "gefolgt" sind, was selbstverständlich vollkommen absurd zu
+Wohnungen "gefolgt" sind, was selbstverständlich vollkommen absurd zu
 sein scheint.  
-Genauso wie die Möglichkeit, die DSL-Leitung abzulauschen bzw. zu 
-manipulieren.  
   
 Und ja: Mir ist vollkommen klar, dass solchen Behauptungen in keinster
 Weise irgendeine Glaubwürdigkeit zu Teil wird. ;-)  
