@@ -51,13 +51,19 @@ kommen scheinen, kommen tatsächlich nicht aus der dahinter liegenden
 Wohnung, sondern aus anderen, entfernter liegenden.  
   
 Die Täter:innen scheinen zudem zahlreiche, auf dem ersten Blick in
-keinem Zusammenhang stehenden, Ereignisse und Alltagsgeschehnisse
+keinem Zusammenhang stehende, Ereignisse und Alltagsgeschehnisse
 auszunutzen, um ihre Opfer zu diffamieren und billige
 Verschwörungstheorien zu suggerieren, um ihre Glaubwürdigkeit und
 Reputation zu dezimieren.  
   
 Zahlreiche Beispiele werde ich in einem eigenen Dokument unter
 **Nebenschauplätze/Obfuskationsbemühungen** ausführen.  
+  
+## Unklarheiten
+
+Die Anzahl der Täter:innen bzw. passiv Beteiligten, sowie deren Motiv(?)
+bereiten mir am meisten Kopfzerbrechen.  
+Kurz: Wer hat etwas von sowas?  
   
 ## Befürchtung
 
