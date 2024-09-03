@@ -3,7 +3,7 @@
 Sammlung von Hinweisen auf Stalking und zahlreiche weitere Straftaten im
 Zusammenhang  
   
-Stand: 1. Sep. 2024  
+Stand: Do., 3. Sep. 2024  
   
 ## Brief History
 
@@ -46,8 +46,9 @@ können.
   
 Erschwerend käme (bei einigen Wohnungen) hinzu, dass die Raumakustik
 täuscht und nicht alles so zu sein scheint, wie man normal annehmen
-müsste. Geräusche, die bspw. aus Richtung Zimmerdecke zu kommen
-scheinen, kommen tatsächlich nicht aus der Wohnung über der eigenen.  
+müsste. Geräusche/Stimmen, die bspw. aus Richtung einer Zimmerwand zu
+kommen scheinen, kommen tatsächlich nicht aus der dahinter liegenden
+Wohnung, sondern aus anderen, entfernter liegenden.  
   
 Die Täter:innen scheinen zudem zahlreiche, auf dem ersten Blick in
 keinem Zusammenhang stehenden, Ereignisse und Alltagsgeschehnisse
@@ -84,13 +85,14 @@ bewohnten Wohnungen aufzunehmen, in deren Hintergrund ich weitere
 Eine Auswahl wird hier hochgeladen.  
   
 Diese difuse/unterschwellige Beschallung des Wohnraums bildet jedoch nur
-die Spitze des Eisbergs ab und sorgt "nur" für Atmosphäre.  
+die Spitze des Eisbergs ab und sorgt "nur" für Atmosphäre.
 Weit gravierender, weil grausamer, ist das "Abarbeiten" der
 NLP-Proagramme, die einen gesamten (auch Arbeits-)Tag ausfüllen und
 emotional sehr belastend sein können. 
 Die Themen reichen von Missbrauchs-/Vergewaltigungsvorwürfen über Hass,
-Entwrürdigung und Rache bis zu mehrfachen Morddrohungen und konnten
-bisher wenigstens eine Depersonalisation auslösen.  
+Entwrürdigung und Rache bis zu mehrfachen Morddrohungen (gegen mich,
+aber auch andere Personen) und konnten bisher wenigstens eine
+Depersonalisation auslösen.  
   
 ## Besonderheiten
 
@@ -100,6 +102,9 @@ ohne geringste eigene Glaubwürdigkeit und soziale Unterstützung, den
 Tätern vollkommen ausgeliefert sind, offenbar mit dem Ziel, ihre
 Wahrnehmung und Erlebenswelt zu isolieren und schlussendlich zu
 zerstören.  
+Erschwerend kommt hinzu, dass die Täter:innen durch das Abhören des
+Wohnraums außerordentlich gut über das Leben der Bewohner informiert
+sind, und diese Informationen auch ohne Skrupel nutzen.  
   
 ### Auswahl eingesetzter Mittel
 
