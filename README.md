@@ -99,7 +99,6 @@ Die Themen reichen von Missbrauchs-/Vergewaltigungsvorwürfen über Hass,
 Entwrürdigung und Rache bis zu mehrfachen Morddrohungen (gegen mich,
 aber auch andere Personen) und konnten bisher wenigstens eine
 Depersonalisation auslösen.  
-Einige NLPs bildeten aus meiner Sicht Mordversuche ab.  
   
 ## Besonderheiten
 
