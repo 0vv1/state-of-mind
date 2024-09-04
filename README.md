@@ -3,9 +3,10 @@
 Sammlung von Hinweisen auf Stalking und zahlreiche weitere Straftaten im
 Zusammenhang  
   
-author:  &copy;&ensp;2024 Alexander Puls
+author:  &copy; 2024 Alexander Puls
          <github@0vv1.net>  
-license: Creative Commons 1.0 Universal  
+license: Creative Commons: BY-NC-ND 4.0 International
+         <https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode>  
 version: Mi., **4. Sep.** 2024  
   
 ## Brief History
@@ -33,8 +34,8 @@ Manipulationsversuchen stehe.
 Da den Stimmen in vielen Fällen in der eigenen Wohnung mental nur schwer
 bis gar nicht beizukommen ist, sie draußen aber (mit einer gewissen
 Übung) ohne weiteres manipulierbar, dialogisierbar bzw. "wegdrückbar"
-sind, halte ich es für möglich, dass Teile meiner Wahrnehmung eben doch
-"echt" sind und dass nachts im Schlaf (in den intimsten und
+sind, halte ich es für möglich, dass Teile meiner Wahrnehmung **eben
+doch "echt"**(?) sind und dass nachts im Schlaf (in den intimsten und
 verletzlichsten Bereichen der eigenen Wohnung,
 Stichworte: Schlafzimmer / Safe Space) mit viel Zeit sog.
 [NLP](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)s
@@ -59,15 +60,14 @@ keinem Zusammenhang stehende, Ereignisse und Alltagsgeschehnisse
 auszunutzen, um ihre Opfer zu diffamieren und billige
 Verschwörungstheorien zu suggerieren, um ihre Glaubwürdigkeit und
 Reputation zu dezimieren.  
-  
-Zahlreiche Beispiele werde ich in einem eigenen Dokument unter
+Zahlreiche Beispiele will ich in einem eigenen Dokument unter
 **Nebenschauplätze/Obfuskationsbemühungen** ausführen.  
   
 ## Unklarheiten
 
 Die Anzahl der Täter:innen bzw. passiv Beteiligten, sowie deren Motiv(?)
 bereiten mir am meisten Kopfzerbrechen.  
-Kurz: Wer hat etwas von sowas?  
+Kurz: Wer hat etwas von so einem Handeln? Und wenn, dann was?  
   
 ## Befürchtung
 
@@ -92,7 +92,8 @@ Aussage einer Katze zählt leider nicht (s.u.).. ;-)
 Ich habe irgendwann angefangen, die Raumakustik in verschiedenen von mir
 bewohnten Wohnungen aufzunehmen, in deren Hintergrund ich weitere
 (sehr leise) Stimmen/Geräusche "halluziniere".
-Eine Auswahl wird hier hochgeladen.  
+Eine Auswahl wird hier (in der Hoffnung, dass irgendwer eine im
+Hintergund liegende "Stimme" o.ä. bestätigen kann) hochgeladen.  
   
 Diese diffuse/unterschwellige Beschallung des Wohnraums bildet jedoch
 nur die Spitze des Eisbergs und sorgt "nur" für Atmosphäre.
