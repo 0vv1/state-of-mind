@@ -3,13 +3,10 @@
 Sammlung von Hinweisen auf Stalking und zahlreiche weitere Straftaten im
 Zusammenhang  
   
-file:&emsp;&emsp;&emsp; README.md5  
-brief:&emsp;&emsp;      description of percepted stalking over the last
-                        few uears  
-author:&emsp;           &copy;&ensp;2024 Alexander Puls
-                        <github@0vv1.net>  
-license:                Creative Commons 1.0 Universal  
-version:                Mi., **4. Sep.** 2024  
+author:  &copy;&ensp;2024 Alexander Puls
+         <github@0vv1.net>  
+license: Creative Commons 1.0 Universal  
+version: Mi., **4. Sep.** 2024  
   
 ## Brief History
 
