@@ -3,7 +3,13 @@
 Sammlung von Hinweisen auf Stalking und zahlreiche weitere Straftaten im
 Zusammenhang  
   
-Stand: Do., **3. Sep.** 2024  
+file:&emsp;&emsp;&emsp; README.md5  
+brief:&emsp;&emsp;      description of percepted stalking over the last
+                        few uears  
+author:&emsp;           &copy;&ensp;2024 Alexander Puls
+                        <github@0vv1.net>  
+license:                Creative Commons 1.0 Universal  
+version:                Mi., **4. Sep.** 2024  
   
 ## Brief History
 
@@ -30,9 +36,10 @@ Manipulationsversuchen stehe.
 Da den Stimmen in vielen Fällen in der eigenen Wohnung mental nur schwer
 bis gar nicht beizukommen ist, sie draußen aber (mit einer gewissen
 Übung) ohne weiteres manipulierbar, dialogisierbar bzw. "wegdrückbar"
-sind, halte ich es für möglich, dass nachts im Schlaf (in den intimsten
-und verletzlichsten Bereichen der eigenen Wohnung, Stichworte:
-Schlafzimmer / Safe Space) mit viel Zeit sog.
+sind, halte ich es für möglich, dass Teile meiner Wahrnehmung eben doch
+"echt" sind und dass nachts im Schlaf (in den intimsten und
+verletzlichsten Bereichen der eigenen Wohnung,
+Stichworte: Schlafzimmer / Safe Space) mit viel Zeit sog.
 [NLP](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)s
 durchgeführt werden, deren Programm dann tagsüber in irgendeiner Weise
 fast zwingend abgearbeitet werden muss, so dass Symptome auftreten,
@@ -99,6 +106,9 @@ Die Themen reichen von Missbrauchs-/Vergewaltigungsvorwürfen über Hass,
 Entwrürdigung und Rache bis zu mehrfachen Morddrohungen (gegen mich,
 aber auch andere Personen) und konnten bisher wenigstens eine
 Depersonalisation auslösen.  
+  
+Nachtrag (4.09.): Die NLPs scheinen auch nach Veröffentlichung dieses
+Repos weiterzugehen.  
   
 ## Besonderheiten
 
