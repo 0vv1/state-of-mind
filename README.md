@@ -4,9 +4,9 @@ Sammlung von Hinweisen auf Stalking und zahlreiche weitere Straftaten im
 Zusammenhang  
   
 author:  &copy; 2024 Alexander Puls
-         <github@0vv1.net>  
+         &lt;github@0vv1.net&gt;  
 license: [Creative Commons: BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
-         <https://0vv1.io/cc.by-nc-nd>
+         &lt;https://0vv1.io/cc.by-nc-nd&gt;  
 version: Do., **5. Sep.** 2024  
   
 ## Brief History
