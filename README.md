@@ -174,5 +174,28 @@ Die kleine war einigermaßen aufgebracht, weil sie diese leise
 menschliche Stimme nicht zuordnen konnte. Als ich ihr sagte,
 ich würde mir diese nur einbilden, beruhigte sie sich langsam wieder..  
   
-TBC
+## Gegenanzeige
+
+Selbstverständlich auch das:  
+  
+Sollte die gesamte beschriebene Erlebenswelt Folge einer schizophrenen/-affektiven Persönlich&shy;keits&shy;störung sein, hatte ich insbesondere in den letzten acht Monaten Gelegenheit zu (mglw. erheblicher) persönlicher Entwicklung.  
+  
+Trotz teils extremem (fast in Slapstick abgleitendem) Stresslevel, (im wahrsten Sinne) emotionalen Ausnahmesituationen und in Todesangst wach verbrachten Nächten voller Verwirrung, Deainformation und einem Dutzend alternativer Realitäten, fühle ich mich nicht geschädigt. Oder traumatisiert. Nichts von dem.  
+  
+Aber viel Selbstreflexion scheint mir gelungen. Mit der Gelegenheit, sich selber kennenzulernen.  
+Und der Erkenntnis, dass es für mich, trotz ausgeprägter Halluzinationen, einen Menschen gibt, auf den Verlass ist, der in allen entstandenen Situationen auf eine Idee kommt und der den Humor nicht verliert, was immer "sie" auf einen werfen.  
+Ob intern oder extern: Entweder Blaupausen äußerst skrupelloser/smarter, sadistischer Soziopathen, füe die Loslassen keine Option ist und deren Lebensfreude sich aus dem Leid der Anderen zu speisen scheint oder  
+Entitäten voller Angst in ihren eigenen Zwängen und Realitäten odwr ein wirres Spiel.  
+Ich weiß es bis heute nicht. Ich kann es, Stand 5. Sep. 2024, nicht entscheiden.
+  
+Stattdessen aber diese (aufgefrischte) Liebe für die Schöpfung! ❤  
+Die wir auf einem mit über 1.600 km/h (an den Polen weniger 😉) um sich selbst rotierenden Gesteinsbrocken gemeinsam erleben, der mit 30 km/s um einen Feuerball rast, der mit knapp 230 km/s um ein gigantisches schwarzes Loch rast, das mit hunderten km/s durch das Nichts und eine Kälte von -273,15 °C rast.
+  
+Mglw. Eigenlob: Wer gelernt hat, Realitäten in drei Sekunden zu welchseln, für den scheint mir (zumindest momentan) doch viel möglich.  
+  
+Zu guter Letzt: Es wirkt wie inszeniert, aber überall wo ich bin, begegnen mir nahezu ausschließlich schöne, sympathische und lebensbejahende Menschen.  
+So als machte man daa erste Mal die Augen auf.  
+  
+Was/wer zur Hölle war das?!  
+Wenn möglich, bitte melden! Sämtliche Kommunikation fand fast vier Jahre lang mit leise aus der Wand bzw. im Wind wistelnden Stimmen statt. Das Gehirn fängt an, zugehörige Physis zu interpolieren. 😂
 
