@@ -12,22 +12,23 @@ version: Do., **5. Sep.** 2024
 ## Brief History
 
 Heute ist der 31. August 2024 und ich befinde mich seit über 1.300 Tagen
-mglw. in einem schizoaffektiven Wahnsystem, da ich **seit Jan. 2021**
-(ausgehend von meiner damaligen Whg.) v.a. akustische Informationen
-wahrnehme, die angeblich so nicht der Realität entstammen.  
+aller Wahrscheinlichkeit nach in einem schizoaffektiven Wahnsystem,
+da ich **seit Jan. 2021** (ausgehend von meiner damaligen Whg.) v.a.
+akustische Informationen wahrnehme, die angeblich so nicht der Realität
+entstammen.  
   
 Nachdem bei mir im Mai 2021 eine Schizophrenie diagnostiziert wurde,
-scheint die PIA (ambulante Psychiatrie) von dieser Diagnose abrücken zu
-wollen und nimmt nun eher eine **schizoaffektiv**e/bipolare Störung an,
-da viele sog. Negativsymptome einer Schizophrenie bei mir nicht
-auftreten, was ich so auch bestätigen kann.  
+scheint die PIA (die ambulante Psychiatrie) von dieser Diagnose abrücken
+zu wollen und nimmt nun eher eine **schizoaffektiv**e/&shy;bipolare
+Störung an, da viele sog. Negativi&shy;symptome einer Schizophrenie bei
+mir nicht auftreten, was ich so auch bestätigen kann.  
 Ich empfinde mich nicht als gedanklich zerfahren, depressiv, antriebslos
 oder irgendwie verzweifelt, sondern abgesehen von zahlreichen
 "Halluzinationen"(?), oder vielmehr einer differierenden Erlebenswelt,
-als gedanklich vollkommen klar. Mein Denken ist schlüssig, mein Sprechen
-klar, meine Stimmung dann gut, wenn ich nicht unter dem Einfluss von,
-von mir so wahrgenommenen, außerordentlich penetranten
-Manipulationsversuchen stehe.  
+als gedanklich vollkommen klar.  
+Mein Denken ist schlüssig, mein Sprechen klar, meine Stimmung dann gut,
+wenn ich nicht unter dem Einfluss von, von mir so wahrgenommenen,
+außerordentlich penetranten Manipulationsversuchen stehe.  
   
 ## Idee
 
@@ -35,44 +36,45 @@ Da den Stimmen in vielen Fällen in der eigenen Wohnung mental nur schwer
 bis gar nicht beizukommen ist, sie draußen aber (mit einer gewissen
 Übung) manipulierbar, dialogisierbar bzw. "wegdrückbar" sind, halte ich
 es für möglich, dass zumindest Teile meiner Wahrnehmung **eben doch
-"echt"**(?) sind und diese alternativen Realitäten von außen getriggert
+"echt"** sind und diese alternativen Realitäten von außen getriggert
 werden.  
-Die These dazu klingt abenteuerlich und geht in etwa so:  
+  
+Die **These** dazu klingt abenteuerlich und geht in etwa so:  
 Nachts im Schlaf (in den intimsten und verletzlichsten Bereichen der
 eigenen Wohnung, Stichworte: Schlafzimmer / Safe Space) werden mit viel
-Zeit und äußerst sog.
+Zeit und sehr ausführlich sog.
 [NLP](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)s
-durchgeführt, deren "Programm" dann tagsüber in irgendeiner Weise (wenn
+durchgeführt, deren "Programme" dann tagsüber in irgendeiner Weise (wenn
 man nicht weiß, woher Stimmen und "Ideen" stammen) fast zwingend
-abgearbeitet werden muss, so dass Symptome auftreten, die denen einer
+abgearbeitet werden müssen, so dass Symptome auftreten, die denen einer
 Schizophrenie sehr ähneln, mit dem feinen Unterschied, dass
-Empfindungen/Emotionenvund Handeln des entsprechenden Individuums von
-extern mindestens beeinflussbar sind.  
+Empfindungen/&shy;Emotionen und Handeln des entsprechenden Individuums
+von extern mindestens beeinflussbar sind.  
   
 Die Täter:innen scheinen mglw. auch Nachbarn so beeinflussen zu können,
 dass zumindest temporär das Abhören benachbarter Wohnräume möglich zu
-werden wird.  
+sein scheint.  
   
 Erschwerend käme (bei einigen Wohnungen) hinzu, dass die  Wahrnehmung
 der Raumakustik manipuliert wird und nicht alles so zu sein scheint,
-wie man normal annehmen müsste. Geräusche/Stimmen, die bspw.
+wie man normal annehmen müsste. Geräusche/&shy;Stimmen, die bspw.
 aus Richtung einer Zimmerwand zu kommen scheinen, kommen tatsächlich
-nicht aus der dahinter liegenden Wohnung, was ich durch Fragen leicht
-herausfinden konnte.  
+nicht aus der dahinter liegenden Wohnung, was ich durch Befragen der
+dort lebenden Bewohner leicht herausfinden konnte.  
   
 Die Täter:innen scheinen zudem zahlreiche, auf dem ersten Blick in
 keinem Zusammenhang stehende, Ereignisse und Alltagsgeschehnisse
 auszunutzen, um ihre Opfer zu diffamieren und billige
-Verschwörungstheorien zu suggerieren, um ihre Glaubwürdigkeit und
+Verschwörungstheorien zu suggerieren, um Glaubwürdigkeit und
 Reputation zu dezimieren.  
-Zahlreiche Beispiele will ich in einem eigenen Dokument unter
+Einige Beispiele will ich in einem eigenen Dokument unter
 **Nebenschauplätze/Obfuskationsbemühungen** ausführen.  
   
 ## Unklarheiten
 
 Die Anzahl der Täter:innen bzw. passiv Beteiligten, sowie deren Motiv(?)
 bereiten mir am meisten Kopfzerbrechen.  
-Kurz: Wer hat etwas von so einem Handeln? Und wenn, dann was?  
+Kurz: **Wer** hat **was** von soetwas?    
   
 ## Befürchtung
 
@@ -101,14 +103,14 @@ Eine Auswahl wird hier (in der Hoffnung, dass irgendwer eine im
 Hintergund liegende "Stimme" o.ä. bestätigen kann) hochgeladen.  
   
 Diese diffuse/unterschwellige Beschallung des Wohnraums bildet jedoch
-nur die Spitze des Eisbergs und sorgt "nur" für Atmosphäre.
+nur die Spitze des Eisbergs und sorgt "nur" für Atmosphäre.  
 Weit gravierender, weil grausamer, ist das "Abarbeiten" der
 NLP-Programme, die einen gesamten (auch Arbeits-)Tag ausfüllen und
 emotional sehr belastend sein können (siehe letztes Rec).   
-Die Themen reichen von Missbrauchs-/Vergewaltigungsvorwürfen über Hass,
-Entwrürdigung und Rache bis zu mehrfachen Morddrohungen (gegen mich,
-aber auch andere Personen) und konnten bisher wenigstens eine
-Depersonalisation auslösen.  
+Die Themen reichen von Missbrauchs-/&shy;Vergewaltigungs&shy;vorwürfen
+über Hass, Entwrürdigung und Rache bis zu mehrfachen Morddrohungen
+(gegen mich, aber auch andere Personen) und konnten bisher wenigstens
+eine Depersonalisation auslösen.  
   
 Nachtrag (4.09.): Die NLPs scheinen auch nach Veröffentlichung dieses
 Repos weiterzugehen.  
@@ -153,8 +155,13 @@ sein scheint.
 Und ja: Mir ist vollkommen klar, dass solchen Behauptungen in keinster
 Weise irgendeine Glaubwürdigkeit zu Teil wird. ;-)  
   
-## Motiv
+## Eigenes Motiv
 
+Mit einer Schizophrenie-Diagnose ist es eigentlich unmöglich, sich gegen
+Taten zu wehren, deren Hauptzweck darin zu liegen scheinen, die Symptome
+einer Schizophrenie zu erzeugen, nur eben dauerhaft von außen
+aufgefrischt/&shy;getriggert und im Wirken durchaus steuerbar.  
+  
 Nachdem ich vier Mal bei der Polizei vorstellig war, zwei Notrufe
 ignoriert wurden und mir auch sonst kein weiteres höheres Säugetier auf
 diesem Planeten in irgendeiner Weise, wenigstens auch nur halbherzig,
