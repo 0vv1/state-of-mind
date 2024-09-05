@@ -5,20 +5,20 @@ Zusammenhang
   
 author:  &copy; 2024 Alexander Puls
          <github@0vv1.net>  
-license: Creative Commons: BY-NC-ND 4.0 International
-         <https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode>  
-version: Mi., **4. Sep.** 2024  
+license: [Creative Commons: BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
+         <https://0vv1.io/cc.by-nc-nd>
+version: Do., **5. Sep.** 2024  
   
 ## Brief History
 
 Heute ist der 31. August 2024 und ich befinde mich seit über 1.300 Tagen
-mglw. in einem schizoaffektiven Wahnsystem, da ich seit Jan. 2021
+mglw. in einem schizoaffektiven Wahnsystem, da ich **seit Jan. 2021**
 (ausgehend von meiner damaligen Whg.) v.a. akustische Informationen
 wahrnehme, die angeblich so nicht der Realität entstammen.  
   
 Nachdem bei mir im Mai 2021 eine Schizophrenie diagnostiziert wurde,
 scheint die PIA (ambulante Psychiatrie) von dieser Diagnose abrücken zu
-wollen und nimmt nun eher eine schizoaffektive/bipolare Störung an,
+wollen und nimmt nun eher eine **schizoaffektiv**e/bipolare Störung an,
 da viele sog. Negativsymptome einer Schizophrenie bei mir nicht
 auftreten, was ich so auch bestätigen kann.  
 Ich empfinde mich nicht als gedanklich zerfahren, depressiv, antriebslos
@@ -33,27 +33,32 @@ Manipulationsversuchen stehe.
 
 Da den Stimmen in vielen Fällen in der eigenen Wohnung mental nur schwer
 bis gar nicht beizukommen ist, sie draußen aber (mit einer gewissen
-Übung) ohne weiteres manipulierbar, dialogisierbar bzw. "wegdrückbar"
-sind, halte ich es für möglich, dass Teile meiner Wahrnehmung **eben
-doch "echt"**(?) sind und dass nachts im Schlaf (in den intimsten und
-verletzlichsten Bereichen der eigenen Wohnung,
-Stichworte: Schlafzimmer / Safe Space) mit viel Zeit sog.
+Übung) manipulierbar, dialogisierbar bzw. "wegdrückbar" sind, halte ich
+es für möglich, dass zumindest Teile meiner Wahrnehmung **eben doch
+"echt"**(?) sind und diese alternativen Realitäten von außen getriggert
+werden.  
+Die These dazu klingt abenteuerlich und geht in etwa so:  
+Nachts im Schlaf (in den intimsten und verletzlichsten Bereichen der
+eigenen Wohnung, Stichworte: Schlafzimmer / Safe Space) werden mit viel
+Zeit und äußerst sog.
 [NLP](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)s
-durchgeführt werden, deren Programm dann tagsüber in irgendeiner Weise
-fast zwingend abgearbeitet werden muss, so dass Symptome auftreten,
-die denen einer Schizophrenie sehr ähneln, mit dem feinen Unterschied,
-dass Empfindung und Handeln des entsprechenden Individuums in gewisser
-Weise von extern (in Grenzen) kontrollier-/lenkbar sind.  
+durchgeführt, deren "Programm" dann tagsüber in irgendeiner Weise (wenn
+man nicht weiß, woher Stimmen und "Ideen" stammen) fast zwingend
+abgearbeitet werden muss, so dass Symptome auftreten, die denen einer
+Schizophrenie sehr ähneln, mit dem feinen Unterschied, dass
+Empfindungen/Emotionenvund Handeln des entsprechenden Individuums von
+extern mindestens beeinflussbar sind.  
   
-Die Täter:innen scheinen sich auch mittels Hypnose-Techniken und
-Methoden der Manipulation, Zutritt zu fremden Wohnungen verschaffen zu
-können.  
+Die Täter:innen scheinen mglw. auch Nachbarn so beeinflussen zu können,
+dass zumindest temporär das Abhören benachbarter Wohnräume möglich zu
+werden wird.  
   
-Erschwerend käme (bei einigen Wohnungen) hinzu, dass die Raumakustik
-täuscht und nicht alles so zu sein scheint, wie man normal annehmen
-müsste. Geräusche/Stimmen, die bspw. aus Richtung einer Zimmerwand zu
-kommen scheinen, kommen tatsächlich nicht aus der dahinter liegenden
-Wohnung, sondern aus anderen, entfernter liegenden.  
+Erschwerend käme (bei einigen Wohnungen) hinzu, dass die  Wahrnehmung
+der Raumakustik manipuliert wird und nicht alles so zu sein scheint,
+wie man normal annehmen müsste. Geräusche/Stimmen, die bspw.
+aus Richtung einer Zimmerwand zu kommen scheinen, kommen tatsächlich
+nicht aus der dahinter liegenden Wohnung, was ich durch Fragen leicht
+herausfinden konnte.  
   
 Die Täter:innen scheinen zudem zahlreiche, auf dem ersten Blick in
 keinem Zusammenhang stehende, Ereignisse und Alltagsgeschehnisse
