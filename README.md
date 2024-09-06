@@ -6,7 +6,7 @@ Zusammenhang
 author:  &copy;&puncsp;2024 Alexander Puls
          &lt;github@0vv1.net&gt;  
 license: [Creative Commons: BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
-         &lt;https://0vv1.io/cc.by-nc-nd\&gt;  
+         &lt;https://0vv1.io/cc.by-nc-nd`>`  
 version: Fr., **6. Sep.** 2024 (commit #26)  
   
 ## Brief History
@@ -22,11 +22,11 @@ Nachdem bei mir im Mai 2021 eine Schizophrenie diagnostiziert wurde,
 scheint die PIA (die ambulante Psychiatrie) von dieser Diagnose langsam
 abzurücken und nimmt nun eher eine **schizoaffektiv**e/<wbr>bipolare
 Störung an, da viele sog. Negativ&shy;symptome einer Schizophrenie bei
-mir so nicht auftreten, was ich auch bestätige.  
+mir so nicht auftreten, was ich auch bestätigen kann.  
 Ich empfinde mich nicht als gedanklich zerfahren, depressiv, antriebslos
 oder irgendwie verzweifelt, sondern abgesehen von zahlreichen
 "Halluzinationen", oder vielmehr einer differierenden Erlebenswelt, als
-gedanklich sortiert und zu komplexeren Zusammen&shy;hängen fähig.  
+gedanklich sortiert und in der Lage, komplexere Zusammen&shy;hänge zu verstehen.  
 Mein Denken ist schlüssig, mein Sprechen klar, meine Stimmung dann gut,
 wenn ich nicht unter dem Einfluss von, von mir so wahrgenommenen,
 außerordentlich penetranten Manipulations&shy;versuchen stehe.  
@@ -67,7 +67,7 @@ Spektrum ab:
 * Androhung des Aufzeichnens und der Verbreitung intimster Momente
   (Selbst&shy;befrie&shy;digung, Toilettengang, Duschen et&puncsp;c.)
 * Macht&shy;demonstrationen bspw. durch das Abspielen von Szenen i.d.Z.
-* allgemeine Herab-/<wbr>Entwür&shy;digung/<wbr>Blos&shy;stellung
+* allgemeine Herab-/<wbr>Entwür&shy;digung & Blos&shy;stellung
 * allgemeiner Hass & Verachtung in Kombination mit dem Ausleben von
   Allmachts&shy;fantasien
 * persönliche Rache der Täter (bspw. für zuvor getätigte Beleidigungen)
@@ -79,12 +79,10 @@ Spektrum ab:
 
 Gemein ist den Themen, dass sie in ihrer Gesamt&shy;heit dazu geeignet
 sind, den Opfern nach und nach das Vertrauen in die eigene
-Wahr&shy;nehmung der Realität zu entziehen. Die NLPs beeinflussen m.M.n.
+Wahr&shy;nehmung zu entziehen. Die NLPs beeinflussen m.M.n.
 auch die optische Wahrnehmung, aber selbst akustische Wider&shy;sprüche
 scheint das Gehirn nach ein paar Jahren optisch ausgleichen zu wollen.  
-Ich kann wenig Aussagen zum Ziel der Täter:innen machen, außer dass ich
-sicher bestätigen kann, dass das Selbstbild erschüttert, mglw.
-(irgendwann) vollständig eliminiert wird.  
+Ich kann wenig Aussagen zum Ziel der Täter:innen machen, sehe aber, dass das Selbstbild lamgsam erodiert.  
 Eine NLP konnte durch ihre ausdauernde Konzen&shy;triertheit und
 Vielzahl an stimmlichen Protagonisten bisher wenigstens eine
 Deper&shy;sonali&shy;sation auslösen.  
@@ -110,7 +108,7 @@ ab).
 Problem: Es braucht (bei der Polizei) eben mehr als eine(-n) und die
 Aussage einer Katze/<wbr>Katers zählt leider nicht (s.u.).. 😉  
   
-### besonderes Problem
+### Besonderes Problem
 
 Einer der Täter hat wiederholt zur Auskunft gegeben, alle weiteren
 Zeugen vollständig "in seiner Hand zu haben". Mglw. besteht eine
@@ -178,14 +176,13 @@ sehr bekannte deutsche Band sei auf einem Konzert durch KI ersetzt
 worden, die knapp 50.000 Besucher seien im Sinne einer
 Massensuggestion/<wbr>-hypnose willenlose Zombies und würden durch
 entartete Songtexte der Band sowie diffuse Sound&shy;effekte weiter
-gehirn&shy;gewaschen).  
+gehirn&shy;gewaschen 🙄).  
 Ziel solcher vglw. spielerischen, teils komischen oder "verrückten" NLPs
 ist hierbei wohl das Unter&shy;graben von Glaub&shy;würdig&shy;keit und
 Reputations&shy;verlust im sozialen Umfeld.  
 Weitere Beispiele will ich unbedingt ausführlicher (schon auch ob ihres
 hohen Unter&shy;haltungs&shy;werts und ihrer Einzig&shy;artig&shy;keit)
-in einem eigenen Dokument unter
-**Neben&shy;schau&shy;plätze/Obfus&shy;kations&shy;bemühungen**
+in einem eigenen Dokument **Neben&shy;schau&shy;plätze/<wbr>Obfus&shy;kations&shy;bemühungen**
 ausführen.  
   
 Und ja: Mir ist vollkommen klar, dass solchen Behauptungen in keinster
@@ -227,7 +224,7 @@ Einer von zwei Katern (auf die ich in der Wohnung eines Freundes
 aufpasste) schien meine Wahrnehmung zu teilen und hörte die gleiche
 (von mir eingebildete) Stimme einer der Stalkerinnen, die mir in die
 fremde Wohnung gefolgt waren.  
-Die kleine war einigermaßen aufgebracht, weil sie diese leise
+Der kleine war einigermaßen aufgebracht, weil sie diese leise
 menschliche Stimme nicht zuordnen konnte. Als ich ihr sagte, ich würde
 mir diese nur einbilden, beruhigte sie sich langsam wieder..  
   
@@ -238,61 +235,49 @@ Selbstverständlich auch das:
 Sollte die gesamte beschriebene Erlebenswelt Folge einer
 schizophrenen/<wbr>-affektiven Persönlich&shy;keits&shy;störung sein,
 hatte ich, insbesondere in den letzten acht Monaten, Gelegenheit zu
-persönlicher Entwicklung sowie Selbstreflexion. Und wer gelernt hat,
-Realitäten in drei Sekunden zu welchseln, für den scheint mir (zumindest 
-momentan) doch viel möglich. Das wäre ja auch etwas.  
+persönlicher Entwicklung und Selbstreflexion. Und wer gelernt hat,
+Realitäten in drei Sekunden zu welchseln, der scheint mir (zumindest 
+momentan) eher gestärkt.  
   
 Trotz teils extremem (fast in Slapstick abgleitendem) Stresslevel,
 (im wahrsten Sinne) emotionalen Ausnahme&shy;situationen und in
-Todesangst wach verbrachten Nächten voller Verwirrung, Desinformation,
-einem Dutzend alternativer Realitäten und bis zu einem Dutzend
-verschiedener Stimmen, fühle ich mich nicht geschädigt. Oder
+Todesangst wach verbrachten Nächten voller Verwirrung, Desinformation, einer Vielzahl alternativer Realitäten und bis zu einem Dutzend gleichzeitiger Stimmen, fühle ich mich nicht geschädigt. Oder
 traumatisiert. Nichts von dem.  
   
 Es scheint einen Menschen zu geben, auf den ich mich verlassen kann und
-der den Humor nicht verliert, was immer "sie" auf einen werfen.  
+der den Humor nicht verliert, was immer "sie" auf ihn werfen.  
 
 Ob intern oder extern: Entweder Blaupausen äußerst skrupelloser/smarter,
 **sadistische**r **Soziopathen**, für die Loslassen keine Option ist und
-deren Lebensfreude sich aus dem Leid der Anderen zu speisen scheint oder
-Entitäten voller **Angst** in ihren eigenen **Zwänge**n und Realitäten.
-Oder ein einigermaßen wirres/krankes Spiel. Oder ich muss mir langsam
-Sorgen um meinen Geist machen: Auch ein Paranoiker sollte sich solche
-Storys nicht selbst spawnen können/dürfen.  
+deren Lebensfreude sich aus dem Leid der Anderen zu speisen scheint oder  
+Entitäten voller **Angst** in ihren eigenen **Zwänge**n und Realitäten.  
+Ein einigermaßen wirres/krankes Spiel?  
+Muss ich mich um meinen Geist sorgen: Auch ein Paranoiker sollte sich solche
+Storys nicht selbst spawnen können.  
   
 Ich weiß es bis heute nicht. Ich kann es, Stand 6. Sep. 2024, nicht
 entscheiden. Ich kann keine Vermutung darüber abgeben, ob alles
 Einbildung ist oder es sich zumindest partiell um eine mit anderen
 Menschen (wem auch immer) geteilte Realität handelt.  
   
-### Entlastendes zu angenommenen Tätern (wenn real)
+### Gedanken zu angenommenen Tätern/<wbr>Täterinnen (wenn real)
 
-SIe hätten das "Spiel" ohne Weiteres ganz eindeutig ausdehnen und mit
-entsprechender sadistischer "Energie" erheblich mehr Schaden anrichten
-können.  
-"Wir" haben viele, auch lange Dialoge geführt, die belasten können, die
-manchmal aber auch Erklärungen lieferten, in Momenten, in denen Täter
-eben auch Menschen sind. Ohne einige (späte) Offenlegungen wäre es mir
-vielleicht unmöglich gewesen, meine Wahrnehmung erklärbar zu machen.
-Gerade NLP scheint (zumindest bei mir?) außergewöhnlich gut zu 
-funktionieren, was mglw. auch an einer Schwächung dergestalt liegt, dass
-eine entspr. vorausgehende Diagnose (und damit leider auch Stigma) viel
-Raum schafft.
+Ihr Sadismus scheint Grenzen zu haben. Ich nahm zwischen&shy;zeitlich eine KI an, aber sie zeigten hin und wieder menschliche Züge. Auch wenn die vielen aufgezwungenen Dialoge immer Machtdemonstrationen sind, offenbarten sie ab und an Hinweise zum Vorgehen und Erklärungsansätze, die den Umgang mglw. leichter machten.  
+Dass diese NLP (zumindest bei mir) so einschlägt, hätte ich nie für möglich gehalten und ist (bei allem Drama) wirklich faszinierend. Was aber vielleicht auch an einer Schwächung dergestalt liegt, dass
+eine entspr. vorausgehende Diagnose (und damit leider auch Stigma) durch daa freiwillige In-Frage-Stellen der eigenen Wahrnehmung viel Raum schafft.  
   
-Zwischen Drama und Herabwürdigung fand ich durchaus Faszination dafür,
-zu was das gemeine Primatenhirn überredbar ist.  
+Sollte es einen oder mehrere Täter:innen geben, kann ich, trotz Verdacht, keine gesicherten Aussagen zu Personen, ihren Gemütszuständen, eigenen Zwängen et&puncsp;c. treffen.  
   
-Zu Personen, ihren Gemütszuständen, eigenen Zwängen et&puncsp;c. kann
-ich keine Aussagen treffen.  
+Einen Haupttäter hielte ich für eine solche Gefahr, dass ich der Meinung bin, er sollte (wenn er existiert) nicht in nornalen Mietshäusern wohnen.  
+Zwischenzeitlich hielte ich es für eine zu große Gedahr, ihn ob ausgefeilter Manipulations&shy;techniken überhauot mit anderen Menschen sprechen zu lassen.  
   
 ### Rest
 
-Stattdessen aber diese (aufgefrischte) Liebe für die Schöpfung! ❤  
-Die wir auf einem mit über 1.600 km/h (an den Polen weniger 😉) um sich
-selbst rotierenden Gesteinsbrocken gemeinsam erleben, der mit 30 km/s um
+Ich bemerke eine aufgefrischte Liebe für die Schöpfung! ❤  
+Die wir erleben, auf einem mit über 1.600 km/h (an den Polen weniger 😉) um sich
+selbst rotierenden Gesteinsbrocken, der mit 30 km/s um
 einen Feuerball rast, der mit knapp 230 km/s um ein gigantisches
-schwarzes Loch rast, das mit hunderten km/s durch das Nichts und eine
-Kälte von -273,15 °C rast.  
+schwarzes Loch rast, das mit hunderten km/s durch das -273,15 °C kalte Nichts rast.  
   
 Zu guter Letzt: Es wirkt wie inszeniert, aber überall wo ich bin,
 begegnen mir nahezu ausschließlich schöne, sympathische und
@@ -305,6 +290,6 @@ Wenn möglich, bitte melden! Sämtliche Kommunikation fand fast vier Jahre
 lang fast ausschließlich mit leise aus der Wand bzw. im Wind wistelnden
 Stimmen statt. Zuletzt mit leichtem Bending der Realität von Seiten
 mindestens einem der Täter.  
-Das Gehirn jedenfalls fängt an, augenscheinlich (Pun intended)
+Das Gehirn jedenfalls fängt an, augenscheinlich (pun intended)
 zugehörige Physis zu interpolieren. 😂
 
