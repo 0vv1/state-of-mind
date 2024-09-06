@@ -3,19 +3,20 @@
 Sammlung von Hinweisen auf Stalking und zahlreiche weitere Straftaten im
 Zusammenhang  
   
-author:  &copy;&ensp;2024 Alexander Puls
+author:  &copy;&puncsp;2024 Alexander Puls
          &lt;github@0vv1.net&gt;  
 license: [Creative Commons: BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
-         &lt;https://0vv1.io/cc.by-nc-nd&gt;  
-version: Fr., **6. Sep.** 2024  
+         &lt;https://0vv1.io/cc.by-nc-nd\&gt;  
+version: Fr., **6. Sep.** 2024 (commit #24)  
   
 ## Brief History
 
-Heute ist der 31. August 2024 und ich befinde mich seit ziemlich
-genau 1.338 Tagen aller Wahrschein&shy;lichkeit nach in einem
+Heute ist der 31. August 2024 und ich befinde mich seit ziemlich genau
+1.338 Tagen aller Wahrschein&shy;lichkeit nach in einem
 schizo&shy;affektiven Wahn&shy;system, da ich **seit Jan. 2021**
 (ausgehend von meiner damaligen Whg.) v.a. akustische Informationen
-wahrnehme, die angeblich so nicht der Realität entstammen.  
+wahrnehme, die nach allgemeiner Auffassung so nicht der Realität
+entstammen.  
   
 Nachdem bei mir im Mai 2021 eine Schizophrenie diagnostiziert wurde,
 scheint die PIA (die ambulante Psychiatrie) von dieser Diagnose abrücken
@@ -64,7 +65,7 @@ Spektrum ab:
 * Aufforderung zur (auch sexuellen) Belästigung von Nachbarn und anderen
   Bewohnern
 * Androhung des Aufzeichnens und der Verbreitung intimster Momente
-  (Selbst&shy;befrie&shy;digung, Toilettengang, Duschen et&ensp;c.)
+  (Selbst&shy;befrie&shy;digung, Toilettengang, Duschen et&puncsp;c.)
 * Machtdemonstrationen bspw. durch das Abspielen von Szenen i.d.Z.
 * allgemeine Herab-/<wbr>Entwür&shy;digung/<wbr>Blos&shy;stellung
 * allgemeiner Hass & Verachtung in Kombination mit dem Ausleben von
@@ -97,8 +98,10 @@ Die Täter:innen scheinen zudem zahlreiche, auf dem ersten Blick in
 keinem Zusammen&shy;hang stehende, Alltags&shy;geschehnisse und
 (Groß-)Veran&shy;staltungen zu nutzen, indem sie diese via NLPs
 für ihre Opfer entarten und so billige Verschwörungs&shy;theorien
-suggerieren. Ziel ist hierbei wohl das Unter&shy;graben von
-Glaub&shy;würdigkeit und Reputation im sozialen Umfeld.  
+suggerieren (vgl. bspw.
+[diesen Instagram-Post](https://www.instagram.com/p/C_M4mtqixnM/)).
+Ziel ist hierbei wohl das Unter&shy;graben von Glaub&shy;würdigkeit und
+Reputationsverlust im sozialen Umfeld.  
 Einige Beispiele will ich in einem eigenen Dokument unter
 **Nebenschauplätze/Obfuskationsbemühungen** ausführen.  
   
@@ -206,8 +209,8 @@ halbherzig, Glauben schenkt, hatte ich vor zwei Tagen ein spannendes
 Erlebnis:  
 Einer von zwei Katern (auf die ich in der Wohnung eines Freundes
 aufpasste) schien meine Wahrnehmung zu teilen und hörte die gleiche
-(von mir eingebildete) Stimme eines der Stalker/Stalkerinnen, die mir in
-die fremde Wohnung gefolgt waren.  
+(von mir eingebildete) Stimme einer der Stalkerinnen, die mir in die
+fremde Wohnung gefolgt waren.  
 Die kleine war einigermaßen aufgebracht, weil sie diese leise
 menschliche Stimme nicht zuordnen konnte. Als ich ihr sagte, ich würde
 mir diese nur einbilden, beruhigte sie sich langsam wieder..  
@@ -230,16 +233,21 @@ Nichts von dem.
   
 Aber viel Selbstreflexion scheint mir gelungen. Mit der Gelegenheit,
 sich selber kennenzulernen.  
-Und der Erkenntnis, dass es für mich, trotz ausgeprägter
-Halluzinationen bzw. eines sehr "anderen" Erlebens, einen Menschen gibt,
-auf den Verlass ist, der in allen entstandenen Situationen auf eine Idee
-kommt und der den Humor nicht verliert, was immer "sie" auf einen
-werfen.  
-Ob intern oder extern: Entweder Blaupausen äußerst skrupelloser/smarter,
-sadistischer Soziopathen, für die Loslassen keine Option ist und deren
-Lebensfreude sich aus dem Leid der Anderen zu speisen scheint oder  
-Entitäten voller Angst in ihren eigenen Zwängen und Realitäten oder  
-ein einigermaßen wirres bis krankes Spiel.  
+Und der Erkenntnis, dass es für mich, trotz ausgeprägter Halluzinationen
+bzw. eines sehr "anderen" Erlebens, einen Menschen gibt, auf den Verlass
+ist, der in allen entstandenen Situationen auf eine Idee kommt und der
+den Humor nicht verliert, was immer "sie" auf einen werfen.  
+Ob intern oder extern: Entweder
+
+* Blaupausen äußerst skrupelloser/smarter, **sadistische**r
+  **Soziopathen**, für die Loslassen keine Option ist und deren
+  Lebensfreude sich aus dem Leid der Anderen zu speisen scheint oder
+* Entitäten voller **Angst** in ihren eigenen **Zwänge**n und Realitäten
+  oder
+* ein einigermaßen wirres bis **krankes Spiel** oder
+* ich muss mir langsam Sorgen um meinen Geist machen: Auch ein
+  Paranoiker sollte sich solche Storys nicht selbst spawnen können
+
 Ich weiß es bis heute nicht. Ich kann es, Stand 6. Sep. 2024,
 nicht entscheiden. Ich kann keine Vermutung darüber abgeben, ob alles
 Einbildung ist oder es sich zumindest partiell um eine mit anderen
