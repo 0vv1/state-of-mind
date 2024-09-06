@@ -7,26 +7,26 @@ author:  &copy;&puncsp;2024 Alexander Puls
          &lt;github@0vv1.net&gt;  
 license: [Creative Commons: BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
          &lt;https://0vv1.io/cc.by-nc-nd\&gt;  
-version: Fr., **6. Sep.** 2024 (commit #24)  
+version: Fr., **6. Sep.** 2024 (commit #25)  
   
 ## Brief History
 
 Heute ist der 31. August 2024 und ich befinde mich seit ziemlich genau
 1.338 Tagen aller Wahrschein&shy;lichkeit nach in einem
-schizo&shy;affektiven Wahn&shy;system, da ich **seit Jan. 2021**
+schizo&shy;affektiven Wahn<wbr>(-system), da ich **seit Jan. 2021**
 (ausgehend von meiner damaligen Whg.) v.a. akustische Informationen
 wahrnehme, die nach allgemeiner Auffassung so nicht der Realität
 entstammen.  
   
 Nachdem bei mir im Mai 2021 eine Schizophrenie diagnostiziert wurde,
-scheint die PIA (die ambulante Psychiatrie) von dieser Diagnose abrücken
-zu wollen und nimmt nun eher eine **schizoaffektiv**e/<wbr>bipolare
+scheint die PIA (die ambulante Psychiatrie) von dieser Diagnose langsam
+abzurücken und nimmt nun eher eine **schizoaffektiv**e/<wbr>bipolare
 Störung an, da viele sog. Negativ&shy;symptome einer Schizophrenie bei
-mir nicht auftreten, was ich so auch bestätigen kann.  
+mir so nicht auftreten, was ich auch bestätige.  
 Ich empfinde mich nicht als gedanklich zerfahren, depressiv, antriebslos
 oder irgendwie verzweifelt, sondern abgesehen von zahlreichen
-"Halluzinationen", oder vielmehr einer differierenden Erlebenswelt,
-als gedanklich sortiert und zu komplexeren Zusammenhängen fähig.  
+"Halluzinationen", oder vielmehr einer differierenden Erlebenswelt, als
+gedanklich sortiert und zu komplexeren Zusammenhängen fähig.  
 Mein Denken ist schlüssig, mein Sprechen klar, meine Stimmung dann gut,
 wenn ich nicht unter dem Einfluss von, von mir so wahrgenommenen,
 außerordentlich penetranten Manipulationsversuchen stehe.  
@@ -47,7 +47,7 @@ Zeit und sehr ausführlich sog.
 durchgeführt, deren "Programme" dann tagsüber in irgendeiner Weise (wenn
 man nicht weiß, woher Stimmen und "Ideen" stammen) fast zwingend
 abgearbeitet werden müssen, so dass Symptome auftreten, die denen einer
-Schizophrenie sehr ähneln. Mit dem feinen Unterschied, dass
+Schizophrenie sehr ähneln. Mit dem Unterschied, dass
 Empfindungen/<wbr>Emotionen und Handeln des entsprechenden Individuums
 von extern mindestens beeinflussbar sind.  
   
@@ -78,38 +78,17 @@ Spektrum ab:
   Schwach&shy;stellen und Traumata
 
 Gemein ist den Themen, dass sie in ihrer Gesamt&shy;heit dazu geeignet
-sind, dass Selbstbild der Opfer zu erschüttern, wenn nicht vollständig
-zu elimieren.  
-Eine NLP konnte durch ihre ausdauernde Konzentration und Vielzahl an
+sind, den Opfern nach und nach das Vertrauen in die eigene
+Wahr&shy;nehmung der Realität zu entziehen.  
+Die NLPs beeinflussen m.M.n. sogar auch die optische Wahrnehmung, aber
+selbst akustische Widersprüche scheint das Gehirn nach ein paar Jahren
+optisch ausgleichen zu wollen.  
+Ich kann wenig Aussagen zum Ziel der Täter:innen machen, außer dass ich
+sicher bestätigen kann, dass das Selbstbild erschüttert, mglw.
+(irgendwann) vollständig eliminiert wird.  
+Eine NLP konnte durch ihre ausdauernde Konzentriertheit und Vielzahl an
 stimmlichen Protagonisten bisher wenigstens eine Depersonalisation
 auslösen.  
-  
-Die Täter:innen scheinen auch Nachbarn so beeinflussen zu können, dass
-diese ihnen Zutritt in die eigenen Wohnräume gewähren, was das Abhören
-und die akustische Manipulation aus nächster Nähe erst ermöglicht.  
-  
-Erschwerend käme (bei einigen Wohnungen) hinzu, dass die Wahrnehmung
-der Raumakustik manipuliert wird. Geräusche/<wbr>Stimmen, die bspw. aus
-Richtung einer Zimmerwand zu kommen scheinen, kommen tatsächlich nicht
-aus der dahinter liegenden Wohnung, was ich durch Befragen der dort
-lebenden Bewohner leicht herausfinden konnte.  
-  
-Die Täter:innen scheinen zudem zahlreiche, auf dem ersten Blick in
-keinem Zusammen&shy;hang stehende, Alltags&shy;geschehnisse und
-(Groß-)Veran&shy;staltungen zu nutzen, indem sie diese via NLPs
-für ihre Opfer entarten und so billige Verschwörungs&shy;theorien
-suggerieren (vgl. bspw.
-[diesen Instagram-Post](https://www.instagram.com/p/C_M4mtqixnM/)).
-Ziel ist hierbei wohl das Unter&shy;graben von Glaub&shy;würdigkeit und
-Reputationsverlust im sozialen Umfeld.  
-Einige Beispiele will ich in einem eigenen Dokument unter
-**Nebenschauplätze/Obfuskationsbemühungen** ausführen.  
-  
-## Unklarheiten
-
-Die Anzahl der Täter:innen bzw. passiv Beteiligten, sowie deren Motiv(?)
-bereiten mir am meisten Kopfzerbrechen.  
-*Kurz*: **Wer** hätte bei erheblichem Risiko und Aufwand **was** davon?  
   
 ## Befürchtung
 
@@ -125,10 +104,17 @@ Berlin-Tempelhof aus.
   
 Weitere Zeuginnen/<wbr>Zeugen können sich gern hier oder unter
 nlp@0vv1.net melden, um Welten besser aber sind natürlich Institute der
-Straf&shy;ver&shy;folgung oder Beratungs&shy;stellen (an die ich mich
-als nächstes wende, blitze ich ein weiteres Mal bei den Cops ab).  
+**Straf&shy;ver&shy;folgung** oder **Beratungs&shy;stellen** (an die ich
+mich als nächstes wenden werde, blitze ich ein weiteres Mal bei den Cops
+ab).  
 Problem: Es braucht (bei der Polizei) eben mehr als eine(-n) und die
 Aussage einer Katze/<wbr>Katers zählt leider nicht (s.u.).. 😉  
+  
+### besonderes Problem
+
+Einer der Täter hat wiederholt zur Auskunft gegeben, alle weiteren
+Zeugen vollständig "in seiner Hand zu haben". Mglw. besteht eine
+anhaltend hohe Belastung für eine größere Zahl an Menschen.
   
 ## Kleine Auswahl von Recordings
 
@@ -139,8 +125,9 @@ Eine Auswahl wird hier (in der Hoffnung darauf, dass irgendjemand&trade;
 eine im Hintergund liegende "Stimme" o.ä. bestätigen kann)
 hoch&shy;geladen.  
   
-Diese diffuse/<wbr>unter&shy;schwellige Beschallung des Wohnraums bildet
-jedoch nur die Spitze des Eisbergs und sorgt "nur" für Atmosphäre.  
+Diese diffuse/<wbr>unter&shy;schwellige Beschallung des Wohnraums sowie
+Dialogführung mit den Tätern bildet hier die Spitze des Eisbergs, sorgt
+aber letztendlich "nur" für Atmosphäre.  
   
 Weit gravierender, weil grausamer, ist das "Abarbeiten" der
 NLP-"Pro&shy;gramme", die einen gesamten (auch Arbeits-)Tag ausfüllen
@@ -154,14 +141,50 @@ dieses Repos **weiter**zugehen.
 Die Methoden der Täter:innen sind ausgesprochen perfide und spielen
 allesamt darauf ab, die Opfer in einen Zustand zu bringen, in dem sie
 ohne geringste eigene Glaubwürdigkeit und soziale Unterstützung, den
-Tätern vollkommen ausgeliefert sind, offenbar mit dem Ziel, die
-Wahrnehmung und Erlebenswelt der Opfer zu isolieren und ihr Selbstbild
-nachhaltig zu erschüttern.  
-Besonders beeindruckend ist hier die Zielstrebigkeit mindestens eines
-Täters, der in seinem Sadismus weit herausragt.  
-Erschwerend kommt hinzu, dass die Täter:innen durch das Abhören des
-Wohnraums außerordentlich gut über das Leben der Bewohner informiert
-sind, und diese Informationen auch ohne Skrupel nutzen.  
+Tätern vollkommen ausgeliefert sind.  
+  
+Besonders beeindruckend ist die Ziel&shy;strebig&shy;keit mindestens
+einer der Täter, der in seinem Sadismus und einer fast schon
+pathologischen Neigung zum Induzieren von Furcht/Panik und Zweifel
+weit herausragt.  
+Für immer erinnern werde ich das über Jahre fortdauernde, unfassbar
+geschickte Austarieren von Realität und schizophrenem Erleben,
+was die wohl zermürbenste Ohnmachtserfahrung meines Lebens bleiben wird.  
+Mit einigem Abstand folgt die außerordentlich gute Informationsbasis der
+Täter:innen bzgl. sämtlicher Lebensinhalte der Opfer, die auch ohne
+Skrupel genutzt wird.  
+  
+Die Täter:innen scheinen auch Nachbarn so beeinflussen zu können, dass
+diese ihnen Zutritt in deren private Wohnräume gewähren, was das Abhören
+und die akustische Manipulation aus nächster Nähe erst ermöglicht.  
+  
+Erschwerend scheint (bei einigen Wohnungen) hinzuzukommen, dass die
+Wahrnehmung der Raumakustik manipuliert wird: Geräusche/<wbr>Stimmen,
+die bspw. aus Richtung einer bestimmten Zimmerwand kommen, haben ihre
+Quelle tatsächlich nicht in der dahinter liegenden Wohnung, was ich
+beispielhaft durch Befragen dort lebender Mieter herausfinden konnte.  
+  
+Die Täter:innen scheinen zudem zahlreiche, auf den ersten Blick in
+keinerlei Zusammen&shy;hang stehende, Alltags&shy;geschehnisse und
+(Groß-)Veran&shy;staltungen zu nutzen, indem sie diese via NLPs
+für ihre Opfer entarten und so billige Verschwörungs&shy;theorien
+suggerieren (vgl. bspw.
+[diesen Instagram-Post](https://www.instagram.com/p/C_M4mtqixnM/), mit
+dem ich (ungewollt) meine felsenfeste Überzeugung dokumentiere, eine
+sehr bekannte deutsche Band sei auf einem Konzert durch KI ersetzt
+worden, die knapp 50.000 Besucher seien im Sinne einer
+Massensuggestion/<wbr>-hypnose willenlose Zombies und würden durch
+entartete Songtexte der Band sowie diffuse Soundeffekte weiter
+gehirngewaschen).  
+Ziel solcher vglw. spielerischen, teils komischen oder "verrückten" NLPs
+ist hierbei wohl das Unter&shy;graben von Glaub&shy;würdig&shy;keit und
+Reputations&shy;verlust im sozialen Umfeld.  
+Weitere Beispiele will ich unbedingt ausführlicher (schon auch ob ihres
+hohen Unterhaltungswerts und ihrer Einzigartigkeit) in einem eigenen
+Dokument unter **Nebenschauplätze/Obfuskationsbemühungen** ausführen.  
+  
+Und ja: Mir ist vollkommen klar, dass solchen Behauptungen in keinster
+Weise irgendeine Glaubwürdigkeit zu Teil wird. 😎  
   
 ### Auswahl eingesetzter Mittel
 
@@ -183,23 +206,11 @@ Eine besondere Befürchtung ist das gegenseitige Auspielen von Nachbarn
 durch das Aufnehmen und (manipulierte) Abspielen von Geräuschen oder
 Gesprächen.  
   
-Allen Ansätzen gemein ist, dass das Opfer (ertmal nur durch akustische
-Manipulation) keinerlei Vertrauen mehr in die eigene Wahrnehmung der
-Realität haben soll/darf. Diese Bemühungen scheinen sich auf lange Sicht
-aber auch auf die optische Wahrnehmung auszudehnen.  
-  
-In meinem Fall kommt hinzu, dass die Täter:innen mir in jetzt bereits
-vier Wohnungen "gefolgt" sind, was selbstverständlich vollkommen absurd
-klingt.  
-  
-Und ja: Mir ist vollkommen klar, dass solchen Behauptungen in keinster
-Weise irgendeine Glaubwürdigkeit zu Teil wird. 😎  
-  
 ## Eigenes Motiv
 
 Mit einer Schizophrenie-Diagnose ist es eigentlich unmöglich, sich gegen
 Taten zu wehren, deren Hauptzweck darin zu liegen scheint, die Symptome
-einer Schizophrenie zu erzeugen, nur eben dauerhaft von außen
+einer Schizophrenie zu erzeugen, nur dauerhaft von außen
 aufgefrischt/<wbr>getriggert und im Wirken durchaus bedingt steuerbar.  
   
 Nachdem ich vier Mal bei der Polizei vorstellig war, zwei Notrufe mehr
@@ -222,36 +233,32 @@ Selbstverständlich auch das:
 Sollte die gesamte beschriebene Erlebenswelt Folge einer
 schizophrenen/<wbr>-affektiven Persönlich&shy;keits&shy;störung sein,
 hatte ich, insbesondere in den letzten acht Monaten, Gelegenheit zu
-(mglw. erheblicher) persönlicher Entwicklung.  
+persönlicher Entwicklung sowie Selbstreflexion. Und wer gelernt hat,
+Realitäten in drei Sekunden zu welchseln, für den scheint mir (zumindest 
+momentan) doch viel möglich. Das wäre ja auch etwas.  
   
 Trotz teils extremem (fast in Slapstick abgleitendem) Stresslevel,
 (im wahrsten Sinne) emotionalen Ausnahmesituationen und in Todesangst
-wach verbrachten Nächten voller Verwirrung und Desinformation, einem
+wach verbrachten Nächten voller Verwirrung, Desinformation, einem
 Dutzend alternativer Realitäten und bis zu einem Dutzend verschiedener
 Stimmen, fühle ich mich nicht geschädigt. Oder traumatisiert.
 Nichts von dem.  
   
-Aber viel Selbstreflexion scheint mir gelungen. Mit der Gelegenheit,
-sich selber kennenzulernen.  
-Und der Erkenntnis, dass es für mich, trotz ausgeprägter Halluzinationen
-bzw. eines sehr "anderen" Erlebens, einen Menschen gibt, auf den Verlass
-ist, der in allen entstandenen Situationen auf eine Idee kommt und der
-den Humor nicht verliert, was immer "sie" auf einen werfen.  
-Ob intern oder extern: Entweder
+Es scheint einen Menschen zu geben, auf den ich mich verlassen kann und
+der den Humor nicht verliert, was immer "sie" auf einen werfen.  
 
-* Blaupausen äußerst skrupelloser/smarter, **sadistische**r
-  **Soziopathen**, für die Loslassen keine Option ist und deren
-  Lebensfreude sich aus dem Leid der Anderen zu speisen scheint oder
-* Entitäten voller **Angst** in ihren eigenen **Zwänge**n und Realitäten
-  oder
-* ein einigermaßen wirres bis **krankes Spiel** oder
-* ich muss mir langsam Sorgen um meinen Geist machen: Auch ein
-  Paranoiker sollte sich solche Storys nicht selbst spawnen können
-
-Ich weiß es bis heute nicht. Ich kann es, Stand 6. Sep. 2024,
-nicht entscheiden. Ich kann keine Vermutung darüber abgeben, ob alles
+Ob intern oder extern: Entweder Blaupausen äußerst skrupelloser/smarter,
+**sadistische**rv**Soziopathen**, für die Loslassen keine Option ist und
+deren Lebensfreude sich aus dem Leid der Anderen zu speisen scheint oder
+Entitäten voller **Angst** in ihren eigenen **Zwänge**n und Realitäten.
+Oder ein einigermaßen wirres/krankes Spiel. Oder ich muss mir langsam
+Sorgen um meinen Geist machen: Auch ein Paranoiker sollte sich solche
+Storys nicht selbst spawnen können/dürfen.  
+  
+Ich weiß es bis heute nicht. Ich kann es, Stand 6. Sep. 2024, nicht
+entscheiden. Ich kann keine Vermutung darüber abgeben, ob alles
 Einbildung ist oder es sich zumindest partiell um eine mit anderen
-Menschen (wem auch immer) geteilte Realitåt handelt.  
+Menschen (wem auch immer) geteilte Realität handelt.  
   
 Stattdessen aber diese (aufgefrischte) Liebe für die Schöpfung! ❤  
 Die wir auf einem mit über 1.600 km/h (an den Polen weniger 😉) um sich
@@ -259,9 +266,6 @@ selbst rotierenden Gesteinsbrocken gemeinsam erleben, der mit 30 km/s um
 einen Feuerball rast, der mit knapp 230 km/s um ein gigantisches
 schwarzes Loch rast, das mit hunderten km/s durch das Nichts und eine
 Kälte von -273,15 °C rast.  
-  
-Mglw. Eigenlob: Wer gelernt hat, Realitäten in drei Sekunden zu
-welchseln, für den scheint mir (zumindest momentan) doch viel möglich.  
   
 Zu guter Letzt: Es wirkt wie inszeniert, aber überall wo ich bin,
 begegnen mir nahezu ausschließlich schöne, sympathische und
@@ -273,6 +277,7 @@ So als machte man das erste Mal die Augen auf.
 Wenn möglich, bitte melden! Sämtliche Kommunikation fand fast vier Jahre
 lang fast ausschließlich mit leise aus der Wand bzw. im Wind wistelnden
 Stimmen statt. Zuletzt mit leichtem Bending der Realität von Seiten
-zumindest eines Täters.  
-Das Gehirn jedenfalls fängt an, zugehörige Physis zu interpolieren. 😂
+mindestens einem der Täter.  
+Das Gehirn jedenfalls fängt an, augenscheinlich (Pun intended)
+zugehörige Physis zu interpolieren. 😂
 
