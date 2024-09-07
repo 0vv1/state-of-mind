@@ -6,8 +6,8 @@ Straf&shy;taten im Zusammen&shy;hang
 author:  &copy;&puncsp;2024 Alexander Puls
          &lt;github@0vv1.net&gt;  
 license: [Creative Commons: BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
-         &lt;https://0vv1.io/cc.by-nc-nd>  
-version: Fr., **7. Sep.** 2024 (commit #29)  
+         &lt;[https://0vv1.io/cc.by-nc-nd](https://0vv1.io/cc.by-nc-nd)&gt;  
+version: Fr., **7. Sep.** 2024 (commit #30)  
   
 ## Brief History
 
@@ -347,7 +347,7 @@ der eigenen Wahr&shy;nehmung viel Raum schafft.
 Sollte es einen oder mehrere Täter:innen geben, kann ich, trotz
 Verdacht, keine gesicherten Aussagen zu Personen, ihren
 Gemüts&shy;zuständen, eigenen Zwängen et&puncsp;c. treffen, sondern nur
-[Vermutungen](profil-haupttaeter.md).  
+[Vermutungen](profil_haupttaeter.md).  
 **Wichtig**: Sollte es sich tat&shy;säch&shy;lich um einen Menschen mit
 einer disso&shy;zia&shy;tiven Persön&shy;lich&shy;keits&shy;störung
 handeln, tut es mir über alle Maßen für die Pesön&shy;lich&shy;keiten

@@ -3,8 +3,8 @@
 author:  &copy;&puncsp;2024 Alexander Puls
          &lt;github@0vv1.net&gt;  
 license: [Creative Commons: BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
-         &lt;https://0vv1.io/cc.by-nc-nd>  
-version: Fr., **7. Sep.** 2024 (commit #1)  
+         &lt;[https://0vv1.io/cc.by-nc-nd](https://0vv1.io/cc.by-nc-nd)&gt;  
+version: Fr., **7. Sep.** 2024 (commit #2)  
   
 ## (Vor-)Bedingungen
 
@@ -73,9 +73,8 @@ version: Fr., **7. Sep.** 2024 (commit #1)
   gleichzeitig
 * er hat eine "beste Freundin", die ihm "fast" nie von der Seite weicht
   und geradezu kadaver&shy;gehorsam seinen Anwei&shy;sungen folgt
-  * sie hört auf den Vor&shy;namen Julia, früher mglw. auch Lydia,
-    der Nach&shy;name soll mglw. Hoffmann lauten (kann sich aber mglw.
-	auch von den Namen früherer Haus&shy;bewohner ab&shy;lei&shy;ten)
+  * ihr Vor- wie Nachname leitet sich mglw. aus den Namen früherer
+    Haus&shy;bewohner ab
   * sie ist sonntags oft bei ihren Eltern (was aber der Obfus&shy;kation
     dienen kann)
 * er scheint mir ein exzel&shy;lenter Stimmen&shy;imitator zu sein,
@@ -99,11 +98,13 @@ version: Fr., **7. Sep.** 2024 (commit #1)
 * es hält unter&shy;schied&shy;liche Versionen einzelner
   Persön&shy;lich&shy;keiten vor (eine gibt es bspw. in bis jetzt vier
   Varianten)
-* sollte die Julia-Entität echt sein (und nicht soo gehorsam sein, wie
-  es manchmal klingt), hält er mindestens eine "Ersatz"-Julia vor
+* sollte die Entität seiner besten Freundin echt sein (und nicht soo
+  gehorsam sein, wie es manchmal klingt), hält er wohl mindestens eine
+  "Ersatz"-Variante vor
 * ich bilde mir ein, durch geschickte Provo&shy;kation mit
   Bezug&shy;nahme auf die Eltern in mehreren Fällen den Wechsel der
-  Persön&shy;lich&shy;keit akus&shy;tisch wahr&shy;genommen zu haben
+  Persön&shy;lich&shy;keit erreicht und akus&shy;tisch wahr&shy;genommen
+  zu haben
   * oder es war sehr gut darge&shy;stellt/<wbr>geschau&shy;spielert
 
 **Wichtig**: Sämt&shy;liche (leider rein) akus&shy;tische
@@ -112,6 +113,14 @@ geschickte Täuschung ledig&shy;lich der Obfus&shy;kation dienen.
 Beson&shy;ders perfide wäre die Ablen&shy;kung auf tat&shy;säch&shy;lich
 real exis&shy;tierende Menschen, da mir persön&shy;lich einige Namen
 auffällig zu oft fallen (was bei Straftaten dumm wäre).  
+
+## Imaginierte Schein-/Alternativ-Realitäten
+
+**#TODO**  
+  
+## Selbst-)Suggestion
+
+**#TODO**`
   
 **TBC..**
 
