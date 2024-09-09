@@ -1,22 +1,48 @@
 ```
-file:    1-man-nlp-crew/README.md
-brief:   Description & Collection of Hints regarding an Act of Stalking
-         together with the Execution of NLP from 2021 until today
+file:    stalking-crews/README.md
+brief:   Description & Collection of Hints regarding multiple Acts of
+         Stalking, reaching back until the beginning of the year 2021
 author:  © 2021-2024 Alexander Puls <github@0vv1.net>
-license: Creative Commons: BY NC ND 4.0 Int.
+license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
+         nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc.by-nc-nd>
-version: So., 8. Sep. 2024 (commit #32)
+version: Mo., 9. Sep. 2024 (commit #34), 1347 days into the flight
 ```
 
-# "Man hört doch gar nichts!" oder: Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king (§ 238 StGB) und zahl&shy;reiche weitere poten&shy;tielle Straf&shy;taten i.d.Z. (Abhören der Woh&shy;nung, akus&shy;tische Beläs&shy;tigung, (auch sexu&shy;elle) Nöti&shy;gung, Täu&shy;schung, Anstif&shy;tung, üble Nach&shy;rede, Verleum&shy;dung, Nach&shy;stel&shy;lung, Bedro&shy;hung) sowie eine Buch&shy;empfeh&shy;lung
+# Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king <nobr>(§&#8201;238</nobr> StGB) u.&#8201;&auml;. Straf&shy;ta&shy;ten un&shy;ter Aus&shy;nu&shy;tzung ei&shy;nes an&shy;ge&shy;nom&shy;me&shy;nen schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Zu&shy;stands (so&shy;wie eine Buch&shy;em&shy;pfeh&shy;lung)
+
+**Weitere mö&shy;gliche Straf&shy;ta&shy;ten sind das Ab&shy;hö&shy;ren
+der Woh&shy;nung, akus&shy;ti&shy;sche Be&shy;läs&shy;ti&shy;gung, (auch
+sexu&shy;elle) Nöti&shy;gung, Täu&shy;schung, An&shy;stif&shy;tung, üble
+Nach&shy;re&shy;de, Verleum&shy;dung, Nach&shy;stel&shy;lung,
+Bedro&shy;hung, insb. aber die (ver&shy;su&shy;chte)
+Ver&shy;lei&shy;tung zur Selbt&shy;tö&shy;tung
+<nobr>(§&#8201;78&#8202;(1)&nbsp;StGB</nobr>
+<nobr>i.&#8201;Z.&#8201;m.</nobr>
+<nobr>§&#8201;23&#8202;(1)&nbsp;StGB)</nobr> in mehre&shy;ren
+Fäl&shy;len.**  
+</br>
+  
+> **TL:DR**: Ein Schizo behaup&shy;tet, ex&shy;ter&shy;ne
+> Inte&shy;res&shy;sen&shy;grup&shy;pen würden seine Not&shy;lage
+> aus&shy;nu&shy;tzen, um schizo&shy;phre&shy;nie-ähn&shy;liche
+> Symp&shy;tome aus&shy;zu&shy;lö&shy;sen, um Dinge&trade;
+> um&shy;zu&shy;setzen, die er nicht be&shy;nen&shy;nen kann.
+> :smirk:
+
+> **Anm.**: Mangelnde Krank&shy;heits&shy;ein&shy;sicht ist
+> übri&shy;gens ein sehr häu&shy;fi&shy;ges Problem bei Patien&shy;ten
+> mit Diag&shy;no&shy;sen aus dem schi&shy;zo&shy;phre&shy;nen
+> For&shy;men&shy;kreis.
 
 Mir ist völlig klar, dass [Neuro-Lingu&shy;is&shy;tisches
 Pro&shy;gram&shy;mieren](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren),
 soweit ich weiß, jeden Nach&shy;weis einer Wirk&shy;sam&shy;keit
-schuldig geblieben ist und den genannten Straf&shy;taten einzeln im
-Allg. kein hohes Strafmaß zuteil wird, ich eventuelle Täter nicht kenne
-und so gut wie nichts beweisen kann. Und doch würde ich gern (zunächst
-für mich) beschreiben, welches Ausmaß sie nehmen können.  
+schuldig geblie&shy;ben ist und den meisten genan&shy;nten
+Straf&shy;taten einzeln im Allg. kein hohes Straf&shy;maß zuteil wird,
+ich even&shy;tu&shy;elle Täter nicht kenne und so gut wie nichts
+bewei&shy;sen kann. Und doch würde ich gern (zunächst für mich)
+be&shy;schrei&shy;ben, welches Ausmaß sie nehmen können.  
 Für den Fall, dass irgend&shy;wann einmal ein anderer Mensch ähnliche
 Erfah&shy;rungen machen muss, bleibt das hier online, in der
 Hoff&shy;nung, dass einem ange&shy;nom&shy;menen Täter, Folge&shy;taten
@@ -24,36 +50,39 @@ erschwert werden.
   
 ## Brief History
 
-Heute ist der 31. August 2024 und ich befinde mich seit ziemlich genau
-1.338 Tagen aller Wahr&shy;schein&shy;lich&shy;keit nach in einem
+Heute ist der 31. August 2024 und ich befinde mich seit ziem&shy;lich
+genau 1.338 Tagen aller Wahr&shy;schein&shy;lich&shy;keit nach in einem
 schizo&shy;affek&shy;tiven Wahn<wbr>(-system), da ich **seit Jan. 2021**
-(ausgehend von meiner damaligen Whg.) v.a. akustische Infor&shy;mationen
-wahrnehme, die nach allge&shy;meiner Auf&shy;fassung so nicht der
-Realität entstammen.  
+(aus&shy;ge&shy;hend von meiner dama&shy;ligen Whg.) v.a.
+akus&shy;tische Infor&shy;ma&shy;ti&shy;onen wahr&shy;nehme, die nach
+allge&shy;meiner Auf&shy;fas&shy;sung keiner gemein&shy;samen
+Real&shy;ität ent&shy;stam&shy;men.  
   
-Nachdem bei mir im Mai 2021 eine Schizo&shy;phrenie diagnos&shy;tiziert
-wurde, scheint die PIA (die ambulante Psychiatrie) von dieser Diagnose
-langsam abzu&shy;rücken und nimmt nun eher eine
-**schizo&shy;affektiv**e/<wbr>bipolare Störung an, da viele sog.
-Negativ&shy;symptome einer Schizo&shy;phrenie bei mir so nicht
+Nachdem bei mir im Mai 2021 zunächst eine Schizo&shy;phre&shy;nie
+diagnos&shy;ti&shy;ziert wurde, scheint die [behan&shy;delnde ambu&shy;lante
+Psychia&shy;trie](https://www.vivantes.de/humboldt-klinikum/ambulatorium/pia-allgemein)
+(eine der PIAs des Hum&shy;boldt-Klini&shy;kums) davon lang&shy;sam
+abzu&shy;rücken und nimmt nun eher eine
+**schizo&shy;affektiv**e/<wbr>bipo&shy;lare Störung an, da viele sog.
+Negativ&shy;symp&shy;tome einer Schizo&shy;phrenie bei mir so nicht
 auf&shy;tre&shy;ten, was ich auch bestä&shy;tigen kann.  
-Ich empfinde mich nicht als gedank&shy;lich zerfahren, depressiv,
-antriebslos oder irgendwie verzweifelt, sondern abgesehen von
-"Hallu&shy;zina&shy;tionen", oder vielmehr einer
-diffe&shy;rieren&shy;den Erle&shy;bens&shy;welt, als gedank&shy;lich
-sortiert und in der Lage, auch kom&shy;plexeren Zusammen&shy;hängen
-folgen zu können.  
-Mein Denken erscheint mir schlüssig, mein Sprechen klar, meine Stimmung
-dann als gut, wenn ich nicht unter dem Einfluss von, von mir so
-wahrge&shy;nommenen, außer&shy;ordent&shy;lich pene&shy;tranten
-Mani&shy;pula&shy;tions&shy;ver&shy;suchen stehe.  
+Ich empfinde mich nicht als gedank&shy;lich zer&shy;fahren, depressiv,
+antriebs&shy;los oder irgend&shy;wie verzwei&shy;felt, sondern abgesehen
+von "Hallu&shy;zina&shy;tionen", oder viel&shy;mehr einer
+diffe&shy;rieren&shy;den (nicht-norma&shy;tiven) Erle&shy;bens&shy;welt,
+als gedank&shy;lich sortiert und in der Lage, auch kom&shy;plexeren
+Zusam&shy;men&shy;hängen folgen zu können. Mein Denken erscheint mir
+schlüssig, mein Sprechen klar, meine Stimmung dann als gut, wenn ich
+nicht unter dem Ein&shy;fluss von, von mir so
+wahr&shy;ge&shy;nom&shy;menen, außer&shy;ordent&shy;lich
+pene&shy;tran&shy;ten Mani&shy;pula&shy;tions&shy;ver&shy;suchen stehe.  
   
 ## (Vor-)Bedingungen
 
-* bei mir ist vor fast **vier Jahre**n eine
-  **schizo**&shy;affek&shy;tive Störung diag&shy;nos&shy;tiziert worden
-  (kurz: ich höre Stimmen, die allem Anschein nach keiner geteilten
-  Reali&shy;tät ent&shy;stammen)
+* mir wurde eine fast **vier Jahre** e&shy;ste&shy;hen&shy;de
+  **schizo**&shy;affek&shy;tive Störung diag&shy;nos&shy;tiziert
+  (kurz: ich höre Stim&shy;men, die allem An&shy;schein nach keiner
+  ge&shy;teil&shy;ten Reali&shy;tät ent&shy;stam&shy;men)
 * **Nichts von dem, was ich hier schreibe, muss irgend&shy;einen
   Reali&shy;täts&shy;bezug haben!**
 * wenn ich von einem "**Täter**" schreibe, muss das nicht
@@ -250,8 +279,9 @@ mglw. weiterer Aufgänge (35A ff.?) in Berlin-Tempel&shy;hof aus.
   
 Weitere Zeu&shy;ginnen/<wbr>Zeugen oder anders
 betrof&shy;fene/<wbr>belas&shy;tete Menschen können sich gern direkt
-hier (oder unter nlp@0vv1.net melden, selbst wenn Dinge längst
-vergessen sind oder von wenig Relevanz. Um Welten **besser** aber sind
+[hier](https://github.com/0vv1/1-psycho-nlp-crew/pulls) (oder unter
+nlp@0vv1.net melden, selbst wenn Dinge längst vergessen sind oder von
+wenig Relevanz. Um Welten **besser** aber sind
 selbst&shy;ver&shy;ständ&shy;lich Insti&shy;tute der
 **Straf&shy;ver&shy;folgung** oder **Beratungs&shy;stellen** (an die ich
 mich als nächstes wenden möchte, sollte ich ein weiteres Mal bei den
@@ -263,14 +293,16 @@ Cops abblitzen).
   
 Mglw. Täuschung, aber der Täter hat wieder&shy;holt zur Auskunft
 gegeben, alle wei&shy;te&shy;ren Zeugen voll&shy;ständig "in seiner Hand
-zu haben", heißt: Es bestünde eine anhal&shy;tend hohe Belastung für
-weitere Menschen.  
-**Einschränkung**: Ob diese auch real existieren, sollte meine eigene
-Wahrnehmung real sein, kann ich nicht sagen
-(2 Metaebenen: schizoaffektiver Wahn meinerseits → mglw. imaginierte
-[Welt](#) des (Haupt-)Täters).  
+zu haben", heißt: Es bestünde eine anhal&shy;tend hohe Belas&shy;tung
+für weitere Menschen.  
+**Einschränkung**: Ob diese auch real exis&shy;tieren, könnte ich,
+selbst bei keinerlei Zweifel an meiner eigenen Wahr&shy;nehmung  nicht
+sagen.  
+(2 Meta&shy;ebe&shy;nen: schizo&shy;affek&shy;tiver Wahn
+meiner&shy;seits → mglw. imagi&shy;nierte [Welt](#)
+des (Haupt-)<wbr>Täters).  
   
-### Hoffnung (wenn real)
+### Hoffnung (wenn überhaupt real)
 
 Beruhigend wäre die Tatsache, dass ich der einzige Betrof&shy;fene bin
 und sowohl weitere Täter:innen als auch Opfer in "Wahr&shy;heit" nur ein
@@ -574,7 +606,7 @@ schizo&shy;phrenen/<wbr>-affektiven
 Persön&shy;lich&shy;keits&shy;störung sein, hatte ich, insbesondere in
 den letzten acht Monaten, Gelegen&shy;heit zu persön&shy;licher
 Ent&shy;wick&shy;lung und Selbst&shy;reflexion. Und wer gelernt hat,
-Reali&shy;täten in drei Sekunden zu welchseln, der scheint mir
+Reali&shy;täten in drei Sekun&shy;den zu wechseln, der scheint mir
 (zumindest momentan) eher gestärkt.  
   
 Trotz teils extremem (fast in Slap&shy;stick abglei&shy;tendem)
@@ -583,7 +615,7 @@ Ausnahme&shy;situa&shy;tionen und in Todes&shy;angst wach
 verbrach&shy;ten Nächten voller Verwirrung, Desinfor&shy;mation, einer
 Vielzahl alternativer Reali&shy;täten und bis zu einem Dutzend
 gleich&shy;zeitiger Stimmen, fühle ich mich nicht geschädigt. Oder
-traumatisiert. Nichts von dem:  
+trauma&shy;tisiert. Nichts von dem:  
 
 1. habe ich eine unver&shy;gleich&shy;liche Erfah&shy;rung gemacht,
    deren Ein&shy;fluss/<wbr>Folgen ich noch über&shy;haupt nicht
@@ -631,33 +663,36 @@ Menschen geteilte Realität handelt.
 Aber ich bemerke eine aufge&shy;frischte Liebe für die Schöpfung! ❤️  
   
 Die wir erleben, auf einem mit über 1.600 km/h (an den Polen weniger 😉)
-um sich selbst rotierenden Gesteinsbrocken, der mit 30 km/s um einen
-Feuerball rast, der mit knapp 230 km/s um ein gigantisches schwarzes
-Loch rast, das mit hunderten km/s durch das -273,15 °C kalte Nichts
-rast.  
+um sich selbst rotierenden Gesteins&shy;brocken, der mit 30 km/s um
+einen Feuer&shy;ball rast, der mit knapp 230 km/s um ein gigantisches
+schwarzes Loch rast, das mit hun&shy;der&shy;ten km/s durch das
+-273,15 °C kalte Nichts rast.  
   
 Es wirkt wie insze&shy;niert, aber über&shy;all wo ich bin, begegnen mir
-nahezu aus&shy;schließ&shy;lich schöne, sympathische und
-lebens&shy;bejahende Menschen. So als machte man das erste Mal die Augen
-auf..  
+nahezu aus&shy;schließ&shy;lich schöne, sympa&shy;thische und
+lebens&shy;beja&shy;hende Menschen. So als machte man das erste Mal die
+Augen auf..  
   
 **Was**,/wer zur Hölle **war/ist das?**!  
   
 Wenn möglich, bitte melden! Sämt&shy;liche Kommu&shy;nikation fand fast
 vier Jahre lang aus&shy;schließ&shy;lich mit leise aus der Wand bzw. im
-Wind wistelnden Stimmen statt. Zuletzt mit leichtem Bending der
-Reali&shy;tät von Seiten des Täters.  
-Das Gehirn jeden&shy;falls fängt an, augen&shy;schein&shy;lich (pun
-intended) zuge&shy;hörige Physis zu inter&shy;polieren. 😂  
+Wind wisteln&shy;den Stimmen statt. Zuletzt mit leichtem Bending der
+Reali&shy;tät von Seiten des Täters. Das Gehirn jeden&shy;falls fängt
+an, augen&shy;schein&shy;lich (pun intended) zuge&shy;hörige Physis zu
+inter&shy;polieren. 😂  
   
 > Wenn es wirklich einen Täter gibt, dann hast Du das hier bis zum
 > bitteren Ende gelesen (und Du weißt was jetzt kommt):  
 >  
-> Ich werde mein Bestes tun, entgegen meiner Überzeugung, ein Grab mit
-> Grabstein zu beschaffen. Auf diesem Stein wird der Satz
-> "**Es ist noch nichts passiert.**" stehen.  
-> Ich erwarte, und das ist hoffentlich nicht nur für mich
-> Ehren&shy;sache, dass etwas passiert! Deutlich. Und bis zur
+> Ich werde mein Bestes tun, ent&shy;gegen meiner Über&shy;zeugung,
+> ein Grab mit Grab&shy;stein zu beschaf&shy;fen. Auf diesem Stein wird
+> der Satz  
+>  
+> "**Es ist noch nichts passiert.**"  
+>  
+> stehen. Ich erwarte, und das ist hof&shy;fent&shy;lich nicht nur für
+> mich Ehren&shy;sache, dass etwas passiert! Deut&shy;lich. Und bis zur
 > Fried&shy;hofs&shy;pforte sicht&shy;bar. Gern mit ausge&shy;dehnten
 > Spreng&shy;arbeiten. Auch ich habe ein Ego..  
   
