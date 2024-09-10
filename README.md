@@ -34,6 +34,22 @@ Ver&shy;lei&shy;tung zur Selbt&shy;tö&shy;tung
 > bei Psy&shy;cho&shy;sen des schi&shy;zo&shy;phre&shy;nen
 > For&shy;men&shy;krei&shy;ses.
 
+## 1st Things first
+
+Hier geht es grob um das The&shy;ma
+**schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ve Erle&shy;bens&shy;wel&shy;ten
+vs.sog. (gemeinsam wahrnehmbare) Reali&shy;tät**.  
+  
+Heute ist der **10. Sep.** und im mglw. von mir komplett
+ima&shy;gi&shy;nier&shy;ten Teil meiner Erle&shy;bens&shy;welt gab es
+einen (grob an eine rea&shy;le Per&shy;son an&shy;ge&shy;lehn&shy;ten)
+Men&shy;schen, der eigen&shy;tüm&shy;lich&shy;er&shy;wei&shy;se und aus
+was für Grün&shy;den auch immer, einen eini&shy;ger&shy;maßen großen
+Impact auf mein Erle&shy;ben hatte und heute Geburts&shy;tag hat. Also:  
+  
+**Herz&shy;lich&shy;en Glück&shy;wunsch! 🙏 Alles erdenk&shy;lich Gute
+und Glück die&shy;ser Welt! 🍀**  
+  
 ## (Vor-)Bedin&shy;gun&shy;gen & Grund&shy;an&shy;nah&shy;men
 
 Trotz diag&shy;nos&shy;di&shy;zier&shy;ter Psy&shy;cho&shy;se aus dem
@@ -366,7 +382,7 @@ Züge an.
 	  "Felix" in drei Kon&shy;tex&shy;ten ver&shy;tre&shy;ten:  
 	  **zunächst** jagt er als Mit&shy;glied einer
 	  femi&shy;nis&shy;ti&shy;sch&shy;en Grup&shy;pe Män&shy;ner, um
-	  sich an die&shy;sen zu "rächen"  
+	  sich an die&shy;sen zu "rächen",  
 	  **dann** taucht seine Stim&shy;me als sadis&shy;ti&shy;sch&shy;er
 	  schwu&shy;ler Mann, auf der Suche nach poten&shy;tiel&shy;len
 	  Ver&shy;ge&shy;wal&shy;ti&shy;gungs&shy;op&shy;fern wie&shy;der
@@ -438,6 +454,11 @@ Eine NLP konnte auf Grund ihrer Aus&shy;führ&shy;lich&shy;keit und
 Prota&shy;gon&shy;is&shy;tin&shy;nen (und eini&shy;ger weni&shy;ger
 schwu&shy;ler Män&shy;ner :joy:) bis&shy;her wenig&shy;stens eine
 Deper&shy;sonali&shy;sa&shy;tion aus&shy;lö&shy;sen.  
+  
+Zwei der NLPs nah&shy;men mei&shy;nen mög&shy;lich&shy;en Sui&shy;zid
+min&shy;des&shy;tens bil&shy;li&shy;gend in Kauf, eine ent&shy;hielt
+m.&#8239;M.&#8239;n. einen Versuch, der Ein&shy;rede zur
+Selbst&shy;tö&shy;tung.  
   
 ## Mut&shy;maß&shy;lich&shy;es Ziel an&shy;ge&shy;nom&shy;me&shy;ner Täter
 
@@ -674,8 +695,8 @@ Hier (bisher nur) der Ver&shy;such, ein Pro&shy;fil eines
     Seite weicht und gera&shy;de&shy;zu
     kada&shy;ver&shy;ge&shy;hor&shy;sam sei&shy;nen
     An&shy;wei&shy;sun&shy;gen folgt
-    * ihr Vor&shy;na&shy;me *Julia* lei&shy;tet sich mglw. (wie wohl auch
-      ihr Nach&shy;na&shy;me aus den Namen frü&shy;he&shy;rer
+    * ihr Vor&shy;na&shy;me *Julia* lei&shy;tet sich mglw. (wie wohl
+	  auch ihr Nach&shy;na&shy;me aus den Namen frü&shy;he&shy;rer
       Haus&shy;be&shy;woh&shy;ner ab
 	  > [NOTE]
 	  > Namens&shy;nen&shy;nung, da ich ziem&shy;lich sich&shy;er bin,
@@ -691,14 +712,15 @@ Hier (bisher nur) der Ver&shy;such, ein Pro&shy;fil eines
   	ge&shy;hört zu haben, des&shy;sen Ur&shy;sprung ich mir nie
   	er&shy;klä&shy;ren konnte
   * es scheint min&shy;des&shy;tens einen Sozio&shy;pa&shy;then mit
-    erh&shy;eb&shy;lich&shy;en sadis&shy;ti&shy;schen Nei&shy;gun&shy;gen
-    zu geben
-  * die ver&shy;schie&shy;de&shy;nen Per&shy;sön&shy;lich&shy;kei&shy;ten
-    sind sich nicht immer wohl&shy;ge&shy;son&shy;nen
+    erh&shy;eb&shy;lich&shy;en sadis&shy;ti&shy;schen
+	Nei&shy;gun&shy;gen zu geben
+  * die ver&shy;schie&shy;de&shy;nen
+    Per&shy;sön&shy;lich&shy;kei&shy;ten sind sich nicht immer
+	wohl&shy;ge&shy;son&shy;nen
     * es scheint unter&shy;ein&shy;an&shy;der regel&shy;re&shy;chte
       Miss&shy;hand&shy;lun&shy;gen zu geben
-    * einzel&shy;ne Per&shy;sön&shy;lich&shy;kei&shy;ten scheinen mit was
-      auch immer er&shy;presst zu wer&shy;den
+    * einzel&shy;ne Per&shy;sön&shy;lich&shy;kei&shy;ten scheinen, mit
+	  was auch immer er&shy;presst zu wer&shy;den
     * es klingt manch&shy;mal so, als ob ein&shy;zel&shy;ne
       Per&shy;sön&shy;lich&shy;kei&shy;ten ande&shy;re
   	hypno&shy;ti&shy;sie&shy;ren oder es zu&shy;mnin&shy;dest
@@ -707,7 +729,7 @@ Hier (bisher nur) der Ver&shy;such, ein Pro&shy;fil eines
     ein&shy;zel&shy;ner Per&shy;sön&shy;lich&shy;kei&shy;ten vor (eine
     gibt es bspw. in bis jetzt vier Varian&shy;ten)
   * sollte seine beste Freun&shy;din echt sein (und viel&shy;leicht doch
-    nicht so gehor&shy;sam), hält er wohl eine "Ersatz"-Varian&shy;te vor
+    nicht so gehor&shy;sam), hält er wohl eine "Ersatz"-Julia vor
   * ich bilde mir ein, dass nur durch Provo&shy;ka&shy;tion und teils
     simple (aber aus&shy;dauern&shy;de) Belei&shy;di&shy;gungen, Wechsel
     der Per&shy;sön&shy;lich&shy;kei&shy;ten ent&shy;we&shy;der (sehr
@@ -748,7 +770,9 @@ Sebas&shy;tian/<wbr>Chris&shy;tian/<wbr>Mar&shy;kus und
 Fisch&shy;er/<wbr>Becke&shy;dahl/<wbr>Tha&shy;ter gebil&shy;det
 wer&shy;den kann, in irgend&shy;ei&shy;ner Form tatbe&shy;tei&shy;ligt
 ist. Dafür fal&shy;len diese Kombi&shy;na&shy;tio&shy;nen im Bsp.
-täg&shy;lich ein paar Dut&shy;zend mal zu oft. :joy:    
+täg&shy;lich ein paar Dut&shy;zend mal zu oft (und ein Chris&shy;tian
+Tha&shy;ter wäre zu&shy;dem auch noch ein Freund von mir, den ich seit
+der Schul&shy;zeit ken&shy;ne). :joy:  
   
 Um einen Men&shy;schen wirk&shy;lich ken&shy;nen&shy;zu&shy;ler&shy;nen,
 muss (zumin&shy;dest) ich ihm/<wbr>ihr eigent&shy;lich (genau wie
