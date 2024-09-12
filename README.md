@@ -6,7 +6,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc.by-nc-nd>
-version: Do., 12. Sep. 2024 (commit #40)
+version: Do., 13 Sep. 2024 (commit #41)
 ```
 
 # Log&shy;buch einer sich seit mind. An&shy;fang 2021 ste&shy;tig ver&shy;än&shy;dern&shy;den Wahr&shy;neh&shy;mung <br>*<sub><sup>oder:</sup></sub>* <br>Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king u.&#8239;&auml;. Straf&shy;ta&shy;ten bei Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung (so&shy;wie [Buch&shy;em&shy;pfeh&shy;lung](#buchempfehlung-eines-täters) eines poten&shy;tiel&shy;len Täters?!)
@@ -127,13 +127,15 @@ RAU&shy;BEN VON LEBENS&shy;ZEIT.**
 > Auch **späte&shy;re**(!) (Pseudo-)Nach&shy;wei&shy;se in der
 > Reali&shy;tät kön&shy;nen ledig&shy;lich sug&shy;ge&shy;riert sein
 > (und sind es ver&shy;mut&shy;lich in vie&shy;len Fäl&shy;len auch).  
-> (Oder mglw. so&shy;gar *ins&shy;ze&shy;niert*, was aber
-> be&shy;deu&shy;ten wür&shy;de, dass es Men&shy;schen gibt, die einem
-> an einer para&shy;noi&shy;den Schi&shy;zo&shy;phre&shy;nie
-> erkrank&shy;ten ande&shy;ren Men&shy;schen, iso&shy;liert eine
-> alter&shy;na&shy;ti&shy;ve Reali&shy;tät "vor&shy;spie&shy;len",
+> *Oder mglw. so&shy;gar **ins&shy;ze&shy;niert**,
+> was aber be&shy;deu&shy;ten wür&shy;de,
+> dass es Men&shy;schen gibt,
+> die einem an einer para&shy;noi&shy;den Schi&shy;zo&shy;phre&shy;nie
+> erkrank&shy;ten ande&shy;ren Men&shy;schen,
+> iso&shy;liert eine alter&shy;na&shy;ti&shy;ve Reali&shy;tät
+> "vor&shy;spie&shy;len",
 > was ich mir so nicht vor&shy;stel&shy;len kann
-> (oder viel&shy;mehr will).
+> (oder viel&shy;mehr nicht will).
   
 ## (Vor-)Bedin&shy;gun&shy;gen & Grund&shy;an&shy;nah&shy;men
 
@@ -683,34 +685,34 @@ Früh&shy;stück in Excel zu&shy;sam&shy;men&shy;klickt.
 	  auf dieser drit&shy;ten Ebene Maku&shy;la&shy;tur (und hät&shy;te
 	  noch eine wei&shy;te&shy;re un&shy;fass&shy;ba&shy;re
 	  Kon&shy;se&shy;quenz), denn es gäbe nur die
-	  Mög&shy;lich&shy;keiten, dass 
-          1. (wie gehabt) natür&shy;lich das gesam&shy;te
-             Wahn&shy;sys&shy;tem ledig&shy;lich von mir
-             "au&shy;sge&shy;dacht ist", oder
-          2. min&shy;des&shy;tens ein <nobr>Täter/</nobr><wbr>-in bzw.
-             eine Inte&shy;res&shy;sen&shy;grup&shy;pe doch "echt" ist,
-             aber auf einer
-          3. Ebe&shy;ne, wei&shy;te&shy;re
-             Täter:in&shy;<nobr>nen/</nobr><wbr>Inte&shy;res&shy;sen&shy;grup&shy;pen
-             "ledig&shy;lich"(!) ins&shy;zen&shy;ierte oder
-             ins&shy;ze&shy;nie&shy;ren ließe(!), was
-             be&shy;deu&shy;ten wür&shy;de:
-
-             **Wenn auch nur ein klei&shy;ner Teil die&shy;ser
-             zu&shy;ge&shy;ge&shy;be&shy;ner&shy;maßen
-             skur&shy;ri&shy;len Erle&shy;bens&shy;welt doch real ist,
-             MUSS es zwin&shy;gend noch vor dem
-             ur&shy;säch&shy;lich&shy;en Ini&shy;tia&shy;tor
-             die&shy;ser "Kon&shy;struk&shy;tion" oder mit die&shy;sem
-             deck&shy;ungs&shy;gleich, min&shy;des&shy;tens ei&shy;nen
-             VOLL&shy;STÄN&shy;DIG DURCH&shy;GE&shy;KNALL&shy;TEN IRREN
-             geben, der einem, an einer para&shy;noi&shy;den
-             Schizo&shy;phre&shy;nie er&shy;krank&shy;ten
-             Men&shy;sch&shy;en, zu&shy;sätz&shy;lich zu sei&shy;nen
-             eige&shy;nen Fol&shy;te&shy;run&shy;gen noch
-             wei&shy;te&shy;re ver&shy;schie&shy;de&shy;ne
-             Pei&shy;ni&shy;ger vor&shy;spielt oder durch Drit&shy;te
-             vor&shy;spie&shy;len lässt!?**
+	  Mög&shy;lich&shy;keiten, dass  
+      1. (wie gehabt) natür&shy;lich das gesam&shy;te
+         Wahn&shy;sys&shy;tem ledig&shy;lich von mir
+         "au&shy;sge&shy;dacht ist",
+         oder  
+      2. min&shy;des&shy;tens ein <nobr>Täter/</nobr><wbr>-in doch
+         "echt" ist,
+         aber auf einer  
+      3. Ebe&shy;ne wei&shy;te&shy;re
+         Täter<nobr>/-in</nobr>&shy;<nobr>nen
+         "ledig&shy;lich"(!) ins&shy;zen&shy;ierte oder
+         ins&shy;ze&shy;nie&shy;ren ließe(!),
+         was be&shy;deu&shy;ten wür&shy;de:  
+         **Wenn auch nur ein klei&shy;ner Teil die&shy;ser
+         zu&shy;ge&shy;ge&shy;be&shy;ner&shy;maßen
+         skur&shy;ri&shy;len Erle&shy;bens&shy;welt doch real ist,
+         MUSS es zwin&shy;gend noch vor dem ur&shy;säch&shy;lich&shy;en
+         Ini&shy;tia&shy;tor die&shy;ser "Kon&shy;struk&shy;tion" oder
+         mit die&shy;sem deck&shy;ungs&shy;gleich,
+         min&shy;des&shy;tens ei&shy;nen VOLL&shy;STÄN&shy;DIG
+         DURCH&shy;GE&shy;KNALL&shy;TEN IRREN geben,
+         der einem,
+         an einer para&shy;noi&shy;den Schizo&shy;phre&shy;nie
+         er&shy;krank&shy;ten Men&shy;sch&shy;en, zu&shy;sätz&shy;lich
+         zu sei&shy;nen eige&shy;nen Fol&shy;te&shy;run&shy;gen noch
+         wei&shy;te&shy;re ver&shy;schie&shy;de&shy;ne
+         Pei&shy;ni&shy;ger vor&shy;spielt oder durch Drit&shy;te
+         vor&shy;spie&shy;len lässt!?**
 
 ## Gefühl&shy;ter Ein&shy;fluss/<wbr>Im&shy;pact
 
@@ -1029,14 +1031,14 @@ ausführen.
   heraus&shy;zu&shy;stel&shy;len schien
   * dann un&shy;frei&shy;will&shy;ig als Indi&shy;ka&shy;tor
     nutz&shy;bar, um zu schau&shy;en,
-	ob man all&shy;ein mit der Maschi&shy;ne ist:  
-	*Eine Art "**Dia&shy;log&shy;ma&shy;schi&shy;ne**" rea&shy;giert auf
-	Stich&shy;wör&shy;ter,
-	die man ihr ent&shy;ge&shy;gen&shy;wirft und baut die&shy;se
-	(un&shy;glaub&shy;lich schnell)
-	in ihren ge&shy;sproch&shy;en&shy;en Text ein,
-	was bei ab&shy;sicht&shy;lich "kon&shy;text&shy;frem&shy;den"
-	Begrif&shy;fen skur&shy;ril wit&shy;zig wir&shy;ken kann.*
+    ob man all&shy;ein mit der Maschi&shy;ne ist:  
+    *Eine Art "**Dia&shy;log&shy;ma&shy;schi&shy;ne**" rea&shy;giert auf
+    Stich&shy;wör&shy;ter,
+    die man ihr ent&shy;ge&shy;gen&shy;wirft und baut die&shy;se
+    (un&shy;glaub&shy;lich schnell)
+    in ihren ge&shy;sproch&shy;en&shy;en Text ein,
+    was bei ab&shy;sicht&shy;lich "kon&shy;text&shy;frem&shy;den"
+    Begrif&shy;fen skur&shy;ril wit&shy;zig wir&shy;ken kann.*
   
 ### Beob&shy;ach&shy;tun&shy;gen & An&shy;nah&shy;men zu Täter "**F.**"[^3]
 
@@ -1083,8 +1085,8 @@ skiz&shy;zie&shy;ren.
     * ich meine, in mei&shy;ner frü&shy;he&shy;ren Woh&shy;nung öfter
       Ge&shy;<nobr>schrei/</nobr><wbr>Ge&shy;jam&shy;mer eines
 	  Klein&shy;kin&shy;des
-  	ge&shy;hört zu haben, des&shy;sen Ur&shy;sprung ich mir nie
-  	er&shy;klä&shy;ren konnte
+	ge&shy;hört zu haben, des&shy;sen Ur&shy;sprung ich mir nie
+	er&shy;klä&shy;ren konnte
   * es scheint min&shy;des&shy;tens einen Sozio&shy;pa&shy;then mit
     erh&shy;eb&shy;lich&shy;en sadis&shy;ti&shy;schen
 	Nei&shy;gun&shy;gen zu geben
@@ -1097,8 +1099,8 @@ skiz&shy;zie&shy;ren.
 	  mit was auch immer er&shy;presst zu wer&shy;den
     * es klingt manch&shy;mal so, als ob ein&shy;zel&shy;ne
       Per&shy;sön&shy;lich&shy;kei&shy;ten ande&shy;re
-  	hypno&shy;ti&shy;sie&shy;ren oder es zu&shy;mnin&shy;dest
-  	ver&shy;such&shy;en
+	hypno&shy;ti&shy;sie&shy;ren oder es zu&shy;mnin&shy;dest
+	ver&shy;such&shy;en
   * er hält unter&shy;schied&shy;liche Ver&shy;sio&shy;nen
     ein&shy;zel&shy;ner Per&shy;sön&shy;lich&shy;kei&shy;ten vor (eine
     gibt es bspw. in bis jetzt vier Vari&shy;an&shy;ten)
@@ -1159,29 +1161,34 @@ skiz&shy;zie&shy;ren.
 #### Per&shy;sön&shy;lich&shy;keit dieses mög&shy;lich&shy;en Haupt&shy;tä&shy;ters
 
 Sämt&shy;li&shy;che Hin&shy;wei&shy;se auf **Iden&shy;ti&shy;tät** waren
-und sind im bes&shy;ten Fall wirr. Ver&shy;däch&shy;ti&shy;ge
-Per&shy;so&shy;nen schei&shy;nen an einem Tag auf der Hand zu
-lie&shy;gen, werden aber am nächs&shy;ten Tag wieder umso
-gründ&shy;lich&shy;er aus dem Fokus geris&shy;sen.  
+und sind im bes&shy;ten Fall wirr.
+Ver&shy;däch&shy;ti&shy;ge Per&shy;so&shy;nen schei&shy;nen an einem Tag
+auf der Hand zu lie&shy;gen,
+werden aber am nächs&shy;ten Tag wieder umso gründ&shy;lich&shy;er aus
+dem Fokus geris&shy;sen.
 Beson&shy;ders per&shy;fi&shy;de wäre die Nen&shy;nung von Namen
-unbe&shy;tei&shy;lig&shy;ter Per&shy;so&shy;nen. Einige Namen (oft
-Haus&shy;be&shy;woh&shy;ner, und nicht immer aktu&shy;elle) fal&shy;len
-bemer&shy;kens&shy;wert oft, was bei Straf&shy;ta&shy;ten
-eini&shy;ger&shy;maßen dumm wäre.  
-Ich kann mir bspw. kaum vor&shy;stel&shy;len, dass ein Mensch,
+unbe&shy;tei&shy;lig&shy;ter Per&shy;so&shy;nen.
+Einige Namen
+(oft Haus&shy;be&shy;woh&shy;ner, und nicht immer aktu&shy;elle)
+fal&shy;len bemer&shy;kens&shy;wert oft,
+was bei Straf&shy;ta&shy;ten eini&shy;ger&shy;maßen dumm wäre.  
+Ich kann mir bspw. kaum vor&shy;stel&shy;len,
+dass ein Mensch,
 des&shy;sen bür&shy;ger&shy;lich&shy;er Name aus einer
 belie&shy;bi&shy;gen Kombi&shy;na&shy;tion von
 Sebas&shy;tian/<wbr>Chris&shy;tian/<wbr>Mar&shy;kus und
 Fisch&shy;er/<wbr>Becke&shy;dahl/<wbr>Tha&shy;ter gebil&shy;det
-wer&shy;den kann, in irgend&shy;ei&shy;ner Form tatbe&shy;tei&shy;ligt
-ist. Dafür fal&shy;len diese Kombi&shy;na&shy;tio&shy;nen im Bsp.
-täg&shy;lich ein paar Dut&shy;zend mal zu oft (und ein Chris&shy;tian
-Tha&shy;ter wäre zu&shy;dem auch noch ein Freund von mir, den ich seit
-der Schul&shy;zeit ken&shy;ne). :joy:  
+wer&shy;den kann,
+in irgend&shy;ei&shy;ner Form tatbe&shy;tei&shy;ligt ist.
+Dafür fal&shy;len diese Kombi&shy;na&shy;tio&shy;nen im Bsp.
+täg&shy;lich ein paar Dut&shy;zend mal zu oft
+(und ein Chris&shy;tian Tha&shy;ter wäre zu&shy;dem auch noch ein Freund
+von mir, den ich seit der Schul&shy;zeit ken&shy;ne). :joy:  
   
 Um einen Men&shy;schen wirk&shy;lich ken&shy;nen&shy;zu&shy;ler&shy;nen,
-muss (zumin&shy;dest) ich ihm/<wbr>ihr eigent&shy;lich (genau wie
-Google es auch tut) nur eine Frage stel&shy;len:
+muss (zumin&shy;dest) ich ihm/<wbr>ihr eigent&shy;lich
+(genau wie Google es auch tut)
+nur eine Frage stel&shy;len:
 **Was suchst Du?**
   
 Zu Passion oder **Leiden&shy;shaft** kann ich, soll&shy;te dieser
