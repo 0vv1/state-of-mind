@@ -1,13 +1,13 @@
 
 ```
-file:    state_of_perception.log/README.md
+file:    state-of-perception/README.md
 brief:   Description & Logging of an altering Perception after "Mind
          Opening" in 2021 and possibly (multiple) Acts of Stalking
          (main file)
 author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
-         <https://0vv1.io/cc.by-nc-nd>
+         <https://0vv1.io/cc-by-nc-nd>
 version: So., 15. Sep. 2024 (commit #45)
 ```
 
@@ -942,7 +942,7 @@ in Ber&shy;lin-Tem&shy;pel&shy;hof aus.
 Weite&shy;re Zeu&shy;gin&shy;<nobr>nen/</nobr><wbr>Zeugen oder
 anders betrof&shy;fe&shy;<nobr>ne/</nobr><wbr>belas&shy;te&shy;te
 Men&shy;schen kön&shy;nen sich gern direkt
-[hier](https://github.com/0vv1/state_of_perception.log/pulls)
+[hier](https://github.com/0vv1/state-of-perception/pulls)
 (oder unter nlp@0vv1.net)
 mel&shy;den,
 selbst wenn Din&shy;ge längst verg&shy;es&shy;sen oder von

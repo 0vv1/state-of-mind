@@ -1,12 +1,12 @@
 
 ```
-file:    state_of_perception.log/grundannahmen_beobachtungen.md
+file:    state-of-perception/grundannahmen_beobachtungen.md
 brief:   Basic Premises regarding Observations in general
 author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
-         <https://0vv1.io/cc.by-nc-nd>
-version: Sa., 14. Sep. 2024 (commit #1)
+         <https://0vv1.io/cc-by-nc-nd>
+version: So., 15. Sep. 2024 (commit #2)
 ```
 
 # Grund&shy;an&shy;nahmen bzgl. Beob&shy;ach&shy;tun&shy;gen

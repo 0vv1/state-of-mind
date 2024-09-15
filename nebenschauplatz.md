@@ -1,6 +1,6 @@
 
 ```
-file:    state_of_perception.log/nebenschauplatz.md
+file:    state-of-perception/nebenschauplatz.md
 brief:   Logging and Description of altered private Incidents and
          public Events embedded in 'the real World'
 author:  © 2021-2024 Alexander Puls <github@0vv1.net>

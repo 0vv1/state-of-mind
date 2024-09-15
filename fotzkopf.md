@@ -1,12 +1,12 @@
 
 ```
-file:    state_of_perception.log/fotzkopf.md
+file:    state-of-perception/fotzkopf.md
 brief:   Description of a main Perpetrator regarding possible
          (multiple) Acts of Stalking from early 2021 until today
 author:  © 2021-2024 Alexander Puls <https://vc.0vv1.io/>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
-         <https://0vv1.io/cc.by-nc-nd>
+         <https://0vv1.io/cc-by-nc-nd>
 version: So., 15. Sep. 2024 (commit #1)
 ```
 
