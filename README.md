@@ -8,7 +8,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Mo., 16. Sep. 2024 (commit #47)
+version: Mo., 16. Sep. 2024 (commit #48)
 ```
 
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>unter Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie [Buch&shy;empf. eines mögl. Täters](#buchempfehlung-eines-täters)?!)</sup></sub>
@@ -747,6 +747,31 @@ rückt.
   schließ&shy;lich kennt er jede Ab&shy;<nobr>sicht/</nobr><wbr>Plan
   bereits weit vor <nobr>ihrer/</nobr><wbr>sei&shy;ner
   Aus&shy;füh&shy;rung
+
+> [!NOTE]
+> **Erg&auml;n&shy;zung** aus der So.-<wbr>Nacht-<wbr>[NLP](#wesen-der-neuro-linguistischen-programme)
+> <nobr>(**16.&#8239;Sep.&#8239;'24**):</nobr>  
+> Nach&shy;dem ich zu ver&shy;ste&shy;hen gab,
+> dass ich schon ein Weil&shy;chen *Ohr&shy;st&ouml;p&shy;sel*
+> ver&shy;wen&shy;de und die
+> <nobr>**"[NLP-Stimmen](#wesen-der-neuro-linguistischen-programme)"</nobr>
+> da&shy;durch lei&shy;ser und besser hand&shy;<nobr>hab-/</nobr><wbr>mani&shy;pu&shy;lier&shy;<nobr>bar**&#8239;[<sup>VT:warning:</sup></nobr>](README.md#die-markierung-warningvt-warnt-vor-einer-mglw-aufkeimenden-verschw%C3%B6rungstheorie-grinning)
+> wer&shy;den,
+> war <nobr>ein/-e</nobr> qua&shy;si vir&shy;tu&shy;el&shy;<nobr>le/-r</nobr>
+> <nobr>(mglw.</nobr> "rang&shy;hö&shy;<nobr>here/-r"<sup>?</sup>)</nobr>
+> <nobr>Täter</nobr><wbr><nobr>("-[persön</nobr>&shy;lich&shy;keit](./fotzkopf.md#beobachtungen--annahmen-zu-täter-f)") der Mei&shy;nung,
+> dass er/sie in der letz&shy;ten Nacht
+> (wie bereits öfter),
+> der **[Tele&shy;pa&shy;thie](https://de.wikipedia.org/wiki/Telepathie)
+> befä&shy;higte Men&shy;<nobr>schen**&#8239;[<sup>VT:warning:</sup></nobr>](README.md#die-markierung-warningvt-warnt-vor-einer-mglw-aufkeimenden-verschw%C3%B6rungstheorie-grinning)
+> via [Hyp&shy;nose](https://de.wikipedia.org/wiki/Hypnose)
+> (und doch [gegen deren Willen](https://www.unicum.de/wissenswertes/raus-aus-meinem-kopf-kann-hypnose-dich-willenlos-machen)\)
+> dafür "miss&shy;braucht",
+> mich wäh&shy;rend des Schlafs aus&shy;gedehnt [neuro-linguistisch](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
+> zu&#8239;[<sup>VT:warning:</sup>](README.md#die-markierung-warningvt-warnt-vor-einer-mglw-aufkeimenden-verschw%C3%B6rungstheorie-grinning)
+> programmieren. :+1:
+> 
+> *.. nee, wird schon stimmen, Dude!* :joy:
   
 * be&shy;stän&shy;dige Sug&shy;ges&shy;tion
   (und be&shy;son&shy;ders per&shy;fide),
@@ -1208,8 +1233,8 @@ ste&shy;hen&shy;de,
 All&shy;tags&shy;ge&shy;scheh&shy;nis&shy;se und
 <nobr>(Groß-)</nobr><wbr>Ver&shy;an&shy;stal&shy;tun&shy;gen zu nutzen,
 in&shy;dem <nobr>sie/</nobr><wbr>er diese via NLPs für
-<nobr>ihre/</nobr><wbr>seine Opfer ent&shy;ar&shy;tet und so
-bil&shy;lige Ver&shy;schwö&shy;rungs&shy;theo&shy;rien suggerieren  
+<nobr>ihre/</nobr><wbr>seine Opfer ent&shy;ar&shy;ten und so
+bil&shy;lige Ver&shy;schwö&shy;rungs&shy;theo&shy;rien suggerieren.  
 Einige **Bei&shy;spie&shy;le** werden aus&shy;führ&shy;lich&shy;er
 (schon auch ob ihr&shy;es hohen Unter&shy;hal&shy;tungs&shy;werts und
 ihrer Origi&shy;na&shy;li&shy;<nobr>tät/</nobr><wbr>Ein&shy;zig&shy;ar&shy;tig&shy;keit)
