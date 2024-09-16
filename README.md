@@ -8,7 +8,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Mo., 16. Sep. 2024 (commit #48)
+version: Mo., 16. Sep. 2024 (commit #49)
 ```
 
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>unter Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie [Buch&shy;empf. eines mögl. Täters](#buchempfehlung-eines-täters)?!)</sup></sub>
@@ -16,7 +16,7 @@ version: Mo., 16. Sep. 2024 (commit #48)
 <details>
   <summary>Irgend&shy;wann ein&shy;mal dann nur noch</summary>
 
-  ### «Über die Wirk&shy;mäch&shy;tig&shy;keit (un&shy;ge&shy;wollt selbst er&shy;leb&shy;ter) Sug&shy;ges&shy;tion»
+  ## «Über die Wirk&shy;mäch&shy;tig&shy;keit (un&shy;ge&shy;wollt selbst er&shy;leb&shy;ter) Sug&shy;ges&shy;tion»
 
   </details>
 
@@ -143,18 +143,18 @@ sind
 
 **Blos&shy;stell&shy;ung** durch
 
-(mglw.) lücken&shy;lo&shy;ses und an&shy;hal&shy;ten&shy;des,
-d.&#8239;h. jede
-(auch die jetzi&shy;ge)
+lücken&shy;lo&shy;ses und an&shy;hal&shy;ten&shy;des
+**Ab&shy;hö&shy;ren der Wohn&shy;räume**,
+d.&#8239;h. Aufnehmen jeder
+(auch der jetzi&shy;gen)
 Min. An&shy;we&shy;sen&shy;heit der
 (mglw. ver&shy;schie&shy;de&shy;nen)
 Be&shy;woh&shy;<nobr>ner/</nobr><wbr>-in&shy;nen
-<nobr>(mglw.</nobr> mehrerer Wohnhäu<nobr>ser?)
-nutzen&shy;de, **Ab&shy;hö&shy;ren der Wohn&shy;räume**,
+<nobr>(mglw.</nobr> mehrerer Wohnhäu<nobr>ser?),
 
 (mei&shy;ner Wahr&shy;neh&shy;mung nach) fast lücken&shy;lose
-**akus&shy;ti&shy;sche Be&shy;läs&shy;ti&shy;gung**
-und (i.&#8239;d.&#8239;Z.
+**akus&shy;ti&shy;sche Be&shy;läs&shy;ti&shy;gung**,
+(i.&#8239;d.&#8239;Z.
 
 mglw.) **Frei&shy;heits&shy;be&shy;rau&shy;bung** *mind. eines Opfers*
 in hun&shy;der&shy;ten Fäl&shy;len,
@@ -184,7 +184,7 @@ mehre&shy;re Ebe&shy;nen um&shy;fass&shy;en&shy;de,
 mit viel  Zeit er&shy;dach&shy;te
 (**auch** **vor&shy;geb&shy;lich&shy;<nobr>e**r)
 **Täu&shy;schung** in t&auml;g&shy;lich mehre&shy;ren
-(in ihrer Ge&shy;samt&shy;heit mehreren 1.000)
+(in ihrer Ge&shy;samt&shy;heit über 1.000)
 F&auml;l&shy;len,
 
 (ver&shy;such&shy;te)
@@ -251,7 +251,7 @@ und da&shy;mit **RAU&shy;BEN VON LEBENS&shy;ZEIT**,
 * [eige&shy;ne vCard](https://0vv1.io/xp.vcf) inkl. Tel.-nr. :phone:
 
 > [!IMPORTANT]
-> Die Tele&shy;fon&shy;nr. bitte(!) nur be&shy;nutzen,
+> Die Tele&shy;fon&shy;nr. bitte nur be&shy;nutzen,
 > soll&shy;te glaub&shy;haft(!) Ge&shy;fahr für Leib und Leben für
 > mich oder einen ande&shy;ren Men&shy;schen be&shy;steh&shy;en
 > ("*Er kommt und hat eine Waffe!*" nehme ich nicht (mehr) ernst.),
@@ -322,8 +322,7 @@ und da&shy;mit **RAU&shy;BEN VON LEBENS&shy;ZEIT**,
 ### Grundbedingun&shy;gen sämt&shy;lich&shy;er "Beob&shy;ach&shy;tung&shy;en"
 
 Trotz (erst&shy;ma&shy;lig 2021) diag&shy;nos&shy;di&shy;zier&shy;ter
-Psy&shy;cho&shy;se aus dem schi&shy;zo&shy;phre&shy;nen
-Formen&shy;kreis[^1],
+Schizo&shy;phre&shy;nie[^1],
 bin ich weiter&shy;hin der Mei&shy;nung,
 dass wenigs&shy;tens eini&shy;ge der,
 von allen ande&shy;ren Mensch&shy;en als un&shy;wahr
@@ -342,10 +341,7 @@ wer&shy;den konn&shy;ten.
 > **Das hier ist lei&shy;der ernst!**
 > Auch wenn ich mein Bes&shy;tes&trade; tue,
 > die ini&shy;ti&shy;ie&shy;ren&shy;den Krea&shy;tu&shy;ren in
-> keins&shy;ter Weise ernst zu neh&shy;men,
-> ihr Han&shy;deln(!) aber der Läch&shy;er&shy;lich&shy;keit
-> preis&shy;zu&shy;ge&shy;ben versuche,
-> wenn&shy;imm&shy;er es geht.
+> keins&shy;ter Weise ernst zu neh&shy;mens.
 
 Ein Teil der
 (bis&shy;her natür&shy;lich von mir nur ver&shy;mu&shy;te&shy;ten)
@@ -434,10 +430,10 @@ zu iso&shy;lie&shy;ren.
 > [!NOTE]
 > Sämt&shy;lich&shy;es **Ein&shy;wir&shy;ken** poten&shy;tiel&shy;ler
 > Täter **auf** eine ge&shy;teil&shy;te **Reali&shy;tät**,
-> **kann** zu&shy;nächst(!) immer "nur" **sug&shy;ge&shy;riert**,
+> **kann** zu&shy;nächst immer "nur" **sug&shy;ge&shy;riert**,
 > d.&#8239;h. **zu&shy;nächst ohne** sichtbare
 > Außen&shy;**wir&shy;kung sein**.
-> Auch **späte&shy;re**(!) (Pseudo-)**Nach&shy;wei&shy;se** in der
+> Auch **späte&shy;re** (Pseudo-)**Nach&shy;wei&shy;se** in der
 > Reali&shy;tät **kön&shy;nen**
 > (und sind es ver&shy;mut&shy;lich in vie&shy;len Fäl&shy;len) **auch**
 > "ledig&shy;lich" **sug&shy;ge&shy;riert** *oder  
@@ -755,22 +751,21 @@ rückt.
 > dass ich schon ein Weil&shy;chen *Ohr&shy;st&ouml;p&shy;sel*
 > ver&shy;wen&shy;de und die
 > <nobr>**"[NLP-Stimmen](#wesen-der-neuro-linguistischen-programme)"</nobr>
-> da&shy;durch lei&shy;ser und besser hand&shy;<nobr>hab-/</nobr><wbr>mani&shy;pu&shy;lier&shy;<nobr>bar**&#8239;[<sup>VT:warning:</sup></nobr>](README.md#die-markierung-warningvt-warnt-vor-einer-mglw-aufkeimenden-verschw%C3%B6rungstheorie-grinning)
+> da&shy;durch lei&shy;ser und besser hand&shy;<nobr>hab-/</nobr><wbr>mani&shy;pu&shy;lier&shy;<nobr>bar**&#8239;[<sup>:warning:VT</sup></nobr>](README.md#die-markierung-warningvt-warnt-vor-einer-mglw-aufkeimenden-verschw%C3%B6rungstheorie-grinning)
 > wer&shy;den,
 > war <nobr>ein/-e</nobr> qua&shy;si vir&shy;tu&shy;el&shy;<nobr>le/-r</nobr>
 > <nobr>(mglw.</nobr> "rang&shy;hö&shy;<nobr>here/-r"<sup>?</sup>)</nobr>
-> <nobr>Täter</nobr><wbr><nobr>("-[persön</nobr>&shy;lich&shy;keit](./fotzkopf.md#beobachtungen--annahmen-zu-täter-f)") der Mei&shy;nung,
+> <nobr>Täter</nobr><wbr>("-[persön&shy;lich&shy;keit](./fotzkopf.md#beobachtungen--annahmen-zu-täter-f)") der Mei&shy;nung,
 > dass er/sie in der letz&shy;ten Nacht
 > (wie bereits öfter),
-> der **[Tele&shy;pa&shy;thie](https://de.wikipedia.org/wiki/Telepathie)
-> befä&shy;higte Men&shy;<nobr>schen**&#8239;[<sup>VT:warning:</sup></nobr>](README.md#die-markierung-warningvt-warnt-vor-einer-mglw-aufkeimenden-verschw%C3%B6rungstheorie-grinning)
-> via [Hyp&shy;nose](https://de.wikipedia.org/wiki/Hypnose)
-> (und doch [gegen deren Willen](https://www.unicum.de/wissenswertes/raus-aus-meinem-kopf-kann-hypnose-dich-willenlos-machen)\)
+> zur **[Tele&shy;pa&shy;thie](https://de.wikipedia.org/wiki/Telepathie)
+> befä&shy;higte, Men&shy;<nobr>schen**&#8239;[<sup>:warning:VT</sup></nobr>](README.md#die-markierung-warningvt-warnt-vor-einer-mglw-aufkeimenden-verschw%C3%B6rungstheorie-grinning)
+> via [Hyp&shy;nose](https://de.wikipedia.org/wiki/Hypnose),
+> und doch [gegen deren Willen](https://www.unicum.de/wissenswertes/raus-aus-meinem-kopf-kann-hypnose-dich-willenlos-machen),
 > dafür "miss&shy;braucht",
 > mich wäh&shy;rend des Schlafs aus&shy;gedehnt [neuro-linguistisch](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
-> zu&#8239;[<sup>VT:warning:</sup>](README.md#die-markierung-warningvt-warnt-vor-einer-mglw-aufkeimenden-verschw%C3%B6rungstheorie-grinning)
-> programmieren. :+1:
-> 
+> [<sup>:warning:VT</sup>](README.md#die-markierung-warningvt-warnt-vor-einer-mglw-aufkeimenden-verschw%C3%B6rungstheorie-grinning)
+> zu programmieren. :+1:  
 > *.. nee, wird schon stimmen, Dude!* :joy:
   
 * be&shy;stän&shy;dige Sug&shy;ges&shy;tion
@@ -913,33 +908,35 @@ Früh&shy;stück in Excel zu&shy;sam&shy;men&shy;klickt.
   eigent&shy;lich un&shy;fass&shy;ba&shy;re, Kon&shy;se&shy;quenz,
   denn es gäbe nur die
   Mög&shy;lich&shy;keit&shy;en, dass  
-  1\. (wie gehabt)
-      natür&shy;lich das gesam&shy;te
-      Wahn&shy;sys&shy;tem ledig&shy;lich von mir
-      "aus&shy;ge&shy;dacht ist" oder  
-  2\. min&shy;des&shy;tens ein <nobr>Täter/</nobr><wbr>-in doch
-      "echt" ist,
-      aber auf einer  
-  3\. Ebene weite&shy;re <nobr>Täter/</nobr><wbr>-in&shy;nen
-      "ledig&shy;lich"(!) insze&shy;nier&shy;te oder
-      insze&shy;nier&shy;ren ließe(!),
-      was be&shy;deu&shy;ten wür&shy;de:  
-      **Wenn auch nur ein klei&shy;ner Teil die&shy;ser
-      zu&shy;ge&shy;ge&shy;be&shy;ner&shy;maßen
-      skur&shy;ri&shy;len Erle&shy;bens&shy;welt doch real ist,
-      MUSS es zwin&shy;gend noch vor dem
-      ur&shy;säch&shy;lich&shy;en Ini&shy;tia&shy;tor die&shy;ser
-      "Kon&shy;struk&shy;tion" oder mit die&shy;sem
-      deck&shy;ungs&shy;gleich,
-      min&shy;des&shy;tens ei&shy;nen VOLL&shy;STÄN&shy;DIG
-      DURCH&shy;GE&shy;KNALL&shy;TEN IRREN geben,
-      der einem,
-      an einer para&shy;noi&shy;den Schizo&shy;phre&shy;nie
-      er&shy;krank&shy;ten Men&shy;sch&shy;en,
-      zu&shy;sätz&shy;lich zu sei&shy;nen eige&shy;nen
-      Fol&shy;te&shy;run&shy;gen noch wei&shy;te&shy;re
-      ver&shy;schie&shy;de&shy;ne Pei&shy;ni&shy;ger vor&shy;spielt
-      oder durch Drit&shy;te vor&shy;spie&shy;len lässt!?**
+
+  1. (wie gehabt)
+     natür&shy;lich das gesam&shy;te
+     Wahn&shy;sys&shy;tem ledig&shy;lich von mir
+     "aus&shy;ge&shy;dacht ist" oder  
+  2. min&shy;des&shy;tens ein <nobr>Täter/</nobr><wbr>-in doch
+     "echt" ist,
+     aber auf einer  
+  3. Ebene weite&shy;re <nobr>Täter/</nobr><wbr>-in&shy;nen
+     "ledig&shy;lich" insze&shy;nier&shy;te oder
+     insze&shy;nier&shy;ren ließe,
+     was be&shy;deu&shy;ten wür&shy;de:  
+
+     **Wenn auch nur ein klei&shy;ner Teil die&shy;ser
+     zu&shy;ge&shy;ge&shy;be&shy;ner&shy;maßen
+     skur&shy;ri&shy;len Erle&shy;bens&shy;welt doch real ist,
+     MUSS es zwin&shy;gend noch vor dem
+     ur&shy;säch&shy;lich&shy;en Ini&shy;tia&shy;tor die&shy;ser
+     "Kon&shy;struk&shy;tion" oder mit die&shy;sem
+     deck&shy;ungs&shy;gleich,
+     min&shy;des&shy;tens ei&shy;nen VOLL&shy;STÄN&shy;DIG
+     DURCH&shy;GE&shy;KNALL&shy;TEN IRREN geben,
+     der einem,
+     an einer para&shy;noi&shy;den Schizo&shy;phre&shy;nie
+     er&shy;krank&shy;ten Men&shy;sch&shy;en,
+     zu&shy;sätz&shy;lich zu sei&shy;nen eige&shy;nen
+     Fol&shy;te&shy;run&shy;gen noch wei&shy;te&shy;re
+     ver&shy;schie&shy;de&shy;ne Pei&shy;ni&shy;ger vor&shy;spielt
+     oder durch Drit&shy;te vor&shy;spie&shy;len lässt!?**
   
 ### Wei&shy;te&shy;re Befürch&shy;tun&shy;gen bzgl. des Gefahr&shy;en&shy;po&shy;ten&shy;tials
 
@@ -1000,24 +997,23 @@ einer** wie jauch immer ge&shy;arte&shy;ten
 "**Mit&shy;täter&shy;schaft**", thema&shy;ti&shy;siert waren.
 
 > [!CAUTION]
-> Die Behaup&shy;tung sol&shy;cher&shy;lei "Kon&shy;trolle" wür&shy;de
-> natür&shy;lich auch dann stimmen
-> (und wäre weit weniger gefärlich,
-> nämlich gar nicht),
-> würde,
-> nach&shy;dem ich mir das alles hier aus&shy;ge&shy;dacht hätte,
-> ein ledig&shy;lich ima&shy;gi&shy;nier&shy;ter Täter,
-> so eine Kon&shy;trol&shy;le ent&shy;we&shy;der üher
+> Eine solche "Kon&shy;trolle" könn&shy;te
+> natür&shy;lich auch dann behauptet sein,
+> wenn ich mir das alles hier nur aus&shy;ge&shy;dacht hätte,
+> also **ein ledig&shy;lich ima&shy;gi&shy;nier&shy;ter Täter**,
+> Kon&shy;trol&shy;le ent&shy;we&shy;der üher
 > seiner&shy;seits ima&shy;gi&shy;nier&shy;te oder rea&shy;le
-> Men&shy;sche&shy;n haben,
-> wäh&shy;rend ein ech&shy;ter Täter natür&shy;lich auch
+> Men&shy;sche&shy;n hätte,
+> wäre aber weit weniger,
+> nämlich gar nicht gefährlich,  
+> wäh&shy;rend **ein "ech&shy;ter" Täter** natür&shy;lich auch
 > ima&shy;gi&shy;nie&shy;ren oder schlicht täu&shy;schen könn&shy;te,
 > oder aber auch die Wahr&shy;heit sagen könn&shy;te.
-> Dann wäre aller&shy;dings offen, warum er das tun sollte.
-> Jeden&shy;falls öff&shy;net ein schi&shy;zo&shy;phre&shy;nes
-> Er&shy;le&shy;ben dann eine zweite Ebene  
+> Dann wäre aller&shy;dings offen, warum er das tun sollte.  
+> Jeden&shy;falls öff&shy;net ein **schi&shy;zo&shy;phre&shy;nes**
+> Er&shy;le&shy;ben dann leider immer auch eine **zweite Ebene**  
 > (mög&shy;lich&shy;er eigener
-> schizo&shy;aff&shy;ek&shy;ti&shy;ver Wahn → mglw.
+> schizo&shy;aff&shy;ek&shy;ti&shy;ver Wahn **vs**. mglw.
 > [imagi&shy;nier&shy;te
 > Welt](./fotzkopf.md#beobachtungen--annahmen-zu-täter-f) einer der
 > <nobr>(Haupt-)</nobr><wbr>Täter).
