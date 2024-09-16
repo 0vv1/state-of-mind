@@ -8,7 +8,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Mo., 16. Sep. 2024 (commit #46)
+version: Mo., 16. Sep. 2024 (commit #47)
 ```
 
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>unter Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie [Buch&shy;empf. eines mögl. Täters](#buchempfehlung-eines-täters)?!)</sup></sub>
@@ -121,8 +121,9 @@ version: Mo., 16. Sep. 2024 (commit #46)
 
   </details>
   
-> [!INFO]
+> [!NOTE]
 > ###### die Markierung&nbsp;&nbsp; <sup>:warning:VT</sup>&nbsp;&nbsp; *warnt* vor einer mglw. aufkeimenden *Ver&shy;schw&ouml;&shy;rungs&shy;theo&shy;rie* :grinning:
+
 <br>
 
 Wei&shy;te&shy;re,
@@ -1208,14 +1209,14 @@ All&shy;tags&shy;ge&shy;scheh&shy;nis&shy;se und
 <nobr>(Groß-)</nobr><wbr>Ver&shy;an&shy;stal&shy;tun&shy;gen zu nutzen,
 in&shy;dem <nobr>sie/</nobr><wbr>er diese via NLPs für
 <nobr>ihre/</nobr><wbr>seine Opfer ent&shy;ar&shy;tet und so
-bil&shy;lige Ver&shy;schwö&shy;rungs&shy;theo&shy;rien suggeriert.  
-**Bei&shy;spie&shy;le** aus&shy;führ&shy;lich&shy;er
+bil&shy;lige Ver&shy;schwö&shy;rungs&shy;theo&shy;rien suggerieren  
+Einige **Bei&shy;spie&shy;le** werden aus&shy;führ&shy;lich&shy;er
 (schon auch ob ihr&shy;es hohen Unter&shy;hal&shy;tungs&shy;werts und
 ihrer Origi&shy;na&shy;li&shy;<nobr>tät/</nobr><wbr>Ein&shy;zig&shy;ar&shy;tig&shy;keit)
 in einem eige&shy;nen Doku&shy;ment zu
 [Neben&shy;schau&shy;plät&shy;zen und
 Obfus&shy;ka&shy;tions&shy;be&shy;mü&shy;hun&shy;gen](./nebenschauplatz.md)
-aus&shy;führ&shy;en.  
+fin&shy;den sein.  
   
 ## An&shy;nah&shy;men zu mut&shy;maß&shy;lich&shy;en Ini&shy;tia&shy;to&shy;ren
 
