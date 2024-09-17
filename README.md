@@ -14,22 +14,21 @@ version: Di., 17. Sep. 2024
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>unter Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie [Buch&shy;empf. eines mögl. Täters](#buchempfehlung-eines-täters)?!)</sup></sub>
 
 <details>
-	<summary>Irgend&shy;wann
-  		(hoff&shy;ent&shy;lich & viel&shy;leicht)
-  		ein&shy;mal dann nur noch</summary>
+  <summary>Irgend&shy;wann
+  (hoff&shy;ent&shy;lich & viel&shy;leicht)
+  ein&shy;mal dann nur noch</summary>
 
   ## «Über die Wirk&shy;mäch&shy;tig&shy;keit (un&shy;ge&shy;wollt selbst er&shy;leb&shy;ter) Sug&shy;ges&shy;tion»
 
   und im Wesent&shy;lich&shy;en die erste Fuß&shy;no&shy;te[^1]
   be&shy;han&shy;delnd.
-  
+
   <br>
   </details>
 
 <details>
-  	<summary>Des&shy;crip&shy;tion in
-		Eng&shy;<nobr>lish :us::gb:</nobr>
-  		</summary>
+  <summary>Des&shy;crip&shy;tion in
+  Eng&shy;<nobr>lish :us: :gb:</nobr></summary>
 
   ## Collection of acustic Evidence regarding Acts of Stalking AKA «*The Fotz&shy;kopf Recordings*»
 
@@ -122,19 +121,21 @@ version: Di., 17. Sep. 2024
   that *Fotzkopf* is not the nicest guy on earth,
   at least not remote when he is in his home office
   (which might be different vis-à-vis).
-  
+
 ----
 
   <br>
   </details>
 
 <details>
-	<summary>Wei&shy;te&shy;re,
-		mut&shy;ma&szlig;&shy;lich &uuml;ber einen
-		Zeit&shy;raum von heute <b>mehr als 1.350
-		Tage</b>n,
-		ver&shy;&uuml;bte
-		<b>Straf&shy;ta&shy;ten</b></summary>
+  <summary>Wei&shy;te&shy;re,
+  mut&shy;ma&szlig;&shy;lich &uuml;ber einen
+  Zeit&shy;raum von heute <b>mehr als 1.350
+  Tage</b>n,
+  ver&shy;&uuml;bte <b>Straf&shy;ta&shy;ten</b>
+  </summary>  
+
+  
 
 i.&#8239;Z.&#8239;m.
 
@@ -191,7 +192,7 @@ Be&shy;trof&shy;fe&shy;nen**
 kom&shy;plexe,
 mehre&shy;re Ebe&shy;nen um&shy;fass&shy;en&shy;de,
 mit viel  Zeit er&shy;dach&shy;te
-(**auch** **vor&shy;geb&shy;lich&shy;<nobr>e**r)
+(**auch vor&shy;geb&shy;lich&shy;e**r)
 **Täu&shy;schung** in t&auml;g&shy;lich mehre&shy;ren
 (in ihrer Ge&shy;samt&shy;heit über 1.000)
 F&auml;l&shy;len,
@@ -253,9 +254,9 @@ und da&shy;mit **RAU&shy;BEN VON LEBENS&shy;ZEIT**,
 > Symp&shy;tom](https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/schizophrenie-und-schizophrene-psychosen/therapie/)
 > bei Psy&shy;cho&shy;sen des schi&shy;zo&shy;phre&shy;nen
 > For&shy;men&shy;krei&shy;ses.
-
+  
 <details>
-	<summary><h2>Eige&shy;ne Per&shy;son</h2></summary>
+  <summary><h2>Eige&shy;ne Per&shy;son</h2></summary>
 
 * Alex&shy;an&shy;der Puls, ge&shy;bor&shy;en am 26. März 1978 in
   Schwe&shy;rin, Meck&shy;len&shy;burg-Vor&shy;pom&shy;mern
@@ -336,10 +337,8 @@ und da&shy;mit **RAU&shy;BEN VON LEBENS&shy;ZEIT**,
 > ein&shy;<nobr>er/</nobr><wbr>ein&shy;es
 > Täter&shy;<nobr>in/</nobr><wbr>Täters
 > im hier be&shy;han&shy;del&shy;ten Kon&shy;text gibt.
-
+  
 ## (Vor-)Bedin&shy;gun&shy;gen & einige Grund&shy;an&shy;nah&shy;men
-
-### Grundbedingun&shy;gen
 
 Trotz (erst&shy;ma&shy;lig 2021) diag&shy;nos&shy;ti&shy;zier&shy;ter
 Schizo&shy;phre&shy;nie[^2],
@@ -515,10 +514,10 @@ zu iso&shy;lie&shy;ren.
   sug@0vv1.net) 
   
 <details>
-	<summary>
-		<h3>Grund&shy;an&shy;nah&shy;men bzgl.
-			Infor&shy;ma&shy;tions&shy;über&shy;mitt&shy;lung
-			i.&#8239;Allg.</h3></summary>
+  <summary>
+    <h3>Grund&shy;an&shy;nah&shy;men bzgl.
+      Infor&shy;ma&shy;tions&shy;über&shy;mitt&shy;lung
+      i.&#8239;Allg.</h3></summary>
 
 Im Fol&shy;gen&shy;den eini&shy;ge Grund&shy;an&shy;nah&shy;men,
 um Struk&shy;tur und Logik zu Grun&shy;de zu legen, 
@@ -527,49 +526,50 @@ un&shy;zu&shy;läs&shy;sig er&shy;wei&shy;sen,
 wird sie ge&shy;strich&shy;en*.
 
 * nicht nur kann "ge&shy;won&shy;ne&shy;ne"
-	**In&shy;for&shy;ma&shy;tion** rein ima&shy;gi&shy;niert sein,
-	soll&shy;te sie rea&shy;len Ur&shy;sprungs sein,
-	kann
-	* die&shy;es nicht für mich be&shy;stimmt sein,
-	* die&shy;se vor&shy;geb&shy;lich nicht für mich be&shy;stimmt sein,
-	* die&shy;se falsch ver&shy;stan&shy;den wer&shy;den,
-	* die&shy;se ge&shy;wollt in "fal&shy;schem"
-		in&shy;halt&shy;lich&shy;en,
-		zeit&shy;lich&shy;en,
-		ört&shy;lich&shy;en
-		(durch ge&shy;schick&shy;te Akus&shy;tik)
-		oder into&shy;na&shy;ti&shy;ven Kon&shy;text ste&shy;hen
-		(bereits
-		[öfter be&shy;merkt](./README.md#auswahl-eingesetzter-mittel)),
-	* ein ange&shy;nom&shy;me&shy;ner Sen&shy;der in sei&shy;ner
-		Iden&shy;ti&shy;tät täu&shy;sch&shy;en oder ab&shy;sicht&shy;lich
-		eine ande&shy;re vor&shy;ge&shy;ben
-		(eben&shy;falls bereits
-		[öfter bemerkt](#beobachtungen--annahmen-zu-täter-f)),
-		bis hin zur Idee des [Ein&shy;zel&shy;tä&shy;ters,
-		der ledig&shy;lich mit
-		"Rol&shy;<nobr>len"/</nobr><wbr>Per&shy;sön&shy;lich&shy;kei&shy;ten
-		spielt](#beobachtungen--annahmen-zu-täter-f),
-	* ein an&shy;ge&shy;nom&shy;me&shy;ner Sen&shy;der belie&shy;big
-		lügen,
-		ob&shy;fus&shy;kie&shy;ren,
-		Wahr&shy;heit in Frage stel&shy;len,
-		Zwei&shy;fel sähen oder
-		(wie ge&shy;mei&shy;ne Straf&shy;tä&shy;ter)
-		so wenig wie über&shy;haupt nur mög&shy;lich,
-		von sich preis&shy;geben wol&shy;len <nobr>und/</nobr><wbr>oder
-	* ein an&shy;ge&shy;nom&shy;me&shy;ner Sen&shy;der seine "Opfer" quasi
-		nega&shy;tiv infor&shy;mie&shy;ren wol&shy;len,
-		so&shy;dass sie weni&shy;ger als nichts wis&shy;sen,
-		so des&shy;in&shy;for&shy;miert und ver&shy;wirrt wie mög&shy;lich
-		sind
+  **In&shy;for&shy;ma&shy;tion** rein ima&shy;gi&shy;niert sein,
+  soll&shy;te sie rea&shy;len Ur&shy;sprungs sein,
+  kann
+  * die&shy;es nicht für mich be&shy;stimmt sein,
+  * die&shy;se vor&shy;geb&shy;lich nicht für mich be&shy;stimmt sein,
+  * die&shy;se falsch ver&shy;stan&shy;den wer&shy;den,
+  * die&shy;se ge&shy;wollt in "fal&shy;schem"
+    in&shy;halt&shy;lich&shy;en,
+    zeit&shy;lich&shy;en,
+    ört&shy;lich&shy;en
+    (durch ge&shy;schick&shy;te Akus&shy;tik)
+    oder into&shy;na&shy;ti&shy;ven Kon&shy;text ste&shy;hen
+    (bereits
+    [öfter be&shy;merkt](./README.md#auswahl-eingesetzter-mittel)),
+  * ein ange&shy;nom&shy;me&shy;ner Sen&shy;der in sei&shy;ner
+    Iden&shy;ti&shy;tät täu&shy;sch&shy;en oder ab&shy;sicht&shy;lich
+    eine ande&shy;re vor&shy;ge&shy;ben
+    (eben&shy;falls bereits
+    [öfter bemerkt](#beobachtungen--annahmen-zu-täter-f)),
+    bis hin zur Idee des [Ein&shy;zel&shy;tä&shy;ters,
+    der ledig&shy;lich mit
+    "Rol&shy;<nobr>len"/</nobr><wbr>Per&shy;sön&shy;lich&shy;kei&shy;ten
+    spielt](#beobachtungen--annahmen-zu-täter-f),
+  * ein an&shy;ge&shy;nom&shy;me&shy;ner Sen&shy;der belie&shy;big
+    lügen,
+    ob&shy;fus&shy;kie&shy;ren,
+    Wahr&shy;heit in Frage stel&shy;len,
+    Zwei&shy;fel sähen oder
+    (wie ge&shy;mei&shy;ne Straf&shy;tä&shy;ter)
+    so wenig wie über&shy;haupt nur mög&shy;lich,
+    von sich preis&shy;geben wol&shy;len <nobr>und/</nobr><wbr>oder
+  * ein an&shy;ge&shy;nom&shy;me&shy;ner Sen&shy;der seine "Opfer" quasi
+    nega&shy;tiv infor&shy;mie&shy;ren wol&shy;len,
+    so&shy;dass sie weni&shy;ger als nichts wis&shy;sen,
+    so des&shy;in&shy;for&shy;miert und ver&shy;wirrt wie mög&shy;lich
+    sind
 
 ----
 
   <br>
   </details>
   
-### Grundannahmen im Speziellen
+<details>
+  <summary><h3>Grundannahmen im Speziellen</h3></summary>
 
 * die Um&shy;stän&shy;de der
   "**In&shy;for&shy;ma&shy;tions&shy;ge&shy;win&shy;nung**" sind
@@ -609,7 +609,12 @@ wird sie ge&shy;strich&shy;en*.
     Ge&shy;sprä&shy;chen der Stim&shy;men unter&shy;ein&shy;an&shy;der
     oder indi&shy;rekt aus "Schein"-Dia&shy;lo&shy;gen wäh&shy;rend des
     Ab&shy;ar&shy;bei&shy;tens der
-	"[NLP-Pro&shy;gram&shy;me](#wesen-der-neuro-linguistischen-programme)"
+    "[NLP-Pro&shy;gram&shy;me](#wesen-der-neuro-linguistischen-programme)"
+
+----
+
+  <br>
+  </details>
   
 ## Beob&shy;ach&shy;tun&shy;gen und Schlüssse 
 
@@ -681,7 +686,7 @@ Berei&shy;chen der eige&shy;nen Woh&shy;nung)
 mit viel Zeit und hohem
 Aufwand sog. [Neuro-Lingu&shy;is&shy;tische
 Pro&shy;gram&shy;me](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
-indu&shy;<nobr>ziert[<sup>:warning:VT</sup>](#fn1)</nobr>,
+indu&shy;<nobr>ziert<sup>:warning:VT</sup>[^1]</nobr>,
 die dann tags&shy;über in irgend&shy;einer Weise
 (wenn man nicht weiß, woher Stimmen und "Ideen" stammen)
 fast zwingend abge&shy;ar&shy;beitet wer&shy;den müs&shy;sen,
@@ -781,7 +786,7 @@ was so in der Rea&shy;li&shy;tät nicht mög&shy;lich ist.
 Die Atmo&shy;sphä&shy;re nimmt
 (nicht nur inso&shy;fern)
 teils ir&shy;rea&shy;<nobr>le/</nobr><wbr>skur&shy;ri&shy;le Züge an,
-was die **Wahr&shy;neh&shy;mung der eige&shy;nen Wahrnehmung**"(!)
+was die "**Wahr&shy;neh&shy;mung der eige&shy;nen Wahrnehmung**"(!)
 zusätzlich **verzerrt** und in Rich&shy;tung Traum&shy;er&shy;leben
 rückt.  
   
@@ -829,7 +834,7 @@ rückt.
 > ver&shy;wen&shy;de und die
 > <nobr>**"[NLP-Stimmen](#wesen-der-neuro-linguistischen-programme)"</nobr>
 > da&shy;durch lei&shy;ser und bes&shy;ser
-> hand&shy;<nobr>hab**-/</nobr><wbr>**mani&shy;pu&shy;lier&shy;<nobr>bar**[<sup>:warning:VT</sup>](#fn1)</nobr>
+> hand&shy;<nobr>hab**-/</nobr><wbr>**mani&shy;pu&shy;lier&shy;<nobr>bar**<sup>:warning:VT</sup>[^1]</nobr>
 > wer&shy;den,
 > war <nobr>ein/-e</nobr> qua&shy;si vir&shy;tu&shy;el&shy;<nobr>le/-r</nobr>
 > <nobr>(mglw.</nobr> "rang&shy;hö&shy;<nobr>here/-r"<sup>?</sup>)</nobr>
@@ -838,13 +843,13 @@ rückt.
 > dass er/sie in der letz&shy;ten Nacht
 > (wie bereits öfter),
 > zur **[Tele&shy;pa&shy;thie](https://de.wikipedia.org/wiki/Telepathie)
-> befä&shy;higte Men&shy;<nobr>schen**[<sup>:warning:VT</sup>](#fn1)</nobr>,
+> befä&shy;higte Men&shy;<nobr>schen**<sup>:warning:VT</sup>[^1]</nobr>,
 > [gegen deren Willen](https://www.unicum.de/wissenswertes/raus-aus-meinem-kopf-kann-hypnose-dich-willenlos-machen)
 > via [Hyp&shy;nose](https://de.wikipedia.org/wiki/Hypnose)
 > dafür "miss&shy;braucht",
 > mich wäh&shy;rend des Schlafs aus&shy;gedehnt
 > [neuro-linguistisch](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
-> zu pro&shy;gram&shy;mie<nobr>ren[<sup>:warning:VT</sup>](#fn1). :+1:</nobr>  
+> zu pro&shy;gram&shy;mie<nobr>ren<sup>:warning:VT</sup>[^1]. :+1:</nobr>  
 > *.. nee, wird schon stimmen, Dude!* :joy:
   
 * be&shy;stän&shy;dige Sug&shy;ges&shy;tion
@@ -871,6 +876,47 @@ rückt.
   Ohn&shy;machts&shy;er&shy;fah&shy;rung mei&shy;nes Lebens blei&shy;ben
   wird und dem Täter wohl ein hohes Maß an Kon&shy;trol&shy;le
   <nobr>(auto-)<wbr>sug</nobr>&shy;ge&shy;riert[^3]
+  
+* *das Schlimmste von allem*:
+  Die bestän&shy;di&shy;ge, **über Jah&shy;re an&shy;dauern&shy;de,
+  täg&shy;lich stun&shy;den&shy;lang voll&shy;zo&shy;ge&shy;ne
+  (bei einem paranoid-schizophrenen Menschen!)
+  Suggestion**/Ein&shy;re&shy;de, **Men&shy;sch&shy;en** in mei&shy;ner
+  direk&shy;ten Um&shy;ge&shy;bung **sei&shy;en in größter
+  Ge&shy;fahr**.
+  * (über Wochen) täg&shy;lich stun&shy;denlange,
+    sich quälend lang&shy;sam voll&shy;zie&shy;hen&shy;de,
+    Ver&shy;ge&shy;wal&shy;ti&shy;gungs&shy;or&shy;gien
+  * der Lächer&shy;lich&shy;keit preis&shy;ge&shy;ge&shy;be&shy;ne
+    hypno&shy;ti&shy;sier&shy;te Men&shy;sch&shy;en,
+    die sich ge&shy;gen nichts mehr weh&shy;ren kön&shy;nen
+  * kom&shy;plett kon&shy;trol&shy;lier&shy;te Men&shy;sch&shy;en,
+    denen der Täter so&shy;gar den eigenen Selbst&shy;mord be&shy;fehlen 
+    könnte *wenn er denn wollte* (**wichtig**: immer Machtdemonstration)
+  * das stund&shy;en&shy;lan&shy;ge, außer&shy;ordent&shy;lich
+    be&shy;las&shy;ten&shy;de **Spiel mit der Not der Opfer**
+    (*immer fein aus&shy;ta&shy;riert,
+    zwischen gera&shy;de noch zuck&shy;end und Selbst&shy;mord*)  
+    (hier auch: **fast ausschließlich Machtdemonstration**)
+    * so ent&shy;steht der Ein&shy;druck
+      (oder die **in&shy;ten&shy;dier&shy;te Sug&shy;ges&shy;tion**),
+      beim (Haupt-)Täter han&shy;delt es sich um die
+       **Blau&shy;pau&shy;se eines**
+      (eini&shy;ge Stun&shy;den da&shy;nach oft in eine Idee von
+      Slap&shy;stick ab&shy;glei&shy;ten&shy;den)
+      über alle Maßen **degene&shy;rier&shy;ten**
+      (schon **über&shy;trie&shy;ben sadis&shy;ti&shy;sch&shy;en**),
+      wirk&shy;lich **tota&shy;li&shy;tä&shy;ren**, die Schöp&shy;fung
+      ver&shy;nei&shy;nen&shy;den **Faschis&shy;ten** mit der
+      per&shy;ver&shy;sen Nei&shy;gung/Fan&shy;ta&shy;sie zu
+      voll&shy;stän&shy;di&shy;ger "Kon&shy;trol&shy;le" über
+      Den&shy;ken und Phy&shy;sis ~~seiner~~ ande&shy;rer
+      "~~Mit~~mensch&shy;en"
+      (die er aber als sol&shy;che an&shy;geb&shy;lich
+      (zu&shy;nächst immer sug&shy;ge&shy;riert)
+      aber nicht be&shy;greift,
+      viel&shy;mehr geht es um die Ver&shy;mitt&shy;lung,
+      ande&shy;re Men&shy;schen sei&shy;en nichts wert[^4]
   
 ### Aus&shy;ta&shy;rie&shy;ren be&shy;stimm&shy;ter Pa&shy;ra&shy;me&shy;ter
 
@@ -914,7 +960,8 @@ dass ich nicht nur Men&shy;schen hin&shy;ter die&shy;sem "Wir&shy;ken"
 ver&shy;mu&shy;te,
 son&shy;dern auch Er&shy;fah&shy;rung,
 ein umfangreiches Maß an Pla&shy;nung und
-m&ouml;g&shy;lich&shy;er&shy;wei&shy;se eine Art Pro&shy;fess&shy;io&shy;na&shy;li&shy;tät.  
+m&ouml;g&shy;lich&shy;er&shy;wei&shy;se eine Art
+Pro&shy;fess&shy;io&shy;na&shy;li&shy;tät.  
 Ich mei&shy;ne, es ge&shy;hört *eigent&shy;lich* auch **eine Art
 Pro&shy;fi&shy;ling** dazu,
 die "Ini&shy;tia&shy;to&shy;ren" müs&shy;sen doch
@@ -963,18 +1010,18 @@ Früh&shy;stück in Excel zu&shy;sam&shy;men&shy;klickt.
 * **bei&shy;spiel**s&shy;wei&shy;se ist ein
   Pro&shy;ta&shy;go&shy;<nobr>nist/</nobr><wbr>Tä&shy;ter "Felix"
   in drei Kon&shy;tex&shy;ten ver&shy;tre&shy;ten:  
-  **zunächst** jagt er als Mit&shy;glied einer
-  femi&shy;nis&shy;ti&shy;sch&shy;en Grup&shy;pe Män&shy;ner,
-  um sich an die&shy;sen zu "rächen",  
-  **dann** taucht seine Stim&shy;me als sadis&shy;ti&shy;sch&shy;er
-  schwu&shy;ler Mann,
-  auf der Suche nach poten&shy;tiel&shy;len
-  Ver&shy;ge&shy;wal&shy;ti&shy;gungs&shy;op&shy;fern wie&shy;der
-  auf,
-  um  
-  **schließ&shy;lich** in einem drit&shy;ten Kon&shy;text als
-  Regis&shy;seur noch irgend&shy;was an einer
-  ab&shy;ge&shy;halfter&shy;ten "Reali&shy;ty"-Show zu ret&shy;ten
+    **zunächst** jagt er als Mit&shy;glied einer
+    femi&shy;nis&shy;ti&shy;sch&shy;en Grup&shy;pe Män&shy;ner,
+    um sich an die&shy;sen zu "rächen",  
+    **dann** taucht seine Stim&shy;me als sadis&shy;ti&shy;sch&shy;er
+    schwu&shy;ler Mann,
+    auf der Suche nach poten&shy;tiel&shy;len
+    Ver&shy;ge&shy;wal&shy;ti&shy;gungs&shy;op&shy;fern wie&shy;der
+    auf,
+    um 
+    **schließ&shy;lich** in einem drit&shy;ten Kon&shy;text als
+    Regis&shy;seur noch irgend&shy;was an einer
+    ab&shy;ge&shy;halfter&shy;ten "Reali&shy;ty"-Show zu ret&shy;ten  
   * es blie&shy;be eine be&shy;schei&shy;de&shy;ne Fra&shy;ge:  
     **Was soll das denn bit&shy;te sein?**  
     Und noch bes&shy;ser: Das soll Teil einer
@@ -1392,10 +1439,10 @@ wird).
   was bei ab&shy;sicht&shy;lich "kon&shy;text&shy;frem&shy;den"
   Begrif&shy;fen skur&shy;ril wit&shy;zig wir&shy;ken kann.*
   
-### Beob&shy;ach&shy;tun&shy;gen & An&shy;nah&shy;men zu Täter "F."[^3]
+### Beob&shy;ach&shy;tun&shy;gen & An&shy;nah&shy;men zu Täter "F."[^5]
 
 Hier der Ver&shy;such eines Pro&shy;fils eines, aus mei&shy;ner Sicht,
-<nobr>(Haupt-)</nobr><wbr><nobr>Täters/</nobr><wbr>-ver&shy;ant&shy;wort&shy;liche&shy;n,
+<nobr>(Haupt-)</nobr><wbr><nobr>Täters(-ver</nobr>&shy;ant&shy;wort&shy;lich&shy;n),
 jeden&shy;falls
 (bis&shy;her)
 domi&shy;nan&shy;tes&shy;ten Pro&shy;ta&shy;go&shy;nis&shy;ten zu
@@ -1435,12 +1482,12 @@ skiz&shy;zie&shy;ren.
       (wie wohl auch ihr Nach&shy;na&shy;me)
       m&ouml;g&shy;lich&shy;er&shy;wei&shy;se aus den Namen
       frü&shy;he&shy;rer Haus&shy;be&shy;woh&shy;ner ab
-  
+
       > Namens&shy;nen&shy;nung,
       > da ich recht sich&shy;er bin,
       > dass es sich um ein&shy;en
       > <nobr>Kunst-/</nobr><wbr>Deck&shy;na&shy;men han&shy;delt
-	
+
     * sie ist sonn&shy;tags oft bei ihren Eltern
       (was aber der Ob&shy;fus&shy;ka&shy;tion die&shy;nen kann)
     * aus einem NLP-Ge&shy;spräch hat sich eine Zahl von 15
@@ -1660,7 +1707,7 @@ nut&shy;zen
 (so&shy;wie manch&shy;mal auch deren
 <nobr>ihrer-/</nobr><wbr>seiner&shy;sei&shy;ti&shy;ge
 Mani&shy;pu&shy;la&shy;tion zu
-sug&shy;ge&shy;<nobr>rieren<sup>[:warning:VT</sup>](#fn1),</nobr> 
+sug&shy;ge&shy;<nobr>rieren<sup>:warning:VT</sup>[^1],</nobr> 
 in&shy;dem <nobr>sie/</nobr><wbr>er die&shy;se via
 [NLP](#wesen-der-neuro-linguistischen-programme)s für
 <nobr>ihre/</nobr><wbr>sei&shy;ne Opfer
@@ -1700,12 +1747,12 @@ Ver&shy;glei&shy;che
 [diesen Instagram-Post](https://www.instagram.com/p/C_M4mtqixnM/),
 
 > [!NOTE]
-> Obgleich am Ende des Songs,
+> Ob&shy;gleich am Ende des Songs,
 > deut&shy;lich, zwei kurz
 > auf&shy;ein&shy;an&shy;der&shy;fol&shy;gen&shy;de, 
 > durch die Um&shy;ge&shy;bungs&shy;luft lau&shy;fen&shy;de,
 > Wel&shy;len&shy;käm&shy;me zu
-> er&shy;ken&shy;<nobr>nen[<sup>VT:warning:</sup>](#user-content-fn-1-1561bb98111bdd27650172b461d5ed95)</nobr>
+> er&shy;ken&shy;<nobr>nen<sup>VT:warning:</sup>[^1]</nobr>
 
 mit dem ich
 (un&shy;ge&shy;wollt)
@@ -1861,7 +1908,7 @@ Schöpfung! :heart:
 
 Die wir er&shy;leben,
 auf einem,
-mit über 1.600 <nobr>km/h[^5]</nobr> um sich selbst
+mit über 1.600 <nobr>km/h[^6]</nobr> um sich selbst
 rotie&shy;ren&shy;den Ge&shy;steins&shy;brocken,
 der mit 30 <nobr>km/s</nobr> um einen Feuer&shy;ball rast,
 welcher mit knapp 230 <nobr>km/s</nobr> um ein
@@ -1869,7 +1916,7 @@ gigan&shy;ti&shy;sch&shy;es schwar&shy;zes Loch rast,
 welches mit hun&shy;der&shy;ten <nobr>km/s</nobr> durch das -273,15 °C
 kalte Nichts rast:  
 "Das Wun&shy;der des Lebens in&shy;mit&shy;ten der
-Fins&shy;ter&shy;<nobr>nis."[^6]</nobr>
+Fins&shy;ter&shy;<nobr>nis."[^7]</nobr>
 
 Auch das wirkt wie insze&shy;niert,
 aber über&shy;all wo ich bin,
@@ -1903,6 +1950,7 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
 > Gern mit aus&shy;ge&shy;dehn&shy;ten
 > Spreng&shy;ar&shy;bei&shy;ten. :boom:
   
+<br>
 
 [^1]: die Markierung <sub><sup>:warning:VT</sub></sup> **warnt vor**
   einem mög&shy;lich&shy;en
@@ -1935,10 +1983,20 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   unter&shy;be&shy;wuss&shy;ten Be&shy;wer&shy;tung des eige&shy;nen
   Selbsts.*)
 
-[^4]: Wir haben uns [mei&shy;ner Wahr&shy;neh&shy;mung
-  nach](#vor-bedingungen--grundannahmen)[^7],
+[^4]: die&shy;<nobr>se/-r</nobr> Täter resp. spe&shy;ziell hat,
+  ab&shy;ge&shy;se&shy;hen von di&shy;rekt sexu&shy;ell
+  attra&shy;hier&shy;en&shy;den Merk&shy;malen der Phy&shy;sis in
+  **über drei&shy;ein&shy;halb Jah&shy;ren** noch **NIE** ein sog.
+  gu&shy;tes Haar an einem ande&shy;ren Men&shy;sch&shy;en
+  ge&shy;lass&shy;en
+  (wenn posi&shy;tiv ge&shy;äußert,
+  dann aus&shy;schließ&shy;lich zu
+  Mani&shy;pu&shy;la&shy;tions&shy;zweck&shy;en)
+
+[^5]: Wir haben uns [mei&shy;ner Wahr&shy;neh&shy;mung
+  nach](#vor-bedingungen--grundannahmen)[^8],
   auf den Deck&shy;na&shy;men
-  «**Fotz&shy;kopf**»[^8] eini&shy;gen kön&shy;nen,
+  «**Fotz&shy;kopf**»[^9] eini&shy;gen kön&shy;nen,
   den wir auch so <nobr>liebe-</nobr> und res&shy;pekt&shy;voll wie nur
   irgend&shy;mög&shy;lich,
   ver&shy;stan&shy;den wis&shy;sen wol&shy;len,  
@@ -1948,9 +2006,9 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   ich, um den span&shy;nen&shy;sten "Er&shy;fin&shy;dungen" der
   Evo&shy;lu&shy;tion ange&shy;mes&shy;se&shy;n zu hul&shy;di&shy;gen.
 
-[^5]: an den Polen wenig&shy;er :wink:
+[^6]: an den Polen wenig&shy;er :wink:
 
-[^6]: In mei&shy;ner Er&shy;in&shy;ne&shy;rung habe ich die&shy;sen Satz
+[^7]: In mei&shy;ner Er&shy;in&shy;ne&shy;rung habe ich die&shy;sen Satz
   vor lan&shy;ger Zeit ein&shy;mal an einer Kirchen&shy;t&uuml;r
   (in Leip&shy;zig?)
   ge&shy;le&shy;sen:  
@@ -1968,21 +2026,21 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   Die Gegenleistung ist unser(-e) Leiden(-schaft).  
   Die gro&szlig;e Chance die Liebe.
 
-[^7]: Soll&shy;te ich mich in mei&shy;ner Wahr&shy;neh&shy;mung
-  aus&shy;nahms&shy;wei&shy;se doch ge&shy;täuscht haben,
+[^8]: Soll&shy;te ich mich in mei&shy;ner Wahr&shy;neh&shy;mung
+  aus&shy;nahms&shy;wei&shy;se doch ge&shy;täuscht ha&shy;ben,
   kann die be&shy;trof&shy;fe&shy;ne Per&shy;son sich gern bei mir
   mel&shy;den,
   so dass ich un&shy;ver&shy;züg&shy;lich berich&shy;ti&shy;gen kann.
 
-[^8]: Selbst&shy;ver&shy;ständ&shy;lich ste&shy;hen
+[^9]: Selbst&shy;ver&shy;ständ&shy;lich ste&shy;hen
   <nobr>einer/</nobr>&shy;einem jeden, <nobr>die/</nobr><wbr>der
   <nobr>ihre/</nobr><wbr>sei&shy;ne
   Per&shy;sön&shy;lich&shy;keits&shy;rech&shy;te ver&shy;letzt
   sieht,
   auch die In&shy;stru&shy;men&shy;te der
-  Straf&shy;ver&shy;fol&shy;gung[^9] zur Ver&shy;fü&shy;gung.
+  Straf&shy;ver&shy;fol&shy;gung[^10] zur Ver&shy;fü&shy;gung.
 
-[^9]: Die [für mich zu&shy;stän&shy;di&shy;ge
+[^10]: Die [für mich zu&shy;stän&shy;di&shy;ge
   Poli&shy;zei&shy;dienst&shy;stel&shy;le (Direktion 4: Abschnitt
   44)](https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-4/abschnitt-44/)
   befän&shy;de sich in der Götz&shy;<nobr>str. 6</nobr> im
