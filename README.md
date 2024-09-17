@@ -1868,7 +1868,7 @@ Ob in&shy;tern oder ex&shy;tern: Ent&shy;we&shy;der
 * Enti&shy;tä&shy;ten voll&shy;er **Angst** in ihren eige&shy;nen
   **Zwänge**n und Reali&shy;tä&shy;ten oder
 
-* ein eini&shy;ger&shy;maßen <nobr>wirres/</nobr><wbr>krankes Spiel
+* ein eini&shy;ger&shy;maßen <nobr>wirres/</nobr><wbr>krankes Spiel und ich bin lediglich nicht eingeladen/informiert,
   oder
 
 * ich muss mich um mei&shy;nen eige&shy;nen, völlig
