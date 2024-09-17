@@ -14,20 +14,22 @@ version: Di., 17. Sep. 2024
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>unter Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie [Buch&shy;empf. eines mögl. Täters](#buchempfehlung-eines-täters)?!)</sup></sub>
 
 <details>
-  <summary>Irgend&shy;wann
-  (hoff&shy;ent&shy;lich & viel&shy;leicht)
-  ein&shy;mal dann nur noch</summary>
+	<summary>Irgend&shy;wann
+  		(hoff&shy;ent&shy;lich & viel&shy;leicht)
+  		ein&shy;mal dann nur noch</summary>
 
   ## «Über die Wirk&shy;mäch&shy;tig&shy;keit (un&shy;ge&shy;wollt selbst er&shy;leb&shy;ter) Sug&shy;ges&shy;tion»
 
   und im Wesent&shy;lich&shy;en die erste Fuß&shy;no&shy;te[^1]
   be&shy;han&shy;delnd.
-
+  
+  <br>
   </details>
 
 <details>
-  <summary>Des&shy;crip&shy;tion in Eng&shy;<nobr>lish :us::gb:</nobr>
-  </summary>
+  	<summary>Des&shy;crip&shy;tion in
+		Eng&shy;<nobr>lish :us::gb:</nobr>
+  		</summary>
 
   ## Collection of acustic Evidence regarding Acts of Stalking AKA «*The Fotz&shy;kopf Recordings*»
 
@@ -122,15 +124,20 @@ version: Di., 17. Sep. 2024
   (which might be different vis-à-vis).
   
 ----
-<br>
-  </details>
-  
-<br>
 
-Wei&shy;te&shy;re,
-mut&shy;ma&szlig;&shy;lich &uuml;ber einen Zeit&shy;raum von heute
-**mehr als 1.350 Tage**n,
-ver&shy;&uuml;bte **Straf&shy;ta&shy;ten** i.&#8239;Z.&#8239;m.  
+  <br>
+  </details>
+
+<details>
+	<summary>Wei&shy;te&shy;re,
+		mut&shy;ma&szlig;&shy;lich &uuml;ber einen
+		Zeit&shy;raum von heute <b>mehr als 1.350
+		Tage</b>n,
+		ver&shy;&uuml;bte
+		<b>Straf&shy;ta&shy;ten</b></summary>
+
+i.&#8239;Z.&#8239;m.
+
 quasi pausen&shy;lo&shy;sem und an&shy;hal&shy;ten&shy;den
 **Stal&shy;king** nach <nobr>§&#8239;238</nobr> StGB,  
 inkl. be&shy;stän&shy;di&shy;gen (d.&#8239;h. täg&shy;lich
@@ -224,7 +231,12 @@ Ver&shy;such der
 **Induk&shy;tion von** «**SCHLECH&shy;TER LAU&shy;NE**»&trade;
 und da&shy;mit **RAU&shy;BEN VON LEBENS&shy;ZEIT**,  
 *f&uuml;r den Spa&szlig; muss man halt selber sorgen..* :sun_with_face:
-  
+
+----
+
+  <br>
+  </details>
+
 > :loudspeaker: **TL;DR**:  
 > Ein Schi&shy;zo&shy;phre&shy;nie-Patient be&shy;haup&shy;tet,
 > ex&shy;ter&shy;ne Inte&shy;res&shy;sen&shy;grup&shy;pen hät&shy;ten
@@ -242,7 +254,8 @@ und da&shy;mit **RAU&shy;BEN VON LEBENS&shy;ZEIT**,
 > bei Psy&shy;cho&shy;sen des schi&shy;zo&shy;phre&shy;nen
 > For&shy;men&shy;krei&shy;ses.
 
-## Eige&shy;ne Per&shy;son
+<details>
+	<summary><h2>Eige&shy;ne Per&shy;son</h2></summary>
 
 * Alex&shy;an&shy;der Puls, ge&shy;bor&shy;en am 26. März 1978 in
   Schwe&shy;rin, Meck&shy;len&shy;burg-Vor&shy;pom&shy;mern
@@ -266,27 +279,6 @@ und da&shy;mit **RAU&shy;BEN VON LEBENS&shy;ZEIT**,
 > Ge&shy;sprä&shy;che mit mir un&shy;be&shy;kann&shy;ten
 > Per&shy;so&shy;nen nur dann fort&shy;zu&shy;füh&shy;ren,
 > wenn ich die&shy;se mit&shy;schnei&shy;den darf.*
-
-> [!TIP]
-> Eine,
-> in der Ver&shy;gan&shy;gen&shy;heit von mut&shy;maß&shy;lich
-> einer Täterin und einem Täter gestell&shy;te,
-> Forde&shy;rung zum Aus&shy;gleich f&uuml;r die
-> Ein&shy;stel&shy;lung jeg&shy;lich&shy;er Formen von
-> Bel&auml;s&shy;ti&shy;gung i.&#8239;H.&#8239;v. **7.000,- EUR**
-> (via QR-Code BC)
-> wur&shy;de zu&shy;rück&shy;ge&shy;zo&shy;gen.  
-> Die glei&shy;che Summe **zah&shy;le ich**
-> (außer <nobr>der/</nobr>dem Täter<nobr>/-in</nobr> selbst, via
-> belie&shy;bi&shy;gem Zah&shy;lungs&shy;weg)
-> <nobr>**der-/</nobr><wbr>dem&shy;jeni&shy;gen**,
-> <nobr>**die/</nobr><wbr>der den ers&shy;ten**,
-> für die zwei&shy;fels&shy;freie Fest&shy;stel&shy;lung
-> ver&shy;wert&shy;ba&shy;ren(!),
-> **Hin&shy;weis auf die Inden&shy;ti&shy;tät** wenigs&shy;tens
-> ein&shy;<nobr>er/</nobr><wbr>ein&shy;es
-> Täter&shy;<nobr>in/</nobr><wbr>Täters
-> im hier be&shy;han&shy;del&shy;ten Kon&shy;text gibt.
 
 * ent&shy;ge&shy;gen der mög&shy;lich&shy;en Dar&shy;stel&shy;lung eines
   poten&shy;tiel&shy;len Täters,
@@ -318,10 +310,36 @@ und da&shy;mit **RAU&shy;BEN VON LEBENS&shy;ZEIT**,
   Sexual&shy;kon&shy;tak&shy;<nobr>te /</nobr> sexu&shy;el&shy;le
   Vor</nobr>&shy;lie&shy;ben oder Sub&shy;stanz&shy;kon&shy;sum*)  
   **TBC..**
-  
+
+----
+
+  <br>
+  </details>
+
+> [!TIP]
+> Eine,
+> in der Ver&shy;gan&shy;gen&shy;heit von mut&shy;maß&shy;lich
+> einer Täterin und einem Täter gestell&shy;te,
+> Forde&shy;rung zum Aus&shy;gleich f&uuml;r die
+> Ein&shy;stel&shy;lung jeg&shy;lich&shy;er Formen von
+> Bel&auml;s&shy;ti&shy;gung i.&#8239;H.&#8239;v. **7.000,- EUR**
+> (via QR-Code BC)
+> wur&shy;de zu&shy;rück&shy;ge&shy;zo&shy;gen.  
+> Die glei&shy;che Summe **zah&shy;le ich**
+> (außer <nobr>der/</nobr>dem Täter<nobr>/-in</nobr> selbst, via
+> belie&shy;bi&shy;gem Zah&shy;lungs&shy;weg)
+> <nobr>**der-/</nobr><wbr>dem&shy;jeni&shy;gen**,
+> <nobr>**die/</nobr><wbr>der den ers&shy;ten**,
+> für die zwei&shy;fels&shy;freie Fest&shy;stel&shy;lung
+> ver&shy;wert&shy;ba&shy;ren(!),
+> **Hin&shy;weis auf die Inden&shy;ti&shy;tät** wenigs&shy;tens
+> ein&shy;<nobr>er/</nobr><wbr>ein&shy;es
+> Täter&shy;<nobr>in/</nobr><wbr>Täters
+> im hier be&shy;han&shy;del&shy;ten Kon&shy;text gibt.
+
 ## (Vor-)Bedin&shy;gun&shy;gen & einige Grund&shy;an&shy;nah&shy;men
 
-### Grundbedingun&shy;gen sämt&shy;lich&shy;er "Beob&shy;ach&shy;tung&shy;en"
+### Grundbedingun&shy;gen
 
 Trotz (erst&shy;ma&shy;lig 2021) diag&shy;nos&shy;ti&shy;zier&shy;ter
 Schizo&shy;phre&shy;nie[^2],
@@ -545,7 +563,11 @@ wird sie ge&shy;strich&shy;en*.
 		so&shy;dass sie weni&shy;ger als nichts wis&shy;sen,
 		so des&shy;in&shy;for&shy;miert und ver&shy;wirrt wie mög&shy;lich
 		sind
-	</details>
+
+----
+
+  <br>
+  </details>
   
 ### Grundannahmen im Speziellen
 
