@@ -8,7 +8,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Mo., 17. Sep. 2024 (commit #50)
+version: Di., 17. Sep. 2024
 ```
 
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>unter Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie [Buch&shy;empf. eines mögl. Täters](#buchempfehlung-eines-täters)?!)</sup></sub>
@@ -1218,7 +1218,7 @@ sozia&shy;le Unter&shy;stüt&shy;zung, den Tätern voll&shy;kom&shy;men
 aus&shy;ge&shy;lie&shy;fert sind.  
 
 Besonders beein&shy;druckend ist die Ziel&shy;strebig&shy;keit
-mindestens einer [Täter-Persön&shy;lich&shy;keit](./fotzkopf.md),
+mindestens einer <nobr>Täter-</nobr><wbr>Persön&shy;lich&shy;keit,
 die in ihrem Sadis&shy;mus und einer fast schon
 patho&shy;lo&shy;gisch&shy;en Nei&shy;gung zum Indu&shy;zie&shy;ren von
 <nobr>Furcht/</nobr><wbr>Panik und dem Sähen von Zweifel beeindruckt.  
@@ -1300,8 +1300,8 @@ Even&shy;tuel&shy;le Moti&shy;ve und eini&shy;ge **Bei&shy;spie&shy;le**
 aus&shy;führ&shy;lich&shy;er
 (auch schon ob ihr&shy;es hohen Unter&shy;hal&shy;tungs&shy;werts sowie
 ihrer Origi&shy;na&shy;li&shy;<nobr>t&auml;t/</nobr><wbr>Ein&shy;zig&shy;ar&shy;tig&shy;keit)
-in einem eige&shy;nen [Ab&shy;schnitt "Sug&shy;ges&shy;tion bei den
-Ande&shy;ren&trade;"](#suggestion-au&szlig;er-haus-und-bei-den-anderen&trade;),
+in einem eige&shy;nen Ab&shy;schnitt "[Sug&shy;ges&shy;tion bei den
+Ande&shy;ren&trade;](#suggestion-au&szlig;er-haus-und-bei-den-anderen)",
 der zu&shy;künf&shy;tig zwar täter-be&shy;zo&shy;ge&shy;ne,
 aber nicht aus&shy;schlie&szlig;&shy;lich mich
 be&shy;trof&shy;fe&shy;<nobr>ne/-tref</nobr>&shy;fen&shy;de 
@@ -1623,8 +1623,7 @@ ande&shy;re Men&shy;schen unter Dro&shy;gen zu set&shy;zen),
 über&shy;haupt nur mit ande&shy;ren spre&shy;chen zu las&shy;sen.  
 
 <details>
-	<summary><h2>Suggestion au&szlig;er Haus und bei den
-		Anderen&trade;</h2></summary>
+	<summary><h2>Suggestion au&szlig;er Haus und bei den Anderen&trade;</h2></summary>
 
 ### Idee
 
@@ -1684,7 +1683,7 @@ Ver&shy;glei&shy;che
 > auf&shy;ein&shy;an&shy;der&shy;fol&shy;gen&shy;de, 
 > durch die Um&shy;ge&shy;bungs&shy;luft lau&shy;fen&shy;de,
 > Wel&shy;len&shy;käm&shy;me zu
-> er&shy;ken&shy;<nobr>nen[<sup>VT:warning:</sup>](#fn1)</nobr>
+> er&shy;ken&shy;<nobr>nen[<sup>VT:warning:</sup>](#user-content-fn-1-1561bb98111bdd27650172b461d5ed95)</nobr>
 
 mit dem ich
 (un&shy;ge&shy;wollt)
