@@ -3,12 +3,11 @@
 file:    state-of-perception/README.md
 brief:   Description & Logging of an altering Perception after "Mind
          Opening" in 2021 and possibly (multiple) Acts of Stalking
-         (main file)
 author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Mi., 18. Sep. 2024
+version: Do., 19. Sep. 2024
 ```
 
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>unter Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie die zyni&shy;sche [Buch&shy;empfeh&shy;lung eines mögl. Täters](#buchempfehlung-eines-t&auml;ters)?!)</sup></sub>
@@ -302,14 +301,9 @@ version: Mi., 18. Sep. 2024
   berüh&shy;ren teils intim&shy;ste Lebens&shy;be&shy;rei&shy;che,
   wie bspw. Sexual&shy;kon&shy;tak&shy;<nobr>te
   /</nobr>sexu&shy;el&shy;le Vor</nobr>&shy;lie&shy;ben oder
-  Sub&shy;stanz&shy;kon&shy;sum*)  
-    
-  * **TBC..**
+  Sub&shy;stanz&shy;kon&shy;sum*)
+  </details>
   
-----
-
-<br/></details>
-
 * ich habe,
   ent&shy;ge&shy;gen der mög&shy;lich&shy;en Dar&shy;stel&shy;lung
   eines poten&shy;tiel&shy;len Täters,
@@ -404,7 +398,6 @@ Mit&shy;tel
 als auch zur Ver&shy;schleie&shy;rung ihrer eige&shy;nen
 Iden&shy;ti&shy;tät[^3] **aus**.
 
-> [!NOTE]
 > Ich kann mir,
 > bis zu einer be&shy;stimm&shy;ten und lei&shy;der auch
 > va&shy;riab&shy;len Laut&shy;stär&shy;ke,
@@ -666,9 +659,9 @@ wird sie ge&shy;strich&shy;en*.
 <details>
   <summary>
     <h3>unter&shy;schie&shy;de zwisch&shy;en dem
-      "stim&shy;men-h&ouml;&shy;ren" eini&shy;ger stim&shy;men zu
-      hau&shy;se gg&uuml;. draußen</h3></summary>
-
+      "Stim&shy;men-H&ouml;&shy;ren" zu Hau&shy;se
+      gg&uuml;. draußen</h3></summary>
+  
 Da den Stim&shy;men in vie&shy;len Fäl&shy;len in der eige&shy;nen
 Woh&shy;nung men&shy;tal nur schwer bis gar nicht beizu&shy;kom&shy;men
 ist, sie draußen aber (mit einer gewis&shy;sen Übung)
@@ -1075,6 +1068,16 @@ dass so&shy;etwas von einer Maschi&shy;ne er&shy;le&shy;digt wird,
 noch dass ein ge&shy;lang&shy;weil&shy;ter, ver&shy;wirr&shy;ter
 Ein&shy;zel&shy;tä&shy;ter so&shy;et&shy;was mal eben schnell vor dem
 Früh&shy;stück in Excel zu&shy;sam&shy;men&shy;klickt.
+
+> [!TIP]
+> Ich gehe da&shy;von aus,
+> dass Schi&shy;zo&shy;phre&shy;nie-Patien&shy;ten all&shy;ge&shy;mein
+> eine Art Ide&shy;al-Opfer für die feigs&shy;ten
+> <nobr>und/</nobr><wbr>oder
+> skru&shy;pel&shy;lo&shy;ses&shy;ten Sadis&shy;ten dar&shy;stel&shy;len 
+> und folg&shy;lich einen Tum&shy;mel&shy;platz für
+> sol&shy;ch&shy;er&shy;lei Krea&shy;tu&shy;ren bil&shy;den
+> soll&shy;ten.
   
 ### "[Ins&shy;ze&shy;niert&shy;heit](#manipulation-der-realit&auml;t-selbst)"(?) mehre&shy;rer(?) "Bedro&shy;hung&shy;en"
 
@@ -1168,9 +1171,9 @@ Früh&shy;stück in Excel zu&shy;sam&shy;men&shy;klickt.
 ###  Gefahr&shy;en&shy;po&shy;ten&shy;tial und weitere Befürch&shy;tun&shy;gen
 
 <details>
-	<summary>Mög&shy;lich&shy;er&shy;wei&shy;se gibt es Men&shy;schen,
+  <summary>Mög&shy;lich&shy;er&shy;wei&shy;se gibt es Men&shy;schen,
     die ver&shy;gleich&shy;ba&shy;re Erfah&shy;run&shy;gen mit ..
-		</summary>
+    </summary>
 
 neuro-lingu&shy;is&shy;tisch&shy;er Pro&shy;gram&shy;mie&shy;rung,
 Ver&shy;such&shy;en un&shy;ge&shy;woll&shy;ter Hyp&shy;no&shy;se,
@@ -1494,7 +1497,7 @@ als wür&shy;den Täter Teile der gemein&shy;sa&shy;m erleb&shy;ten Welt
 manipulieren,
 um die Wirkung ihrer Suggestion weiter zu ver&shy;stär&shy;ken.
   
-## Annahmen zu mögl. Initiatoren
+## Annahmen zu möglichen Initiatoren
 
 <details>
   <summary>
