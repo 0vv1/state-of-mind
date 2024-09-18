@@ -759,7 +759,10 @@ emo&shy;tio&shy;na&shy;len Druck in den Dia&shy;log zu zwingen.
   Schwach&shy;stel&shy;len und Trau&shy;ma&shy;ta
   </details>
   
-### Aus&shy;wahl ein&shy;ge&shy;setz&shy;ter Mit&shy;tel
+<details>
+  <summary>
+    <h3>Aus&shy;wahl ein&shy;ge&shy;setz&shy;ter Mit&shy;tel
+	  </h3></summary>
 
 **N**euro-<wbr>**L**ingu&shy;is&shy;ti&shy;sche
 **P**ro&shy;gram&shy;mie&shy;rung
@@ -787,6 +790,7 @@ exis&shy;tie&shy;ren&shy;der Per&shy;so&shy;nen **ohne**
 meis&shy;tens ohne
 (oder "fal&shy;schem") zeit&shy;lich&shy;en Bezug,
 in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.  
+  </details>
   
 ### Tak&shy;ti&shy;ken der Zer&shy;mür&shy;bung
 
@@ -1840,13 +1844,13 @@ weiter ge&shy;hirn&shy;ge&shy;wa&shy;schen :smirk:)
 > zwei kurz auf&shy;ein&shy;an&shy;der&shy;fol&shy;gen&shy;de, 
 > durch die Um&shy;ge&shy;bungs&shy;luft lau&shy;fen&shy;de,
 > Wel&shy;len&shy;käm&shy;me zu
-> er&shy;ken&shy;<nobr>nen<sup>VT:warning:</sup>[^1]</nobr> sind.
+> er&shy;ken&shy;<nobr>nen<sup>:warning:VT</sup>[^1]</nobr> sind.
 
 #**T.&#8239;B.&#8239;C.&#8239;..**
 
-### Manipulation der Realität selbst
+### Mani&shy;pu&shy;la&shy;tion der Rea&shy;li&shy;tät selbst
 
-#### Vermutete Intention
+#### Ver&shy;mu&shy;te&shy;te Inten&shy;tion
 
 Wir&shy;kungs&shy;ver&shy;stär&shy;kung ein&shy;ge&shy;setz&shy;ter
 Mit&shy;tel zur Zer&shy;set&shy;zung der Wahr&shy;neh&shy;mung
