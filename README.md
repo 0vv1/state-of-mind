@@ -1713,9 +1713,9 @@ fin&shy;de.
 </details>
 
 <details>
-	<summary>
-		<h3>Weite&shy;re Ge&shy;dan&shy;ken zu mög&shy;lich&shy;en Tätern
-			</h3><summary>
+  <summary>
+    <h3>Weite&shy;re Ge&shy;dan&shy;ken zu mög&shy;lich&shy;en Tätern
+      </h3></summary>
 
 Auch wenn die vie&shy;len aufge&shy;zwun&shy;ge&shy;nen
 Dia&shy;lo&shy;ge immer Macht&shy;demon&shy;stra&shy;tio&shy;nen sind,
