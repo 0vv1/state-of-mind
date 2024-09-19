@@ -27,7 +27,7 @@ version: Do., 19. Sep. 2024
   <summary>Des&shy;crip&shy;tion in
     Eng&shy;<nobr>lish :us: :gb: </nobr></summary>
 
-  ## Collection of acustic Evidence regarding Acts of Stalking AKA «*The Fotz&shy;kopf Recordings*»
+  ## Collect&shy;ion of Evi&shy;den&shy;ce regar&shy;ding Acts of Stal&shy;king&nbsp;<sub><sup>or</sub></sup><br/>«The *Fotz&shy;kopf* Recor&shy;dings»
 
   Hi there,
   
@@ -272,7 +272,7 @@ version: Do., 19. Sep. 2024
     eines poten&shy;tiel&shy;len Täters,
     **kei<nobr>ne** /&nbsp;</nobr><wbr>**nie eine** soge&shy;nann&shy;te
     "gespal&shy;te&shy;ne
-	Per&shy;sön&shy;lich&shy;<nobr>keit"[^2],</nobr>
+    Per&shy;sön&shy;lich&shy;<nobr>keit"[^2],</nobr>
   
   * ich <nobr>habe/</nobr><wbr>hatte,
     ent&shy;ge&shy;gen der mög&shy;lich&shy;en Dar&shy;stel&shy;lung
@@ -1868,14 +1868,15 @@ ande&shy;re Men&shy;schen unter Dro&shy;gen zu set&shy;zen),
   </details></details>
   
 <h2>"Ben&shy;ding of Reality" & die
-  Mani&shy;pu&shy;la&shy;tion "der Ande&shy;ren"&trade;</h2>
+  Mani&shy;pu&shy;la&shy;tion der Ande&shy;ren&trade;</h2>
 
 Hier sind zwei Din&shy;ge **drin&shy;gend zu
 un&shy;ter&shy;schei&shy;den**:  
 
-1. die Mani&shy;pu&shy;la&shy;tion der **Wahr&shy;neh&shy;mung der
-   Rea&shy;li&shy;tät** vs.
-2. Mani&shy;pu&shy;la&shy;tion der **Rea&shy;li&shy;tät** selbst,
+1. die [Mani&shy;pu&shy;la&shy;tion der **Wahr&shy;neh&shy;mung der
+   Rea&shy;li&shy;tät**](#manipulation-der-wahrnehmung-der-realit&auml;t) vs.
+2. die [Mani&shy;pu&shy;la&shy;tion der **Rea&shy;li&shy;tät**
+   selbst](#manipulation-der-realit&auml;t-selbst),
 
 wenn&shy;gleich **hier leider** die Gren&shy;zen zwisch&shy;en
 bei&shy;dem 
@@ -1884,8 +1885,7 @@ Wahr&shy;neh&shy;<nobr>mung :confused:)</nobr>
 flie&szlig;end sind, und **hier** (wie&shy;der) **lei&shy;der**
 zu&shy;s&auml;tz&shy;lich oft zu korre&shy;lie&shy;ren schei&shy;nen.
   
-<h3>Mani&shy;pu&shy;la&shy;tion der Wahr&shy;neh&shy;mung
-  (der Reali&shy;tät)</h3>
+### Mani&shy;pu&shy;la&shy;tion der Wahr&shy;neh&shy;mung (der Reali&shy;t&auml;t)
 
 <nobr>Die/</nobr>der
 <nobr>Täter/</nobr><wbr><nobr>-in/</nobr><wbr><nobr>-nen</nobr>
@@ -1921,6 +1921,21 @@ Repu&shy;ta&shy;tions&shy;ver&shy;lust im sozia&shy;len Um&shy;feld.
 <h4>Log von "NLP-bear&shy;bei&shy;te&shy;ter" Wahr&shy;neh&shy;mung
   von Draußen-Er&shy;eig&shy;nis&shy;sen</h4>
 
+<details>
+  <summary>
+    <h5>"Rave the Planet"-Parade am
+      <nobr><b>17. Aug. 2024</b></nobr></h5></summary>
+
+  Vollkommen skurriles Erleben inklusive des NLPen/suggerieren eines
+  schnaufenden, offenbar sehr erregten Mannes auf dem Rücken bzw.
+  Schultern (kanppe halbe Stunde, dann ausfadend),  
+  samt spüren eines männlichen Genitals im  Anus
+  (intendierte Absicht: vermutlich Re-Traumatisierung)
+
+  **[W.&#8239;i.&#8239;P.](https://en.wikipedia.org/wiki/Work_in_process)
+  ..**
+  </details>
+  
 <details>
   <summary>
     <h5>"Die &Auml;rzte"-Kon&shy;zert am
@@ -1959,9 +1974,8 @@ weiter ge&shy;hirn&shy;ge&shy;wa&shy;schen :smirk:)
 
 #**T.&#8239;B.&#8239;C.&#8239;..**
   </details>
-  
-<h3>Mani&shy;pu&shy;la&shy;tion
-  der Rea&shy;li&shy;tät selbst</h3>
+
+### Mani&shy;pu&shy;la&shy;tion der Rea&shy;li&shy;t&auml;t (selbst)
 
 <h4>Ver&shy;mu&shy;te&shy;te Inten&shy;tion</h4>
 
