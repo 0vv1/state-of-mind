@@ -250,7 +250,7 @@ version: Do., 19. Sep. 2024
 
   * ge&shy;bor&shy;en am 26. März 1978 in
     Schwe&shy;rin, Meck&shy;len&shy;burg-Vor&shy;pom&shy;mern,
-  * habe eine Aus&shy;bil&shy;dung&shy;en zum
+  * habe Aus&shy;bil&shy;dung&shy;en zum
     Ver&shy;wal&shy;tungs&shy;fach&shy;an&shy;ge&shy;stellt&shy;en 2001
     so&shy;wie Fach&shy;in&shy;for&shy;ma&shy;ti&shy;ker
     ab<nobr>sol</nobr>viert,
@@ -291,7 +291,6 @@ version: Do., 19. Sep. 2024
     (mir sehr be&shy;fremd&shy;liche)
     Rache&shy;fan&shy;ta&shy;sien.
     
-  
   * ich
     <nobr>bin/</nobr><wbr>war/</nobr><wbr>habe/</nobr><wbr>hatte,<wbr>
     ent&shy;**ge&shy;gen** .. **Dar&shy;stel&shy;lung** .. Täter,
@@ -308,10 +307,9 @@ version: Do., 19. Sep. 2024
     Sub&shy;stanz&shy;kon&shy;sum* et.&#8239;c.),
     
     Eigent&shy;lich **alles** total **Bana&shy;ne**,
-    es gibt
     (für mich)
-    einen sehr wich&shy;ti&shy;gen Leit&shy;satz:  
-    **Try not to burden them**!
+    diesen einen wich&shy;ti&shy;gen Satz:  
+    **Try not to burden them**!  
     oder wenigstens ALAP
     (**a**s **l**ittle **a**s **p**ossible) :kissing_heart:  
     Mehr braucht es nicht,
@@ -852,7 +850,8 @@ Mani&shy;pu&shy;la&shy;tion von Emo&shy;tio&shy;nen durch
 Aus&shy;lö&shy;sen von <nobr>**Furcht**/</nobr><wbr>**Panik**,
 Zwei&shy;feln & **Unge&shy;wiss&shy;heit**,  
 emo&shy;tio&shy;nale Bin&shy;<nobr>dung/</nobr><wbr>Lösung,  
-**Gas&shy;lighting** in **extre&shy;m**em Umfang
+[**Gas&shy;lighting**](https://de.wikipedia.org/wiki/Gaslighting) in
+**extre&shy;m**em Umfang
 (fühlt sich teils wie ein Ex&shy;peri&shy;ment an),  
 **In-Frage-Stel&shy;len** des Erleb&shy;ten,  
 **Mani&shy;pu&shy;la&shy;tion** von Laut&shy;stärke und
@@ -1028,7 +1027,7 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
   dabei immer geschickt [**zwischen Wahr&shy;neh&shy;mung der
   Reali&shy;tät und schizo&shy;phre&shy;nem
   Er&shy;le&shy;ben austariertes**](#austarieren-bestimmter-parameter),
-  **Gas&shy;lighting**
+  [**Gas&shy;lighting**](https://de.wikipedia.org/wiki/Gaslighting)
   
 <details>
   <summary>
@@ -1881,7 +1880,7 @@ un&shy;ter&shy;schei&shy;den**:
 wenn&shy;gleich **hier leider** die Gren&shy;zen zwisch&shy;en
 bei&shy;dem 
 (jeden&shy;falls in der Wahr&shy;neh&shy;mung der eige&shy;nen 
-Wahr&shy;neh&shy;mung :confused:)
+Wahr&shy;neh&shy;<nobr>mung :confused:)</nobr>
 flie&szlig;end sind, und **hier** (wie&shy;der) **lei&shy;der**
 zu&shy;s&auml;tz&shy;lich oft zu korre&shy;lie&shy;ren schei&shy;nen.
   
