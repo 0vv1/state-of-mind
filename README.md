@@ -377,7 +377,7 @@ version: Do., 19. Sep. 2024
 > Sollte es **involvierte Dritte** geben, sind diese vollständig **frei von Verantwortung**!  
 > Sie sollten von einem, höchstens wenigen, ursächlich Verantwortlichen so dermaßen trickreich und perfide "hineingezogen" worden sein, dass es dafür, in meiner Sprache, keine Worte gäbe.
 > 
-> (**Anm.**: Lieber mit (einer leicht verwirrten Illusion) von euch, als allein mit einem kaputten Sadisten.)
+> (**Anm.**: Lieber mit (einer leicht verwirrten Illusion von) euch, als allein mit einem kaputten Sadisten. Es ist am Ende ja auch immer "nur" Akustik.)
 
 <details>
   <summary>
