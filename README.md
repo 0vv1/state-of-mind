@@ -310,9 +310,8 @@ version: Do., 19. Sep. 2024
     (in ihrer neuen Whg.)
     auf&shy;ge&shy;sucht habe,
     um mich zu ver&shy;ge&shy;wis&shy;sern,
-    dass **alles i.&#8239;O.**&trade; ist und **keine
-    der**,  
-	mir mit einer ihrer (min&shy;des&shy;tens) vier
+    dass **alles i.&#8239;O.**&trade; ist und **keine der** mir,  
+	mit einer ihrer (min&shy;des&shy;tens) vier
     Ersatz&shy;vari&shy;an&shy;ten  
     (von denen zwei "*Gedanken lesen*" k&ouml;n&shy;nen :wink:)  
     fast täg&shy;lich **vor&shy;ge&shy;spiel&shy;ten**<sup>?!</sup>
@@ -405,7 +404,6 @@ Iden&shy;ti&shy;tät[^3] **aus**.
 > als bei Men&shy;sch&shy;en mit "norma&shy;ti&shy;ver"
 > Wahr&shy;neh&shy;mung.
 
-> [!TIP]
 > Ich gehe da&shy;von aus,
 > dass Schi&shy;zo&shy;phre&shy;nie-Patien&shy;ten all&shy;ge&shy;mein
 > eine Art Ide&shy;al-Opfer für die feigs&shy;ten
@@ -1095,8 +1093,8 @@ Früh&shy;stück in Excel zu&shy;sam&shy;men&shy;klickt.
   
 <details>
   <summary>
-    <h4>"Nur"
-      [Insze&shy;nie&shy;rung](#manipulation-der-realit&auml;t-selbst)?
+    <h4>"Nur" <a
+	  href="#manipulation-der-realit&auml;t-selbst">Insze&shy;nie&shy;rung</a>?
       </h4></summary>
 
 * (Ach&shy;tung: **noch absur&shy;der!**)
@@ -1204,7 +1202,6 @@ sind selbst&shy;ver&shy;ständ&shy;lich Insti&shy;tu&shy;te der
 soll&shy;te ich ein wei&shy;te&shy;res Mal bei den Cops
 ab&shy;bli&shy;tzen).  
 
-> [!TIP]
 > Es braucht (bei der Poli&shy;zei) `>1`
 > (in Wor&shy;ten: mehr als eine/-n)
 > Zeu&shy;<nobr>gin/</nobr><wbr>Zeu&shy;gen. :point_up:
@@ -1226,7 +1223,6 @@ durch Sugges&shy;tion einer** wie jauch immer ge&shy;arte&shy;ten
 "**Mit&shy;täter&shy;schaft**",
 thema&shy;ti&shy;siert waren.
 
-> [!CAUTION]
 > Eine solche "Kon&shy;trolle" könn&shy;te
 > natür&shy;lich auch dann behauptet sein,
 > wenn ich mir das alles hier nur aus&shy;ge&shy;dacht hätte,
@@ -1814,7 +1810,6 @@ Per&shy;so&shy;nen,
 ihren Gemüts&shy;zu&shy;stän&shy;den, eige&shy;nen Zwän&shy;gen
 et&#8239;c. tref&shy;fen.  
 
-> [!IMPORTANT]
 > Sollte es sich bei einem der Täter tat&shy;säch&shy;lich um einen
 > Mensch&shy;en mit einer dis&shy;so&shy;zia&shy;ti&shy;ven
 > Iden&shy;ti&shy;täts&shy;stö&shy;rung han&shy;deln,
@@ -1929,7 +1924,6 @@ willen&shy;lose Zombies und wür&shy;den durch ent&shy;ar&shy;te&shy;te
 Song&shy;texte der Band so&shy;wie dif&shy;fuse Sound&shy;effek&shy;te
 weiter ge&shy;hirn&shy;ge&shy;wa&shy;schen :smirk:)
 
-> [!NOTE]
 > Ob&shy;gleich am Ende des Songs,
 > deut&shy;lich,
 > zwei kurz auf&shy;ein&shy;an&shy;der&shy;fol&shy;gen&shy;de, 
