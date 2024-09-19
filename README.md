@@ -271,7 +271,8 @@ version: Do., 19. Sep. 2024
     ent&shy;ge&shy;gen der mög&shy;lich&shy;en Dar&shy;stel&shy;lung
     eines poten&shy;tiel&shy;len Täters,
     **kei<nobr>ne** /&nbsp;</nobr><wbr>**nie eine** soge&shy;nann&shy;te
-    "gespal&shy;te&shy;ne Per&shy;sön&shy;lich&shy;keit"[^2],
+    "gespal&shy;te&shy;ne
+	Per&shy;sön&shy;lich&shy;<nobr>keit"[^2],</nobr>
   
   * ich <nobr>habe/</nobr><wbr>hatte,
     ent&shy;ge&shy;gen der mög&shy;lich&shy;en Dar&shy;stel&shy;lung
@@ -321,7 +322,7 @@ version: Do., 19. Sep. 2024
     ent&shy;ge&shy;gen der permanenten Suggestion
     eines poten&shy;tiel&shy;len Täters,
     eine [be&shy;stimm&shy;te
-    (**Ex-**)**Nach&shy;ba&shy;rin**](https://github.com/0vv1/state-of-perception/blob/1fb83092a96fbb2565cef754ee27951aa00ba101/README.md#1st-things-first)
+    (**Ex-**)**Nach&shy;ba&shy;<nobr>rin**](https://github.com/0vv1/state-of-perception/blob/1fb83092a96fbb2565cef754ee27951aa00ba101/README.md#1st-things-first)[^3]</nobr>
     **seit Feb&shy;ru&shy;ar 2023**(!) **nicht** mehr
     **ge&shy;se&shy;<nobr>hen**/</nobr><wbr>**ge&shy;hört**,
     bis ich sie Mit&shy;te August (2024) kurz
@@ -381,7 +382,8 @@ version: Do., 19. Sep. 2024
 
 **Trotz**
 (erst&shy;ma&shy;lig 2021)
-diag&shy;nos&shy;ti&shy;zier&shy;ter **Schizo**&shy;phre&shy;nie[^2],
+diag&shy;nos&shy;ti&shy;zier&shy;ter
+**Schizo**&shy;phre&shy;<nobr>nie[^2],</nobr>
 bin ich **weiter&shy;hin der Mei&shy;nung**,
 **dass** wenigs&shy;tens **eini&shy;ge**, der von mir
 (im Wesent&shy;lich&shy;en als **Stim&shy;men** gehörten),
@@ -410,7 +412,7 @@ so&shy;wohl zur Wir&shy;kungs&shy;ver&shy;stär&shy;kung ihrer
 Mit&shy;tel
 (*kurz*: man kann mich viel bes&shy;ser täu&shy;sch&shy;en)
 als auch zur Ver&shy;schleie&shy;rung ihrer eige&shy;nen
-Iden&shy;ti&shy;tät[^3] **aus**.
+Iden&shy;ti&shy;tät[^4] **aus**.
 
 > Ich kann mir,
 > bis zu einer be&shy;stimm&shy;ten und lei&shy;der auch
@@ -467,7 +469,8 @@ die nach all&shy;ge&shy;mei&shy;ner Auf&shy;fas&shy;sung kei&shy;ner
 ge&shy;mein&shy;sa&shy;men Re&shy;ali&shy;tät ent&shy;stam&shy;men
 
 * im Mai 2021 zu&shy;nächst die Diag&shy;no&shy;se einer
-  Schi&shy;zo&shy;phre&shy;nie[^2] durch eine [ambu&shy;lante
+  Schi&shy;zo&shy;phre&shy;<nobr>nie[^2]</nobr>
+  durch eine [ambu&shy;lante
   Psychia&shy;trie](https://www.vivantes.de/humboldt-klinikum/ambulatorium/pia-allgemein),
   bei der ich seit&shy;dem in Be&shy;hand&shy;lung bin
   (eine der PIAs des Hum&shy;boldt-Kli&shy;ni&shy;kums)
@@ -753,7 +756,7 @@ Berei&shy;chen der eige&shy;nen Woh&shy;nung)
 mit viel Zeit und hohem
 Aufwand sog. [Neuro-Lingu&shy;is&shy;tische
 Pro&shy;gram&shy;me](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
-indu&shy;<nobr>ziert<sup>:warning:VT</sup>[^1]</nobr>,
+indu&shy;<nobr>ziert<sup>:warning:VT</sup>[^1],</nobr>
 die dann tags&shy;über in irgend&shy;einer Weise
 (wenn man nicht weiß, woher Stimmen und "Ideen" stammen)
 fast zwingend abge&shy;ar&shy;beitet wer&shy;den müs&shy;sen,
@@ -919,7 +922,7 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
 > dass er/sie in der letz&shy;ten Nacht
 > (wie bereits öfter),
 > zur **[Tele&shy;pa&shy;thie](https://de.wikipedia.org/wiki/Telepathie)
-> befä&shy;higte Men&shy;<nobr>schen**<sup>:warning:VT</sup>[^1]</nobr>,
+> befä&shy;higte Men&shy;<nobr>schen**<sup>:warning:VT</sup>[^1],</nobr>
 > [gegen deren Willen](https://www.unicum.de/wissenswertes/raus-aus-meinem-kopf-kann-hypnose-dich-willenlos-machen)
 > via [Hyp&shy;nose](https://de.wikipedia.org/wiki/Hypnose)
 > dafür "miss&shy;braucht",
@@ -995,7 +998,7 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
     nicht be&shy;greift,
     viel&shy;mehr geht es ihm hier&shy;bei um die Ver&shy;mitt&shy;lung,
     ihm sei ein Men&shy;sch als fühlendes und denkendes Wesen nichts
-    wert[^4]
+    <nobr>wert[^5]</nobr>
   
 * Spezia&shy;li&shy;tät einer der Täter: **Sug&shy;ges&shy;tion,
   man wür&shy;de für die Taten ande&shy;rer zur Rech&shy;en&shy;schaft
@@ -1600,7 +1603,7 @@ ver&shy;stär&shy;ken.
 <details>
   <summary>
     <h3>Beob&shy;ach&shy;tun&shy;gen & An&shy;nah&shy;men
-      zu Täter "F."<a href="#fn5"><sup>5</sup></a></h3></summary>
+      zu <a href="#foko">Täter "F."</a></h3></summary>
 
 Hier der Ver&shy;such eines Pro&shy;fils eines, aus mei&shy;ner Sicht,
 <nobr>(Haupt-)</nobr><wbr><nobr>Täters(-ver</nobr>&shy;ant&shy;wort&shy;lich&shy;n),
@@ -1609,7 +1612,7 @@ jeden&shy;falls
 domi&shy;nan&shy;tes&shy;ten Pro&shy;ta&shy;go&shy;nis&shy;ten zu
 skiz&shy;zie&shy;ren.  
 **Man&shy;gels Iden&shy;ti&shy;tät** haben "*wir uns*" auf "**F.**"
-ge&shy;ei&shy;nigt.[^5]
+ge&shy;ei&shy;nigt.[^6]
 
 * m&ouml;g&shy;lich&shy;er&shy;wei&shy;se Ini&shy;tia&shy;tor,
   mglw. Haupt&shy;tä&shy;ter,
@@ -1894,7 +1897,8 @@ All&shy;tags&shy;ge&shy;scheh&shy;nis&shy;se und
 <nobr>(Gro&szlig;-)</nobr><wbr>Ver&shy;an&shy;stal&shy;tun&shy;gen zu
 nut&shy;zen
 (und **deren Mani&shy;pu&shy;la&shy;tion selbst "lediglich"
-sug&shy;ge&shy;rier&shy;en** zu wollen<sup>:warning:VT</sup>[^1]),</nobr>
+sug&shy;ge&shy;rier&shy;en** zu
+wol&shy;<nobr>len<sup>:warning:VT</sup>[^1]),</nobr>
 in&shy;dem <nobr>sie/</nobr><wbr>er die&shy;se via
 [NLP](#wesen-der-neuro-linguistischen-programme)s für
 <nobr>ihre/</nobr><wbr>sei&shy;ne Opfer
@@ -2162,7 +2166,7 @@ Schöpfung! :heart:
 
 Die wir er&shy;leben,
 auf einem,
-mit über 1.600 <nobr>km/h[^6]</nobr> um sich selbst
+mit über 1.600 <nobr>km/h[^7]</nobr> um sich selbst
 rotie&shy;ren&shy;den Ge&shy;steins&shy;brocken,
 der mit 30 <nobr>km/s</nobr> um einen Feuer&shy;ball rast,
 welcher mit knapp 230 <nobr>km/s</nobr> um ein
@@ -2170,7 +2174,7 @@ gigan&shy;ti&shy;sch&shy;es schwar&shy;zes Loch rast,
 welches mit hun&shy;der&shy;ten <nobr>km/s</nobr> durch das -273,15 °C
 kalte Nichts rast:  
 "Das Wun&shy;der des Lebens in&shy;mit&shy;ten der
-Fins&shy;ter&shy;<nobr>nis."[^7]</nobr>
+Fins&shy;ter&shy;<nobr>nis."[^8]</nobr>
 
 Auch das wirkt wie insze&shy;niert,
 aber über&shy;all wo ich bin,
@@ -2222,7 +2226,13 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   Per&shy;sön&shy;lich&shy;keit](https://de.wikipedia.org/wiki/Dissoziative_Identit%C3%A4tsst%C3%B6rung)“
   verbunden."
 
-[^3]: Ich ver&shy;mute,
+[^3]: deren <nobr>Angst/</nobr>Sorge auf ein&shy;mal doch immer
+  begrün&shy;det war,
+  nur das Objekt mglw. ver&shy;wechselt wur&shy;de.  
+  Jeden&shy;falls aber,
+  kann sie sich zu 100 % auf ihre Instin&shy;kte ver&shy;las&shy;sen.
+
+[^4]: Ich ver&shy;mute,
   dass die&shy;ses "ver&shy;steck&shy;te",
   und da&shy;mit abso&shy;lut sich&shy;ere Ope&shy;rie&shy;ren,
   bei den Tätern einen ganz beson&shy;de&shy;ren Reiz aus&shy;löst,
@@ -2237,20 +2247,20 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   unter&shy;be&shy;wuss&shy;ten Be&shy;wer&shy;tung des eige&shy;nen
   Selbsts.*)
 
-[^4]: die&shy;<nobr>se/-r</nobr> Täter resp. spe&shy;ziell hat,
+[^5]: die&shy;ser Täter spe&shy;ziell hat,
   ab&shy;ge&shy;se&shy;hen von di&shy;rekt sexu&shy;ell
-  attra&shy;hier&shy;en&shy;den Merk&shy;malen der Phy&shy;sis in
-  **über drei&shy;ein&shy;halb Jah&shy;ren** noch **NIE** ein sog.
-  gu&shy;tes Haar an einem ande&shy;ren Men&shy;sch&shy;en
+  attra&shy;hier&shy;en&shy;den Merk&shy;malen der Phy&shy;sis, in
+  **über drei&shy;ein&shy;halb Jah&shy;ren** noch **NIE** "ein sog.
+  gu&shy;tes Haar" an einem ande&shy;ren Men&shy;sch&shy;en
   ge&shy;lass&shy;en
   (wenn posi&shy;tiv ge&shy;äußert,
   dann aus&shy;schließ&shy;lich zu
   Mani&shy;pu&shy;la&shy;tions&shy;zweck&shy;en)
 
-[^5]: Wir haben uns [mei&shy;ner Wahr&shy;neh&shy;mung
-  nach](#vor-bedingungen--grundannahmen)[^8],
+[^6]: <span id="foko">Wir haben uns [mei&shy;ner Wahr&shy;neh&shy;mung
+  nach](#vor-bedingungen--grundannahmen)[^9],
   auf den Deck&shy;na&shy;men
-  «**Fotz&shy;kopf**»[^9] eini&shy;gen k&ouml;n&shy;nen,
+  «**Fotz&shy;kopf**»</span>[^10] eini&shy;gen k&ouml;n&shy;nen,
   den wir auch so <nobr>liebe-</nobr> und res&shy;pekt&shy;voll wie nur
   irgend&shy;mög&shy;lich,
   ver&shy;stan&shy;den wis&shy;sen wol&shy;len,  
@@ -2259,9 +2269,9 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   ich, um den span&shy;nen&shy;sten "Er&shy;fin&shy;dungen" der
   Evo&shy;lu&shy;tion ange&shy;mes&shy;se&shy;n zu hul&shy;di&shy;gen.
 
-[^6]: an den Polen wenig&shy;er :wink:
+[^7]: an den Polen wenig&shy;er :wink:
 
-[^7]: In mei&shy;ner Er&shy;in&shy;ne&shy;rung habe ich die&shy;sen Satz
+[^8]: In mei&shy;ner Er&shy;in&shy;ne&shy;rung habe ich die&shy;sen Satz
   vor lan&shy;ger Zeit ein&shy;mal an einer Kirchen&shy;t&uuml;r
   (in Leip&shy;zig?)
   ge&shy;le&shy;sen:  
@@ -2279,21 +2289,21 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   Die Gegenleistung ist unser(-e) Leiden(-schaft).  
   Die gro&szlig;e Chance die Liebe.
 
-[^8]: Soll&shy;te ich mich in mei&shy;ner Wahr&shy;neh&shy;mung
+[^9]: Soll&shy;te ich mich in mei&shy;ner Wahr&shy;neh&shy;mung
   aus&shy;nahms&shy;wei&shy;se doch ge&shy;täuscht ha&shy;ben,
   kann die be&shy;trof&shy;fe&shy;ne Per&shy;son sich gern bei mir
   mel&shy;den,
   so dass ich un&shy;ver&shy;züg&shy;lich berich&shy;ti&shy;gen kann.
 
-[^9]: Selbst&shy;ver&shy;ständ&shy;lich ste&shy;hen
+[^10]: Selbst&shy;ver&shy;ständ&shy;lich ste&shy;hen
   <nobr>einer/</nobr>&shy;einem jeden, <nobr>die/</nobr><wbr>der
   <nobr>ihre/</nobr><wbr>sei&shy;ne
   Per&shy;sön&shy;lich&shy;keits&shy;rech&shy;te ver&shy;letzt
   sieht,
   auch die In&shy;stru&shy;men&shy;te der
-  Straf&shy;ver&shy;fol&shy;gung[^10] zur Ver&shy;fü&shy;gung.
+  Straf&shy;ver&shy;fol&shy;gung[^11] zur Ver&shy;fü&shy;gung.
 
-[^10]: Die [für mich zu&shy;stän&shy;di&shy;ge
+[^11]: Die [für mich zu&shy;stän&shy;di&shy;ge
   Poli&shy;zei&shy;dienst&shy;stel&shy;le (Direktion 4: Abschnitt
   44)](https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-4/abschnitt-44/)
   befän&shy;de sich in der Götz&shy;<nobr>str. 6</nobr> im
