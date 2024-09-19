@@ -374,8 +374,8 @@ version: Do., 19. Sep. 2024
 > (*Erg. vom 18. Sep. '24*: Was mglw. ein Feh&shy;ler ge&shy;we&shy;sen
 > sein könn&shy;te?)
 > 
-> Sollte ea involvierte Dritte geben, sind diese vollständig fei von Verantwortung!  
-> Sie aillten von einem, höchstens wenigen ursächlich Verantwortlichen so dermaßen trickreich und perfide "hineingezogen" worden sein, dass sa dafür in meiner Sprache keine Worte gibt.
+> Sollte es **involvierte Dritte** geben, sind diese vollständig **frei von Verantwortung**!  
+> Sie sollten von einem, höchstens wenigen, ursächlich Verantwortlichen so dermaßen trickreich und perfide "hineingezogen" worden sein, dass es dafür, in meiner Sprache, keine Worte gäbe.
 
 <details>
   <summary>
