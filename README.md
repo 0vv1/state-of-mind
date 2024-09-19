@@ -253,9 +253,9 @@ version: Do., 19. Sep. 2024
   * habe eine Aus&shy;bil&shy;dung&shy;en zum
     Ver&shy;wal&shy;tungs&shy;fach&shy;an&shy;ge&shy;stellt&shy;en 2001
     so&shy;wie Fach&shy;in&shy;for&shy;ma&shy;ti&shy;ker
-    ab<nobr>sol</nobr>viert
-  * war zu&shy;letzt (bis Aug. 2024) in der IT-Bran&shy;che tätig
-  * hier ist [ei&shy;ne vCard](https://0vv1.io/sug.vcf) inkl. Tel.-nr.
+    ab<nobr>sol</nobr>viert,
+  * war zu&shy;letzt (bis Aug. 2024) in der IT-Bran&shy;che tätig,
+  * [hier](https://0vv1.io/sug.vcf) ist mei&shy;ne vCard inkl. Tel.-nr.
   
     > Die Tele&shy;fon&shy;nr. bitte nur be&shy;nut&shy;zen,
     > soll&shy;te glaub&shy;haft Ge&shy;fahr für Leib und Leben für mich
@@ -265,14 +265,13 @@ version: Do., 19. Sep. 2024
   * ich <nobr>bin/</nobr><wbr>war,
     ent&shy;ge&shy;gen der mög&shy;lich&shy;en Dar&shy;stel&shy;lung
     eines poten&shy;tiel&shy;len Täters,
-    **nie** Schau&shy;spie&shy;ler oder irgendetwas
-    Ver&shy;gleich&shy;ba&shy;res,
+    **nie** Schau&shy;spie&shy;ler oder Ver&shy;gleich&shy;ba&shy;res,
   
   * ich <nobr>habe/</nobr><wbr>hatte,
     ent&shy;ge&shy;gen der mög&shy;lich&shy;en Dar&shy;stel&shy;lung
     eines poten&shy;tiel&shy;len Täters,
-    **kei<nobr>ne** /</nobr><&nbsp;**nie eine** sogenannte
-    "gespal&shy;te&shy;ne Per&shy;sön&shy;lich&shy;keit"[^2]
+    **kei<nobr>ne** /&nbsp;</nobr><wbr>**nie eine** soge&shy;nann&shy;te
+    "gespal&shy;te&shy;ne Per&shy;sön&shy;lich&shy;keit"[^2],
   
   * ich <nobr>habe/</nobr><wbr>hatte,
     ent&shy;ge&shy;gen der mög&shy;lich&shy;en Dar&shy;stel&shy;lung
@@ -281,39 +280,60 @@ version: Do., 19. Sep. 2024
     noch kann ich mich daran er&shy;innern je&shy;mals über sog.
     Zimmer&shy;laut&shy;stär&shy;ke ge&shy;spro&shy;chen,
     ge&shy;schwei&shy;ge denn ge&shy;schrien zu haben,
+    noch empfin&shy;de ich eine Art Neid
+    (m.&#8239;M.&#8239;n. ein Man&shy;gel an Em&shy;pa&shy;thie) oder
+    bin auf einen der Ande&shy;ren&trade; "eifer&shy;s&uuml;ch&shy;tig"
+    (die Idee finde ich schon <nobr>albern/</nobr><wbr>un&shy;reif),
     noch hege ich gegen irgend&shy;ei&shy;ne Enti&shy;tät auf
-    die&shy;sem Pla&shy;ne&shy;ten irgend&shy;ei&shy;ne Art von Hass,
-    noch hege ich sog. Rache&shy;fan&shy;ta&shy;sien
-    (die Idee ist mir schon fremd)
+    die&shy;sem Pla&shy;ne&shy;ten irgend&shy;ei&shy;nen Hass oder
+    so&shy;ge&shy;nann&shy;te
+    (mir sehr be&shy;fremd&shy;liche)
+    Rache&shy;fan&shy;ta&shy;sien.
+    
   
-  * ich <nobr>bin/</nobr><wbr>war bzw. <nobr>habe/</nobr><wbr>hatte,
-    ent&shy;ge&shy;gen der mög&shy;lich&shy;en Dar&shy;stel&shy;lung
-    eines poten&shy;tiel&shy;len Täters,
-    nie *eine andere beliebige negative Charaktereigenschaft*  
-    (*viele von mind. einem Täter,
-    mir so dar&shy;ge&shy;stell&shy;ten,
-    mut&shy;maß&shy;lich ande&shy;ren
-    gegen&shy;üb&shy;er getä&shy;tig&shy;ten Behaup&shy;tun&shy;gen,
+  * ich
+    <nobr>bin/</nobr><wbr>war/</nobr><wbr>habe/</nobr><wbr>hatte,<wbr>
+    ent&shy;**ge&shy;gen** .. **Dar&shy;stel&shy;lung** .. Täter,
+    ***nie** oder viel&shy;leicht doch ma bisschen*
+    **dieses und jenes belie&shy;big nega&shy;ti&shy;ve** :joy: 
+    ***bla..*** :kissing_heart:  
+    (*viele, der mir von mind. einem Täter,
+    so dar&shy;ge&shy;stell&shy;ten,
+    mut&shy;maß&shy;lich ande&shy;ren gegen&shy;üb&shy;er
+    getä&shy;tig&shy;ten Behaup&shy;tun&shy;gen,
     berüh&shy;ren teils intim&shy;ste Lebens&shy;be&shy;rei&shy;che,
-    wie bspw. Sexual&shy;kon&shy;tak&shy;<nobr>te
-    /</nobr>sexu&shy;el&shy;le Vor</nobr>&shy;lie&shy;ben oder
-    Sub&shy;stanz&shy;kon&shy;sum*)
+    wie bspw. Sexu&shy;al&shy;kon&shy;tak&shy;<nobr>te&nbsp;/&nbsp;</nobr>sexu&shy;el&shy;le
+    Vor</nobr>&shy;lie&shy;ben, mut&shy;ma&szlig;&shy;lich&shy;en
+    Sub&shy;stanz&shy;kon&shy;sum* et.&#8239;c.),
+    
+    Eigent&shy;lich **alles** total **Bana&shy;ne**,
+    es gibt
+    (für mich)
+    einen sehr wich&shy;ti&shy;gen Leit&shy;satz:  
+    **Try not to burden them**!
+    oder wenigstens ALAP
+    (**a**s **l**ittle **a**s **p**ossible) :kissing_heart:  
+    Mehr braucht es nicht,
+    da ist alles drin und ich ver&shy;suche immer mein Bestes&trade;.
   </details>
 
   * ich habe,
-    ent&shy;ge&shy;gen der mög&shy;lich&shy;en Dar&shy;stel&shy;lung
+    ent&shy;ge&shy;gen der permanenten Suggestion
     eines poten&shy;tiel&shy;len Täters,
-    eine be&shy;stimm&shy;te (**Ex-**)**Nach&shy;ba&shy;rin**
+    eine [be&shy;stimm&shy;te
+    (**Ex-**)**Nach&shy;ba&shy;rin**](https://github.com/0vv1/state-of-perception/blob/1fb83092a96fbb2565cef754ee27951aa00ba101/README.md#1st-things-first)
     **seit Feb&shy;ru&shy;ar 2023**(!) **nicht** mehr
-    **ge&shy;se&shy;<nobr>hen**/</nobr><wbr>-**hört**,
+    **ge&shy;se&shy;<nobr>hen**/</nobr><wbr>**ge&shy;hört**,
     bis ich sie Mit&shy;te August (2024) kurz
     (in ihrer neuen Whg.)
     auf&shy;ge&shy;sucht habe,
-    um mich zu ver&shy;ge&shy;wis&shy;sern,
-    dass **alles i.&#8239;O.**&trade; ist und **keine der** mir,  
-	mit einer ihrer (min&shy;des&shy;tens) vier
-    Ersatz&shy;vari&shy;an&shy;ten  
-    (von denen zwei "*Gedanken lesen*" k&ouml;n&shy;nen :wink:)  
+    aus&shy;schlie&szlig;&shy;lich um mich zu
+    ver&shy;ge&shy;wis&shy;sern,
+    dass sie **i.&#8239;O.**&trade; ist und **keine** der mir,  
+    mit einer ihrer
+    (min&shy;des&shy;tens)
+    vier Ersatz&shy;vari&shy;an&shy;ten  
+    (von denen zwei "*Gedanken lesen*" k&ouml;n&shy;nen :wink:),  
     fast täg&shy;lich **vor&shy;ge&shy;spiel&shy;ten**<sup>?!</sup>
     [mons&shy;trö&shy;sen
     **Hor&shy;ror&shy;sto&shy;rys**](#taktiken-der-zerm&uuml;rbung)
@@ -351,28 +371,29 @@ version: Do., 19. Sep. 2024
 > **Das hier ist**, glau&shy;be ich, lei&shy;der **ernst**,
 > auch wenn ich mein Bes&shy;tes&trade; tue,
 > die ini&shy;ti&shy;ie&shy;ren&shy;den Krea&shy;tu&shy;ren in
-> keins&shy;ter Weise ernstzuneh&shy;men.  
+> keins&shy;ter Weise ernstzuneh&shy;men.
 > (*Erg. vom 18. Sep. '24*: Was mglw. ein Feh&shy;ler ge&shy;we&shy;sen
 > sein könn&shy;te?)
 
 <details>
   <summary>
-    <h3>Eigene Umst&auml;nde</h3></summary>
+    <h3>(Eigene) Umst&auml;nde</h3>
 
-Trotz
+**Trotz**
 (erst&shy;ma&shy;lig 2021)
-diag&shy;nos&shy;ti&shy;zier&shy;ter Schizo&shy;phre&shy;nie[^2],
-bin ich weiter&shy;hin der Mei&shy;nung,
-dass wenigs&shy;tens eini&shy;ge der,
-von allen ande&shy;ren Mensch&shy;en als un&shy;wahr
+diag&shy;nos&shy;ti&shy;zier&shy;ter **Schizo**&shy;phre&shy;nie[^2],
+bin ich **weiter&shy;hin der Mei&shy;nung**,
+**dass** wenigs&shy;tens **eini&shy;ge**, der von mir
+(im Wesent&shy;lich&shy;en als **Stim&shy;men** gehörten),
+vor allem akus&shy;tisch wahr&shy;ge&shy;nom&shy;me&shy;nen,
+von bisher allen ande&shy;ren Mensch&shy;en als un&shy;wahr
 ab&shy;ge&shy;lehn&shy;ten,
-von mir vor allem akus&shy;tisch wahr&shy;ge&shy;nom&shy;me&shy;nen
 Bestand&shy;tei&shy;le mei&shy;ner Erle&shy;bens&shy;welt seit 2021,
-realen Ur&shy;sprungs sind,
+**realen Ur&shy;sprungs sind**,
 auch wenn die&shy;se bis&shy;her ledig&shy;lich von mir
 beob&shy;ach&shy;tet
-(im Wesent&shy;lich&shy;en als Stim&shy;men gehört)
 wer&shy;den konn&shy;ten.  
+  </summary>
 
 Ein Teil der
 (bis&shy;her natür&shy;lich von mir nur ver&shy;mu&shy;te&shy;ten)
@@ -1084,17 +1105,17 @@ Früh&shy;stück in Excel zu&shy;sam&shy;men&shy;klickt.
 * ich arbei&shy;te sozu&shy;sa&shy;gen
   (manch&shy;mal "gleich&shy;zei&shy;tig" oder mit
   kaum merk&shy;lich&shy;er "Über&shy;blen&shy;de")
-  an ver&shy;schie&shy;de&shy;nen The&shy;men   
-  (ich kann nicht sagen, 
+  an ver&shy;schie&shy;de&shy;nen The&shy;men
+  (kann aber nicht sagen, 
   wie typ&shy;isch so&shy;et&shy;was für eine
   schi&shy;zo&shy;phre&shy;ne Psy&shy;cho&shy;se ist,
-  kann mir aber durch&shy;aus vor&shy;stel&shy;len,
+  mir aber durch&shy;aus vor&shy;stel&shy;len,
   dass soet&shy;was vor&shy;kommt)
   
 <details>
   <summary>
     <h4>"Nur" <a
-	  href="#manipulation-der-realit&auml;t-selbst">Insze&shy;nie&shy;rung</a>?
+      href="#manipulation-der-realit&auml;t-selbst">Insze&shy;nie&shy;rung</a>?
       </h4></summary>
 
 * (Ach&shy;tung: **noch absur&shy;der!**)
@@ -1287,35 +1308,43 @@ Selbst&shy;tö&shy;tung.
  
 <details>
   <summary>
-    <h3>Langfristig?</h3></summary>
+    <h3>Lang&shy;fris&shy;tig</h3>
+    habe ich die star&shy;ke Ver&shy;mu&shy;tung,
+    dass ..</summary>
 
-Ich habe die star&shy;ke Ver&shy;mu&shy;tung,
-dass das bereits An&shy;fang 2021,
-in einer für mich heraus&shy;for&shy;dern&shy;den Zeit,
-wäh&shy;rend der rela&shy;ti&shy;ven Iso&shy;la&shy;tion mit&shy;ten in
-der sog. Co&shy;ro&shy;<nobr>na-/</nobr><wbr>CoViD-19-Kri&shy;se,
-durch die ini&shy;tia&shy;le Ver&shy;mit&shy;lung einer "anderen"
-Sin&shy;nes&shy;wahr&shy;neh&shy;mung,
-auf&shy;ge&shy;ma&shy;ch&shy;te alter&shy;na&shy;ti&shy;ve
-Er&shy;le&shy;ben dieser, oder einer leicht
-diver&shy;gie&shy;ren&shy;den Welt,
-das Ver&shy;trau&shy;en darauf,
-dass die eige&shy;ne Wahr&shy;neh&shy;mung sich schon mit der
-der aller&shy;meis&shy;ten(!) ande&shy;ren Men&shy;schen decken wird,
-ero&shy;die&shy;rte und heute zu Fehl&shy;wahr&shy;neh&shy;mun&shy;gen
-führt oder (euphe&shy;mis&shy;tisch&shy;er) das Ver&shy;trau&shy;en
-so&shy;weit zu&shy;rück trat, dass sich alter&shy;na&shy;ti&shy;ver (und
-bis&shy;her lei&shy;der dra&shy;ma&shy;ti&shy;sch&shy;er)
-Wahr&shy;neh&shy;mung von irgend&shy;was, Raum bie&shy;ten konn&shy;te.  
-
-Ich wüss&shy;te nicht, was jemand davon hät&shy;te (geschwei&shy;ge denn
-ich), aber ich be&shy;fürch&shy;te wei&shy;te&shy;re
-(lang&shy;sa&shy;me) Ero&shy;sion und damit ein&shy;her&shy;ge&shy;hend
-ehr&shy;lich&shy;er&shy;wei&shy;se lang&shy;fris&shy;ti&shy;g die
-Ele&shy;mi&shy;nie&shy;rung die&shy;ses
-<nobr>(Ur-)</nobr><wbr>Ver&shy;trau&shy;ens in die eige&shy;nen
-Sin&shy;ne.    
+  das bereits An&shy;fang 2021,
+  in einer für mich heraus&shy;for&shy;dern&shy;den Zeit,
+  wäh&shy;rend der rela&shy;ti&shy;ven Iso&shy;la&shy;tion mit&shy;ten in
+  der sog. Co&shy;ro&shy;<nobr>na-/</nobr><wbr>CoViD-19-Kri&shy;se,
+  durch die ini&shy;tia&shy;le Ver&shy;mit&shy;lung einer "anderen"
+  Sin&shy;nes&shy;wahr&shy;neh&shy;mung,
+  auf&shy;ge&shy;ma&shy;ch&shy;te alter&shy;na&shy;ti&shy;ve
+  Er&shy;le&shy;ben dieser, oder einer leicht
+  diver&shy;gie&shy;ren&shy;den Welt,
+  das Ver&shy;trau&shy;en darauf,
+  dass die eige&shy;ne Wahr&shy;neh&shy;mung sich schon mit der
+  der aller&shy;meis&shy;ten(!) ande&shy;ren Men&shy;schen decken wird,
+  ero&shy;die&shy;rte und heute zu Fehl&shy;wahr&shy;neh&shy;mun&shy;gen
+  führt oder (euphe&shy;mis&shy;tisch&shy;er) das Ver&shy;trau&shy;en
+  so&shy;weit zu&shy;rück trat, dass ..
   </details>
+
+  sich alter&shy;na&shy;ti&shy;ver (und
+  bis&shy;her lei&shy;der dra&shy;ma&shy;ti&shy;sch&shy;er)
+  Wahr&shy;neh&shy;mung von irgend&shy;was, Raum bie&shy;ten
+  konn&shy;te.  
+
+  Ich wüss&shy;te nicht,
+  was jemand davon hät&shy;te
+  (geschwei&shy;ge denn ich),
+  aber ich be&shy;fürch&shy;te wei&shy;te&shy;re
+  (lang&shy;sa&shy;me)
+  Ero&shy;sion und damit ein&shy;her&shy;ge&shy;hend
+  ehr&shy;lich&shy;er&shy;wei&shy;se lang&shy;fris&shy;ti&shy;g die
+  Ele&shy;mi&shy;nie&shy;rung die&shy;ses
+  <nobr>(Ur-)</nobr><wbr>Ver&shy;trau&shy;ens in die eige&shy;nen
+  Sin&shy;ne.  
+  Was dann pas&shy;siert, ver&shy;mag wohl nie&shy;mand zu sagen.
   
 <details>
   <summary>
@@ -1501,12 +1530,12 @@ wird es noch besser:
 Spe&shy;ziell im Ver&shy;lauf der letz&shy;ten drei Mona&shy;te kam es
 mir so vor,
 als wür&shy;den Täter Teile der gemein&shy;sa&shy;m erleb&shy;ten Welt
-manipulieren,
-um die Wirkung ihrer Suggestion weiter zu ver&shy;stär&shy;ken.
+mani&shy;pu&shy;lie&shy;ren,
+um die Wir&shy;kung ihrer Sug&shy;ges&shy;tion wei&shy;ter zu
+ver&shy;stär&shy;ken.
   
-<details>
-  <summary>
-    <h2>Annahmen zu möglichen Initiatoren</h2></summary>
+<h2>Annah&shy;men zu
+  mög&shy;lich&shy;en Ini&shy;tia&shy;to&shy;ren</h2>
 
 <details>
   <summary>
@@ -1853,9 +1882,8 @@ Wahr&shy;neh&shy;mung :confused:)
 flie&szlig;end sind, und **hier** (wie&shy;der) **lei&shy;der**
 zu&shy;s&auml;tz&shy;lich oft zu korre&shy;lie&shy;ren schei&shy;nen.
   
-<details>
-  <summary>
-    <h3>Manipulation der Wahrnehmung (der Realität)</h3></summary>
+<h3>Mani&shy;pu&shy;la&shy;tion der Wahr&shy;neh&shy;mung
+  (der Reali&shy;tät)</h3>
 
 <nobr>Die/</nobr>der
 <nobr>Täter/</nobr><wbr><nobr>-in/</nobr><wbr><nobr>-nen</nobr>
@@ -1876,9 +1904,7 @@ Ver&shy;schwö&shy;rungs&shy;theo&shy;rien
 sug&shy;ge&shy;rieren</nobr> zu kön&shy;nen
 glau&shy;<nobr>ben/</nobr><wbr>glaubt.
   
-<details>
-  <summary>
-    <h4>Ver&shy;mu&shy;te&shy;te Inten&shy;tion</h4></summary>
+<h4>Ver&shy;mu&shy;te&shy;te Inten&shy;tion</h4>
 
 Ziel der im Fol&shy;gen&shy;den,
 ver&shy;gleichs&shy;wei&shy;se spiele&shy;ri&shy;sch&shy;en,
@@ -1888,17 +1914,14 @@ teils komi&shy;sch&shy;en oder
 ist hier&shy;bei wohl das Unter&shy;gra&shy;ben von
 Glaub&shy;wür&shy;dig&shy;keit und
 Repu&shy;ta&shy;tions&shy;ver&shy;lust im sozia&shy;len Um&shy;feld.  
-  </details>
-
-<details>
-  <summary>
-    <h4>Log von "NLP-bear&shy;bei&shy;te&shy;ter"
-      Wahrnehmung von Draußen-Er&shy;eig&shy;nis&shy;sen</h4></summary>
+  
+<h4>Log von "NLP-bear&shy;bei&shy;te&shy;ter" Wahr&shy;neh&shy;mung
+  von Draußen-Er&shy;eig&shy;nis&shy;sen</h4>
 
 <details>
   <summary>
     <h5>"Die &Auml;rzte"-Kon&shy;zert am
-      <nobr><b>24. Aug. 2024</b></nobr></h5></summary></summary></summary>
+      <nobr><b>24. Aug. 2024</b></nobr></h5></summary>
 
 In dieser NLP wur&shy;den mir  
 
@@ -1923,7 +1946,7 @@ Mas&shy;sen&shy;sug&shy;ges&shy;<nobr>tion/</nobr><wbr>-hyp&shy;nose
 willen&shy;lose Zombies und wür&shy;den durch ent&shy;ar&shy;te&shy;te
 Song&shy;texte der Band so&shy;wie dif&shy;fuse Sound&shy;effek&shy;te
 weiter ge&shy;hirn&shy;ge&shy;wa&shy;schen :smirk:)
-
+  
 > Ob&shy;gleich am Ende des Songs,
 > deut&shy;lich,
 > zwei kurz auf&shy;ein&shy;an&shy;der&shy;fol&shy;gen&shy;de, 
@@ -1932,28 +1955,21 @@ weiter ge&shy;hirn&shy;ge&shy;wa&shy;schen :smirk:)
 > er&shy;ken&shy;<nobr>nen<sup>:warning:VT</sup>[^1]</nobr> sind.
 
 #**T.&#8239;B.&#8239;C.&#8239;..**
-  </details></details></details>
+  </details>
   
-<details>
-  <summary>
-    <h3>Mani&shy;pu&shy;la&shy;tion der
-      Rea&shy;li&shy;tät selbst</h3></summary>
+<h3>Mani&shy;pu&shy;la&shy;tion
+  der Rea&shy;li&shy;tät selbst</h3>
 
-<details>
-  <summary>
-    <h4>Ver&shy;mu&shy;te&shy;te Inten&shy;tion</h4></summary>
+<h4>Ver&shy;mu&shy;te&shy;te Inten&shy;tion</h4>
 
 Wir&shy;kungs&shy;ver&shy;stär&shy;kung ein&shy;ge&shy;setz&shy;ter
 Mit&shy;tel zur Zer&shy;set&shy;zung der Wahr&shy;neh&shy;mung
 ihrer Opfer.
-  </details>
   
-<details>
-  <summary>
-    <h4>Log von Ereig&shy;nis&shy;sen
+ <h4>Log von Ereig&shy;nis&shy;sen
       (so wahr&shy;ge&shy;nom&shy;me&shy;ner)
       Mani&shy;pu&shy;la&shy;tion der 
-      Rea&shy;li&shy;t&auml;t selbst</h4></summary>
+      Rea&shy;li&shy;t&auml;t selbst</h4>
 
 <details>
   <summary>
@@ -1993,7 +2009,7 @@ von wem auch immer,
 ver&shy;lei&shy;tet wor&shy;den.  
 
 #**T.&#8239;B.&#8239;C.&#8239;..**
-  </details></details></details>
+  </details>
   
 <details>
   <summary>
