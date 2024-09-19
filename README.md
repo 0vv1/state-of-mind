@@ -310,11 +310,11 @@ version: Do., 19. Sep. 2024
     (in ihrer neuen Whg.)
     auf&shy;ge&shy;sucht habe,
     um mich zu ver&shy;ge&shy;wis&shy;sern,
-    dass **alles i.&#8239;O.**&trade; ist und **keine,
-    der** mir mit einer ihrer (min&shy;des&shy;tens) vier
-    Ersatz&shy;vari&shy;an&shy;ten,
-    von denen zwei selbst&shy;ver&shy;ständ&shy;lich
-    "*Gedanken lesen*"(!) k&ouml;n&shy;nen :wink:  
+    dass **alles i.&#8239;O.**&trade; ist und **keine
+    der**,  
+	mir mit einer ihrer (min&shy;des&shy;tens) vier
+    Ersatz&shy;vari&shy;an&shy;ten  
+    (von denen zwei "*Gedanken lesen*" k&ouml;n&shy;nen :wink:)  
     fast täg&shy;lich **vor&shy;ge&shy;spiel&shy;ten**<sup>?!</sup>
     [mons&shy;trö&shy;sen
     **Hor&shy;ror&shy;sto&shy;rys**](#taktiken-der-zerm&uuml;rbung)
