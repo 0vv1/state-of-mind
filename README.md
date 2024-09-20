@@ -874,15 +874,17 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
 
 > [!IMPORTANT]  
 >   
-> **Drin&shy;gen&shy;der Rat**, an alle je betrof&shy;fe&shy;nen
+> **Drin&shy;gen&shy;der Rat**
+> (*Erg. vom 20.09.24*), an alle je betrof&shy;fe&shy;nen
 > (*das scheint bei mir n&auml;m&shy;lich nicht zu
-> funk&shy;tio&shy;nie&shy;ren.*):  
-> Niemand muss sich von
+> funk&shy;tio&shy;nie&shy;ren*):  
+> **Niemand muss sich** von
 > <nobr>der/</nobr><wbr><nobr>dem/</nobr><wbr>davon
-> er&shy;klä&shy;ren lassen
-> (eigent&shy;lich von nie&shy;man&shy;dem),
-> was <nobr>er/</nobr><wbr><nobr>sie/</nobr><wbr><nobr>es/</nobr><wbr><nobr>wir/</nobr><wbr><nobr>ihr/</nobr><wbr><nobr>sie oder die,
-> wie zu ver&shy;ant&shy;wor&shy;ten hat/habt/haben!  
+> **er&shy;klä&shy;ren lassen**
+> (*eigent&shy;lich* **von nie&shy;man&shy;dem**),
+> **was** <nobr>er/</nobr><wbr><nobr>sie/</nobr><wbr><nobr>es/</nobr><wbr><nobr>wir/</nobr><wbr><nobr>ihr/</nobr><wbr>sie
+> oder die,
+> **wie zu ver&shy;ant&shy;wor&shy;ten** hat/habt/haben!  
 > (Das ist mir auch ein pers&ouml;nliches An&shy;lie&shy;gen:
 > M.&#8239;M.&#8239;n. gibt es "da draußen" nie&shy;man&shy;den,
 > die/der irgend&shy;et&shy;was bes&shy;ser&trade; weiß
