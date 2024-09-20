@@ -873,11 +873,10 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
   mani&shy;pu&shy;lier- und steuer&shy;bar zu mach&shy;en(?)
 
 > [!IMPORTANT]  
+> (*Erg. vom 20.09.24*) **Drin&shy;gen&shy;der Rat**
+> (da die&shy;se Art Ein&shy;re&shy;de bei mir nie
+> funk&shy;tio&shy;niert hat):
 >   
-> **Drin&shy;gen&shy;der Rat**
-> (*Erg. vom 20.09.24*), an alle je betrof&shy;fe&shy;nen
-> (*das scheint bei mir n&auml;m&shy;lich nicht zu
-> funk&shy;tio&shy;nie&shy;ren*):  
 > **Niemand muss sich** von
 > <nobr>der/</nobr><wbr><nobr>dem/</nobr><wbr>davon
 > **er&shy;klä&shy;ren lassen**
@@ -897,7 +896,7 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
 > * das Maß an **Ver&shy;ant&shy;wor&shy;tung**/**Schuld** f&uuml;r
 > *was auch immer* oder
 > * den Zustand des **Gewis&shy;sen**s
->   eines Men&shy;sch&shy;en **zu beur&shy;tei&shy;len**!
+>   eines (anderen) Men&shy;sch&shy;en **zu beur&shy;tei&shy;len**!
 >
 > Soetwas von ihr anzu&shy;neh&shy;men wäre skurril
 > (IMHO fast Slapstick).  
@@ -1577,6 +1576,20 @@ als wür&shy;den Täter Teile der gemein&shy;sa&shy;m erleb&shy;ten Welt
 mani&shy;pu&shy;lie&shy;ren,
 um die Wir&shy;kung ihrer Sug&shy;ges&shy;tion wei&shy;ter zu
 ver&shy;stär&shy;ken.
+  
+## Ma&szlig;<nobr>/Mit&shy;te</nobr><wbr> & Over&shy;drive
+
+(Erg. v. 20.09.24) Gera&shy;de in den letz&shy;ten Tagen hat sich einer
+der haupt&shy;säch&shy;lich&shy;en **Pro&shy;ta&shy;go&shy;nis&shy;t**en
+unter den mut&shy;maß&shy;lich&shy;en Initia&shy;to&shy;ren **so**
+der&shy;maßen **bos&shy;haft** geriert,
+**dass** <nobr>(**die**/)</nobr><wbr><nobr>seine/</nobr><wbr>ihre
+gesamte **Sache**
+(wie bereits &ouml;fter, aber)
+immer mehr **slap&shy;stick&shy;ar&shy;ti&shy;ge Z&uuml;ge
+an&shy;nimmt**.
+Die Sze&shy;ne&shy;rie drif&shy;tet **immer h&auml;ufiger** ins
+**L&auml;ch&shy;er&shy;lich**e ab.
   
 <h2>Annah&shy;men zu
   mög&shy;lich&shy;en Ini&shy;tia&shy;to&shy;ren</h2>
