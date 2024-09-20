@@ -7,10 +7,10 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Do., 19. Sep. 2024
+version: Fr., 20. Sep. 2024
 ```
 
-# Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>unter Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie die zyni&shy;sche [Buch&shy;empfeh&shy;lung eines mögl. Täters](#buchempfehlung-eines-t&auml;ters)?!)</sup></sub>
+# Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>unter Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie zyni&shy;sche [Buch&shy;empfeh&shy;lung eines mögl. Täters](#buchempfehlung-eines-t&auml;ters)?!)</sup></sub>
 
 <details>
   <summary>Irgend&shy;wann
@@ -28,11 +28,11 @@ version: Do., 19. Sep. 2024
     Eng&shy;<nobr>lish :us: :gb: </nobr></summary>
 
   ## Collect&shy;ion of Evi&shy;den&shy;ce regar&shy;ding Acts of Stal&shy;king&nbsp;<sub><sup>or</sub></sup><br/>«The *Fotz&shy;kopf* Recor&shy;dings»
-
+  
   Hi there,
   
   in this repository I am collecting **recordings** I took and still
-  take **from** the **flats I** lived and **live in** during the last
+  take **from** the **flats I live and lived in** during the last
   few years.
   It is **mainly** the loud **noise of a**n almost **silent flat**.
   
@@ -328,11 +328,12 @@ version: Do., 19. Sep. 2024
     auf&shy;ge&shy;sucht habe,
     aus&shy;schlie&szlig;&shy;lich um mich zu
     ver&shy;ge&shy;wis&shy;sern,
-    dass sie **i.&#8239;O.**&trade; ist und **keine** der mir,  
-    mit einer ihrer
+    dass sie **i.&#8239;O.**&trade; ist, und **keine** der,
+    mir, mit einer ihrer
     (min&shy;des&shy;tens)
     vier Ersatz&shy;vari&shy;an&shy;ten  
-    (von denen zwei "*Gedanken lesen*" k&ouml;n&shy;nen :wink:),  
+    (von denen zwei manchmal "*Gedanken lesen*"
+    k&ouml;n&shy;nen :wink:),  
     fast täg&shy;lich **vor&shy;ge&shy;spiel&shy;ten**<sup>?!</sup>
     [mons&shy;trö&shy;sen
     **Hor&shy;ror&shy;sto&shy;rys**](#taktiken-der-zerm&uuml;rbung)
@@ -364,21 +365,22 @@ version: Do., 19. Sep. 2024
 
 > [!WARNING]
 > Nur falls irgend&shy;je&shy;mand
-> (so wie ich zun&auml;chst)
+> (wie es <nobr>die/</nobr>der <nobr>Täter/</nobr><nobr>-in/</nobr>-nen
+  in Ent&shy;span&shy;nungs&shy;pha&shy;sen"
+> auch sug&shy;ge&shy;rie&shy;ren)
 > eine Art "Spaß" oder "Witz"
 > an&shy;nimmt:
-> **Das hier ist**, glau&shy;be ich, lei&shy;der **ernst**,
+> **Das hier ist** lei&shy;der **ernst**,
 > auch wenn ich mein Bes&shy;tes&trade; tue,
 > die ini&shy;ti&shy;ie&shy;ren&shy;den Krea&shy;tu&shy;ren in
 > keins&shy;ter Weise ernstzuneh&shy;men.
-> (*Erg. vom 18. Sep. '24*: Was mglw. ein Feh&shy;ler ge&shy;we&shy;sen
-> sein könn&shy;te?)
 > 
-> Sollte es **involvierte Dritte** geben, sind diese vollständig **frei von Verantwortung**!  
-> Sie sollten von einem, höchstens wenigen, ursächlich Verantwortlichen so dermaßen trickreich und perfide "hineingezogen" worden sein, dass es dafür, in meiner Sprache, keine Worte gäbe.
-> 
-> (**Anm.**: Lieber mit (einer leicht verwirrten, manchmal sogar lustigen, Illusion von) euch, als allein mit einem kaputten Sadisten. Es ist am Ende ja auch immer "nur" Akustik, und  
-> ihr wärt als Ansprechpartner/-innen, nur wenn ihr wollt, für mich unfassbar wichtig.
+> Sollte es **involvierte Dritte** geben,
+> sind diese vollständig **frei von Verantwortung**!  
+> Sie sollten von einem,
+> höchstens wenigen,
+> ursächlich Verantwortlichen so dermaßen trickreich und perfide
+> "hineingezogen" worden sein, dass es dafür keine Worte gäbe.
 
 <details>
   <summary>
@@ -430,15 +432,6 @@ Iden&shy;ti&shy;tät[^4] **aus**.
 > sehr viel mehr erlau&shy;ben und siche&shy;rer füh&shy;len kön&shy;nen
 > als bei Men&shy;sch&shy;en mit "norma&shy;ti&shy;ver"
 > Wahr&shy;neh&shy;mung.
-
-> Ich gehe da&shy;von aus,
-> dass Schi&shy;zo&shy;phre&shy;nie-Patien&shy;ten all&shy;ge&shy;mein
-> eine Art Ide&shy;al-Opfer für die feigs&shy;ten
-> <nobr>und/</nobr><wbr>oder
-> skru&shy;pel&shy;lo&shy;ses&shy;ten Sadis&shy;ten dar&shy;stel&shy;len 
-> und folg&shy;lich einen Tum&shy;mel&shy;platz für
-> sol&shy;ch&shy;er&shy;lei Krea&shy;tu&shy;ren bil&shy;den
-> soll&shy;ten.
 
 Da ich ohne jedes Ver&shy;stän&shy;dnis
 (oder Hil&shy;fe)
@@ -878,6 +871,41 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
   und
   (laut Aus&shy;sa&shy;ge eines Täters)
   mani&shy;pu&shy;lier- und steuer&shy;bar zu mach&shy;en(?)
+
+  > [!IMPORTANT]  
+  >   
+  > **Drin&shy;gen&shy;der Rat**, an alle je betrof&shy;fe&shy;nen
+  > (*das scheint bei mir n&auml;m&shy;lich aus einem
+  > ein&shy;fach&shy;en Grund nicht zu funk&shy;tio&shy;nie&shy;ren.*):  
+  > Lasst euch von <nobr>der/</nobr><wbr><nobr>dem/</nobr><wbr>davon
+  > nicht (eigent&shy;lich von nie&shy;man&shy;dem!)
+  > er&shy;klä&shy;ren,
+  > was ihr wie zu ver&shy;ant&shy;wor&shy;ten habt.  
+  >   
+  > Diese **Krea&shy;tur hat keine**r&shy;lei
+  > (Bewer&shy;tungs-)**Kom&shy;pe&shy;tenz**,
+  >
+  > * die **Güte**,
+  > * das Maß an **Ver&shy;ant&shy;wor&shy;tung**/**Schuld** f&uuml;r
+  > *was auch immer* oder
+  > * den Zustand des **Gewis&shy;sen**s
+  >   eines Men&shy;sch&shy;en **zu beur&shy;tei&shy;len**!
+  >
+  > Soetwas von ihr anzu&shy;neh&shy;men wäre skurril
+  > (IMHO fast Slapstick).  
+  >   
+  > **Des weite&shy;ren KANN diese Krea&shy;tur NIE in der Lage sein,
+  > Ver&shy;ant&shy;wor&shy;tung zu deli&shy;gie&shy;ren**.  
+  >   
+  > Sie kann ande&shy;re Men&shy;sch&shy;en damit nicht belas&shy;ten,
+  > weil diese
+  > (gesamte)
+  > Ver&shy;ant&shy;wor&shy;tung aus&shy;schließ&shy;lich
+  > bei ihr liegt und sie diese nicht ein&shy;fach
+  > (nach arg&shy;lis&shy;ti&shy;ger Täu&shy;schung)
+  > durch Wei&shy;ter&shy;ge&shy;ben,
+  > los&shy;wer&shy;den kann.
+  > Auch das wäre läch&shy;er&shy;lich.  
 
 * nahe&shy;zu pau&shy;sen&shy;lose **Ein&shy;re&shy;de, das Opfer sei**
   in sei&shy;nem Han&shy;deln "**zu laut**" (bei
