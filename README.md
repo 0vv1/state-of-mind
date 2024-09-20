@@ -155,22 +155,23 @@ version: Fr., 20. Sep. 2024
   **akus&shy;ti&shy;sche Be&shy;läs&shy;ti&shy;gung**,
   (i.&#8239;d.&#8239;Z.
   
-  mglw.) **Frei&shy;heits&shy;be&shy;rau&shy;bung** *mind. eines Opfers*
-  in hun&shy;der&shy;ten Fäl&shy;len,
-  (mglw.) unter Aus&shy;nut&shy;zung von,  
-  (mglw.) **durch Hyp&shy;no&shy;se**,
+  ~~mglw.) **Frei&shy;heits&shy;be&shy;rau&shy;bung**
+  *mind. eines Opfers* in hun&shy;der&shy;ten Fäl&shy;len,
+  (mglw.) unter Aus&shy;nut&shy;zung von,~~<sup>suggeriert</sup>  
+  mglw.) **Hyp&shy;no&shy;se**,
   ge&shy;gen den aus&shy;dr&uuml;ck&shy;lich&shy;en Wil&shy;len
   <nobr>des(/der)<sup>?</sup></nobr> Be&shy;trof&shy;fe&shy;nen,
   **und/oder**
   
-  (mglw.) **durch** vor&shy;sätz&shy;liche,
+  ~~(mglw.) **durch** vor&shy;sätz&shy;liche,
   aber ver&shy;deck&shy;te **Ver&shy;ab&shy;reich&shy;ung von**
   psy&shy;cho&shy;ak&shy;ti&shy;ven bzw. hallu&shy;zi&shy;no&shy;gen
   wirken&shy;den **Be&shy;täu&shy;bungs&shy;mitteln**,
   ebenfalls ge&shy;gen den aus&shy;dr&uuml;ck&shy;lich&shy;en Wil&shy;len
-  <nobr>des(/der)<sup>?</sup></nobr> Be&shy;trof&shy;fe&shy;nen,
+  <nobr>des(/der)<sup>?</sup></nobr>
+  Be&shy;trof&shy;fe&shy;nen,~~<sup>suggeriert</sup>
   
-  **in&shy;du&shy;zier&shy;te**r, "**Trance**"(?)**, damit
+  damit **in&shy;du&shy;zier&shy;te**, "**Trance**"(?)**, damit
   Hilf&shy;lo&shy;sig&shy;keit <nobr>des(/der)<sup>?</sup></nobr>
   Be&shy;trof&shy;fe&shy;nen**
   (wahr&shy;schein&shy;lich)
@@ -875,8 +876,7 @@ mani&shy;pu&shy;lier- und steuer&shy;bar zu mach&shy;en(?).
 
 > [!IMPORTANT]  
 > (*Erg. 20.09.24*) **Drin&shy;gen&shy;der Rat**
-> (da die&shy;se Art Ein&shy;re&shy;de bei mir nie
-> funk&shy;tio&shy;niert hat):
+> (ob sehr lebhafter Suggestion heute tags&uuml;ber :smirk:):  
 >   
 > **Niemand muss sich** von
 > <nobr>der/</nobr><wbr><nobr>dem(/**nie</nobr>&shy;man&shy;dem**)
