@@ -872,40 +872,41 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
   (laut Aus&shy;sa&shy;ge eines Täters)
   mani&shy;pu&shy;lier- und steuer&shy;bar zu mach&shy;en(?)
 
-  > [!IMPORTANT]  
-  >   
-  > **Drin&shy;gen&shy;der Rat**, an alle je betrof&shy;fe&shy;nen
-  > (*das scheint bei mir n&auml;m&shy;lich aus einem
-  > ein&shy;fach&shy;en Grund nicht zu funk&shy;tio&shy;nie&shy;ren.*):  
-  > Lasst euch von <nobr>der/</nobr><wbr><nobr>dem/</nobr><wbr>davon
-  > nicht (eigent&shy;lich von nie&shy;man&shy;dem!)
-  > er&shy;klä&shy;ren,
-  > was ihr wie zu ver&shy;ant&shy;wor&shy;ten habt.  
-  >   
-  > Diese **Krea&shy;tur hat keine**r&shy;lei
-  > (Bewer&shy;tungs-)**Kom&shy;pe&shy;tenz**,
-  >
-  > * die **Güte**,
-  > * das Maß an **Ver&shy;ant&shy;wor&shy;tung**/**Schuld** f&uuml;r
-  > *was auch immer* oder
-  > * den Zustand des **Gewis&shy;sen**s
-  >   eines Men&shy;sch&shy;en **zu beur&shy;tei&shy;len**!
-  >
-  > Soetwas von ihr anzu&shy;neh&shy;men wäre skurril
-  > (IMHO fast Slapstick).  
-  >   
-  > **Des weite&shy;ren KANN diese Krea&shy;tur NIE in der Lage sein,
-  > Ver&shy;ant&shy;wor&shy;tung zu deli&shy;gie&shy;ren**.  
-  >   
-  > Sie kann ande&shy;re Men&shy;sch&shy;en damit nicht belas&shy;ten,
-  > weil diese
-  > (gesamte)
-  > Ver&shy;ant&shy;wor&shy;tung aus&shy;schließ&shy;lich
-  > bei ihr liegt und sie diese nicht ein&shy;fach
-  > (nach arg&shy;lis&shy;ti&shy;ger Täu&shy;schung)
-  > durch Wei&shy;ter&shy;ge&shy;ben,
-  > los&shy;wer&shy;den kann.
-  > Auch das wäre läch&shy;er&shy;lich.  
+> [!IMPORTANT]  
+>   
+> **Drin&shy;gen&shy;der Rat**, an alle je betrof&shy;fe&shy;nen
+> (*das scheint bei mir n&auml;m&shy;lich nicht zu
+> funk&shy;tio&shy;nie&shy;ren.*):  
+> Niemand muss sich von
+> <nobr>der/</nobr><wbr><nobr>dem/</nobr><wbr>davon
+> er&shy;klä&shy;ren lassen
+> (eigent&shy;lich von nie&shy;man&shy;dem),
+> was ihr wie zu ver&shy;ant&shy;wor&shy;ten habt.  
+>   
+> Diese **Krea&shy;tur hat keine**r&shy;lei
+> (Bewer&shy;tungs-)**Kom&shy;pe&shy;tenz**,
+>
+> * die **Güte**,
+> * das Maß an **Ver&shy;ant&shy;wor&shy;tung**/**Schuld** f&uuml;r
+> *was auch immer* oder
+> * den Zustand des **Gewis&shy;sen**s
+>   eines Men&shy;sch&shy;en **zu beur&shy;tei&shy;len**!
+>
+> Soetwas von ihr anzu&shy;neh&shy;men wäre skurril
+> (IMHO fast Slapstick).  
+>   
+> **Des weite&shy;ren KANN diese Krea&shy;tur NIE in der Lage sein,
+> Ver&shy;ant&shy;wor&shy;tung zu deli&shy;gie&shy;ren**.  
+>   
+> Sie kann ande&shy;re Men&shy;sch&shy;en damit nicht belas&shy;ten,
+> weil diese
+> (gesamte)
+> Ver&shy;ant&shy;wor&shy;tung aus&shy;schließ&shy;lich
+> bei ihr liegt und sie diese nicht ein&shy;fach
+> (nach arg&shy;lis&shy;ti&shy;ger Täu&shy;schung)
+> durch Wei&shy;ter&shy;ge&shy;ben,
+> los&shy;wer&shy;den kann.
+> Auch das wäre läch&shy;er&shy;lich.  
 
 * nahe&shy;zu pau&shy;sen&shy;lose **Ein&shy;re&shy;de, das Opfer sei**
   in sei&shy;nem Han&shy;deln "**zu laut**" (bei
