@@ -1671,6 +1671,19 @@ Die Sze&shy;ne&shy;rie drif&shy;tet **immer h&auml;ufiger** ins
   Begrif&shy;fen skur&shy;ril wit&shy;zig wir&shy;ken kann.*
   </details>
   
+> [!CAUTION]
+> **Sämt&shy;liche Infor&shy;ma&shy;tio&shy;nen kön&shy;nen**
+> (und sind es zu großen Tei&shy;len sich&shy;er auch)
+> **sug&shy;ge&shy;riert sein**,
+> um von ech&shy;ten Tätern ab&shy;zu&shy;len&shy;ken,
+> bzw.
+> (und noch per&shy;fi&shy;der)
+> auf ande&shy;re,
+> aber real exis&shy;tie&shy;rende Per&shy;so&shy;nen
+> ab&shy;zu&shy;len&shy;ken
+> (und dabei mglw. auch wie&shy;der(?!) be&shy;ste&shy;hen&shy;de
+> psych&shy;ische Krank&shy;heit&shy;en aus&shy;zu&shy;nutzen?)
+
 <details>
   <summary>
     <h3>Beob&shy;ach&shy;tun&shy;gen & An&shy;nah&shy;men
@@ -1685,19 +1698,6 @@ domi&shy;nan&shy;tes&shy;ten Pro&shy;ta&shy;go&shy;nis&shy;ten zu
 skiz&shy;zie&shy;ren.  
 **Man&shy;gels Iden&shy;ti&shy;tät** haben "*wir uns*" auf "**F.**"
 ge&shy;ei&shy;nigt.[^6]
-
-> [!CAUTION]
-> **Sämt&shy;liche Infor&shy;ma&shy;tio&shy;nen kön&shy;nen**
-> (und sind es zu großen Tei&shy;len sich&shy;er auch)
-> **sug&shy;ge&shy;riert sein**,
-> um von ech&shy;ten Tätern ab&shy;zu&shy;len&shy;ken,
-> bzw.
-> (und noch per&shy;fi&shy;der)
-> auf ande&shy;re,
-> aber real exis&shy;tie&shy;rende Per&shy;so&shy;nen
-> ab&shy;zu&shy;len&shy;ken
-> (und dabei mglw. auch wie&shy;der(?!) be&shy;ste&shy;hen&shy;de
-> psych&shy;ische Krank&shy;heit&shy;en aus&shy;zu&shy;nutzen?)
 
 * m&ouml;g&shy;lich&shy;er&shy;wei&shy;se Ini&shy;tia&shy;tor,
   mglw. Haupt&shy;tä&shy;ter,
