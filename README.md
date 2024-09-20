@@ -753,7 +753,8 @@ Berei&shy;chen der eige&shy;nen Woh&shy;nung)
 mit viel Zeit und hohem
 Aufwand sog. [Neuro-Lingu&shy;is&shy;tische
 Pro&shy;gram&shy;me](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
-indu&shy;<nobr>ziert<sup>:warning:VT</sup>[^1],</nobr>
+indu&shy;<nobr>ziert<sup><a
+href="#wvt">:warning:VT</a></sup>[^1],</nobr>
 die dann tags&shy;über in irgend&shy;einer Weise
 (wenn man nicht weiß, woher Stimmen und "Ideen" stammen)
 fast zwingend abge&shy;ar&shy;beitet wer&shy;den müs&shy;sen,
@@ -951,7 +952,7 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
 > ver&shy;wen&shy;de und die
 > <nobr>**"[NLP-Stimmen](#wesen-der-neuro-linguistischen-programme)"</nobr>
 > da&shy;durch lei&shy;ser und bes&shy;ser
-> hand&shy;<nobr>hab**-/</nobr><wbr>**mani&shy;pu&shy;lier&shy;<nobr>bar**<sup>:warning:VT</sup>[^1]</nobr>
+> hand&shy;<nobr>hab**-/</nobr><wbr>**mani&shy;pu&shy;lier&shy;<nobr>bar**<sup><a href="#wvt">:warning:VT</a></sup>[^1]</nobr>
 > wer&shy;den,
 > war <nobr>ein/-e</nobr> qua&shy;si
 > vir&shy;tu&shy;el&shy;<nobr>le/-r</nobr>
@@ -962,13 +963,14 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
 > dass er/sie in der letz&shy;ten Nacht
 > (wie bereits öfter),
 > zur **[Tele&shy;pa&shy;thie](https://de.wikipedia.org/wiki/Telepathie)
-> befä&shy;higte Men&shy;<nobr>schen**<sup>:warning:VT</sup>[^1],</nobr>
+> befä&shy;higte Men&shy;<nobr>schen**<sup><a href="#wvt"><a
+> href="#wvt">:warning:VT</a></sup>[^1],</nobr>
 > [gegen deren Willen](https://www.unicum.de/wissenswertes/raus-aus-meinem-kopf-kann-hypnose-dich-willenlos-machen)
 > via [Hyp&shy;nose](https://de.wikipedia.org/wiki/Hypnose)
 > dafür "miss&shy;braucht",
 > mich wäh&shy;rend des Schlafs aus&shy;gedehnt
 > [neuro-linguistisch](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
-> zu pro&shy;gram&shy;mie<nobr>ren<sup>:warning:VT</sup>[^1]. :+1:</nobr>  
+> zu pro&shy;gram&shy;mie<nobr>ren<sup><a href="#wvt">:warning:VT</a></sup>[^1]. :+1:</nobr>  
 > *.. nee, wird schon stimmen, Dude!* :joy:
   
 * be&shy;stän&shy;dige Sug&shy;ges&shy;tion
@@ -1406,19 +1408,34 @@ son&shy;dern als
 tempo&shy;rä&shy;re Enti&shy;tät in der [imagi&shy;nier&shy;ten
 Welt](#beobachtungen--annahmen-zu-täter-f) eines
 eini&shy;ger&shy;maßen be&shy;son&shy;de&shy;ren Geis&shy;tes
-</details>
+  </details>
   
-<details>
-  <summary>
-    <h3>Mut&shy;maß&shy;lich&shy;es Ziel
+<h3>Mut&shy;maß&shy;lich&shy;es Ziel
       an&shy;ge&shy;nom&shy;me&shy;ner Täter</h3></summary>
 
-Ich kann lei&shy;der über&shy;haupt nichts zu Zie&shy;len
+Ich kann lei&shy;der über&shy;haupt nichts sicher zu Zie&shy;len
 even&shy;tuel&shy;ler Täter, in&shy;ten&shy;dier&shy;ten Effek&shy;ten
 oder Ab&shy;sich&shy;ten irgend&shy;wel&shy;cher
 Inte&shy;ress&shy;en&shy;grup&shy;pen sagen und nehme die Sache am
 besten auch nicht zu ernst. :sunglasses:  
-  </details>
+
+* sug&shy;ge&shy;riert wurd&shy;e mehr&shy;mals, dass einer der
+  Haupt&shy;tä&shy;ter sexu&shy;el&shy;le Erre&shy;gung durch das
+  Indu&shy;zie&shy;ren und an&shy;schlie&szlig;en&shy;de
+  Beob&shy;ach&shy;ten von Leid bei ande&shy;ren Men&shy;sch&shy;en
+  er&shy;fährt
+
+* sug&shy;ge&shy;riert wurd&shy;e mehr&shy;fach ein hoher
+  Lust&shy;ge&shy;winn bei min&shy;des&shy;tens einem der
+  Haupt&shy;tä&shy;ter,
+  der ihm wohl durch das Aus&uuml;ben von "Kon&shy;trolle"(?) &uuml;ber
+  ande&shy;re Men&shy;sch&shy;en ent&shy;st&uuml;n&shy;de
+  (wenn es so&shy;was gibt?)
+
+Ich meine,
+recht schwache Moti&shy;ve für die&shy;sen Wahn&shy;sinn,
+die viel&shy;leicht echte Be&shy;weggr&uuml;nde obfus&shy;kie&shy;ren
+sol&shy;len.
   
 <details>
   <summary>
@@ -1660,13 +1677,27 @@ Die Sze&shy;ne&shy;rie drif&shy;tet **immer h&auml;ufiger** ins
       zu <a href="#foko">Täter "F."</a></h3></summary>
 
 Hier der Ver&shy;such eines Pro&shy;fils eines, aus mei&shy;ner Sicht,
-<nobr>(Haupt-)</nobr><wbr><nobr>Täters(-ver</nobr>&shy;ant&shy;wort&shy;lich&shy;n),
+<nobr>(Haupt-)</nobr><wbr><nobr>Täters bzw.
+-ver</nobr>&shy;ant&shy;wort&shy;lich&shy;en,
 jeden&shy;falls
 (bis&shy;her)
 domi&shy;nan&shy;tes&shy;ten Pro&shy;ta&shy;go&shy;nis&shy;ten zu
 skiz&shy;zie&shy;ren.  
 **Man&shy;gels Iden&shy;ti&shy;tät** haben "*wir uns*" auf "**F.**"
 ge&shy;ei&shy;nigt.[^6]
+
+> [!CAUTION]
+> **Sämt&shy;liche Infor&shy;ma&shy;tio&shy;nen kön&shy;nen**
+> (und sind es zu großen Tei&shy;len sich&shy;er auch)
+> **sug&shy;ge&shy;riert sein**,
+> um von ech&shy;ten Tätern ab&shy;zu&shy;len&shy;ken,
+> bzw.
+> (und noch per&shy;fi&shy;der)
+> auf ande&shy;re,
+> aber real exis&shy;tie&shy;rende Per&shy;so&shy;nen
+> ab&shy;zu&shy;len&shy;ken
+> (und dabei mglw. auch wie&shy;der(?!) be&shy;ste&shy;hen&shy;de
+> psych&shy;ische Krank&shy;heit&shy;en aus&shy;zu&shy;nutzen?)
 
 * m&ouml;g&shy;lich&shy;er&shy;wei&shy;se Ini&shy;tia&shy;tor,
   mglw. Haupt&shy;tä&shy;ter,
@@ -1678,12 +1709,17 @@ ge&shy;ei&shy;nigt.[^6]
   Iden&shy;ti&shy;tätss&shy;stö&shy;rung](https://de.wikipedia.org/wiki/Dissoziative_Identitätsstörung),
   kurz: [DIS](https://de.wikipedia.org/wiki/Dissoziative_Identitätsstörung),
   leidet
-  (was aber genau&shy;so&shy;gut ledig&shy;lich sug&shy;ge&shy;riert
-  sein kann)
+  (**kann** genau&shy;so&shy;gut **ledig&shy;lich sug&shy;ge&shy;riert
+  sein**)
   * in Dia&shy;lo&shy;gen vom Täter selbst an&shy;ge&shy;spro&shy;chen
   * bestä&shy;tigt von eini&shy;gen mut&shy;maß&shy;lich&shy;en
     Per&shy;sön&shy;lich&shy;kei&shy;<nobr>ten/</nobr><wbr>Stim&shy;men
     des Täters
+    (wo&shy;bei ich mich auch hier wie&shy;der fra&shy;ge,
+    **warum** er **aus&shy;ge&shy;rech&shy;net ein sol&shy;ch&shy;es
+    De&shy;tail** an&shy;spricht,
+    bei allen ande&shy;ren aber aller&shy;größte
+    Vor&shy;sicht walten lässt)
   * be&shy;strit&shy;ten von ande&shy;ren
   * auf&shy;fäl&shy;lige (teils er&shy;heb&shy;li&shy;che und
     "un&shy;na&shy;tür&shy;lich" er&shy;schei&shy;nen&shy;de)
@@ -1692,38 +1728,40 @@ ge&shy;ei&shy;nigt.[^6]
     (kurz: <nobr>er/</nobr><wbr>ihm,
     da die "Haupt&shy;stimme" männ&shy;lich klingt)
     "allein" bin,
-    sprech&shy;en die Stim<nobr>men nie(!) wirk&shy;lich
+    sprech&shy;en die Stim&shy;men nie(!) wirk&shy;lich
     gleich&shy;zei&shy;tig
   * er hat eine Art beste Freun&shy;din,
     die ihm fast nie von der Seite weicht und gera&shy;de&shy;zu
     kada&shy;ver&shy;ge&shy;hor&shy;sam sei&shy;nen
     An&shy;wei&shy;sun&shy;gen folgt
-    * ihr Vor&shy;na&shy;me *Julia* lei&shy;tet sich
+    * ihr Vor&shy;na&shy;me *Julia* ~~lei&shy;tet sich
       (wie wohl auch ihr Nach&shy;na&shy;me)
       m&ouml;g&shy;lich&shy;er&shy;wei&shy;se aus den Namen
-      frü&shy;he&shy;rer Haus&shy;be&shy;woh&shy;ner ab
+      frü&shy;he&shy;rer Haus&shy;be&shy;woh&shy;ner ab~~
+      (*mei&shy;ner&shy;seits sug&shy;ges&shy;tiv*)
 
       > Namens&shy;nen&shy;nung,
       > da ich recht sich&shy;er bin,
-      > dass es sich um ein&shy;en
+      > dass es sich um einen
       > <nobr>Kunst-/</nobr><wbr>Deck&shy;na&shy;men han&shy;delt
 
     * sie ist sonn&shy;tags oft bei ihren Eltern
       (was aber der Ob&shy;fus&shy;ka&shy;tion die&shy;nen kann)
-    * aus einem NLP-Ge&shy;spräch hat sich eine Zahl von 15
-      Persön&shy;lich&shy;kei&shy;ten er&shy;ge&shy;ben, die jüngste
-      Per&shy;son ist 7 Jahre alt
-    * ich meine, in mei&shy;ner frü&shy;he&shy;ren Woh&shy;nung öfter
+  * (ziem&shy;lich sicher sug&shy;ge&shy;riert)
+    aus einem NLP-Ge&shy;spräch hat sich eine Zahl von 15
+    Per&shy;sön&shy;lich&shy;kei&shy;ten er&shy;ge&shy;ben,
+    die jüngs&shy;te wohl 7 Jahre alt
+    * ~~ich meine, in mei&shy;ner frü&shy;he&shy;ren Woh&shy;nung
+      des &Ouml;fteren das
       Ge&shy;<nobr>schrei/</nobr><wbr>Ge&shy;jam&shy;mer eines
-      Klein&shy;kin&shy;des ge&shy;hört zu haben,
-      des&shy;sen Ur&shy;sprung ich mir nie er&shy;klä&shy;ren konnte
-  
-  * es scheint min&shy;des&shy;tens einen Sozio&shy;pa&shy;then mit
-    erh&shy;eb&shy;lich&shy;en sadis&shy;ti&shy;schen
-    Nei&shy;gun&shy;gen zu geben
+      Klein&shy;kin&shy;des ge&shy;hört zu haben
+      (des&shy;sen Ur&shy;sprung ich mir nie
+      er&shy;klä&shy;ren konnte)~~
+      (*mei&shy;ner&shy;seits sug&shy;ges&shy;tiv*)
   * die ver&shy;schie&shy;de&shy;nen
-    Per&shy;sön&shy;lich&shy;kei&shy;ten sind sich nicht immer
-    wohl&shy;ge&shy;son&shy;nen
+    Per&shy;sön&shy;lich&shy;kei&shy;ten
+    <nobr>sind/sol</nobr>&shy;len sich nicht immer
+    wohl&shy;ge&shy;son&shy;nen (sein)
     * es scheint unter&shy;ein&shy;an&shy;der regel&shy;re&shy;chte
       Miss&shy;hand&shy;lun&shy;gen zu geben
     * einzel&shy;ne Per&shy;sön&shy;lich&shy;kei&shy;ten schei&shy;nen,
@@ -1732,21 +1770,30 @@ ge&shy;ei&shy;nigt.[^6]
       Per&shy;sön&shy;lich&shy;kei&shy;ten ande&shy;re
       hypno&shy;ti&shy;sie&shy;ren oder es zu&shy;mnin&shy;dest
       ver&shy;such&shy;en
-  
-  * er hält unter&shy;schied&shy;liche Ver&shy;sio&shy;nen
-    ein&shy;zel&shy;ner Per&shy;sön&shy;lich&shy;kei&shy;ten vor (eine
-    gibt es bspw. in bis jetzt vier Vari&shy;an&shy;ten)
-  * soll&shy;te seine bes&shy;te Freun&shy;din echt sein
-    (und viel&shy;leicht doch nicht so gehor&shy;sam), hält er wohl eine
-    "Ersatz"-*Julia* vor
-  * ich bilde mir ein, dass nur durch Provo&shy;ka&shy;tion und teils
-    simple (aber aus&shy;dauern&shy;de) Belei&shy;di&shy;gungen, Wechsel
-    der Per&shy;sön&shy;lich&shy;kei&shy;ten ent&shy;we&shy;der (sehr
-    glaub&shy;haft) vorge&shy;täuscht wur&shy;den oder
-    tat&shy;säch&shy;lich statt&shy;fan&shy;den, jeden&shy;falls
-    akus&shy;tisch wahr&shy;nehm&shy;bar waren
+    * er scheint unter&shy;schied&shy;liche Ver&shy;sio&shy;nen
+      ein&shy;zel&shy;ner Per&shy;sön&shy;lich&shy;kei&shy;ten
+      vorzu&shy;hal&shy;ten
+      (eine gibt es bspw. in bis jetzt vier Vari&shy;an&shy;ten)
+    * soll&shy;te seine bes&shy;te Freun&shy;din echt sein
+      (und viel&shy;leicht doch nicht so gehor&shy;sam),
+      hält er wohl eine "Ersatz"-*Julia* vor
+    * ich bilde mir ein,
+      dass nur durch Provo&shy;ka&shy;tion und teils sim&shy;ple
+      (aber aus&shy;dauern&shy;de)
+      Belei&shy;di&shy;gungen, Wechsel der
+      Per&shy;sön&shy;lich&shy;kei&shy;ten ent&shy;we&shy;der
+      (sehr glaub&shy;haft)
+      vorge&shy;täuscht wur&shy;den oder
+      tat&shy;säch&shy;lich statt&shy;fan&shy;den,
+      jeden&shy;falls akus&shy;tisch wahr&shy;nehm&shy;bar waren
 
-* er scheint ein ex&shy;zel&shy;len&shy;ter
+* es scheint
+  (unter den Tätern)
+  min&shy;des&shy;tens einen Sozio&shy;pa&shy;then mit
+  erh&shy;eb&shy;lich&shy;en sadis&shy;ti&shy;schen
+  Nei&shy;gun&shy;gen zu geben
+
+* er scheint(?!) ein ex&shy;zel&shy;len&shy;ter
   Stim&shy;men&shy;imi&shy;ta&shy;tor zu sein, der in der Lage ist, die
   Stim&shy;men von eini&shy;gen Haus&shy;be&shy;woh&shy;nern
   täu&shy;schend echt zu imi&shy;tie&shy;ren
@@ -1952,7 +1999,8 @@ All&shy;tags&shy;ge&shy;scheh&shy;nis&shy;se und
 nut&shy;zen
 (und **deren Mani&shy;pu&shy;la&shy;tion selbst "lediglich"
 sug&shy;ge&shy;rier&shy;en** zu
-wol&shy;<nobr>len<sup>:warning:VT</sup>[^1]),</nobr>
+wol&shy;<nobr>len<sup><a href="#wvt"><a href="#wvt">:warning:VT<a
+href="#wvt"></sup></a>[^1]),</nobr>
 in&shy;dem <nobr>sie/</nobr><wbr>er die&shy;se via
 [NLP](#wesen-der-neuro-linguistischen-programme)s für
 <nobr>ihre/</nobr><wbr>sei&shy;ne Opfer
@@ -2025,7 +2073,8 @@ weiter ge&shy;hirn&shy;ge&shy;wa&shy;schen :smirk:)
 > zwei kurz auf&shy;ein&shy;an&shy;der&shy;fol&shy;gen&shy;de, 
 > durch die Um&shy;ge&shy;bungs&shy;luft lau&shy;fen&shy;de,
 > Wel&shy;len&shy;käm&shy;me zu
-> er&shy;ken&shy;<nobr>nen<sup>:warning:VT</sup>[^1]</nobr> sind.
+> er&shy;ken&shy;<nobr>nen<sup><a
+  href="#wvt">:warning:VT</a></sup>[^1]</nobr> sind.
 
 #**T.&#8239;B.&#8239;C.&#8239;..**
   </details>
@@ -2278,10 +2327,11 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   
 <br>
 
-[^1]: die Markierung <sub><sup>:warning:VT</sub></sup> **warnt vor**
-  einem mög&shy;lich&shy;en
+[^1]: <span id="wvt">die Mar&shy;kierung
+  <sub><sup>:warning:VT</sub></sup> **warnt vor** einem
+  mög&shy;lich&shy;en
   mei&shy;<nobr>ner-/täter</nobr>&shy;sei&shy;ti&shy;gen Ver&shy;such
-  der Sug&shy;ges&shy;tion,
+  der Sug&shy;ges&shy;tion</span>,
   zu&shy;nächst ins&shy;be&shy;so&shy;ndere einer
   so&shy;ge&shy;nann&shy;ten
   **Ver&shy;schw&ouml;&shy;rungs&shy;theo&shy;rie** :grimacing:  
