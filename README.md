@@ -319,20 +319,20 @@ version: Fr., 20. Sep. 2024
   * ich habe,
     ent&shy;ge&shy;gen der permanenten Suggestion
     eines poten&shy;tiel&shy;len Täters,
-    eine [be&shy;stimm&shy;te
-    (**Ex-**)**Nach&shy;ba&shy;<nobr>rin**](https://github.com/0vv1/state-of-perception/blob/1fb83092a96fbb2565cef754ee27951aa00ba101/README.md#1st-things-first)[^3]</nobr>
-    **seit Feb&shy;ru&shy;ar 2023**(!) **nicht** mehr
+    eine be&shy;stimm&shy;te
+    (**Ex-**)**Nach&shy;ba&shy;rin seit Feb&shy;ru&shy;ar 2023**(!)
+    **nicht** mehr
     **ge&shy;se&shy;<nobr>hen**/</nobr><wbr>**ge&shy;hört**,
     bis ich sie Mit&shy;te August (2024) kurz
     (in ihrer neuen Whg.)
     auf&shy;ge&shy;sucht habe,
     aus&shy;schlie&szlig;&shy;lich um mich zu
     ver&shy;ge&shy;wis&shy;sern,
-    dass sie **i.&#8239;O.**&trade; ist, und **keine** der,
-    mir, mit einer ihrer
-    (min&shy;des&shy;tens)
-    vier Ersatz&shy;vari&shy;an&shy;ten  
-    (von denen zwei manchmal "*Gedanken lesen*"
+    dass  
+    sie **i.&#8239;O.**&trade; ist, und  
+    **keine** der,
+    mir mit einer ihrer Ersatz&shy;vari&shy;an&shy;ten
+    (von denen manche "*Gedanken lesen*"
     k&ouml;n&shy;nen :wink:),  
     fast täg&shy;lich **vor&shy;ge&shy;spiel&shy;ten**<sup>?!</sup>
     [mons&shy;trö&shy;sen
@@ -874,7 +874,7 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
   mani&shy;pu&shy;lier- und steuer&shy;bar zu mach&shy;en(?)
 
 > [!IMPORTANT]  
-> (*Erg. vom 20.09.24*) **Drin&shy;gen&shy;der Rat**
+> (*Erg. 20.09.24*) **Drin&shy;gen&shy;der Rat**
 > (da die&shy;se Art Ein&shy;re&shy;de bei mir nie
 > funk&shy;tio&shy;niert hat):
 >   
@@ -1051,14 +1051,14 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
   die ihren Ur&shy;sprung aber oft bei einem sel&shy;ber
   be&shy;kann&shy;ten Men&shy;sch&shy;en haben,
   oft einem, wo emo&shy;tio&shy;na&shy;le Bin&shy;dung besteht.  
-  (**Anm. vom 18. Sep. 2024**: Soll&shy;te es "dir" dennoch
-  irgend&shy;wann ein&shy;mal ge&shy;lin&shy;gen,
-  oder dass ich mich min&shy;des&shy;tens für irgend&shy;was
-  recht&shy;fer&shy;ti&shy;gen muss,
+  (*Erg. 18.09.24*) Soll&shy;te es "dir" dennoch
+  irgend&shy;wann ein&shy;mal ge&shy;lin&shy;gen
+  (oder dass ich mich min&shy;des&shy;tens für irgend&shy;was
+  recht&shy;fer&shy;ti&shy;gen muss)
   scheiße ich darauf.
   Das hier ist die Wahr&shy;heit&trade;,
   oder min&shy;des&shy;tens mei&shy;ne Wahr&shy;neh&shy;mung
-  die&shy;ser. :innocent:)
+  die&shy;ser. :innocent:
   
 * [**beson&shy;de&shy;re Quali&shy;tät für
   Schizo&shy;phr&shy;enie-Patien&shy;ten**]
@@ -1067,9 +1067,9 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
   **über Jahre fort&shy;dauern&shy;des**,
   in&shy;fla&shy;tio&shy;när bis zur
   Belie&shy;big&shy;keit alles Erlebbaren orchestriertes,
-  dabei immer geschickt [**zwischen Wahr&shy;neh&shy;mung der
-  Reali&shy;tät und schizo&shy;phre&shy;nem
-  Er&shy;le&shy;ben austariertes**](#austarieren-bestimmter-parameter),
+  dabei immer geschickt [**zwischen** Wahr&shy;neh&shy;mung der
+  **Reali&shy;tät und schizo&shy;phre&shy;nem**
+  Er&shy;le&shy;ben austariertes](#austarieren-bestimmter-parameter),
   [**Gas&shy;lighting**](https://de.wikipedia.org/wiki/Gaslighting)
   
 <details>
@@ -1596,7 +1596,7 @@ ver&shy;stär&shy;ken.
   
 ## Ma&szlig;<nobr>/Mit&shy;te</nobr><wbr> & Over&shy;drive
 
-(Erg. v. 20.09.24) Gera&shy;de in den letz&shy;ten Tagen hat sich einer
+(*Erg. 20.09.24*) Gera&shy;de in den letz&shy;ten Tagen hat sich einer
 der haupt&shy;säch&shy;lich&shy;en **Pro&shy;ta&shy;go&shy;nis&shy;t**en
 unter den mut&shy;maß&shy;lich&shy;en Initia&shy;to&shy;ren **so**
 der&shy;maßen **bos&shy;haft** geriert,
