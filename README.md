@@ -944,9 +944,8 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
   Aus&shy;füh&shy;rung
 
 > [!NOTE]
-> **Erg&auml;n&shy;zung** aus der
-> So.-<wbr>Nacht-<wbr>[NLP](#wesen-der-neuro-linguistischen-programme)
-> <nobr>(**16.&#8239;Sep.&#8239;'24**):</nobr>  
+> (*Erg. 16.09.24*)
+> So.-<wbr>Nacht-<wbr>[NLP](#wesen-der-neuro-linguistischen-programme):
 > Nach&shy;dem ich zu ver&shy;ste&shy;hen gab,
 > dass ich schon ein Weil&shy;chen *Ohr&shy;st&ouml;p&shy;sel*
 > ver&shy;wen&shy;de und die
@@ -958,7 +957,7 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
 > vir&shy;tu&shy;el&shy;<nobr>le/-r</nobr>
 > <nobr>(mglw.</nobr>
 > "rang&shy;hö&shy;<nobr>here/-r"<sup>?</sup>)</nobr>
-> <nobr>Täter</nobr><wbr>(-[persön&shy;lich&shy;keit](#beobachtungen--annahmen-zu-täter-f))
+> <nobr>Täter/-[per</nobr>&shy;sön&shy;lich&shy;keit](#beobachtungen--annahmen-zu-täter-f)
 > der Mei&shy;nung,
 > dass er/sie in der letz&shy;ten Nacht
 > (wie bereits öfter),
@@ -967,7 +966,7 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
 > href="#wvt">:warning:VT</a></sup>[^1],</nobr>
 > [gegen deren Willen](https://www.unicum.de/wissenswertes/raus-aus-meinem-kopf-kann-hypnose-dich-willenlos-machen)
 > via [Hyp&shy;nose](https://de.wikipedia.org/wiki/Hypnose)
-> dafür "miss&shy;braucht",
+> dafür "miss&shy;braucht" hat,
 > mich wäh&shy;rend des Schlafs aus&shy;gedehnt
 > [neuro-linguistisch](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
 > zu pro&shy;gram&shy;mie<nobr>ren<sup><a href="#wvt">:warning:VT</a></sup>[^1]. :+1:</nobr>  
