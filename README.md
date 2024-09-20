@@ -881,7 +881,12 @@ in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt.
 > <nobr>der/</nobr><wbr><nobr>dem/</nobr><wbr>davon
 > er&shy;klä&shy;ren lassen
 > (eigent&shy;lich von nie&shy;man&shy;dem),
-> was ihr wie zu ver&shy;ant&shy;wor&shy;ten habt.  
+> was <nobr>er/</nobr><wbr><nobr>sie/</nobr><wbr><nobr>es/</nobr><wbr><nobr>wir/</nobr><wbr><nobr>ihr/</nobr><wbr><nobr>sie oder die,
+> wie zu ver&shy;ant&shy;wor&shy;ten hat/habt/haben!  
+> (Das ist mir auch ein pers&ouml;nliches An&shy;lie&shy;gen:
+> M.&#8239;M.&#8239;n. gibt es "da draußen" nie&shy;man&shy;den,
+> die/der irgend&shy;et&shy;was bes&shy;ser&trade; weiß
+> als irgend&shy;je&shy;mand sonst.)  
 >   
 > Diese **Krea&shy;tur hat keine**r&shy;lei
 > (Bewer&shy;tungs-)**Kom&shy;pe&shy;tenz**,
