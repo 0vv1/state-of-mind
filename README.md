@@ -1078,7 +1078,7 @@ Erleb&shy;baren orches&shy;trier&shy;tes,
 dabei immer geschickt **zwisch&shy;en** Wahr&shy;neh&shy;mung der
 **Reali&shy;tät und schizo&shy;phre&shy;nem**
 Er&shy;le&shy;ben
-[**austariert]](#austarieren-bestimmter-parameter)es**
+[**austariert](#austarieren-bestimmter-parameter)es**
 [**Gas&shy;lighting**](https://de.wikipedia.org/wiki/Gaslighting)
   
 <details>
