@@ -7,7 +7,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Fr., 20. Sep. 2024
+version: Sa., 21. Sep. 2024
 ```
 
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>unter Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie zyni&shy;sche [Buch&shy;empfeh&shy;lung eines mögl. Täters](#buchempfehlung-eines-t&auml;ters)?!)</sup></sub>
@@ -167,8 +167,8 @@ version: Fr., 20. Sep. 2024
   aber ver&shy;deck&shy;te **Ver&shy;ab&shy;reich&shy;ung von**
   psy&shy;cho&shy;ak&shy;ti&shy;ven bzw. hallu&shy;zi&shy;no&shy;gen
   wirken&shy;den **Be&shy;täu&shy;bungs&shy;mitteln**,
-  ebenfalls ge&shy;gen den aus&shy;dr&uuml;ck&shy;lich&shy;en Wil&shy;len
-  <nobr>des(/der)<sup>?</sup></nobr>
+  ebenfalls ge&shy;gen den aus&shy;dr&uuml;ck&shy;lich&shy;en
+  Wil&shy;len <nobr>des(/der)<sup>?</sup></nobr>
   Be&shy;trof&shy;fe&shy;nen,~~<sup>suggeriert</sup>
   
   damit **in&shy;du&shy;zier&shy;te**, "**Trance**"(?)**, damit
@@ -308,9 +308,10 @@ version: Fr., 20. Sep. 2024
     Sub&shy;stanz&shy;kon&shy;sum* et.&#8239;c.),
     
     Eigent&shy;lich **alles** total **Bana&shy;ne**,
+    Es gibt
     (für mich)
-    diesen einen wich&shy;ti&shy;gen Satz:  
-    **Try not to burden them**!  
+    diesen einen sch&ouml;nen Satz:  
+     **Try not to burden them**!  
     oder wenigstens ALAP
     (**a**s **l**ittle **a**s **p**ossible) :kissing_heart:  
     Mehr braucht es nicht,
@@ -954,7 +955,7 @@ Aus&shy;füh&shy;rung.
 > vir&shy;tu&shy;el&shy;<nobr>le/-r</nobr>
 > <nobr>(mglw.</nobr>
 > "rang&shy;hö&shy;<nobr>here/-r"<sup>?</sup>)</nobr>
-> <nobr>Täter/-[per</nobr>&shy;sön&shy;lich&shy;keit](#beobachtungen--annahmen-zu-täter-f)
+> <nobr>Täter/-</nobr>[per&shy;sön&shy;lich&shy;keit](#beobachtungen--annahmen-zu-täter-f)
 > der Mei&shy;nung,
 > dass er/sie in der letz&shy;ten Nacht
 > (wie bereits öfter),
@@ -1691,11 +1692,12 @@ Die Sze&shy;ne&shy;rie drif&shy;tet **immer h&auml;ufiger** ins
 > ab&shy;zu&shy;len&shy;ken
 > (und dabei mglw. auch wie&shy;der(?!) be&shy;ste&shy;hen&shy;de
 > psych&shy;ische Krank&shy;heit&shy;en aus&shy;zu&shy;nutzen?)
-
+  
 <details>
   <summary>
     <h3>Beob&shy;ach&shy;tun&shy;gen & An&shy;nah&shy;men
-      zu <a href="#foko">Täter "F."</a></h3></summary>
+      zu <a href="#foko">Täter "F."</a><sup><a
+      href="#foko">5</a></sup></h3></summary>
 
 Hier der Ver&shy;such eines Pro&shy;fils eines, aus mei&shy;ner Sicht,
 <nobr>(Haupt-)</nobr><wbr><nobr>Täters bzw.
@@ -1704,8 +1706,8 @@ jeden&shy;falls
 (bis&shy;her)
 domi&shy;nan&shy;tes&shy;ten Pro&shy;ta&shy;go&shy;nis&shy;ten zu
 skiz&shy;zie&shy;ren.  
-**Man&shy;gels Iden&shy;ti&shy;tät** haben "*wir uns*" auf "**F.**"
-ge&shy;ei&shy;nigt.[^5]
+**Man&shy;gels Iden&shy;ti&shy;tät** haben "*wir uns*" auf
+"**Fotzkopf**" ge&shy;ei&shy;nigt.[^5]
 
 * m&ouml;g&shy;lich&shy;er&shy;wei&shy;se Ini&shy;tia&shy;tor,
   mglw. Haupt&shy;tä&shy;ter,
@@ -2007,8 +2009,7 @@ All&shy;tags&shy;ge&shy;scheh&shy;nis&shy;se und
 nut&shy;zen
 (und **deren Mani&shy;pu&shy;la&shy;tion selbst "lediglich"
 sug&shy;ge&shy;rier&shy;en** zu
-wol&shy;<nobr>len<sup><a href="#wvt"><a href="#wvt">:warning:VT<a
-href="#wvt"></sup></a>[^1]),</nobr>
+wol&shy;<nobr>len<sup><a href="#wvt">:warning:VT</a></sup>[^1]),</nobr>
 in&shy;dem <nobr>sie/</nobr><wbr>er die&shy;se via
 [NLP](#wesen-der-neuro-linguistischen-programme)s für
 <nobr>ihre/</nobr><wbr>sei&shy;ne Opfer
@@ -2387,7 +2388,18 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   er, um sich sei&shy;ner laten&shy;ten Miso&shy;gy&shy;nie
   an&shy;ge&shy;mes&shy;sen stell&shy;en zu k&ouml;n&shy;nen und  
   ich, um den span&shy;nen&shy;sten "Er&shy;fin&shy;dungen" der
-  Evo&shy;lu&shy;tion ange&shy;mes&shy;se&shy;n zu hul&shy;di&shy;gen.
+  Evo&shy;lu&shy;tion ange&shy;mes&shy;se&shy;n zu hul&shy;di&shy;gen.  
+  Eigent&shy;lich ein Fran&shy;ken&shy;stein-KZ-Nazi-Fotz&shy;kopf,
+  aber da&shy;für ist ja nicht immer Zeit.  
+  **Fran&shy;ken&shy;stein** wegen sei&shy;ner Vor&shy;liebe,
+  mensch&shy;liche Gehir&shy;ne zu mani&shy;pu&shy;lieren,
+  sozu&shy;sagen im über&shy;tra&shy;ge&shy;nen Sinne zu sezieren,  
+  **KZ**, wegen sei&shy;ner schein&shy;bar per&shy;ver&shy;sen
+  Nei&shy;gung zum Zufügen von menschlichem Leid,  
+  **Nazi**, wegen sei&shy;ner Passion zur Kon&shy;trol&shy;le über
+  ande&shy;re, seiner un&shy;gewöhn&shy;lich&shy;en Roh&shy;heit,
+  Un&shy;freund&shy;lich&shy;keit und Respektlosigkeit ggü.
+  ande&shy;ren Lebe&shy;we&shy;sen.
 
 [^6]: an den Polen wenig&shy;er :wink:
 
