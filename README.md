@@ -7,7 +7,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Di., 24. Sep. 2024
+version: Mi., 25. Sep. 2024
 ```
 
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>bei Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie zyni&shy;sche [Buch&shy;empfeh&shy;lung eines mögl. Täters](#buchempfehlung-eines-t&auml;ters)?!)</sup></sub>
@@ -266,7 +266,7 @@ Die **Psy&shy;cho&shy;se selbst**
 (mglw. be&shy;reits "nur" eine Diag&shy;no&shy;se)
 **ver&shy;hin&shy;dert** hier&shy;bei zu&shy;ver&shy;l&auml;s&shy;sig,
 dass der Patient den sug&shy;ge&shy;rier&shy;ten
-Tat&shy;be&shy;stand je&shy;mals **prü&shy;fen** kann,  
+Tat&shy;be&shy;stand je&shy;mals **prü&shy;fen** kann,
 **da "auff&auml;llige" Ver&shy;hal&shy;tens&shy;wei&shy;sen die
 Psy&shy;cho&shy;se extern**
 (mut&shy;ma&szlig;&shy;liche Wahr&shy;neh&shy;mung der Ande&shy;ren)
@@ -446,7 +446,8 @@ Telefonnr.
 > via be&shy;lie&shy;bi&shy;gem Zah&shy;lungs&shy;weg)
 > <nobr>**der-/</nobr><wbr>dem&shy;jeni&shy;gen**,
 > <nobr>**die/</nobr><wbr>der hier beschrie&shy;be&shy;ne
-> Beob&shy;ach&shy;tun&shy;gen** glaub&shy;wür&shy;di&shy;g(!)
+> Beob&shy;ach&shy;tun&shy;gen** als erste(-r)
+> glaub&shy;wür&shy;di&shy;g(!)
 > **be&shy;zeu&shy;gen** kann.
 <!-- ende vorbedingungen -->
   
