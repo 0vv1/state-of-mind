@@ -7,7 +7,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Mi., 25. Sep. 2024
+version: Do., 26. Sep. 2024
 ```
 
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>bei Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie zyni&shy;sche [Buch&shy;empfeh&shy;lung eines mögl. Täters](#buchempfehlung-eines-t&auml;ters)?!)</sup></sub>
@@ -1346,7 +1346,7 @@ mir dann die Verdächtigung meiner selbst anzudrohen und
 (hoffentlich nur)
 mich eine der schrecklichsten Nächte meines Lebens verbingen zu lassen.
 
-**Anm. 26.09.24 02:22**] Mich momentan abhörender Täter droht mit Nachspiel.
+[**Anm. 26.09.24 02:22**] Mich momentan abhörender Täter droht mit Nachspiel.
 <!-- ende taktiken -->
 
 ### "[Ins&shy;ze&shy;nie&shy;rung](#manipulation-der-realit&auml;t-selbst)" eini&shy;ger "Bedro&shy;hung&shy;en"
