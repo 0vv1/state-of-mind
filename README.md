@@ -1324,18 +1324,29 @@ Schwerste Ver&shy;brech&shy;en offen&shy;ba&shy;ren sich erst in
 ---
 
 Alles **zusammenfassendes Bsp.**:  
-Ein initialer(?) (Haupt-)Täter suggeriert/inszeniert am Valentinstagabend(!) etwa 8 Stunden lang die (angeblich maskierte?!) Misshandlung(/Vergewaltigung?) einer (suggerierten ehemaligen!) Nachbarin,
-spricht dabei mehrmals direkt mit mir,
-täuscht sequentiell mehrere Realitäten an,
-bietet mir dann eine Art Übergabe an,
-lässt mich mehrmals (irgendwo im Haus) antreten/umherirren,
-lässt diese Übergabe,
-unter Abspielen der Verzweiflung eines Menschen,
+Ein initialer(?) (Haupt-)Täter
+sowie (suggeriert) zwei weitere anwesende Frauen(-stimmen)
+suggerieren/inszenieren am Valentinstagabend(!)
+etwa 8 Stunden lang die (angeblich maskierte?!)
+Misshandlung(/Vergewaltigung?) einer (suggerierten ehemaligen!) Nachbarin,
+sprechen dabei mehrmals direkt mit mir,
+täuschen sequentiell mehrere Realitäten an,
+bieten mir dann eine Art Übergabe an,
+lassen mich mehrmals (irgendwo im Haus) antreten/umherirren,
+lassen diese Übergabe dann aber,
+aufgrund unterstellter Unfähigkeit/Überforderung meiner Person
+ob der Verwahrlosung ihres Opfers,
+unter Abspielen der Verzweiflung selbiger Frau,
 zum Zwecke der Entwürdigung zweier(!) Menschen,
 spät nachts platzen,
-um mich unter größten Sorgen zurück in meine Wohnung gehen zu lassen,
+um mich unter größten Sorgen und
+der Verhöhnung durch suggerierte Anwesende
+zurück in meine Wohnung gehen zu lassen,
 mir dann die Verdächtigung meiner selbst anzudrohen und
+(hoffentlich nur)
 mich eine der schrecklichsten Nächte meines Lebens verbingen zu lassen.
+
+**Anm. 26.09.24 02:22**] Mich momentan abhörender Täter droht mit Nachspiel.
 <!-- ende taktiken -->
 
 ### "[Ins&shy;ze&shy;nie&shy;rung](#manipulation-der-realit&auml;t-selbst)" eini&shy;ger "Bedro&shy;hung&shy;en"
