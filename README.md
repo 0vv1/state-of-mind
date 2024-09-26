@@ -911,7 +911,7 @@ ge&shy;trig&shy;gert wer&shy;den.
   * Sug&shy;ges&shy;tion der Diffa&shy;mie&shy;rung
     (oder &uuml;bler Nach&shy;re&shy;de)
     des Opfers vor Nach&shy;barn oder be&shy;lie&shy;bi&shy;gen
-    Drit&shy;ten
+    Drit&shy;ten,
 
 Suggestion von **Macht**/**Kontrolle**
   * allge&shy;mei&shy;ne
@@ -924,7 +924,7 @@ Suggestion von **Macht**/**Kontrolle**
     (bspw. für zuvor ge&shy;tä&shy;tigte Belei&shy;di&shy;gun&shy;gen)
   * An&shy;dro&shy;hung von phy&shy;si&shy;sch&shy;er Ge&shy;walt,
     Fol&shy;ter und Er&shy;mor&shy;dung
-    (nicht nur des Adres&shy;sa&shy;ten)
+    (nicht nur des Adres&shy;sa&shy;ten),
 
 Sug&shy;ges&shy;tion, Ein&shy;rede & Täu&shy;schung
   mittels
@@ -933,16 +933,16 @@ Sug&shy;ges&shy;tion, Ein&shy;rede & Täu&shy;schung
     (teils maschi&shy;nell unter&shy;stützt,
     teils mit meh&shy;re&shy;ren über&shy;ein&shy;an&shy;der
     lie&shy;gen&shy;den Ton&shy;spu&shy;ren),
-  * **Hyp&shy;no&shy;se** oder Induk&shy;tion einer Art Trance(?)
+  * **Hyp&shy;no&shy;se** oder Induk&shy;tion einer Art Trance(?),
 
-emo&shy;tio&shy;nale Bin&shy;<nobr>dung/</nobr><wbr>Lösung  
+emo&shy;tio&shy;nale Bin&shy;<nobr>dung/</nobr><wbr>Lösung,
 
 [**Gas&shy;lighting**](https://de.wikipedia.org/wiki/Gaslighting) in
 **extre&shy;m**em Umfang
-(fühlt sich teils wie ein Ex&shy;peri&shy;ment an)
+(fühlt sich teils wie ein Ex&shy;peri&shy;ment an),
 
 per&shy;ma&shy;nen&shy;tes **In-Fra&shy;ge-Stel&shy;len** des
-Erleb&shy;ten
+Erleb&shy;ten,
 
 **Nut&shy;zen von Stim&shy;men** real
 exis&shy;tie&shy;ren&shy;der Per&shy;so&shy;nen **ohne**
@@ -951,105 +951,67 @@ exis&shy;tie&shy;ren&shy;der Per&shy;so&shy;nen **ohne**
 meis&shy;tens ohne
 (oder "fal&shy;schem")
 zeit&shy;lich&shy;en Be&shy;zug,
-in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt
+in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt,
 
 **Imi&shy;tie&shy;ren von Stim&shy;men** real
 exis&shy;tie&shy;ren&shy;der Per&shy;so&shy;nen,
 da&shy;durch An&shy;rei&shy;che&shy;rung mit be&shy;lie&shy;bi&shy;gem
-In&shy;halt
+In&shy;halt,
 
 **Mani&shy;pu&shy;la&shy;tion** von Laut&shy;stärke und
 Into&shy;nation der ein&shy;ge&shy;setz&shy;ten **Stim&shy;men**,
 
+h&auml;ufig **voll&shy;kom&shy;men skur&shy;ri&shy;les**
+(lau&shy;tes, manch&shy;mal schrei&shy;en&shy;des?),
+da&shy;bei sinnentstellendes,
+"**Nach&shy;plap&shy;pern**" von allem was ich
+(auch sehr leise)
+sage
+(warum auch immer),
+
 Auf&shy;for&shy;de&shy;<nobr>rung/</nobr>N&ouml;&shy;ti&shy;gung zur
 Selbst&shy;be&shy;frie&shy;di&shy;<nobr>gung&nbsp;/</nobr>
-sexu&shy;el&shy;len Han&shy;dlun&shy;gen
+sexu&shy;el&shy;len Han&shy;dlun&shy;gen,
+oder anders herum:
+Unter&shy;<nobr>dr&uuml;ckung/</nobr>Verbot(?) auto-sexu&shy;el&shy;ler
+Hand&shy;lun&shy;gen mittels Gegen&shy;re&shy;de oder sogar der
+Sug&shy;ges&shy;tion schwerer Kon&shy;se&shy;quen&shy;zen
+(bespw. t&auml;ter&shy;sei&shy;ti&shy;ge
+Ver&shy;ge&shy;wal&shy;ti&shy;gun&shy;gen von irgendwem),
+
+> [!NOTE]
+> \[**Anm. 26.09.24 09:24**\]
+> Mich aktu&shy;ell ab&shy;h&ouml;ren&shy;der T&auml;ter droht mir und
+> be&shy;haup&shy;tet,
+> ich w&uuml;rde mit der vor&shy;her&shy;ge&shy;hen&shy;den
+> &Auml;u&szlig;erung "mein
+> eige&shy;nes Grab schau&shy;feln".
 
 Auf&shy;for&shy;de&shy;rung zur
 (auch sexu&shy;el&shy;len)
 Beläs&shy;ti&shy;gung von Nach&shy;barn und ande&shy;ren
-Be&shy;woh&shy;nern
+Be&shy;woh&shy;nern,
 
 An&shy;dro&shy;hung des Auf&shy;zeich&shy;nens und der
 Ver&shy;brei&shy;tung in&shy;timster Momen&shy;te
 (Selbst&shy;befrie&shy;di&shy;gung,
 Toi&shy;let&shy;ten&shy;gang, et&#8239;c.)
   * Macht&shy;demon&shy;stra&shy;tio&shy;nen bspw. durch das
-    Ab&shy;spie&shy;len von Szenen i.&#8239;d.&#8239;Z.
+    Ab&shy;spie&shy;len von Szenen i.&#8239;d.&#8239;Z.,
 
 (mglw.) ge&shy;schick&shy;te akus&shy;ti&shy;sche Kopp&shy;lung
 eini&shy;ger Wohn&shy;ein&shy;hei&shy;ten,
 so&shy;dass &uuml;ber eine schein&shy;ba&shy;re Quel&shy;le einer
 akus&shy;ti&shy;schen Wahr&shy;neh&shy;mung ge&shy;t&auml;uscht
-wer&shy;den kann(?)
+wer&shy;den kann(?),
   
 Miss&shy;hand&shy;lungs- bzw.
 Ver&shy;ge&shy;wal&shy;ti&shy;gungs&shy;vor&shy;wür&shy;fe
-(vgl. auch [Bsp.](#bsp))
+(vgl. auch [Bsp.](#bsp)),
 
 Erzeu&shy;gen emo&shy;tio&shy;na&shy;ler Kri&shy;sen durch
 Aus&shy;nu&shy;tzen indi&shy;vi&shy;du&shy;el&shy;ler
-Schwach&shy;stel&shy;len und Trau&shy;ma&shy;ta
-
-<h4>Aus&shy;ta&shy;rie&shy;ren be&shy;stimm&shy;ter
-  Pa&shy;ra&shy;me&shy;ter</h4>
-
-Zwei sehr in&shy;te&shy;res&shy;san&shy;te As&shy;pek&shy;te sind
-her&shy;vor&shy;zu&shy;he&shy;ben,
-die ich für so bemer&shy;kens&shy;wert hal&shy;te,
-dass ich da&shy;zu ten&shy;die&shy;re,
-leben&shy;de Men&shy;schen "hin&shy;ter" "all dem hier" zu
-ver&shy;mu&shy;ten.
-
-* das Aus&shy;ta&shy;rie&shy;ren von ver&shy;mut&shy;lich drei
-  Para&shy;me&shy;tern:
-  * an&shy;fäng&shy;lich wahr&shy;ge&shy;nom&shy;me&shy;ne
-    **In&shy;for&shy;ma&shy;tions&shy;dich&shy;te**
-    (kurz: Wie aus&shy;sichts&shy;reich könn&shy;te
-    Zu&shy;hö&shy;ren sein?)
-  * der Grad an zu er&shy;war&shy;ten&shy;der
-    **Ob&shy;fus&shy;ka&shy;tion**  
-    (Wie&shy;viel Stress durch In&shy;ter&shy;po&shy;lie&shy;ren,
-    Nach&shy;fra&shy;gen,
-    De&shy;ko&shy;die&shy;ren et&#8239;c.
-    er&shy;war&shy;te ich?)
-  * der indi&shy;vi&shy;duel&shy;le Grad an **Neu&shy;gier**
-
-* das Aus&shy;ta&shy;rie&shy;ren der
-  (nur **für schi&shy;zo&shy;phre&shy;ne Opfer** rele&shy;van&shy;ten)
-  Para&shy;me&shy;ter:
-  * "Fest&shy;hal&shy;ten&shy;las&shy;sen" des Opfers an der
-    **Echt&shy;heit des Er&shy;leb&shy;ten**
-  * "Ein&shy;tau&shy;ch&shy;en" des Opfers in Fik&shy;ti&shy;ves,
-    Traum&shy;haf&shy;tes, **kaum mehr Wahr&shy;nehm&shy;ba&shy;res**
-
-Die&shy;se Para&shy;me&shy;ter&shy;paare wer&shy;den
-(gemein&shy;sam mit dem ohne&shy;hin
-mise&shy;ra&shy;belst vor&shy;stell&shy;ba&shy;ren
-Über&shy;mitt&shy;lungs&shy;ka&shy;nal
-(leise, kaum wahr&shy;nehm&shy;ba&shy;r wis&shy;teln&shy;de und
-zusätz&shy;lich ver&shy;zehr&shy;te Stim&shy;men)
-m.&#8239;M.&#8239;n. so **ge&shy;schickt aus&shy;ba&shy;lan&shy;ciert**,
-dass ich nicht nur Men&shy;schen hin&shy;ter die&shy;sem "Wir&shy;ken"
-ver&shy;mu&shy;te,
-son&shy;dern auch Er&shy;fah&shy;rung,
-ein umfangreiches Maß an Pla&shy;nung und
-m&ouml;g&shy;lich&shy;er&shy;wei&shy;se eine Art
-Pro&shy;fess&shy;io&shy;na&shy;li&shy;tät.  
-Ich mei&shy;ne, es ge&shy;hört *eigent&shy;lich* auch **eine Art
-Pro&shy;fi&shy;ling** dazu,
-die "Ini&shy;tia&shy;to&shy;ren" müs&shy;sen doch
-be&shy;stim&shy;mte Din&shy;ge über ihre Opfer
-vor&shy;re&shy;cher&shy;chie&shy;ren
-und dyna&shy;misch an&shy;pas&shy;sen
-(*oder nicht?!*)
-
-Jeden&shy;falls kann ich mir nicht vor&shy;stel&shy;len,
-dass so&shy;etwas von einer Maschi&shy;ne er&shy;le&shy;digt wird,
-noch dass ein ge&shy;lang&shy;weil&shy;ter, ver&shy;wirr&shy;ter
-Ein&shy;zel&shy;tä&shy;ter so&shy;et&shy;was mal eben schnell vor dem
-Früh&shy;stück in Excel zu&shy;sam&shy;men&shy;klickt.
-<!-- ende austarieren parameter -->
+Schwach&shy;stel&shy;len und Trau&shy;ma&shy;ta,
 <!-- ende eingesetzte mittel themen -->
 
 <!-- taktiken -->
@@ -1205,7 +1167,8 @@ direk&shy;ten Kon&shy;takt zwisch&shy;en die&shy;sen Per&shy;so&shy;nen
 aber durch Des&shy;in&shy;for&shy;ma&shy;tion aktiv zu
 ver&shy;hin&shy;dern.  
 (**Anm.**: Mglw. eine indi&shy;vi&shy;du&shy;ell sehr
-ver&shy;schie&shy;de&shy;ne Inzen&shy;ti&shy;vie&shy;rung.  
+ver&shy;schie&shy;de&shy;ne Inzen&shy;ti&shy;vie&shy;rung f&uuml;r
+irgend&shy;was?  
 **weitere Anm.**: WTF!)
 
 ---
@@ -1316,7 +1279,70 @@ Er&shy;le&shy;ben
 
 ---
 
-Regel&shy;mäßi&shy;ges, fast stän&shy;di&shy;ges "An&shy;ge&shy;bot" der
+<h4>Aus&shy;ta&shy;rie&shy;ren be&shy;stimm&shy;ter
+  Pa&shy;ra&shy;me&shy;ter</h4>
+
+Zwei sehr in&shy;te&shy;res&shy;san&shy;te As&shy;pek&shy;te sind
+her&shy;vor&shy;zu&shy;he&shy;ben,
+die ich für so bemer&shy;kens&shy;wert hal&shy;te,
+dass ich da&shy;zu ten&shy;die&shy;re,
+leben&shy;de Men&shy;schen "hin&shy;ter" "all dem hier" zu
+ver&shy;mu&shy;ten.
+
+* das Aus&shy;ta&shy;rie&shy;ren von ver&shy;mut&shy;lich drei
+  Para&shy;me&shy;tern:
+  * an&shy;fäng&shy;lich wahr&shy;ge&shy;nom&shy;me&shy;ne
+    **In&shy;for&shy;ma&shy;tions&shy;dich&shy;te**
+    (kurz: Wie aus&shy;sichts&shy;reich könn&shy;te
+    Zu&shy;hö&shy;ren sein?)
+  * der Grad an zu er&shy;war&shy;ten&shy;der
+    **Ob&shy;fus&shy;ka&shy;tion**  
+    (Wie&shy;viel Stress durch In&shy;ter&shy;po&shy;lie&shy;ren,
+    Nach&shy;fra&shy;gen,
+    De&shy;ko&shy;die&shy;ren et&#8239;c.
+    er&shy;war&shy;te ich?)
+  * der indi&shy;vi&shy;duel&shy;le Grad an **Neu&shy;gier**
+
+* das Aus&shy;ta&shy;rie&shy;ren der
+  (nur **für schi&shy;zo&shy;phre&shy;ne Opfer** rele&shy;van&shy;ten)
+  Para&shy;me&shy;ter:
+  * "Fest&shy;hal&shy;ten&shy;las&shy;sen" des Opfers an der
+    **Echt&shy;heit des Er&shy;leb&shy;ten**
+  * "Ein&shy;tau&shy;ch&shy;en" des Opfers in Fik&shy;ti&shy;ves,
+    Traum&shy;haf&shy;tes, **kaum mehr Wahr&shy;nehm&shy;ba&shy;res**
+
+Die&shy;se Para&shy;me&shy;ter&shy;paare wer&shy;den
+(gemein&shy;sam mit dem ohne&shy;hin
+mise&shy;ra&shy;belst vor&shy;stell&shy;ba&shy;ren
+Über&shy;mitt&shy;lungs&shy;ka&shy;nal
+(leise, kaum wahr&shy;nehm&shy;ba&shy;r wis&shy;teln&shy;de und
+zusätz&shy;lich ver&shy;zehr&shy;te Stim&shy;men)
+m.&#8239;M.&#8239;n. so **ge&shy;schickt aus&shy;ba&shy;lan&shy;ciert**,
+dass ich nicht nur Men&shy;schen hin&shy;ter die&shy;sem "Wir&shy;ken"
+ver&shy;mu&shy;te,
+son&shy;dern auch Er&shy;fah&shy;rung,
+ein umfangreiches Maß an Pla&shy;nung und
+m&ouml;g&shy;lich&shy;er&shy;wei&shy;se eine Art
+Pro&shy;fess&shy;io&shy;na&shy;li&shy;tät.  
+Ich mei&shy;ne, es ge&shy;hört *eigent&shy;lich* auch **eine Art
+Pro&shy;fi&shy;ling** dazu,
+die "Ini&shy;tia&shy;to&shy;ren" müs&shy;sen doch
+be&shy;stim&shy;mte Din&shy;ge über ihre Opfer
+vor&shy;re&shy;cher&shy;chie&shy;ren
+und dyna&shy;misch an&shy;pas&shy;sen
+(*oder nicht?!*)
+
+Jeden&shy;falls kann ich mir nicht vor&shy;stel&shy;len,
+dass so&shy;etwas von einer Maschi&shy;ne er&shy;le&shy;digt wird,
+noch dass ein ge&shy;lang&shy;weil&shy;ter, ver&shy;wirr&shy;ter
+Ein&shy;zel&shy;tä&shy;ter so&shy;et&shy;was mal eben schnell vor dem
+Früh&shy;stück in Excel zu&shy;sam&shy;men&shy;klickt.
+<!-- ende austarieren parameter -->
+
+---
+
+Regel&shy;mäßi&shy;ges,
+fast stän&shy;di&shy;ges "An&shy;ge&shy;bot" der
 (zu&shy;nächst im&shy;mer "lus&shy;tig" ge&shy;mein&shy;ten)
 Mit&shy;tä&shy;ter&shy;schaft.
 Wenn nicht er&shy;folg&shy;reich: Immer(!) ver&shy;such&shy;te
@@ -2163,7 +2189,9 @@ dann auf eine per&shy;sön&shy;li&shy;che Ebene und hegt (auch in
 Rache&shy;ge&shy;dan&shy;ken, was ich sehr be&shy;mer&shy;kens&shy;wert
 fin&shy;de.  
   </details></details>
-  
+
+<h3>Mglw. zwei&shy;te Ebe&shy;ne (oder Ab&shy;l&ouml;sung)</h3>
+
 <details>
   <summary>
     <h3>Weite&shy;re Ge&shy;dan&shy;ken zu
