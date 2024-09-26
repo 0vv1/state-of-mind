@@ -972,7 +972,7 @@ wer&shy;den kann(?)
   
 Miss&shy;hand&shy;lungs- bzw.
 Ver&shy;ge&shy;wal&shy;ti&shy;gungs&shy;vor&shy;wür&shy;fe
-(vgl. auch [Bsp.](#)
+(vgl. auch [Bsp.](#bsp))
 
 Erzeu&shy;gen emo&shy;tio&shy;na&shy;ler Kri&shy;sen durch
 Aus&shy;nu&shy;tzen indi&shy;vi&shy;du&shy;el&shy;ler
@@ -1324,7 +1324,7 @@ Schwerste Ver&shy;brech&shy;en offen&shy;ba&shy;ren sich erst in
 
 ---
 
-Alles **zusammenfassendes Bsp.**:  
+<span id="bsp">Alles **zusammenfassendes Bsp.**</span>:  
 Ein initialer(?) (Haupt-)Täter
 sowie (suggeriert) zwei weitere anwesende Frauen(-stimmen)
 suggerieren/inszenieren am Valentinstagabend(!)
@@ -2055,7 +2055,7 @@ skiz&shy;zie&shy;ren.
     Miss&shy;hand&shy;lun&shy;gen ge&shy;wor&shy;den zu sein
     
     > ein **Bsp.** (von vielen, vergl.
-    > [Manipulation der Realität selbst]():  
+    > [Manipulation der Realität selbst](#):  
     > Mir wird im Haus mei&shy;ner jet&shy;zi&shy;gen
     > Woh&shy;nung(!) gegen&shy;über (in Tem&shy;pel&shy;hof!),
     > die "Ret&shy;tung" einer an&shy;geb&shy;lich&shy;en,
