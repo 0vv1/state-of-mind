@@ -136,7 +136,22 @@ version: Do., 26. Sep. 2024
   (which might be different vis-à-vis).
   </details>
   <!-- ende english -->
-  
+
+> [!IMPORTANT]
+> Mglw. malen eine oder sogar mehrere Personen den
+> (perfidest denkbaren)
+> Teufel an die Wand
+> (eines Schizophrenie-Patienten),
+> ohne dass
+> (auch laut deren Aussage)
+> "irgendwas passiert"
+> (w&auml;re).
+> **Hier** aufwändige und zeitraubende **Dokumentation** zur Absicherung für den Fall dass doch. :+1:  
+> **An die "T&auml;ter"**: :tada:
+> Ein herzliches Dankeschön für über 16.000 Std.
+> deiner/eurer kostbaren
+> <nobr>Zeit!<sup>:warning:Zynismus</sup></nobr>
+
 <!-- 0.3 weitere Straftaten -->
 <details>
   <summary>Wei&shy;te&shy;re
