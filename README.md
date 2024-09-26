@@ -18,9 +18,22 @@ version: Do., 26. Sep. 2024
     ein&shy;mal nur noch ..</summary>
 
   ## «Über die Wirk&shy;mäch&shy;tig&shy;keit (un&shy;ge&shy;wollt selbst er&shy;leb&shy;ter) Sug&shy;ges&shy;tion»
-
-  und im Wesent&shy;lich&shy;en die erste Fuß&shy;no&shy;te[^1]
-  be&shy;han&shy;delnd.
+  
+  im Wesent&shy;lich&shy;en die erste Fuß&shy;no&shy;te[^1]
+  be&shy;han&shy;delnd,
+  und hoffentlich nicht ..
+  
+  ## «Vom kl&auml;g&shy;lich&shy;en Ver&shy;such der Er&shy;rich&shy;tung einer voll&shy;st&auml;n&shy;dig ob&shy;fus&shy;kier&shy;ten (Kleinst-)Dik&shy;ta&shy;tur»
+  
+  weil ein oder weni&shy;ge ini&shy;tia&shy;le T&auml;ter
+  Gr&ouml;&szlig;e&shy;res&trade; vor <nobr>hatten<sup><a
+  href="#wvt">:warning:VT</a></sup>[^1]</nobr>,
+  was schon un&shy;an&shy;ge&shy;mes&shy;se&shy;nes Lei&shy;den
+  er&shy;zeugt haben d&uuml;rfte,
+  weil im Zuge des&shy;sen im&shy;mer Un&shy;be&shy;schol&shy;tene
+  get&auml;uscht wer&shy;den.
+  
+  <br />
   </details>
   
 <!-- english -->
