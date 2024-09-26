@@ -622,9 +622,13 @@ ge&shy;mein&shy;sa&shy;men Re&shy;ali&shy;tät ent&shy;stam&shy;men
     <h3>Abgren&shy;zung</h3></summary>
 
 * wenn von einem oder mehreren
-  <nobr>**Täter**(-**n**)/</nobr><wbr>-**innen** die Rede ist,
-  mei&shy;ne ich einen oder mehre&shy;re Men&shy;sch&shy;en(!) aus
-  wel&shy;ch&shy;er  Inte&shy;res&shy;sen&shy;grup&shy;pe auch immer,
+  <nobr>**Täter**(-**n**)/</nobr><wbr><nobr>-**in**/</nobr><wbr><nobr>-**nen**</nobr>
+  die Rede ist,
+  mei&shy;ne ich da&shy;mit einen oder mehre&shy;re ur&shy;spr&uuml;ng&shy;lich
+  ver&shy;ant&shy;wort&shy;liche Men&shy;sch&shy;en oder
+  auch nur "Entit&auml;ten"
+  (wie Per&shy;s&ouml;n&shy;lich&shy;keits&shy;an&shy;tei&shy;le et&#8239;c.)
+  aus wel&shy;ch&shy;er Inte&shy;res&shy;sen&shy;grup&shy;pe auch immer,
   die sich m.&#8239;M.&#8239;n. mind&shy;es&shy;tens einer Straf&shy;tat
   schul&shy;dig ge&shy;macht haben
   (s.&#8239;u.
