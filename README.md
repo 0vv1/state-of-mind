@@ -764,6 +764,13 @@ wird sie ge&shy;strich&shy;en*.
 <!-- beoabachtungen -->
 ## Beob&shy;ach&shy;tun&shy;gen und Schlüsse 
 
+> [!IMPORTANT]
+> S&auml;mtliche Prozesse vollziehen sich immer(!) über quälend lange, kaum aushaltbare Zeiträume,
+> bis sie
+> (mit Hilfe der Täter?!)
+> aushaltbar sind und man sich auch in ihnen einzurichten scheint.  
+> (Gewöhnung oder vielleicht auch schizo-spezifisch?)
+
 > [!NOTE]
 > Sämt&shy;lich&shy;es **Ein&shy;wir&shy;ken** poten&shy;tiel&shy;ler
 > Täter **auf** eine ge&shy;teil&shy;te **Reali&shy;tät**,
