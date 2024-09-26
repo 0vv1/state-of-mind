@@ -21,7 +21,7 @@ version: Do., 26. Sep. 2024
   
   im Wesent&shy;lich&shy;en die erste Fuß&shy;no&shy;te[^1]
   be&shy;han&shy;delnd,
-  und hoffentlich nicht ..
+  <!-- und hoffentlich nicht ..
   
   ## «Vom kl&auml;g&shy;lich&shy;en Ver&shy;such der Er&shy;rich&shy;tung einer voll&shy;st&auml;n&shy;dig ob&shy;fus&shy;kier&shy;ten (Kleinst-)Dik&shy;ta&shy;tur»
   
@@ -31,7 +31,7 @@ version: Do., 26. Sep. 2024
   was schon un&shy;an&shy;ge&shy;mes&shy;se&shy;nes Lei&shy;den
   er&shy;zeugt haben d&uuml;rfte,
   weil im Zuge des&shy;sen im&shy;mer Un&shy;be&shy;schol&shy;tene
-  get&auml;uscht wer&shy;den.
+  get&auml;uscht wer&shy;den. -->
   
   <br />
   </details>
