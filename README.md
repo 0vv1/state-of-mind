@@ -893,14 +893,14 @@ ge&shy;trig&shy;gert wer&shy;den.
 <!-- eingesetzte mittel themen -->
 <h3>Ein&shy;ge&shy;setz&shy;te Mit&shy;tel & Themen</h3>
 
-* **Des&shy;in&shy;for&shy;ma&shy;tion**
+**Des&shy;in&shy;for&shy;ma&shy;tion**
   * schein&shy;bar zusam&shy;men&shy;hang&shy;lo&shy;ser Trash
   * Sug&shy;ges&shy;tion der Diffa&shy;mie&shy;rung
     (oder &uuml;bler Nach&shy;re&shy;de)
     des Opfers vor Nach&shy;barn oder be&shy;lie&shy;bi&shy;gen
     Drit&shy;ten
 
-* Suggestion von **Macht**/**Kontrolle**
+Suggestion von **Macht**/**Kontrolle**
   * allge&shy;mei&shy;ne
     <nobr>Herab-/</nobr><wbr>Ent&shy;wür&shy;di&shy;gung so&shy;wie
     suggerierte Blos&shy;stel&shy;lung
@@ -913,7 +913,7 @@ ge&shy;trig&shy;gert wer&shy;den.
     Fol&shy;ter und Er&shy;mor&shy;dung
     (nicht nur des Adres&shy;sa&shy;ten)
 
-* Sug&shy;ges&shy;tion, Ein&shy;rede & Täu&shy;schung
+Sug&shy;ges&shy;tion, Ein&shy;rede & Täu&shy;schung
   mittels
   * **Neuro-<wbr>Lingu&shy;is&shy;ti&shy;sche**r
     **Pro&shy;gram&shy;mie&shy;rung**
@@ -922,61 +922,62 @@ ge&shy;trig&shy;gert wer&shy;den.
     lie&shy;gen&shy;den Ton&shy;spu&shy;ren),
   * **Hyp&shy;no&shy;se** oder Induk&shy;tion einer Art Trance(?)
 
-* emo&shy;tio&shy;nale Bin&shy;<nobr>dung/</nobr><wbr>Lösung  
+emo&shy;tio&shy;nale Bin&shy;<nobr>dung/</nobr><wbr>Lösung  
 
-* [**Gas&shy;lighting**](https://de.wikipedia.org/wiki/Gaslighting) in
-  **extre&shy;m**em Umfang
-  (fühlt sich teils wie ein Ex&shy;peri&shy;ment an)
+[**Gas&shy;lighting**](https://de.wikipedia.org/wiki/Gaslighting) in
+**extre&shy;m**em Umfang
+(fühlt sich teils wie ein Ex&shy;peri&shy;ment an)
 
-* per&shy;ma&shy;nen&shy;tes **In-Fra&shy;ge-Stel&shy;len** des
-  Erleb&shy;ten
+per&shy;ma&shy;nen&shy;tes **In-Fra&shy;ge-Stel&shy;len** des
+Erleb&shy;ten
 
-* **Nut&shy;zen von Stim&shy;men** real
-  exis&shy;tie&shy;ren&shy;der Per&shy;so&shy;nen **ohne**
-  (oder mit ver&shy;än&shy;der&shy;tem)
-  **Kon&shy;text**,
-  meis&shy;tens ohne
-  (oder "fal&shy;schem")
-  zeit&shy;lich&shy;en Be&shy;zug,
-  in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt
+**Nut&shy;zen von Stim&shy;men** real
+exis&shy;tie&shy;ren&shy;der Per&shy;so&shy;nen **ohne**
+(oder mit ver&shy;än&shy;der&shy;tem)
+**Kon&shy;text**,
+meis&shy;tens ohne
+(oder "fal&shy;schem")
+zeit&shy;lich&shy;en Be&shy;zug,
+in der Satz&shy;bil&shy;dung "ge&shy;re&shy;mixt" und er&shy;gänzt
 
-* **Imi&shy;tie&shy;ren von Stim&shy;men** real
-  exis&shy;tie&shy;ren&shy;der Per&shy;so&shy;nen,
-  da&shy;durch An&shy;rei&shy;che&shy;rung mit be&shy;lie&shy;bi&shy;gem
-  In&shy;halt
+**Imi&shy;tie&shy;ren von Stim&shy;men** real
+exis&shy;tie&shy;ren&shy;der Per&shy;so&shy;nen,
+da&shy;durch An&shy;rei&shy;che&shy;rung mit be&shy;lie&shy;bi&shy;gem
+In&shy;halt
 
-* **Mani&shy;pu&shy;la&shy;tion** von Laut&shy;stärke und
-  Into&shy;nation der ein&shy;ge&shy;setz&shy;ten **Stim&shy;men**,
+**Mani&shy;pu&shy;la&shy;tion** von Laut&shy;stärke und
+Into&shy;nation der ein&shy;ge&shy;setz&shy;ten **Stim&shy;men**,
 
-* Auf&shy;for&shy;de&shy;<nobr>rung/</nobr>N&ouml;&shy;ti&shy;gung zur
-  Selbst&shy;be&shy;frie&shy;di&shy;<nobr>gung&nbsp;/</nobr>
-  sexu&shy;el&shy;len Han&shy;dlun&shy;gen
+Auf&shy;for&shy;de&shy;<nobr>rung/</nobr>N&ouml;&shy;ti&shy;gung zur
+Selbst&shy;be&shy;frie&shy;di&shy;<nobr>gung&nbsp;/</nobr>
+sexu&shy;el&shy;len Han&shy;dlun&shy;gen
 
-* Auf&shy;for&shy;de&shy;rung zur
-  (auch sexu&shy;el&shy;len)
-  Beläs&shy;ti&shy;gung von Nach&shy;barn und ande&shy;ren
-  Be&shy;woh&shy;nern
+Auf&shy;for&shy;de&shy;rung zur
+(auch sexu&shy;el&shy;len)
+Beläs&shy;ti&shy;gung von Nach&shy;barn und ande&shy;ren
+Be&shy;woh&shy;nern
 
-* An&shy;dro&shy;hung des Auf&shy;zeich&shy;nens und der
-  Ver&shy;brei&shy;tung in&shy;timster Momen&shy;te
-  (Selbst&shy;befrie&shy;di&shy;gung,
-  Toi&shy;let&shy;ten&shy;gang, et&#8239;c.)
+An&shy;dro&shy;hung des Auf&shy;zeich&shy;nens und der
+Ver&shy;brei&shy;tung in&shy;timster Momen&shy;te
+(Selbst&shy;befrie&shy;di&shy;gung,
+Toi&shy;let&shy;ten&shy;gang, et&#8239;c.)
   * Macht&shy;demon&shy;stra&shy;tio&shy;nen bspw. durch das
     Ab&shy;spie&shy;len von Szenen i.&#8239;d.&#8239;Z.
 
-* Miss&shy;hand&shy;lungs- bzw.
-  Ver&shy;ge&shy;wal&shy;ti&shy;gungs&shy;vor&shy;wür&shy;fe
-
-* Erzeu&shy;gen emo&shy;tio&shy;na&shy;ler Kri&shy;sen durch
-  Aus&shy;nu&shy;tzen indi&shy;vi&shy;du&shy;el&shy;ler
-  Schwach&shy;stel&shy;len und Trau&shy;ma&shy;ta
-
-* (mglw.) ge&shy;schick&shy;te akus&shy;ti&shy;sche Kopp&shy;lung
-  eini&shy;ger Wohn&shy;ein&shy;hei&shy;ten,
-  so&shy;dass &uuml;ber eine schein&shy;ba&shy;re Quel&shy;le einer
-  akus&shy;ti&shy;schen Wahr&shy;neh&shy;mung ge&shy;t&auml;uscht
-  wer&shy;den kann(?)
+(mglw.) ge&shy;schick&shy;te akus&shy;ti&shy;sche Kopp&shy;lung
+eini&shy;ger Wohn&shy;ein&shy;hei&shy;ten,
+so&shy;dass &uuml;ber eine schein&shy;ba&shy;re Quel&shy;le einer
+akus&shy;ti&shy;schen Wahr&shy;neh&shy;mung ge&shy;t&auml;uscht
+wer&shy;den kann(?)
   
+Miss&shy;hand&shy;lungs- bzw.
+Ver&shy;ge&shy;wal&shy;ti&shy;gungs&shy;vor&shy;wür&shy;fe
+(vgl. auch [Bsp.](#)
+
+Erzeu&shy;gen emo&shy;tio&shy;na&shy;ler Kri&shy;sen durch
+Aus&shy;nu&shy;tzen indi&shy;vi&shy;du&shy;el&shy;ler
+Schwach&shy;stel&shy;len und Trau&shy;ma&shy;ta
+
 <h4>Aus&shy;ta&shy;rie&shy;ren be&shy;stimm&shy;ter
   Pa&shy;ra&shy;me&shy;ter</h4>
 
@@ -2398,7 +2399,11 @@ ver&shy;lei&shy;tet wor&shy;den.
 > (nach Einrede?),
 > die Szene sei inze&shy;niert ge&shy;we&shy;sen.
 
-#**T.&#8239;B.&#8239;C.&#8239;..**
+> [!NOTE]
+> [**Anm.** 26.09.24 02:49] Potentieller Täter sug&shy;ge&shy;riert die
+> Behaup&shy;tung mei&shy;ner Täter&shy;schaft i.&#8239;d.&#8239;Z
+> (wahrscheinlich ist Verleitung zur Selbsttötung gemeint)
+> gg&uuml;. Dritten: "Das war ich nicht. Das war Alexander Puls."
   </details>
   
 <details>
