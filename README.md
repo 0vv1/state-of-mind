@@ -777,15 +777,19 @@ wird sie ge&shy;strich&shy;en*.
   <br></details></details>
 <!-- ende grundannahmen -->
   
-<!-- beoabachtungen -->
+<!-- beobachtungen -->
 ## Beob&shy;ach&shy;tun&shy;gen und Schlüsse 
 
 > [!IMPORTANT]
-> S&auml;mtliche Prozesse vollziehen sich immer(!) über quälend lange, kaum aushaltbare Zeiträume,
+> S&auml;mt&shy;li&shy;che Pro&shy;zes&shy;se voll&shy;zieh&shy;en sich
+> immer(!) über quä&shy;lend lange,
+> kaum aus&shy;halt&shy;ba&shy;re Zeit&shy;räu&shy;me,
 > bis sie
 > (mit Hilfe der Täter?!)
-> aushaltbar sind und man sich auch in ihnen einzurichten scheint.  
-> (Gewöhnung oder vielleicht auch schizo-spezifisch?)
+> aus&shy;halt&shy;bar sind und man sich auch in ihnen
+> ein&shy;zu&shy;rich&shy;ten scheint.  
+> (Gewöh&shy;nung oder viel&shy;leicht auch
+> schi&shy;zo-spe&shy;zi&shy;fisch?)
 
 > [!NOTE]
 > Sämt&shy;lich&shy;es **Ein&shy;wir&shy;ken** poten&shy;tiel&shy;ler
@@ -805,7 +809,7 @@ wird sie ge&shy;strich&shy;en*.
 > an einer para&shy;no&shy;&shy;iden Schi&shy;zo&shy;phre&shy;nie
 > erkrank&shy;tem ande&shy;ren Men&shy;sch&shy;en,
 > iso&shy;liert [eine alter&shy;na&shy;ti&shy;ve Reali&shy;tät
-> "vor&shy;spie&shy;len"](#bending-of-reality--die-manipulation-der-anderen),
+> "vor&shy;spie&shy;len"](#manipulation-der-realit&auml;t-selbst),
 > was ich mir so nicht vor&shy;stel&shy;len kann
 > (oder viel&shy;mehr nicht will)*).
 
@@ -863,12 +867,16 @@ be&shy;ein&shy;fluss&shy;bar sind.
   
 Da den Stim&shy;men in vie&shy;len Fäl&shy;len in der eige&shy;nen
 Woh&shy;nung men&shy;tal nur schwer bis gar nicht beizu&shy;kom&shy;men
-ist, sie draußen aber (mit einer gewis&shy;sen Übung)
-mani&shy;pu&shy;lier&shy;bar, dialo&shy;gi&shy;sier&shy;bar bzw.
-"weg&shy;drück&shy;bar" sind, halte ich es für mög&shy;lich, dass
-zumin&shy;dest Teile shy;mung **doch "echt"** sind
-und diese alter&shy;na&shy;ti&shy;ven Reali&shy;tä&shy;ten von außen
-ge&shy;trig&shy;gert wer&shy;den.  
+ist,
+sie draußen aber
+(mit einer gewis&shy;sen Übung)
+mani&shy;pu&shy;lier&shy;bar,
+dia&shy;lo&shy;gi&shy;sier&shy;bar bzw.
+"weg&shy;drück&shy;bar" sind,
+hal&shy;te ich es für mög&shy;lich,
+dass zu&shy;min&shy;dest eini&shy;ge die&shy;ser Stim&shy;men
+**doch "echt"** sind und diese alter&shy;na&shy;ti&shy;ven
+Reali&shy;tä&shy;ten von außen ge&shy;trig&shy;gert wer&shy;den.  
   </details>
   
 <details>
@@ -1409,9 +1417,12 @@ mir dann die Verdächtigung meiner selbst anzudrohen und
 (hoffentlich nur)
 mich eine der schrecklichsten Nächte meines Lebens verbingen zu lassen.
 
-[**Anm. 26.09.24 02:22**] Mich momentan abhörender Täter droht mit Nachspiel.
-<!-- ende taktiken -->
+[**Anm. 26.09.24 02:22**] Mich momen&shy;tan ab&shy;hö&shy;ren&shy;der
+Täter droht mit Nach&shy;spiel.
 
+---
+<!-- ende taktiken -->
+  
 ### "[Ins&shy;ze&shy;nie&shy;rung](#manipulation-der-realit&auml;t-selbst)" eini&shy;ger "Bedro&shy;hung&shy;en"
 
 * (Ach&shy;tung: **ab&shy;surd!**)
@@ -1734,8 +1745,14 @@ Er&shy;kennt&shy;nis darüber er&shy;lan&shy;gen wür&shy;de, was "hier"
 eigent&shy;lich mit mir pas&shy;siert.  
 
 Selbst&shy;ver&shy;ständ&shy;lich kann es sich um Irre&shy;füh&shy;rung
-handeln, aber ich denke mir, einen Ver&shy;such ist es wert, zumal ich
-dieses Buch schon immer ein&shy;mal lesen wollte.  
+handeln,
+aber ich denke mir,
+einen Ver&shy;such ist es wert,
+zumal ich dieses Buch schon immer ein&shy;mal lesen woll&shy;te.  
+
+\[**Erg.**\]
+[Kaufquittung](https://github.com/0vv1/state-of-perception/blob/main/2024-09-10_Dussmann_rn-Orwell-1984.jpg)
+f&uuml;r das in&shy;zwi&shy;schen er&shy;wor&shy;be&shy;ne Buch.
   </details>
   
 ## Recor&shy;dings
@@ -1852,7 +1869,7 @@ aus&shy;führ&shy;lich&shy;er
 (auch schon ob ihr&shy;es hohen Unter&shy;hal&shy;tungs&shy;werts sowie
 ihrer Origi&shy;na&shy;li&shy;<nobr>t&auml;t/</nobr><wbr>Ein&shy;zig&shy;ar&shy;tig&shy;keit)
 in einem eige&shy;nen Ab&shy;schnitt "[Sug&shy;ges&shy;tion bei den
-Ande&shy;ren&trade;](#bending-of-reality--die-manipulation-der-anderen)",
+Ande&shy;ren&trade;](#bending-of-reality--die--manipulation-der-anderen)",
 der zu&shy;künf&shy;tig zwar täter-be&shy;zo&shy;ge&shy;ne,
 aber nicht aus&shy;schlie&szlig;&shy;lich mich
 be&shy;trof&shy;fe&shy;<nobr>ne/-tref</nobr>&shy;fen&shy;de 
@@ -1982,59 +1999,31 @@ skiz&shy;zie&shy;ren.
   mglw. Haupt&shy;tä&shy;ter,
   mglw. Allein&shy;ver&shy;ant&shy;wort&shy;lich&shy;er
 
-* ich hal&shy;te es für mög&shy;lich, dass es sich um einen
+* ~~ich hal&shy;te es für mög&shy;lich, dass es sich um einen
   Men&shy;sch&shy;en han&shy;delt, der an einer sog.
   [Disso&shy;zia&shy;ti&shy;ven
   Iden&shy;ti&shy;tätss&shy;stö&shy;rung](https://de.wikipedia.org/wiki/Dissoziative_Identitätsstörung),
   kurz: [DIS](https://de.wikipedia.org/wiki/Dissoziative_Identitätsstörung),
-  leidet
-  (**kann** genau&shy;so&shy;gut **ledig&shy;lich sug&shy;ge&shy;riert
-  sein**)
+  leidet~~<sup>mglw. suggeriert</sup>
+  (Ich kann überhaupt nicht einschätzen, ob ein initialer Täter solch eine Störung haben könnte, wenn er so planvoll vorgeht.)
   * in Dia&shy;lo&shy;gen vom Täter selbst an&shy;ge&shy;spro&shy;chen
   * bestä&shy;tigt von eini&shy;gen mut&shy;maß&shy;lich&shy;en
     Per&shy;sön&shy;lich&shy;kei&shy;<nobr>ten/</nobr><wbr>Stim&shy;men
-    des Täters
+    des Täters<sup>mglw. suggeriert</sup>
     (wo&shy;bei ich mich auch hier wie&shy;der fra&shy;ge,
     **warum** er **aus&shy;ge&shy;rech&shy;net ein sol&shy;ch&shy;es
     De&shy;tail** an&shy;spricht,
     bei allen ande&shy;ren aber aller&shy;größte
-    Vor&shy;sicht walten lässt)
-  * be&shy;strit&shy;ten von ande&shy;ren
-  * auf&shy;fäl&shy;lige (teils er&shy;heb&shy;li&shy;che und
+    Vor&shy;sicht walten lässt!)
+  * ~~auf&shy;fäl&shy;lige (teils er&shy;heb&shy;li&shy;che und
     "un&shy;na&shy;tür&shy;lich" er&shy;schei&shy;nen&shy;de)
-    Stim&shy;mungs&shy;schwan&shy;kun&shy;gen
+    Stim&shy;mungs&shy;schwan&shy;kun&shy;gen~~<sup>suggestiv</sup>
   * wenn ich mit dem Men&shy;schen
     (kurz: <nobr>er/</nobr><wbr>ihm,
     da die "Haupt&shy;stimme" männ&shy;lich klingt)
     "allein" bin,
-    sprech&shy;en die Stim&shy;men nie(!) wirk&shy;lich
-    gleich&shy;zei&shy;tig
-  * er hat eine Art beste Freun&shy;din,
-    die ihm fast nie von der Seite weicht und gera&shy;de&shy;zu
-    kada&shy;ver&shy;ge&shy;hor&shy;sam sei&shy;nen
-    An&shy;wei&shy;sun&shy;gen folgt
-    * ihr Vor&shy;na&shy;me *Julia* ~~lei&shy;tet sich
-      (wie wohl auch ihr Nach&shy;na&shy;me)
-      m&ouml;g&shy;lich&shy;er&shy;wei&shy;se aus den Namen
-      frü&shy;he&shy;rer Haus&shy;be&shy;woh&shy;ner
-      ab~~<sup>mei&shy;ner&shy;seits sug&shy;ges&shy;tiv</sup>
-
-      > Namens&shy;nen&shy;nung,
-      > da ich recht sich&shy;er bin,
-      > dass es sich um einen
-      > <nobr>Kunst-/</nobr><wbr>Deck&shy;na&shy;men han&shy;delt
-
-    * sie ist sonn&shy;tags oft bei ihren Eltern
-      (was aber der Ob&shy;fus&shy;ka&shy;tion die&shy;nen kann)
-
-      > [Anm. 25.09.24]
-      > Da ich "Julia" schon lan&shy;ge nicht mehr geh&ouml;rt habe,
-      > habe ich heute bei
-      > (ver&shy;mut&shy;lich)
-      > F. nach&shy;ge&shy;fragt:
-      > Er meint,
-      > sie habe einfach keinen Bock mehr auf "das hier" gehabt?
-
+    sprech&shy;en die Stim&shy;men nie wirk&shy;lich
+    gleich&shy;zei&shy;tig?! (fraglich)
   * (ziem&shy;lich sicher sug&shy;ge&shy;riert)
     aus einem NLP-Ge&shy;spräch hat sich eine Zahl von 15
     Per&shy;sön&shy;lich&shy;kei&shy;ten er&shy;ge&shy;ben,
@@ -2046,10 +2035,13 @@ skiz&shy;zie&shy;ren.
       (des&shy;sen Ur&shy;sprung ich mir nie
       er&shy;klä&shy;ren
       konnte)~~<sup>mei&shy;ner&shy;seits sug&shy;ges&shy;tiv</sup>
+      (hat erstmal auch nichts mit irgendeiner Täterschaft zu tun)
+
   * die ver&shy;schie&shy;de&shy;nen
     Per&shy;sön&shy;lich&shy;kei&shy;ten
     <nobr>sind/sol</nobr>&shy;len sich nicht immer
-    wohl&shy;ge&shy;son&shy;nen (sein)
+    wohl&shy;ge&shy;son&shy;nen (sein)<sup>mglw. suggestiv</sup>  
+    (hat auch nichts mit irgendeiner Täterschaft zu tun)
     * es scheint unter&shy;ein&shy;an&shy;der regel&shy;re&shy;chte
       Miss&shy;hand&shy;lun&shy;gen zu geben
     * einzel&shy;ne Per&shy;sön&shy;lich&shy;kei&shy;ten schei&shy;nen,
@@ -2065,15 +2057,46 @@ skiz&shy;zie&shy;ren.
     * soll&shy;te seine bes&shy;te Freun&shy;din echt sein
       (und viel&shy;leicht doch nicht so gehor&shy;sam),
       hält er wohl eine "Ersatz"-*Julia* vor
-    * ich bilde mir ein,
-      dass nur durch Provo&shy;ka&shy;tion und teils sim&shy;ple
-      (aber aus&shy;dauern&shy;de)
-      Belei&shy;di&shy;gungen, Wechsel der
-      Per&shy;sön&shy;lich&shy;kei&shy;ten ent&shy;we&shy;der
-      (sehr glaub&shy;haft)
-      vorge&shy;täuscht wur&shy;den oder
-      tat&shy;säch&shy;lich statt&shy;fan&shy;den,
-      jeden&shy;falls akus&shy;tisch wahr&shy;nehm&shy;bar waren
+   
+* ich bilde mir ein, dass bei einer
+  (mind. suggeriert)
+  anwesenden Person
+  (muss kein initialer Täter sein),
+  nur durch Provo&shy;ka&shy;tion und teils sim&shy;ple
+  (aber aus&shy;dauern&shy;de)
+  Belei&shy;di&shy;gungen, Wechsel von
+  Per&shy;sön&shy;lich&shy;kei&shy;ten ent&shy;we&shy;der
+  (sehr glaub&shy;haft)
+  vorge&shy;täuscht (inszeniert) wur&shy;den oder
+  tat&shy;säch&shy;lich statt&shy;fan&shy;den,
+  jeden&shy;falls akus&shy;tisch wahr&shy;nehm&shy;bar waren
+  (Frage: Warum?!)
+
+* er hat eine Art beste Freun&shy;din,
+  die ihm fast nie von der Seite weicht und gera&shy;de&shy;zu
+  kada&shy;ver&shy;ge&shy;hor&shy;sam sei&shy;nen
+  An&shy;wei&shy;sun&shy;gen folgt
+  * ihr Vor&shy;na&shy;me *Julia* ~~lei&shy;tet sich
+    (wie wohl auch ihr Nach&shy;na&shy;me)
+    m&ouml;g&shy;lich&shy;er&shy;wei&shy;se aus den Namen
+    frü&shy;he&shy;rer Haus&shy;be&shy;woh&shy;ner
+    ab~~<sup>mei&shy;ner&shy;seits sug&shy;ges&shy;tiv</sup>
+
+    > Namens&shy;nen&shy;nung,
+    > da ich recht sich&shy;er bin,
+    > dass es sich um einen
+    > <nobr>Kunst-/</nobr><wbr>Deck&shy;na&shy;men han&shy;delt
+
+  * sie ist sonn&shy;tags oft bei ihren Eltern
+    (was aber der Ob&shy;fus&shy;ka&shy;tion die&shy;nen kann)
+
+      > [Anm. 25.09.24]
+      > Da ich "Julia" schon lan&shy;ge nicht mehr geh&ouml;rt habe,
+      > habe ich heute bei
+      > (ver&shy;mut&shy;lich)
+      > F. nach&shy;ge&shy;fragt:
+      > Er meint,
+      > sie habe einfach keinen Bock mehr auf "das hier" gehabt?
 
 * es scheint
   (unter den Tätern)
@@ -2159,24 +2182,15 @@ Einige Namen
 fal&shy;len bemer&shy;kens&shy;wert oft,
 was bei Straf&shy;ta&shy;ten eini&shy;ger&shy;maßen dumm wäre.  
 
-Um einen Mensch&shy;en wirk&shy;lich kennen&shy;zu&shy;ler&shy;nen,
-muss
-(zumin&shy;dest)
-ich <nobr>ihm/</nobr><wbr>ihr eigent&shy;lich
-(genau wie Google es auch tut)
-nur eine Frage stel&shy;len:
-**Was suchst Du?**
-
 Zu Passion oder **Leiden&shy;shaft** kann ich, soll&shy;te dieser
-Menscch tat&shy;säch&shy;lich exis&shy;tie&shy;ren, nur eine Sache, aber
-dafür mit abso&shy;lu&shy;ter Ge&shy;wiss&shy;heit für
-min&shy;des&shy;tens eine (sollte die DIS-These stim&shy;men)
-domi&shy;nie&shy;ren&shy;de Per&shy;sön&shy;lich&shy;keit, sagen:  
+Mensch tat&shy;säch&shy;lich exis&shy;tie&shy;ren,
+eine Sache vermuten:  
 Ein patho&shy;lo&shy;gi&shy;sches, destruk&shy;ti&shy;ves,
 sämt&shy;liche ihrer Zeit ein&shy;neh&shy;men&shy;des und aus meiner
 Sicht voll&shy;kom&shy;men dege&shy;ne&shy;rier&shy;tes
-Inte&shy;res&shy;se am Leben der ande&shy;ren, dabei mit fast
-aus&shy;schließ&shy;lich amorö&shy;sem Bezug.  
+Inte&shy;res&shy;se am Leben der ande&shy;ren, dabei scheinbar oft
+amorö&shy;sem Bezug
+(jedenfalls bei mir).  
 Es scheint für disen Täter voll&shy;kom&shy;men nor&shy;mal, den ganzen
 Tag mit dem Belau&shy;schen frem&shy;der Woh&shy;nun&shy;gen befasst zu
 sein, beim All&shy;tags&shy;le&shy;ben der betrof&shy;fe&shy;nen
@@ -2193,8 +2207,7 @@ sondern in höchs&shy;tem Maße belas&shy;tet wer&shy;den, ist
 zumin&shy;dest bei mir bei&shy;spiel&shy;los und wird mir für immer ein
 Rät&shy;sel blei&shy;ben.  
 
-Bei die&shy;sem mög&shy;lich&shy;en Haupt&shy;tä&shy;ter bzw.
-sei&shy;ner häu&shy;fig&shy;sten Per&shy;sön&shy;lich&shy;keit sind
+Bei die&shy;sem mög&shy;lich&shy;en Haupt&shy;tä&shy;ter sind
 **Größen&shy;wahn** und **All&shy;machts&shy;fan&shy;ta&shy;sien**
 auf&shy;fäl&shy;lig, die diesen Täter absur&shy;der- und
 glück&shy;lich&shy;er&shy;wei&shy;se mensch&shy;lich&shy;er
@@ -2240,30 +2253,14 @@ Per&shy;so&shy;nen,
 ihren Gemüts&shy;zu&shy;stän&shy;den, eige&shy;nen Zwän&shy;gen
 et&#8239;c. tref&shy;fen.  
 
-> Sollte es sich bei einem der Täter tat&shy;säch&shy;lich um einen
-> Mensch&shy;en mit einer dis&shy;so&shy;zia&shy;ti&shy;ven
-> Iden&shy;ti&shy;täts&shy;stö&shy;rung han&shy;deln,
-> täte es mir für die Per&shy;sön&shy;lich&shy;kei&shy;ten Leid,
-> die die weni&shy;gen Durch&shy;ge&shy;knall&shy;ten er&shy;tra&shy;gen
-> müs&shy;sen,
-> (sollte es zu
-> <nobr>Straf-/</nobr><wbr>Sicher&shy;heits&shy;maß&shy;nah&shy;men
-> kom&shy;men)
-> diese mit&shy;mach&shy;en müs&shy;sen.
-> Die jüngste ist m&ouml;g&shy;lich&shy;er&shy;wei&shy;se ein
-> 7-jäh&shy;ri&shy;ges Kind.
-
-Eine der Per&shy;sön&shy;lich&shy;kei&shy;ten hiel&shy;te ich
-lei&shy;der für so ge&shy;fähr&shy;lich, dass ich der Mei&shy;nung
-bin, sie soll&shy;te (wenn alles ge&shy;nann&shy;te so zu&shy;trifft)
-nicht in nor&shy;ma&shy;len Miets&shy;häusern woh&shy;nen.
-Zwischen&shy;zeit&shy;lich hiel&shy;te ich diese
-Per&shy;sön&shy;lich&shy;kei&shy;t für eine zu große Gefahr, sie ob
-aus&shy;ge&shy;feil&shy;ter
-Mani&shy;pu&shy;la&shy;tions&shy;tech&shy;ni&shy;ken (oder der
-ent&shy;spre&shy;chen&shy;den Skru&shy;pel&shy;lo&shy;sig&shy;keit,
-ande&shy;re Men&shy;schen unter Dro&shy;gen zu set&shy;zen),
-über&shy;haupt nur mit ande&shy;ren spre&shy;chen zu las&shy;sen.  
+Eindruck zur Per&shy;sön&shy;lich&shy;keit:  
+Ich hielte sie lei&shy;der für so ge&shy;fähr&shy;lich,
+dass ich der Mei&shy;nung bin,
+sie soll&shy;te (wenn alles ge&shy;nann&shy;te so zu&shy;trifft)
+nicht in nor&shy;ma&shy;len Miets&shy;häusern woh&shy;nen.  
+Ob aus&shy;ge&shy;feil&shy;ter
+Mani&shy;pu&shy;la&shy;tions&shy;tech&shy;ni&shy;ken halte ich
+manchmal sogar das sprechen dieser Person mit anderen für zu gefährlich<sup>Paranoia?</sup>  
   </details></details>
   
 <h2>"Ben&shy;ding of Reality" & die
