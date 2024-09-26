@@ -21,18 +21,6 @@ version: Do., 26. Sep. 2024
   
   im Wesent&shy;lich&shy;en die erste Fuß&shy;no&shy;te[^1]
   be&shy;han&shy;delnd,
-  <!-- und hoffentlich nicht ..
-  
-  ## «Vom kl&auml;g&shy;lich&shy;en Ver&shy;such der Er&shy;rich&shy;tung einer voll&shy;st&auml;n&shy;dig ob&shy;fus&shy;kier&shy;ten (Kleinst-)Dik&shy;ta&shy;tur»
-  
-  weil ein oder weni&shy;ge ini&shy;tia&shy;le T&auml;ter
-  Gr&ouml;&szlig;e&shy;res&trade; vor <nobr>hatten<sup><a
-  href="#wvt">:warning:VT</a></sup>[^1]</nobr>,
-  was schon un&shy;an&shy;ge&shy;mes&shy;se&shy;nes Lei&shy;den
-  er&shy;zeugt haben d&uuml;rfte,
-  weil im Zuge des&shy;sen im&shy;mer Un&shy;be&shy;schol&shy;tene
-  get&auml;uscht wer&shy;den. -->
-  
   <br />
   </details>
   
@@ -136,28 +124,13 @@ version: Do., 26. Sep. 2024
   (which might be different vis-à-vis).
   </details>
   <!-- ende english -->
-
-> [!IMPORTANT]
-> Mglw. malen eine oder sogar mehrere Personen den
-> (perfidest denkbaren)
-> Teufel an die Wand
-> (eines Schizophrenie-Patienten),
-> ohne dass
-> (auch laut deren Aussage)
-> "irgendwas passiert"
-> (w&auml;re).
-> **Hier** aufwändige und zeitraubende **Dokumentation** zur Absicherung für den Fall dass doch. :+1:  
-> **An die "T&auml;ter"**: :tada:
-> Ein herzliches Dankeschön für über 16.000 Std.
-> deiner/eurer kostbaren
-> <nobr>Zeit!<sup>:warning:Zynismus</sup></nobr>
-
+  
 <!-- 0.3 weitere Straftaten -->
 <details>
   <summary>Wei&shy;te&shy;re
   (neben ge&shy;wöhn&shy;lich&shy;em Stal&shy;king)
   &uuml;ber einen Zeit&shy;raum von heute <b>mehr als 1.360 Tage</b>n
-  (hoff&shy;ent&shy;lich(!) "nur" auf per&shy;fi&shy;des&shy;te Art)
+  (hoff&shy;ent&shy;lich(!) "nur" auf per&shy;fi&shy;des&shy;te Art?)
   <b>sug&shy;ge&shy;rier&shy;te Straf&shy;ta&shy;ten</b> ..</summary>  
   <br>
   i.&#8239;Z.&#8239;m.
@@ -268,7 +241,7 @@ version: Do., 26. Sep. 2024
   sorgen.. * :sun_with_face:
   </details>
   <!-- ende weitere straftaten -->
-
+  
 > :loudspeaker: **TL;DR**:  
 > Ein Schi&shy;zo&shy;phre&shy;nie-Patient be&shy;haup&shy;tet,
 > ex&shy;ter&shy;ne Inte&shy;res&shy;sen&shy;grup&shy;pen hät&shy;ten
@@ -280,29 +253,37 @@ version: Do., 26. Sep. 2024
 > was zu schi&shy;zo&shy;phre&shy;nie-ähn&shy;lich&shy;en
 > Symp&shy;to&shy;men führt. :smirk:
 
-> [!NOTE]
-> [Anm. 25.09.24] Gera&shy;de in den letz&shy;ten Tagen
-> per&shy;ver&shy;tie&shy;ren mut&shy;ma&szlig;&shy;liche
-> ini&shy;tia&shy;le(!) "T&auml;ter"
-> immer &ouml;fter zu so bos&shy;haf&shy;ten und
-> un&shy;mensch&shy;lich&shy;en Krea&shy;tu&shy;ren,
-> dass es schon slap&shy;stick-artig
-> oder (tra&shy;gisch) clownesk wirkt.
-> Bei allen Belas&shy;tun&shy;gen,
-> kann ich das nicht mehr ernst neh&shy;men.
-> Die ge&shy;sam&shy;te Atmosph&auml;hre wirkt immer
-> skur&shy;ri&shy;ler.  
-> Perfide **leider immer noch**:
-> 1. die fort&shy;w&auml;h&shy;ren&shy;de Sug&shy;ges&shy;tion der
-     Sug&shy;ges&shy;tion an&shy;de&shy;rer,
->    ich
-     (oder Tei&shy;le von mir?!)
-     seien Ur&shy;he&shy;ber von irgend&shy;was(?) :ghost:
-> 1. Mensch&shy;en in mei&shy;ner direk&shy;ten Um&shy;ge&shy;bung seien
-     per&shy;ma&shy;nent ge&shy;f&auml;hr&shy;det
-     (was bei einer para&shy;noi&shy;den Schizo&shy;phre&shy;nie
-     ein&shy;fach nicht so geil ist,
-     ihr Eimer! :smirk:)
+<!-- warnung krankheitseinsicht -->
+> [!WARNING]
+> Feh&shy;len&shy;de Krank&shy;heits&shy;ein&shy;sicht ist ein
+> [häu&shy;fi&shy;ges
+> Symp&shy;tom](https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/schizophrenie-und-schizophrene-psychosen/therapie/)
+> bei Psy&shy;cho&shy;sen des schi&shy;zo&shy;phre&shy;nen
+> For&shy;men&shy;krei&shy;ses.
+
+> [!IMPORTANT]
+> **Mglw. malen** eine oder sogar mehrere **Personen "nur" den**
+> (perfidest denkbaren)
+> **Teufel an die Wand**
+> (eines Schizophrenie-Patienten),
+> ohne dass
+> (auch laut deren Aussage)
+> "irgendwas passiert"
+> (w&auml;re).
+> **Hier** (leider notwendige) aufwändige und zeitraubende **Dokumentation zur Absicherung** für den Fall, dass doch. :+1:  
+> **An die "T&auml;ter"**:
+> Ein herzliches Dankeschön für über 16.000 Std.
+> deiner/eurer kostbaren
+> <nobr>Zeit!<sup>:warning:Zynismus</sup>  :tada:</nobr>  
+>
+> **An** mglw. (aber hoffentlich nicht) **involvierte Dritte**:
+> Alles(!) vollkommener, "an den Haaren herbeigezogener" Stuss/Blödsinn
+> (jedenfalls über mich)
+> seitens irgendwelcher Spinner
+> (die ich leider nicht kenne)! 🤷  
+>
+> Weitere **Anm.**: Mir (&uuml;ber andere) vermittelte (Des-)"Information" aus nicht-erster Hand bewerte ich selbstverst&auml;ndlich
+> (und schon sehr lange) ebenfalls als nichtig.
 
 **These**: Einer oder mehre&shy;re
 (ini&shy;tial ver&shy;ant&shy;wort&shy;liche) Täter,
@@ -328,14 +309,30 @@ und **un&shy;be&shy;stä&shy;tigte**
 **Fol&shy;gen** einer Sug&shy;ges&shy;tion die Psy&shy;cho&shy;se
 **in&shy;tern ver&shy;stär&shy;ken**.
 
-<!-- warnung krankheitseinsicht -->
-> [!WARNING]
-> Feh&shy;len&shy;de Krank&shy;heits&shy;ein&shy;sicht ist ein
-> [häu&shy;fi&shy;ges
-> Symp&shy;tom](https://www.neurologen-und-psychiater-im-netz.org/psychiatrie-psychosomatik-psychotherapie/stoerungen-erkrankungen/schizophrenie-und-schizophrene-psychosen/therapie/)
-> bei Psy&shy;cho&shy;sen des schi&shy;zo&shy;phre&shy;nen
-> For&shy;men&shy;krei&shy;ses.
-  
+  > [!NOTE]
+> [**Anm. 25.09.24**] Gera&shy;de in den letz&shy;ten Tagen
+> per&shy;ver&shy;tie&shy;ren mut&shy;ma&szlig;&shy;liche
+> ini&shy;tia&shy;le(!) "T&auml;ter"
+> immer &ouml;fter zu so bos&shy;haf&shy;ten und
+> un&shy;mensch&shy;lich&shy;en Krea&shy;tu&shy;ren,
+> dass es schon slap&shy;stick-artig
+> oder (tra&shy;gisch) clownesk wirkt.
+> Bei allen Belas&shy;tun&shy;gen,
+> kann ich das nicht mehr ernst neh&shy;men.
+> Die ge&shy;sam&shy;te Atmosph&auml;hre wirkt immer
+> skur&shy;ri&shy;ler.  
+> Perfide **leider immer noch**:
+> 1. die fort&shy;w&auml;h&shy;ren&shy;de Sug&shy;ges&shy;tion der
+     Sug&shy;ges&shy;tion an&shy;de&shy;rer,
+>    ich
+     (oder Tei&shy;le von mir?!)
+     seien Ur&shy;he&shy;ber von irgend&shy;was(?) :ghost:
+> 1. Mensch&shy;en in mei&shy;ner direk&shy;ten Um&shy;ge&shy;bung seien
+     per&shy;ma&shy;nent ge&shy;f&auml;hr&shy;det
+     (was bei einer para&shy;noi&shy;den Schizo&shy;phre&shy;nie
+     ein&shy;fach nicht so geil ist,
+     ihr Eimer! :smirk:)
+
 <!-- vorbedingungen -->
 ## (Vor-)Bedin&shy;gun&shy;gen
 
@@ -384,8 +381,8 @@ und **un&shy;be&shy;stä&shy;tigte**
 > (via QR-Code BC)
 > wur&shy;de zu&shy;rück&shy;ge&shy;zo&shy;gen.  
 >   
-> Die T&auml;ter inte&shy;res&shy;sie&shy;ren mich nicht.
-> **Aber**:
+> Die T&auml;ter inte&shy;res&shy;sie&shy;ren mich nicht,
+> **aber**:
 > Die glei&shy;che Summe **zah&shy;le ich**
 > (~~außer <nobr>der/</nobr>dem Täter<nobr>/-in</nobr> selbst,~~
 > via be&shy;lie&shy;bi&shy;gem Zah&shy;lungs&shy;weg)
