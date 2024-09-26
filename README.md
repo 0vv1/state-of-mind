@@ -2214,6 +2214,13 @@ fin&shy;de.
 
 <h3>Mglw. zwei&shy;te Ebe&shy;ne (oder Ab&shy;l&ouml;sung)</h3>
 
+[Achtung: **absurd**]
+Sug&shy;ges&shy;tion
+(auch)
+beim
+(dann nicht mehr?)
+"Haupt&shy;t&auml;ter"?! (ich weiß .. :smirk:)
+
 <details>
   <summary>
     <h3>Weite&shy;re Ge&shy;dan&shy;ken zu
