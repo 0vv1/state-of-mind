@@ -1395,11 +1395,12 @@ Schwerste Ver&shy;brech&shy;en offen&shy;ba&shy;ren sich erst in
 ---
 
 <span id="bsp">Alles **zusammenfassendes Bsp.**</span>:  
-Ein ~~initialer(?) (Haupt-)~~Täter
+Ein ~~initialer(?) (Haupt-)~~ Täter
 
 > [!CAUTION]
 > [**Anm.** 27.09.24]
-> Es erscheint mir immer unwahrscheinlicher,
+> Jemand [sonst](#mglw-zweite-ebene-oder-abl%C3%B6sung)?!
+> Es erscheint mir jedenfalls immer unwahrscheinlicher,
 > dass soetwas von einem in örtlicher Nähe lebenden Menschen "verübt" wird,
 > der dann auch noch einen ohnehin schon aufgebrachten Dritten direkt vor "seine" hölzerne Wohnungstür lotst, um ihn vorzufüh&shy;<nobr>ren /</nobr> zu demütigen.  
 > **Aber** (und mir nur schwer vorstellbar)<sup>:warning:Sug</sup>:</nobr>
