@@ -1395,8 +1395,19 @@ Schwerste Ver&shy;brech&shy;en offen&shy;ba&shy;ren sich erst in
 ---
 
 <span id="bsp">Alles **zusammenfassendes Bsp.**</span>:  
-Ein initialer(?) (Haupt-)Täter
-sowie (suggeriert) zwei weitere anwesende Frauen(-stimmen)
+Ein ~~initialer(?) (Haupt-)~~Täter
+
+> [!CAUTION]
+> [**Anm.** 27.09.24]
+> Es erscheint mir immer unwahrscheinlicher,
+> dass soetwas von einem in örtlicher Nähe lebenden Menschen "verübt" wird,
+> der dann auch noch einen ohnehin schon aufgebrachten Dritten direkt vor "seine" hölzerne Wohnungstür lotst, um ihn vorzufüh&shy;<nobr>ren /</nobr> zu demütigen.  
+> **Aber** (und mir nur schwer vorstellbar)<sup>:warning:Sug</sup>:</nobr>
+> Die [Suggestion akustischer Nähe](#akustik), könnte von irgendwas woanders (noch nicht einmal im gleichen Wohnhaus?) ablenken.
+
+sowie zwei weitere
+(suggerierte)
+anwesende Frauen(-stimmen)
 suggerieren/inszenieren am Valentinstagabend(!)
 etwa 8 Stunden lang die (angeblich maskierte?!)
 Misshandlung(/Vergewaltigung?) einer (suggerierten ehemaligen!) Nachbarin,
@@ -1834,6 +1845,13 @@ haben ihre Quelle tatsäch&shy;lich nicht in der da&shy;hin&shy;ter
 lie&shy;gen&shy;den Woh&shy;nung,
 was ich bei&shy;spiel&shy;haft durch Be&shy;fra&shy;gen dort
 leben&shy;der Mieter heraus&shy;fin&shy;den konnte.
+
+<span id="akustik">Mir wurde sogar mehrmals aktiv die akustische Kopplung von noch nichteinmal im selben Stadtteil liegenden Wohneinheiten suggeriert(?!)</span>,
+was aber vielleicht (hoffentlich) der Obfuskation dient.
+
+> [!NOTE]
+> Auch hier wieder:
+> Schizophrenes Erleben?
 
 Dass diese [NLP](#wesen-der-neuro-linguistischen-programme)
 (zu&shy;min&shy;dest bei mir)
