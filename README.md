@@ -7,7 +7,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Do., 26. Sep. 2024
+version: Sa., 28. Sep. 2024
 ```
 
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>bei Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie zyni&shy;sche [Buch&shy;empfeh&shy;lung eines mögl. Täters](#buchempfehlung-eines-t&auml;ters)?!)</sup></sub>
@@ -285,10 +285,13 @@ version: Do., 26. Sep. 2024
 > Weitere **Anm.**: Mir (&uuml;ber andere) vermittelte (Des-)"Information" aus nicht-erster Hand bewerte ich selbstverst&auml;ndlich
 > (und schon sehr lange) ebenfalls als nichtig.
 
-**These**: Einer oder mehre&shy;re
-(ini&shy;tial ver&shy;ant&shy;wort&shy;liche) Täter,
+**These**:
+<nobr>Ein/-e</nobr> oder mehre&shy;re
+(ini&shy;tial ver&shy;ant&shy;wort&shy;<nobr>liche/-r)</nobr>
+<nobr>Täter/-</nobr><wbr><nobr>in/-</nobr><wbr>nen,
 nut&shy;zen die
-(mglw. durch die sel&shy;ben Täter<nobr>/-in</nobr>&shy;nen
+(mglw. durch die sel&shy;ben
+<nobr>Täter/-</nobr><wbr><nobr>in/-</nobr><wbr>nen
 in&shy;du&shy;zier&shy;te)
 diag&shy;nos&shy;ti&shy;zier&shy;te Schizo&shy;phre&shy;nie auf
 sei&shy;ten des Opfers zu so komp&shy;le&shy;xen
@@ -621,7 +624,7 @@ ge&shy;mein&shy;sa&shy;men Re&shy;ali&shy;tät ent&shy;stam&shy;men
   <summary>
     <h3>Abgren&shy;zung</h3></summary>
 
-* wenn von einem oder mehreren
+* wenn von <nobr>einer/-m</nobr> oder mehreren
   <nobr>**Täter**(-**n**)/</nobr><wbr><nobr>-**in**/</nobr><wbr><nobr>-**nen**</nobr>
   die Rede ist,
   mei&shy;ne ich da&shy;mit einen oder mehre&shy;re ur&shy;spr&uuml;ng&shy;lich
@@ -829,7 +832,7 @@ die eine be&shy;stimm&shy;te Fre&shy;quenz
 (für oder ge&shy;gen was auch immer)
 aus&shy;sen&shy;den,
 ich schei&shy;ne die Ab&shy;schal&shy;tung jeden&shy;falls deut&shy;lich
-zu mer&shy;<nobr>ken.<sup>:warning:SUG</sup></nobr>
+zu mer&shy;<nobr>ken.<sup>:warning:Sug</sup></nobr>
   </details>
   
 <details>
@@ -1054,7 +1057,8 @@ um das Opfer "gefü&shy;gig" und
 (laut Aus&shy;sa&shy;ge eines Täters)
 mani&shy;pu&shy;lier- und steuer&shy;bar zu mach&shy;en?!  
 [*Anm. 24.09.24*]
-Offen&shy;bar sind auch an&shy;de&shy;re Emo&shy;tion ge&shy;eignet,
+Offen&shy;bar sind auch an&shy;de&shy;re Emo&shy;tio&shy;nen
+ge&shy;eig&shy;net,
 an&shy;geb&shy;lich z.B. auch Mit&shy;leid
 (welch&shy;es mir als Ein&shy;stiegs&shy;punkt f&uuml;r eine
 Hyp&shy;no&shy;se bei einer an&shy;geb&shy;lich&shy;en
@@ -1070,7 +1074,7 @@ Hyp&shy;no&shy;se bei einer an&shy;geb&shy;lich&shy;en
 > **was** <nobr>sie/</nobr><wbr>er
 > **wie zu ver&shy;ant&shy;wor&shy;ten** hat
 > (m.&#8239;M.&#8239;n. gibt es "da draußen" nie&shy;man&shy;den,
-> die/der irgend&shy;et&shy;was bes&shy;ser&trade; w&uuml;sste
+> die/der irgend&shy;et&shy;was bes&shy;ser w&uuml;sste
 > als irgend&shy;je&shy;mand sonst).  
 >    
 > Gera&shy;de pot. Straf&shy;t&auml;&shy;ter haben **keine**r&shy;lei
@@ -1196,7 +1200,11 @@ zu f&ouml;rdern und
 zu inten&shy;si&shy;vieren,
 direk&shy;ten Kon&shy;takt zwisch&shy;en die&shy;sen Per&shy;so&shy;nen
 aber durch Des&shy;in&shy;for&shy;ma&shy;tion aktiv zu
-ver&shy;hin&shy;dern.  
+ver&shy;hin&shy;dern,  
+Emo&shy;tio&shy;nen m&ouml;g&shy;lich&shy;er&shy;weise so&shy;gar in das
+Gegen&shy;teil zu ver&shy;kehren und dem ein&shy;zel&shy;nen
+je&shy;weils "Ent&shy;t&auml;u&shy;schung" bis Hass auf der ande&shy;ren
+Seite zu sug&shy;ge&shy;rie&shy;ren(?!).  
 (**Anm.**: Mglw. eine indi&shy;vi&shy;du&shy;ell sehr
 ver&shy;schie&shy;de&shy;ne Inzen&shy;ti&shy;vie&shy;rung f&uuml;r
 irgend&shy;was?  
@@ -1224,8 +1232,8 @@ in Rich&shy;tung Traum&shy;er&shy;leben rückt.
 Die bestän&shy;di&shy;ge,
 **über Jah&shy;re an&shy;dauern&shy;de,
 täg&shy;lich stun&shy;den&shy;lang voll&shy;zo&shy;ge&shy;ne
-(bei einem paranoid-schizophrenen Menschen!)
-Suggestion**,
+(bei einem para&shy;no&shy;id-schizo&shy;phre&shy;nen Men&shy;schen!)
+Sug&shy;ges&shy;tion**,
 **Men&shy;sch&shy;en** in mei&shy;ner
 direk&shy;ten Um&shy;ge&shy;bung **sei&shy;en in größter
 Ge&shy;fahr**:
@@ -1411,7 +1419,8 @@ sowie zwei weitere
 anwesende Frauen(-stimmen)
 suggerieren/inszenieren am Valentinstagabend(!)
 etwa 8 Stunden lang die (angeblich maskierte?!)
-Misshandlung(/Vergewaltigung?) einer (suggerierten ehemaligen!) Nachbarin,
+Misshandlung(/Vergewaltigung?) einer (suggerierten ehemaligen!) Nachbarin
+(die längst woanders wohnen müsste?),
 sprechen dabei mehrmals direkt mit mir,
 täuschen sequentiell mehrere Realitäten an,
 bieten mir dann eine Art Übergabe an,
@@ -1425,7 +1434,8 @@ spät nachts platzen,
 um mich unter größten Sorgen und
 der Verhöhnung durch suggerierte Anwesende
 zurück in meine Wohnung gehen zu lassen,
-mir dann die Verdächtigung meiner selbst anzudrohen und
+mir dann damit zu drohen,
+mir diese Tat unterzuschieben und
 (hoffentlich nur)
 mich eine der schrecklichsten Nächte meines Lebens verbingen zu lassen.
 
@@ -2653,7 +2663,7 @@ trau&shy;ma&shy;ti&shy;siert. Nichts von dem, aber ich habe
 * et&#8239;c. pp..
   </details>
   
-Ich weiß es bis heute nicht. Ich kann es, Stand 16. Sep. 2024, nicht
+Ich weiß es bis heute nicht. Ich kann es, Stand 28. Sep. 2024, nicht
 ent&shy;schei&shy;den. Ich kann keine Ver&shy;mu&shy;tung da&shy;rüber
 ab&shy;ge&shy;ben, ob alles Ein&shy;bil&shy;dung ist oder es sich
 zu&shy;min&shy;dest par&shy;tiell um eine mit ande&shy;ren Men&shy;schen
