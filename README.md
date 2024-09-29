@@ -386,6 +386,14 @@ und **un&shy;be&shy;stä&shy;tigte**
 > m&ouml;g&shy;liche Straf&shy;taten dar&shy;stell&shy;ten und in der
 > Fol&shy;ge be&shy;lie&shy;big es&shy;ka&shy;lie&shy;ren?
 
+> [!WARNING]
+> [**Anm.**:]
+> Mglw. ist (nach Täter&shy;aus&shy;kunft) durch perfides Vortäuschen falscher Tatsachen,
+> bereits eine "Verleitung zur Straftat" sug&shy;geriert,
+> die einer/-m Dritten ein Motiv
+> (für eine Art "Auftrag"?) 
+> nahe legen und vom Täter ablenken soll?
+
 > [!TIP]
 > Eine,
 > in der Ver&shy;gan&shy;gen&shy;heit von mut&shy;maß&shy;lich
