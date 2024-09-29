@@ -388,15 +388,15 @@ und **un&shy;be&shy;stä&shy;tigte**
 
 > [!WARNING]
 > Mglw. ist
-> (nach eige&shy;ner Aus&shy;kunft!)
+> (nach eige&shy;ner Aus&shy;kunft des T&auml;ters!)
 > bereits die ini&shy;tia&shy;le <nobr>"Idee"/**Mo</nobr>&shy;tiv des
 > T&auml;ters**,
 > **durch** per&shy;fi&shy;des **Vor&shy;täu&shy;schen fal&shy;scher
 > Tat&shy;sach&shy;en**,
-> **als** eine Art Autrag <nobr>einer/-s</nobr> Drit&shy;ten,
-> damit "**Ver&shy;lei&shy;tung zur Straf&shy;tat**" durch
-> eben <nobr>diese(-n)/</nobr><wbr>jene <nobr>Drit&shy;te(-n),</nobr>
-> sug&shy;ge&shy;riert.
+> einer/-m **Dritten als** "eine Art Autrag" eben jener,
+> damit "**Ver&shy;lei&shy;tung zur Straf&shy;tat**"
+> (des T&auml;ters durch eben jene Drit&shy;<nobr>te(-n))</nobr>
+> **sug&shy;ge&shy;riert**.
 
 > [!TIP]
 > Eine,
