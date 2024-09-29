@@ -1423,36 +1423,53 @@ Ein ~~initialer(?) (Haupt-)~~ Täter
 > [!CAUTION]
 > [**Anm.** 27.09.24]
 > Jemand [sonst](#mglw-zweite-ebene-oder-abl%C3%B6sung)?!
-> Es erscheint mir jedenfalls immer unwahrscheinlicher,
-> dass soetwas von einem in örtlicher Nähe lebenden Menschen "verübt" wird,
-> der dann auch noch einen ohnehin schon aufgebrachten Dritten direkt vor "seine" hölzerne Wohnungstür lotst, um ihn vorzufüh&shy;<nobr>ren /</nobr> zu demütigen.  
-> **Aber** (und mir nur schwer vorstellbar)<sup>:warning:Sug</sup>:</nobr>
-> Die [Suggestion akustischer Nähe](#akustik), könnte von irgendwas woanders (noch nicht einmal im gleichen Wohnhaus?) ablenken.
+> Es er&shy;scheint mir jeden&shy;falls immer
+> un&shy;wahr&shy;schein&shy;lich&shy;er,
+> dass so&shy;etwas von einem in ört&shy;lich&shy;er Nähe
+> leben&shy;den Men&shy;sch&shy;en "ver&shy;übt" wird,
+> der dann auch noch einen ohne&shy;hin schon auf&shy;ge&shy;brach&shy;ten
+> Drit&shy;ten direkt vor "seine" höl&shy;zer&shy;ne
+> Woh&shy;nungs&shy;tür lotst,
+> um ihn vor&shy;zu&shy;füh&shy;<nobr>ren /</nobr> zu de&shy;mü&shy;ti&shy;gen.  
+> **Aber**
+> (und mir nur schwer vor&shy;stell&shy;bar)<sup>:warning:Sug</sup>:</nobr>
+> Die [Sug&shy;ges&shy;tion akus&shy;ti&shy;sch&shy;er
+> Nähe](#akustik),
+> könnte von irgend&shy;was wo&shy;an&shy;ders
+> (noch nicht ein&shy;mal im glei&shy;chen Wohn&shy;haus?)
+> ab&shy;len&shy;ken.
 
-sowie zwei weitere
-(suggerierte)
-anwesende Frauen(-stimmen)
-suggerieren/inszenieren am Valentinstagabend(!)
-etwa 8 Stunden lang die (angeblich maskierte?!)
-Misshandlung(/Vergewaltigung?) einer (suggerierten ehemaligen!) Nachbarin
-(die längst woanders wohnen müsste?),
-sprechen dabei mehrmals direkt mit mir,
-täuschen sequentiell mehrere Realitäten an,
-bieten mir dann eine Art Übergabe an,
-lassen mich mehrmals (irgendwo im Haus) antreten/umherirren,
-lassen diese Übergabe dann aber,
-aufgrund unterstellter Unfähigkeit/Überforderung meiner Person
-ob der Verwahrlosung ihres Opfers,
+sowie zwei wei&shy;te&shy;re
+(sug&shy;ge&shy;rier&shy;te)
+an&shy;we&shy;sen&shy;de <nobr>Frauen(-stim</nobr>&shy;men)
+sug&shy;ge&shy;rie&shy;<nobr>ren/</nobr><wbr>ins&shy;ze&shy;nie&shy;ren
+am Valen&shy;tins&shy;tag&shy;abend(!)
+etwa 8 Stunden lang(!) die
+(an&shy;geb&shy;lich mas&shy;kier&shy;te?!)
+Miss&shy;hand&shy;lung(/Ver&shy;ge&shy;wal&shy;ti&shy;gung?)
+einer (sug&shy;ge&shy;riert) ehe&shy;ma&shy;li&shy;gen Nach&shy;barin
+(die längst wo&shy;an&shy;ders woh&shy;nen müsste?),
+sprechen dabei mehr&shy;mals direkt mit mir,
+täuschen sequentiell meh&shy;re&shy;re Rea&shy;li&shy;tä&shy;ten an,
+bieten mir dann eine Art Über&shy;gabe an,
+lassen mich mehr&shy;mals
+(irgend&shy;wo im Haus)
+an&shy;tre&shy;<nobr>ten/</nobr><wbr>um&shy;her&shy;irren,
+lassen diese Über&shy;gabe dann aber,
+auf&shy;grund unter&shy;stell&shy;ter
+Un&shy;fähig&shy;<nobr>keit/</nobr><wbr>Über&shy;for&shy;de&shy;rung
+meiner Per&shy;son ob der Ver&shy;wahr&shy;lo&shy;sung ihres Opfers,
 unter Abspielen der Verzweiflung selbiger Frau,
-zum Zwecke der Entwürdigung zweier(!) Menschen,
+zum Zwecke der Ent&shy;wür&shy;di&shy;gung zweier(!) Men&shy;sch&shy;en,
 spät nachts platzen,
-um mich unter größten Sorgen und
-der Verhöhnung durch suggerierte Anwesende
-zurück in meine Wohnung gehen zu lassen,
+um mich unter größten Sor&shy;gen und
+der Ver&shy;höh&shy;nung durch sug&shy;ge&shy;rier&shy;te
+An&shy;we&shy;sen&shy;de zu&shy;rück in meine Woh&shy;nung gehen zu lassen,
 mir dann damit zu drohen,
-mir diese Tat unterzuschieben und
+mir diese Tat unter&shy;zu&shy;schie&shy;ben und
 (hoffentlich nur)
-mich eine der schrecklichsten Nächte meines Lebens verbingen zu lassen.
+mich eine der schreck&shy;lichs&shy;ten Nächte meines Lebens
+ver&shy;brin&shy;gen zu las&shy;sen.
 
 [**Anm. 26.09.24 02:22**] Mich momen&shy;tan ab&shy;hö&shy;ren&shy;der
 Täter droht mit Nach&shy;spiel.
@@ -2051,7 +2068,9 @@ skiz&shy;zie&shy;ren.
   Iden&shy;ti&shy;tätss&shy;stö&shy;rung](https://de.wikipedia.org/wiki/Dissoziative_Identitätsstörung),
   kurz: [DIS](https://de.wikipedia.org/wiki/Dissoziative_Identitätsstörung),
   leidet~~<sup>mglw. suggeriert</sup>
-  (Ich kann überhaupt nicht einschätzen, ob ein initialer Täter solch eine Störung haben könnte, wenn er so planvoll vorgeht.)
+  (Ich kann über&shy;haupt nicht ein&shy;schätzen,
+    ob ein ini&shy;tia&shy;ler Täter solch eine Stö&shy;rung haben könnte,
+    wenn er so plan&shy;voll vor&shy;geht.)
   * in Dia&shy;lo&shy;gen vom Täter selbst an&shy;ge&shy;spro&shy;chen
   * bestä&shy;tigt von eini&shy;gen mut&shy;maß&shy;lich&shy;en
     Per&shy;sön&shy;lich&shy;kei&shy;<nobr>ten/</nobr><wbr>Stim&shy;men
