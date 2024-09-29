@@ -244,11 +244,12 @@ version: So., 29. Sep. 2024
   
 > :loudspeaker: **TL;DR**:  
 > Ein Schi&shy;zo&shy;phre&shy;nie-Patient be&shy;haup&shy;tet,
-> ex&shy;ter&shy;ne Inte&shy;res&shy;sen&shy;grup&shy;pen hät&shy;ten
-> sei&shy;ne Wahr&shy;neh&shy;mung mani&shy;pu&shy;liert,
+> ex&shy;ter&shy;ne Inte&shy;res&shy;sen&shy;grup&shy;pen
+> w&uuml;r&shy;den sei&shy;ne Wahr&shy;neh&shy;mung
+> mani&shy;pu&shy;lie&shy;ren,
 > um sein Han&shy;deln so zu be&shy;ein&shy;flus&shy;sen,
-> dass er Din&shy;ge&trade;
-> (die er nicht be&shy;nen&shy;nen oder er&shy;klär&shy;en kann),
+> dass er Din&shy;ge&trade;,
+> (die er nicht be&shy;nen&shy;nen oder er&shy;klär&shy;en kann,
 > anders um&shy;setzt als er es "eigent&shy;lich" wür&shy;de,
 > was zu schi&shy;zo&shy;phre&shy;nie-ähn&shy;lich&shy;en
 > Symp&shy;to&shy;men führt. :smirk:
@@ -262,36 +263,42 @@ version: So., 29. Sep. 2024
 > For&shy;men&shy;krei&shy;ses.
 
 > [!IMPORTANT]
-> **Mglw. malen** eine oder sogar mehrere **Personen "nur" den**
+> **Mglw. malen** eine oder sogar meh&shy;rere **Per&shy;so&shy;nen
+> "nur" den**
 > (per&shy;fi&shy;dest denk&shy;ba&shy;ren)
 > **Teu&shy;fel an die Wand**
 > (eines Schizo&shy;phre&shy;nie-Patien&shy;ten),
-> ohne dass "etwas passiert".
+> ohne dass je "et&shy;was passiert".  
 > **Hier**
-> (lei&shy;der not&shy;wen&shy;dige)
-> zeit&shy;rau&shy;ben&shy;de **Doku&shy;men&shy;ta&shy;tion
-> zur Ab&shy;sicherung** für den Fall,
+> (lei&shy;der not&shy;wendige)
+> sehr zeit&shy;rau&shy;ben&shy;de **Doku&shy;men&shy;ta&shy;tion zur
+> Ab&shy;siche&shy;rung** für den Fall,
 > dass doch. :+1:  
 > **An die "T&auml;ter"**:
 > Ein herz&shy;lich&shy;es Danke&shy;schön für über 16.000 Std.
-> dei&shy;<nobr>ner/</nobr><wbr>eurer kost&shy;ba&shy;ren
-> <nobr>Zeit!<sup>:warning:Zynismus</sup></nobr> :tada:  
-> 
+> deiner/eurer kost&shy;ba&shy;ren
+> <nobr>Zeit!<sup>:warning:Zynis&shy;mus</sup>  :tada:</nobr>  
+>
 > **An** mglw.
 > (aber hoff&shy;ent&shy;lich nicht)
-> **in&shy;vol&shy;vier&shy;te Drit&shy;te**:
+> **in&shy;vol&shy;vier&shy;te Dritte**:
 > Alles(!) voll&shy;kom&shy;me&shy;ner,
-> "an den Haaren her&shy;bei&shy;ge&shy;zo&shy;ge&shy;ner" Stuss/Blödsinn
+> "an den Haaren her&shy;bei&shy;ge&shy;zo&shy;ge&shy;ner"
+> <nobr>Stuss/</nobr>Blöd&shy;sinn
 > (jeden&shy;falls über mich)
-> sei&shy;tens irgend&shy;welcher Spinner
+> sei&shy;tens irgend&shy;wel&shy;cher Spin&shy;ner
 > (die ich lei&shy;der nicht kenne)! 🤷  
->
-> Weitere **Anm.**: Mir (&uuml;ber ande&shy;re) ver&shy;mittel&shy;te
-> (Des-)"Information" aus nicht-erster Hand bewerte ich selbstverst&auml;ndlich
-> (und schon sehr lange) ebenfalls als nichtig.
+> 
+> Wei&shy;te&shy;re **Anm.**:
+> Mir
+> (&uuml;ber ande&shy;re) ver&shy;mittel&shy;te
+> (Des-)"Infor&shy;ma&shy;tion" aus nicht-ers&shy;ter Hand
+> be&shy;wer&shy;te ich selbst&shy;ver&shy;st&auml;nd&shy;lich
+> (und schon sehr lange)
+> eben&shy;falls als nich&shy;tig.
 
 **These**:
-<nobr>Ein/-e</nobr> oder mehre&shy;re
+<nobr>Ein(-e)</nobr> oder mehre&shy;re
 (ini&shy;tial ver&shy;ant&shy;wort&shy;<nobr>liche(-r))</nobr>
 <nobr>Täter/-</nobr><wbr><nobr>in/-</nobr><wbr>nen,
 nut&shy;zen die
@@ -506,7 +513,7 @@ Tele&shy;fon&shy;nr.
     Sub&shy;stanz&shy;kon&shy;sum* et.&#8239;c.),
     
     Eigent&shy;lich **alles** total **Bana&shy;ne**,
-    Es gibt
+    es gibt
     (für mich)
     die&shy;sen einen sch&ouml;nen Satz:  
     **Try not to bur&shy;den them**!  
@@ -617,7 +624,7 @@ ge&shy;mein&shy;sa&shy;men Re&shy;ali&shy;tät ent&shy;stam&shy;men
   </details>
   
 > [!WARNING]
-> (ergo:)
+> (ergo)
 > **Nichts von dem,
 > was ich hier schrei&shy;be,
 > muss irgend&shy;ein&shy;en Reali&shy;täts&shy;be&shy;zug haben** und
@@ -912,11 +919,11 @@ Reali&shy;tä&shy;ten von außen ge&shy;trig&shy;gert wer&shy;den.
   m&ouml;g&shy;lich&shy;er&shy;wei&shy;se einem Um&shy;stand
   ge&shy;schul&shy;det,
   der unter
-  [An&shy;nahmen <nobr>zu/-m</nobr>
-  <nobr>Täter/</nobr><wbr>-innen](#beobachtungen--annahmen-zu-täter-f)
-  aus&shy;ge&shy;führt wird)   
+  [An&shy;nahmen <nobr>zu(-r/-m)</nobr>
+  <nobr>T&auml;ter/-</nobr><wbr><nobr>in/-</nobr><wbr>nen](#beobachtungen--annahmen-zu-t&auml;ter-f)
+  aus&shy;ge&shy;f&uuml;hrt wird)   
 
-* die Dia&shy;lo&shy;ge wäh&shy;rend der
+* die Dia&shy;lo&shy;ge w&auml;h&shy;rend der
   (meist außer Haus statt&shy;fin&shy;den&shy;den)
   "Ab&shy;ar&shy;bei&shy;tung" der
   [NLP-Pro&shy;gram&shy;me](#wesen-der-neuro-linguistischen-programme)
@@ -1201,9 +1208,10 @@ durch das **Auf&shy;neh&shy;men** und
 **Ab&shy;spie&shy;len** von
 (auch in&shy;tim&shy;sten)
 **Ge&shy;räu&shy;sch&shy;e**n oder **Gesprä&shy;che**n,
-gegen&shy;ein&shy;an&shy;der aus&shy;ge&shy;spielt,  
+gegen&shy;ein&shy;an&shy;der aus&shy;ge&shy;spielt,
 
-wobei (bei mir) mind. zwei&shy;mal der Ein&shy;druck ent&shy;stand,
+wobei (bei mir) min&shy;des&shy;tens zwei&shy;mal der Ein&shy;druck
+ent&shy;stand,
 es best&uuml;nde t&auml;ter&shy;sei&shy;ti&shy;ges Inter&shy;esse,
 evtl. Amou&shy;r&ouml;&shy;sit&auml;ten
 (via [unterschwelliger
@@ -1472,7 +1480,7 @@ mich eine der schreck&shy;lichs&shy;ten Nächte meines Lebens
 ver&shy;brin&shy;gen zu las&shy;sen.
 
 [**Anm. 26.09.24 02:22**] Mich momen&shy;tan ab&shy;hö&shy;ren&shy;der
-Täter droht mit Nach&shy;spiel.
+Täter droht mit "Nach&shy;spiel".
 
 ---
 <!-- ende taktiken -->
