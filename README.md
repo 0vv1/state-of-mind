@@ -7,7 +7,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Sa., 28. Sep. 2024
+version: So., 29. Sep. 2024
 ```
 
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>bei Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie zyni&shy;sche [Buch&shy;empfeh&shy;lung eines mögl. Täters](#buchempfehlung-eines-t&auml;ters)?!)</sup></sub>
@@ -238,14 +238,14 @@ version: Sa., 28. Sep. 2024
   **Induk&shy;tion von** «**SCHLECH&shy;TER LAU&shy;NE**»&trade;
   und da&shy;mit **RAU&shy;BEN VON LEBENS&shy;ZEIT**,  
   *f&uuml;r den Spa&szlig; muss man halt selber
-  sorgen.. * :sun_with_face:
+  sorgen..* :sun_with_face:
   </details>
   <!-- ende weitere straftaten -->
   
 > :loudspeaker: **TL;DR**:  
 > Ein Schi&shy;zo&shy;phre&shy;nie-Patient be&shy;haup&shy;tet,
 > ex&shy;ter&shy;ne Inte&shy;res&shy;sen&shy;grup&shy;pen hät&shy;ten
-> sei&shy;ne Wahr&shy;neh&shy;mung & Den&shy;ken mani&shy;pu&shy;liert,
+> sei&shy;ne Wahr&shy;neh&shy;mung mani&shy;pu&shy;liert,
 > um sein Han&shy;deln so zu be&shy;ein&shy;flus&shy;sen,
 > dass er Din&shy;ge&trade;
 > (die er nicht be&shy;nen&shy;nen oder er&shy;klär&shy;en kann),
@@ -263,31 +263,36 @@ version: Sa., 28. Sep. 2024
 
 > [!IMPORTANT]
 > **Mglw. malen** eine oder sogar mehrere **Personen "nur" den**
-> (perfidest denkbaren)
-> **Teufel an die Wand**
-> (eines Schizophrenie-Patienten),
-> ohne dass
-> (auch laut deren Aussage)
-> "irgendwas passiert"
-> (w&auml;re).
-> **Hier** (leider notwendige) aufwändige und zeitraubende **Dokumentation zur Absicherung** für den Fall, dass doch. :+1:  
+> (per&shy;fi&shy;dest denk&shy;ba&shy;ren)
+> **Teu&shy;fel an die Wand**
+> (eines Schizo&shy;phre&shy;nie-Patien&shy;ten),
+> ohne dass "etwas passiert".
+> **Hier**
+> (lei&shy;der not&shy;wen&shy;dige)
+> zeit&shy;rau&shy;ben&shy;de **Doku&shy;men&shy;ta&shy;tion
+> zur Ab&shy;sicherung** für den Fall,
+> dass doch. :+1:  
 > **An die "T&auml;ter"**:
-> Ein herzliches Dankeschön für über 16.000 Std.
-> deiner/eurer kostbaren
-> <nobr>Zeit!<sup>:warning:Zynismus</sup>  :tada:</nobr>  
+> Ein herz&shy;lich&shy;es Danke&shy;schön für über 16.000 Std.
+> dei&shy;<nobr>ner/</nobr><wbr>eurer kost&shy;ba&shy;ren
+> <nobr>Zeit!<sup>:warning:Zynismus</sup></nobr> :tada:  
+> 
+> **An** mglw.
+> (aber hoff&shy;ent&shy;lich nicht)
+> **in&shy;vol&shy;vier&shy;te Drit&shy;te**:
+> Alles(!) voll&shy;kom&shy;me&shy;ner,
+> "an den Haaren her&shy;bei&shy;ge&shy;zo&shy;ge&shy;ner" Stuss/Blödsinn
+> (jeden&shy;falls über mich)
+> sei&shy;tens irgend&shy;welcher Spinner
+> (die ich lei&shy;der nicht kenne)! 🤷  
 >
-> **An** mglw. (aber hoffentlich nicht) **involvierte Dritte**:
-> Alles(!) vollkommener, "an den Haaren herbeigezogener" Stuss/Blödsinn
-> (jedenfalls über mich)
-> seitens irgendwelcher Spinner
-> (die ich leider nicht kenne)! 🤷  
->
-> Weitere **Anm.**: Mir (&uuml;ber andere) vermittelte (Des-)"Information" aus nicht-erster Hand bewerte ich selbstverst&auml;ndlich
+> Weitere **Anm.**: Mir (&uuml;ber ande&shy;re) ver&shy;mittel&shy;te
+> (Des-)"Information" aus nicht-erster Hand bewerte ich selbstverst&auml;ndlich
 > (und schon sehr lange) ebenfalls als nichtig.
 
 **These**:
 <nobr>Ein/-e</nobr> oder mehre&shy;re
-(ini&shy;tial ver&shy;ant&shy;wort&shy;<nobr>liche/-r)</nobr>
+(ini&shy;tial ver&shy;ant&shy;wort&shy;<nobr>liche(-r))</nobr>
 <nobr>Täter/-</nobr><wbr><nobr>in/-</nobr><wbr>nen,
 nut&shy;zen die
 (mglw. durch die sel&shy;ben
@@ -434,7 +439,18 @@ Tele&shy;fon&shy;nr.
     **kei<nobr>ne** /&nbsp;</nobr><wbr>**nie eine** soge&shy;nann&shy;te
     "gespal&shy;te&shy;ne
     Per&shy;sön&shy;lich&shy;<nobr>keit"[^2],</nobr>
-  
+
+  * ich bin,
+    ent&shy;ge&shy;gen der mög&shy;lich&shy;en Dar&shy;stel&shy;lung
+    eines poten&shy;tiel&shy;len Täters,
+    nicht vor&shy;be&shy;straft,
+    kann mir selbst
+    (viel wich&shy;ti&shy;ger)
+    aber auch keine Straf&shy;tat vor&shy;wer&shy;fen,
+    geschweige denn Gewalt&shy;tat oder
+    bewusstes Wir&shy;ken gegen den Wil&shy;len <nobr>einer/-s</nobr>
+    ande&shy;ren, 
+    
   * ich <nobr>habe/</nobr><wbr>hatte,
     ent&shy;ge&shy;gen der mög&shy;lich&shy;en Dar&shy;stel&shy;lung
     eines poten&shy;tiel&shy;len Täters,
@@ -463,9 +479,8 @@ Tele&shy;fon&shy;nr.
     (in ihrer neuen Whg.)
     auf&shy;ge&shy;sucht habe,
     aus&shy;schlie&szlig;&shy;lich um mich zu
-    ver&shy;ge&shy;wis&shy;sern,
-    dass  
-    sie **i.&#8239;O.**&trade; ist, und  
+    ver&shy;ge&shy;wis&shy;sern,  
+    dass sie **i.&#8239;O.**&trade; ist, und  
     **keine** der,
     mir mit einer ihrer Ersatz&shy;vari&shy;an&shy;ten
     (von denen manche "*Gedanken lesen*"
@@ -1100,7 +1115,7 @@ Hyp&shy;no&shy;se bei einer an&shy;geb&shy;lich&shy;en
 > (meist nach arg&shy;lis&shy;ti&shy;ger Täu&shy;schung)
 > durch Wei&shy;ter&shy;ge&shy;ben,
 > los&shy;wer&shy;den k&ouml;n&shy;nen.
-> Auch das wäre läch&shy;er&shy;lich.  
+> Auch das wäre läch&shy;er&shy;lich.
 
 ---
 
@@ -1157,13 +1172,13 @@ Aus&shy;füh&shy;rung.
 > da&shy;durch lei&shy;ser und bes&shy;ser
 > hand&shy;<nobr>hab**-/</nobr><wbr>**mani&shy;pu&shy;lier&shy;<nobr>bar**<sup><a href="#wvt">:warning:VT</a></sup>[^1]</nobr>
 > wer&shy;den,
-> war <nobr>ein/-e</nobr> qua&shy;si
-> vir&shy;tu&shy;el&shy;<nobr>le/-r</nobr>
+> war <nobr>ein(-e)</nobr> qua&shy;si
+> vir&shy;tu&shy;el&shy;<nobr>le(-r)</nobr>
 > <nobr>(mglw.</nobr>
-> "rang&shy;hö&shy;<nobr>here/-r"<sup>?</sup>)</nobr>
-> <nobr>Täter/-</nobr>[per&shy;sön&shy;lich&shy;keit](#beobachtungen--annahmen-zu-täter-f)
+> "rang&shy;h&ouml;&shy;<nobr>here(-r)"<sup>?</sup>)</nobr>
+> <nobr>Täter/-</nobr><wbr>[per&shy;sön&shy;lich&shy;keit](#beobachtungen--annahmen-zu-täter-f)
 > der Mei&shy;nung,
-> dass er/sie in der letz&shy;ten Nacht
+> dass sie/er in der letz&shy;ten Nacht
 > (wie bereits öfter),
 > zur **[Tele&shy;pa&shy;thie](https://de.wikipedia.org/wiki/Telepathie)
 > befä&shy;higte Men&shy;<nobr>schen**<sup><a href="#wvt"><a
@@ -1171,7 +1186,7 @@ Aus&shy;füh&shy;rung.
 > [gegen deren Willen](https://www.unicum.de/wissenswertes/raus-aus-meinem-kopf-kann-hypnose-dich-willenlos-machen)
 > via [Hyp&shy;nose](https://de.wikipedia.org/wiki/Hypnose)
 > dafür "miss&shy;braucht" hat,
-> mich wäh&shy;rend des Schlafs aus&shy;gedehnt
+> mich wäh&shy;rend des Schlafs aus&shy;ge&shy;dehnt
 > [neuro-linguistisch](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
 > zu pro&shy;gram&shy;mie<nobr>ren<sup><a href="#wvt">:warning:VT</a></sup>[^1]. :+1:</nobr>  
 > *.. nee, wird schon stimmen, Dude!* :joy:
@@ -1204,7 +1219,7 @@ ver&shy;hin&shy;dern,
 Emo&shy;tio&shy;nen m&ouml;g&shy;lich&shy;er&shy;weise so&shy;gar in das
 Gegen&shy;teil zu ver&shy;kehren und dem ein&shy;zel&shy;nen
 je&shy;weils "Ent&shy;t&auml;u&shy;schung" bis Hass auf der ande&shy;ren
-Seite zu sug&shy;ge&shy;rie&shy;ren(?!).  
+Seite zu sug&shy;ge&shy;rie&shy;ren?!  
 (**Anm.**: Mglw. eine indi&shy;vi&shy;du&shy;ell sehr
 ver&shy;schie&shy;de&shy;ne Inzen&shy;ti&shy;vie&shy;rung f&uuml;r
 irgend&shy;was?  
@@ -1800,10 +1815,11 @@ ist für Nach&shy;schub ge&shy;sorgt. :worried:
   
 ## Beson&shy;der&shy;hei&shy;ten
 
-Die Metho&shy;den der <nobr>Täter/</nobr><wbr>-in&shy;nen sind
-aus&shy;ge&shy;spro&shy;chen per&shy;fide und spie&shy;len wohl
-alle&shy;samt da&shy;rauf ab, die Opfer in einen Zu&shy;stand zu
-brin&shy;gen,
+Die Metho&shy;den der
+<nobr>Täter/-</nobr><wbr><nobr>in/-</nobr><wbr>nen sind
+aus&shy;ge&shy;spro&shy;chen per&shy;fi&shy;de und spie&shy;len wohl
+alle&shy;samt da&shy;rauf ab,
+die Opfer in einen Zu&shy;stand zu brin&shy;gen,
 in dem sie ohne geringste eige&shy;ne Glaub&shy;wür&shy;dig&shy;keit und
 sozia&shy;le Unter&shy;stüt&shy;zung, den Tätern voll&shy;kom&shy;men
 aus&shy;ge&shy;lie&shy;fert sind.  
@@ -1823,7 +1839,8 @@ künst&shy;liche "Induktion" einer Schizo&shy;phrenie kein Zufall ist,
 sondern m&ouml;g&shy;lich&shy;er&shy;wei&shy;se System und eine
 Geschichte hat.
 
-<nobr>Der/</nobr><wbr>die <nobr>Täter/</nobr><wbr>-in&shy;nen
+<nobr>Der/</nobr><wbr>die
+<nobr>Täter/-</nobr><wbr><nobr>in/-</nobr><wbr>nen
 ver&shy;fü&shy;gen,
 durch das bestän&shy;di&shy;ge an&shy;geb&shy;li&shy;che
 Ab&shy;hö&shy;ren der Wohn&shy;räu&shy;me ihrer Opfer,
@@ -2696,7 +2713,7 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
 <nobr>der/</nobr><wbr>die/</nobr><wbr>das?**!</nobr>  
 
 > [!IMPORTANT]
-> Wenn es wirk&shy;lich einen Täter i.S. eines
+> ~~Wenn es wirk&shy;lich einen Täter i.S. eines
 > ur&shy;säch&shy;lich&shy;en Ini&shy;tia&shy;tors gibt,
 > dann hast Du das hier bis zum bit&shy;te&shy;ren Ende
 > ge&shy;le&shy;sen
@@ -2714,8 +2731,9 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
 > Deut&shy;lich.
 > Und bis zur Fried&shy;hofs&shy;pfor&shy;te sicht&shy;bar.
 > Gern mit aus&shy;ge&shy;dehn&shy;ten
-> Spreng&shy;ar&shy;bei&shy;ten. :boom:
-  
+> Spreng&shy;ar&shy;bei&shy;ten. :boom:~~
+> SCHON LANGE NICHT MEHR LUSTIG
+
 <br>
 
 [^1]: <span id="wvt">Die Mar&shy;kierung
