@@ -2651,6 +2651,15 @@ ver&shy;lei&shy;tet wor&shy;den.
     geb. am 26. M&auml;rz 1978 in Schwerin,
     kennenzulernen :heart_eyes:
   * ich kann die [Entscheidung des Meta-Konzerns gerichtlich pr&uuml;fen lassen](./2024-09-30_16-00_facebook_challenge-decision.png)
+
+  [**Erg.**] Einer der T&auml;ter
+    (ich vermute inzwischen mind. zwei,
+    allerdings nur,
+    weil ich sie gleichzeitig h&ouml;re,
+    was erstmal nichts hei&szlig;en muss)
+    suggeriert,
+    die Suspendierung h&auml;tten "sie" veranlasst, weil "zu viel auf dem Spiel st&uuml;nde" :joy::joy::joy:
+    → *Jo, Dude!! Meine Lebenszeit, zum Bsp.!*
   </details>
   
 <details>
