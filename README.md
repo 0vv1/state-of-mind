@@ -2609,7 +2609,7 @@ ver&shy;lei&shy;tet wor&shy;den.
 [**Anm. 2**] Der selbe T&auml;ter (14:12 Uhr) meint,
   dieses Vorgehen sei bei der Berliner Polizei vollkommen normal.
   </details>
-
+  
 <details>
   <summary>
     <h5>Sug&shy;ges&shy;tion des Zu&shy;rück&shy;zie&shy;hens aus der
@@ -2629,7 +2629,26 @@ ver&shy;lei&shy;tet wor&shy;den.
   Ab&shy;hör&shy;ein&shy;rich&shy;tung&shy;en be&shy;schäf&shy;tigt
   seien.
   </details>
+  
+<!-- suspendierung facebook -->
+<details>
+  <summary>
+    <h5>Suspendierung meines 1. Facebook-Accounts am 30.09.24,
+      1 Tag, 9 Std. und 26 Minuten nach (feierlicher) Er&ouml;ffnung :wink:</h5></summary>
 
+  * ich entschied mich in schlafloser Nacht nur sehr widerwillig zur Er&ouml;ffnung eines Facebook-Kontos,
+    da ich schon lange das diffuse Gef&uuml;hl habe, mind. ein
+    (mglw. etwas umnachteter?) T&auml;ter "trachtet mir nach meiner Identit&auml;t",
+    weil ich ja auch so wichtig und ber&uuml;hmt bin :joy:
+  * [Best&auml;tigung der Er&ouml;ffnung](./2024-09-29_03-34_facebook_welcome.eml),  
+    [Suspendierung](./2024-09-30_13-08_facebook_suspendierung.eml)
+    einen Tag sp&auml;ter :smirk:
+  * (die echten&trade;)
+    Gr&uuml;nde schau ich mir sp&auml;ter an
+    (sicher Zufall),
+    nachdem auch dieser Tag zur H&auml;lfte mit diesem M&uuml;ll gef&uuml;llt wurde
+  </details>
+  
 <details>
   <summary>
     <h2>Mein eige&shy;nes Motiv</h2></summary>
