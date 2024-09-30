@@ -7,7 +7,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: So., 29. Sep. 2024
+version: Mo., 30. Sep. 2024
 ```
 
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>bei Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie zyni&shy;sche [Buch&shy;empfeh&shy;lung eines mögl. Täters](#buchempfehlung-eines-t&auml;ters)?!)</sup></sub>
@@ -2559,6 +2559,57 @@ ver&shy;lei&shy;tet wor&shy;den.
 > gg&uuml;. Dritten: "Das war ich nicht. Das war Alexander Puls."
   </details>
   
+<!-- notruf poliei -->
+<details>
+  <summary>
+    <h5>(Suggestion der) Manipulation eines Notrufs
+      an die Berliner Polizei
+      am 16. Aug. 2024, 2:55 Uhr</h5></summary>
+  
+*Nur der Vollst&auml;ndigkeit halber, falls irgendwann einmal "wichtig".* :wink:
+
+* **Ablauf**:
+  * Dauer des (2.) Anrufs: 48 Sek.
+    * der erste Anruf ging nicht durch
+    * dann normales Klingeln auf der Gegenseite
+      (keine automatische oder Bandansage)
+  * keine Frage nach meinem Namen, Tel.-nr. oder ob ich evtl. Hilfe ben&ouml;tige
+  * **Anlass**: Ich f&uuml;hlte mich durch,
+    mir suggeriertes, Abh&ouml;ren meiner Wohnr&auml;ume
+    i.&#8239;Z.&#8239;m. massiven Bedrohungen so unter Druck gesetzt,
+    dass ich die Polizei kontaktieren wollte
+  * der Ansprechpartner fragte mich, warum ich anrufe,
+    worauf ich erwiderte, dass ich den Eindruck habe,
+    meine Wohnr&auml;ume werden abgeh&ouml;rt
+  * darauf erwidert der Beamte nach meiner Erinnerung:
+    "Also sie h&ouml;ren Stimmen?"
+  * Als ich diese Frage positiv beantwortetete,
+    sagte der Beamte,
+    dass wir das Gespr&auml;ch beenden k&ouml;nnen und ich nicht noch einmal anrufen "brauche"
+
+* **Suggestion** einer der T&auml;ter: "Sie h&auml;tten den Notruf "abgefangen",
+  inkl. Hinweise auf die Einst. meines Telefons, wo zu diesem Zeitpunkt noch die Option "Notrufe auch via GSM/EDGE" aktiviert war
+
+* **Folgen**:
+  * eine [Nachfrage](./2024-08-22_Polizei-vorgang-16084602.pdf)
+    meinerseits, ob die Abwicklung des Notrufs der Norm entspr&auml;che
+  * ausschlie&szlig;lich telefonische Reaktion mit der Empfehlung,
+    doch Beschwerde einzureichen, da der Ablauf des Telefonats einige Auff&auml;lligkeiten offenbaren w&uuml;rde
+  * [Beschwerde am 27. Aug](./2024-08-27_Polizei-vorgang-17472005.pdf) eingereicht,
+    auf die wieder "nur" telefonisch
+    (von einer Nr. der Berliner Polizei: +49&#8239;30&#8239;4664603321)
+    aber sehr schnell am 28. Aug., 13:45 Uhr reagiert wurde
+    * ich wurde gefragt,
+      was mir am Gespr&auml;ch aufgefallen w&auml;re oder nicht gefallen hat
+    * dann g&uuml;tliche Trennung und Beendigung des Gespr&auml;chs
+
+[**Anm. 1**] Mich momentan abh&ouml;render T&auml;ter (13:48 Uhr) erh&ouml;ht durch Suggestion,
+  sich in Not befindlicher Dritter,
+  den emotionalen Druck.  
+[**Anm. 2**] Der selbe T&auml;ter (14:12 Uhr) meint,
+  dieses Vorgehen sei bei der Berliner Polizei vollkommen normal.
+  </details>
+
 <details>
   <summary>
     <h5>Sug&shy;ges&shy;tion des Zu&shy;rück&shy;zie&shy;hens aus der
