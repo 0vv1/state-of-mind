@@ -2643,10 +2643,11 @@ ver&shy;lei&shy;tet wor&shy;den.
   * [Best&auml;tigung der Er&ouml;ffnung](./2024-09-29_03-34_facebook_welcome.eml),  
     [Suspendierung](./2024-09-30_13-08_facebook_suspendierung.eml)
     einen Tag sp&auml;ter :smirk:
-  * (die echten&trade;)
-    Gr&uuml;nde schau ich mir sp&auml;ter an
-    (sicher Zufall),
-    nachdem auch dieser Tag zur H&auml;lfte mit diesem M&uuml;ll gef&uuml;llt wurde
+  * Grund f&uuml;r die Suspendierung ist wohl
+    (nach Upload meines Personalausweises!)
+    ein [Fake-Account](./2024-09-30_facebook_suspend-reason-fake-account.png)
+    * jetzt wird es langsam spannend, da ich darauf brenne,
+      den echten (the real deal) Alexander Puls, geb. am 26.03.78 in Schwerin, kennenzulernen :wink:
   </details>
   
 <details>
