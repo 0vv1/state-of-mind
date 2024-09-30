@@ -275,9 +275,11 @@ version: Mo., 30. Sep. 2024
 > Ab&shy;siche&shy;rung** für den Fall,
 > dass doch. :+1:  
 > **An die "T&auml;ter"**:
-> Ein herz&shy;lich&shy;es Danke&shy;schön für über 16.000 Std.
-> deiner/eurer kost&shy;ba&shy;ren
-> <nobr>Zeit!<sup>:warning:Zynis&shy;mus</sup>  :tada:</nobr>  
+> Ein herz&shy;lich&shy;es Danke&shy;schön für
+> (von <nobr>dir/</nobr><wbr>euch selbst er&shy;rech&shy;ne&shy;te)
+> knapp &uuml;ber 16.000 Std. <nobr>deiner/</nobr><wbr>eurer
+> kost&shy;ba&shy;ren
+> <nobr>Zeit!<sup>:warning:Zynis&shy;mus</sup> :tada:</nobr>
 >
 > **An** mglw.
 > (aber hoff&shy;ent&shy;lich nicht)
@@ -1285,6 +1287,22 @@ Ge&shy;fahr**:
   denen der Täter so&shy;gar den eigenen Selbst&shy;mord be&shy;fehlen 
   könnte *wenn er denn wollte*
   (**wichtig**: immer Machtdemonstration)
+
+> [!CAUTION]
+> Allg. ist es um das Men&shy;schen&shy;bild auf
+> T&auml;ter&shy;sei&shy;te nicht zu gut be&shy;stellt.
+> S&auml;mt&shy;liche "dar&shy;ge&shy;stell&shy;ten"(?) Figu&shy;ren
+> (mehr nicht)
+> wir&shy;ken oft,
+> wer&shy;den aber immer so pr&auml;sen&shy;tiert,
+> wie fast hirn&shy;tote Zombies,
+> die zu nichts in der Lage sind und von T&auml;tern belie&shy;big
+> mani&shy;pu&shy;liert und um&shy;her&shy;ge&shy;schubst
+> wer&shy;den k&ouml;nnen.  
+> Ein Motiv
+> dass sich durch&shy;zieht und fast alles be&shy;stimmt.
+> [vgl. Feucht&shy;traum eines
+> puber&shy;t&auml;ren Nar&shy;ziss&shy;ten?!]
 
 * das stund&shy;en&shy;lan&shy;ge,
   außer&shy;ordent&shy;lich be&shy;las&shy;ten&shy;de
@@ -2553,61 +2571,89 @@ ver&shy;lei&shy;tet wor&shy;den.
 > die Szene sei inze&shy;niert ge&shy;we&shy;sen.
 
 > [!NOTE]
-> [**Anm.** 26.09.24 02:49] Potentieller Täter sug&shy;ge&shy;riert die
-> Behaup&shy;tung mei&shy;ner Täter&shy;schaft i.&#8239;d.&#8239;Z
-> (wahrscheinlich ist Verleitung zur Selbsttötung gemeint)
-> gg&uuml;. Dritten: "Das war ich nicht. Das war Alexander Puls."
+> [**Anm.** 26.09.24 02:49] Poten&shy;tiel&shy;ler Täter
+> sug&shy;ge&shy;riert die Behaup&shy;tung mei&shy;ner Täter&shy;schaft
+> i.&#8239;d.&#8239;Z
+> (wahr&shy;schein&shy;lich ist Ver&shy;lei&shy;tung zur
+> Selbst&shy;tö&shy;tung ge&shy;meint)
+> gg&uuml;. Drit&shy;ten:
+> "Das war ich nicht. Das war Alex&shy;an&shy;der Puls."
   </details>
   
 <!-- notruf poliei -->
 <details>
   <summary>
-    <h5>(Suggestion der) Manipulation eines Notrufs
-      an die Berliner Polizei
+    <h5>(Sug&shy;ges&shy;tion der)
+      Mani&shy;pu&shy;la&shy;tion eines Not&shy;rufs
+      an die Ber&shy;li&shy;ner Poli&shy;zei
       am 16. Aug. 2024, 2:55 Uhr</h5></summary>
   
-*Nur der Vollst&auml;ndigkeit halber, falls irgendwann einmal "wichtig".* :wink:
+   + + + *Nur der Voll&shy;st&auml;n&shy;dig&shy;keit hal&shy;ber,
+  falls irgend&shy;wann ein&shy;mal "wich&shy;tig".* + + + :wink:
 
-* **Ablauf**:
-  * Dauer des (2.) Anrufs: 48 Sek.
-    * der erste Anruf ging nicht durch
-    * dann normales Klingeln auf der Gegenseite
-      (keine automatische oder Bandansage)
-  * keine Frage nach meinem Namen, Tel.-nr. oder ob ich evtl. Hilfe ben&ouml;tige
-  * **Anlass**: Ich f&uuml;hlte mich durch,
-    mir suggeriertes, Abh&ouml;ren meiner Wohnr&auml;ume
-    i.&#8239;Z.&#8239;m. massiven Bedrohungen so unter Druck gesetzt,
-    dass ich die Polizei kontaktieren wollte
-  * der Ansprechpartner fragte mich, warum ich anrufe,
-    worauf ich erwiderte, dass ich den Eindruck habe,
-    meine Wohnr&auml;ume werden abgeh&ouml;rt
-  * darauf erwidert der Beamte nach meiner Erinnerung:
-    "Also sie h&ouml;ren Stimmen?"
-  * Als ich diese Frage positiv beantwortetete,
-    sagte der Beamte,
-    dass wir das Gespr&auml;ch beenden k&ouml;nnen und ich nicht noch einmal anrufen "brauche"
+* **Ab&shy;lauf**:
+  * Dauer des (2.) An&shy;rufs: 48 Sek.
+    * der erste An&shy;ruf ging nicht durch
+    * dann nor&shy;ma&shy;les Klin&shy;ge&shy;ln auf der
+      Gegen&shy;sei&shy;te
+      (keine auto&shy;ma&shy;tische oder Band&shy;an&shy;sa&shy;ge)
+  <img align="right" alt="Call-Log: Notruf 16.08. 2:55" width="300px"
+    src="./2024-08-16_emerg-call-Berliner-Polizei.png" />
+  * keine Frage nach meinem Namen,
+    Tel.-nr. oder ob ich evtl. Hilfe ben&ouml;&shy;ti&shy;ge
+  * **Anlass**: Ich f&uuml;hl&shy;te mich durch,
+    mir sug&shy;ge&shy;rier&shy;tes, Ab&shy;h&ouml;ren meiner
+    Wohn&shy;r&auml;ume i.&#8239;Z.&#8239;m. mas&shy;si&shy;ven
+    Bedro&shy;hun&shy;gen so unter Druck gesetzt,
+    dass ich die Poli&shy;zei kon&shy;ta&shy;ktie&shy;ren woll&shy;te
+  * der An&shy;sprech&shy;part&shy;ner fragte mich,
+    warum ich an&shy;rufe,
+    wo&shy;rauf ich er&shy;wi&shy;der&shy;te,
+    dass ich den Ein&shy;druck habe,
+    meine Wohn&shy;r&auml;ume wer&shy;den ab&shy;ge&shy;h&ouml;rt
+  * darauf erwi&shy;dert der Beamte nach meiner Erinnerung:
+    "Also sie h&ouml;ren Stim&shy;men?"
+  * Als ich diese Frage posi&shy;tiv beant&shy;wor&shy;te&shy;te&shy;te,
+    sagte der Be&shy;am&shy;te,
+    dass wir das Ge&shy;spr&auml;ch be&shy;en&shy;den k&ouml;n&shy;nen
+    und ich nicht noch ein&shy;mal an&shy;ru&shy;fen "brauche"
 
-* **Suggestion** einer der T&auml;ter: "Sie h&auml;tten den Notruf "abgefangen",
-  inkl. Hinweise auf die Einst. meines Telefons, wo zu diesem Zeitpunkt noch die Option "Notrufe auch via GSM/EDGE" aktiviert war
+* **Sug&shy;ges&shy;tion** einer der T&auml;ter:
+  "Sie h&auml;t&shy;ten den Not&shy;ruf "ab&shy;ge&shy;fan&shy;gen",
+  inkl. Hin&shy;wei&shy;se auf die Einst. meines Tele&shy;fons,
+  wo zu die&shy;sem Zeit&shy;punkt noch die Option
+  "Not&shy;ru&shy;fe auch via GSM/EDGE" akti&shy;viert war
 
 * **Folgen**:
-  * eine [Nachfrage](./2024-08-22_Polizei-vorgang-16084602.pdf)
-    meinerseits, ob die Abwicklung des Notrufs der Norm entspr&auml;che
-  * ausschlie&szlig;lich telefonische Reaktion mit der Empfehlung,
-    doch Beschwerde einzureichen, da der Ablauf des Telefonats einige Auff&auml;lligkeiten offenbaren w&uuml;rde
-  * [Beschwerde am 27. Aug](./2024-08-27_Polizei-vorgang-17472005.pdf) eingereicht,
-    auf die wieder "nur" telefonisch
-    (von einer Nr. der Berliner Polizei: +49&#8239;30&#8239;4664603321)
-    aber sehr schnell am 28. Aug., 13:45 Uhr reagiert wurde
-    * ich wurde gefragt,
-      was mir am Gespr&auml;ch aufgefallen w&auml;re oder nicht gefallen hat
-    * dann g&uuml;tliche Trennung und Beendigung des Gespr&auml;chs
+  * eine [Nach&shy;frage](./2024-08-22_Polizei-vorgang-16084602.pdf)
+    meiner&shy;seits,
+    ob die Ab&shy;wick&shy;lung des Not&shy;rufs der Norm
+    ent&shy;spr&auml;che
+  * aus&shy;schlie&szlig;&shy;lich tele&shy;fo&shy;nische Reak&shy;tion
+    mit der Empfeh&shy;lung,
+    doch Be&shy;schwer&shy;de ein&shy;zu&shy;rei&shy;chen,
+    da der Ab&shy;lauf des Tele&shy;fo&shy;nats einige
+    Auf&shy;f&auml;l&shy;lig&shy;kei&shy;ten offen&shy;ba&shy;ren
+    w&uuml;rde
+  * [Beschwerde am 27. Aug](./2024-08-27_Polizei-vorgang-17472005.pdf)
+    ein&shy;ge&shy;reicht,
+    auf die wie&shy;der "nur" tele&shy;fo&shy;nisch
+    (von einer Nr. der Ber&shy;li&shy;ner Poli&shy;zei:
+    +49&#8239;30&#8239;4664603321)
+    aber sehr schnell am 28. Aug., 13:45 Uhr rea&shy;giert wurde
+    * ich wurde ge&shy;fragt,
+      was mir am Ge&shy;spr&auml;ch auf&shy;ge&shy;fal&shy;len w&auml;re
+      oder nicht gefal&shy;len hat
+    * dann g&uuml;t&shy;liche Tren&shy;nung und Be&shy;endi&shy;gung des
+      Ge&shy;spr&auml;chs
 
-[**Anm. 1**] Mich momentan abh&ouml;render T&auml;ter (13:48 Uhr) erh&ouml;ht durch Suggestion,
-  sich in Not befindlicher Dritter,
-  den emotionalen Druck.  
+[**Anm. 1**] Mich momen&shy;tan ab&shy;h&ouml;ren&shy;der T&auml;ter
+  (13:48 Uhr) erh&ouml;ht durch Sug&shy;ges&shy;tion,
+  sich in Not befind&shy;li&shy;cher Drit&shy;ter,
+  den emotio&shy;na&shy;len Druck.  
 [**Anm. 2**] Der selbe T&auml;ter (14:12 Uhr) meint,
-  dieses Vorgehen sei bei der Berliner Polizei vollkommen normal.
+  dieses Vor&shy;ge&shy;hen sei bei der Ber&shy;li&shy;ner Poli&shy;zei
+  voll&shy;kom&shy;men nor&shy;mal.
   </details>
   
 <details>
@@ -2634,32 +2680,64 @@ ver&shy;lei&shy;tet wor&shy;den.
 <details>
   <summary>
     <h5>Suspendierung meines 1. Facebook-Accounts am 30.09.24,
-      1 Tag nach Er&ouml;ffnung, wegen mangelnder Integrit&auml;t :wink:</h5></summary>
+      einen(!) Tag nach Er&shy;&ouml;ff&shy;nung,
+      wegen mangelnder Inte&shy;gri&shy;t&auml;t :wink:</h5></summary>
 
-  * ich entschied mich in schlafloser Nacht nur sehr widerwillig zur Er&ouml;ffnung eines Facebook-Kontos,
-    da ich schon lange das diffuse Gef&uuml;hl habe, mind. ein
-    (mglw. etwas umnachteter?) T&auml;ter "trachtet mir nach meiner Identit&auml;t",
-    weil ich ja auch so wichtig und ber&uuml;hmt bin :joy:
-  * [Best&auml;tigung der Er&ouml;ffnung](./2024-09-29_03-34_facebook_welcome.eml),  
-    [Suspendierung](./2024-09-30_13-08_facebook_suspendierung.eml)
+  <img alt="Face&shy;book: Fake-Account als Grund f&uuml;r die
+    Suspendierung" align="right" border-left="100px none transparent"
+    src="./2024-09-30_15-00_facebook_suspend-reason-fake-account.png"
+    width="600px">
+  
+  * ich ent&shy;schied mich in einer meiner vielen schlaf&shy;lo&shy;sen
+    N&auml;chte nur sehr wider&shy;wil&shy;lig zur
+    Er&shy;&ouml;ff&shy;nung eines Facebook-Kontos,
+    da ich schon lange das dif&shy;fu&shy;se Gef&uuml;hl habe,
+    min&shy;des&shy;tens ein
+    (m&ouml;g&shy;lich&shy;er&shy;wei&shy;se et&shy;was
+    um&shy;nach&shy;te&shy;ter?)
+    T&auml;ter "trach&shy;tet mir nach meiner Iden&shy;ti&shy;t&auml;t",
+    weil ich ja auch so wich&shy;tig und ber&uuml;hmt bin :joy:
+  
+  * hier die [Best&auml;ti&shy;gung der
+    Er&ouml;f&shy;fnung](./2024-09-29_03-34_facebook_welcome.eml),  
+    und die
+    [Suspen&shy;dierung](./2024-09-30_13-08_facebook_suspendierung.eml)
     einen Tag sp&auml;ter :smirk:
-  * Grund f&uuml;r die Suspendierung ist wohl
-    (nach Upload meines Personalausweises!)
+  
+  * Grund f&uuml;r die Sus&shy;pen&shy;die&shy;rung ist wohl,
+    und ich hatte zur Veri&shy;fi&shy;zie&shy;rung die&shy;ses
+    Kon&shy;tos,
+    zur soge&shy;nann&shy;ten "Sicher&shy;heit",
+    meinen Per&shy;so&shy;nal&shy;aus&shy;weis hoch&shy;ge&shy;laden(!),
     ein [Fake-Account](./2024-09-30_15-00_facebook_suspend-reason-fake-account.png)
-  * jetzt wird es langsam spannend, da ich darauf brenne,
-    den echten Alexander Puls,
-    geb. am 26. M&auml;rz 1978 in Schwerin,
-    kennenzulernen :heart_eyes:
-  * ich kann die [Entscheidung des Meta-Konzerns gerichtlich pr&uuml;fen lassen](./2024-09-30_16-00_facebook_challenge-decision.png)
-
-  [**Erg.**] Einer der T&auml;ter
-    (ich vermute inzwischen mind. zwei,
-    allerdings nur,
-    weil ich sie gleichzeitig h&ouml;re,
-    was erstmal nichts hei&szlig;en muss)
-    suggeriert,
-    die Suspendierung h&auml;tten "sie" veranlasst, weil "zu viel auf dem Spiel st&uuml;nde" :joy::joy::joy:
-    → *Jo, Dude!! Meine Lebenszeit, zum Bsp.!*
+    
+  * ich kann die [Entscheidung des Meta-Konzerns gerichtlich pr&uuml;fen
+    las&shy;sen](./2024-09-30_16-00_facebook_challenge-decision.png)
+    
+  * jetzt wird es lang&shy;sam span&shy;nend,
+    da ich da&shy;rauf bren&shy;ne,
+    den ech&shy;ten Alex&shy;an&shy;der Puls,
+    geb. am 26. M&auml;rz 1978 in Schwe&shy;rin,
+    ken&shy;nen&shy;zu&shy;ler&shy;nen :heart_eyes:
+    
+    <img alt="Face&shy;book: Mgl.
+      Vor&shy;ge&shy;hen"
+      border-right="40px none transparent"
+      src="./2024-09-30_16-00_facebook_challenge-decision.png"
+      width="450px" />&nbsp;<img alt="Facebook: Appeal & wait.."
+      src="./2024-09-30_faceboock_appeal.png" width="450px" />
+    
+  
+    [**Erg.**] Einer der T&auml;ter
+      (ich ver&shy;mute in&shy;zwi&shy;schen mind. zwei,
+      aller&shy;dings nur,
+      weil ich sie gleich&shy;zei&shy;tig h&ouml;re,
+      was erst&shy;mal nichts hei&szlig;en muss)
+      sug&shy;ge&shy;riert,
+      die Sus&shy;pen&shy;die&shy;rung h&auml;tten "sie"
+      ver&shy;an&shy;lasst, weil
+      "zu viel auf dem Spiel st&uuml;nde" :joy::joy::joy:
+    → *Jo, Dude!! Mei&shy;ne Lebens&shy;zeit, zum Bsp.!*
   </details>
   
 <details>
