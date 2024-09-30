@@ -2634,9 +2634,7 @@ ver&shy;lei&shy;tet wor&shy;den.
 <details>
   <summary>
     <h5>Suspendierung meines 1. Facebook-Accounts am 30.09.24,
-      1 Tag, 9 Std. und 26 Minuten nach
-      (feierlicher)
-      Er&ouml;ffnung wegen mangelnder Integrit&auml;t :wink:</h5></summary>
+      1 Tag nach Er&ouml;ffnung, wegen mangelnder Integrit&auml;t :wink:</h5></summary>
 
   * ich entschied mich in schlafloser Nacht nur sehr widerwillig zur Er&ouml;ffnung eines Facebook-Kontos,
     da ich schon lange das diffuse Gef&uuml;hl habe, mind. ein
@@ -2647,11 +2645,12 @@ ver&shy;lei&shy;tet wor&shy;den.
     einen Tag sp&auml;ter :smirk:
   * Grund f&uuml;r die Suspendierung ist wohl
     (nach Upload meines Personalausweises!)
-    ein [Fake-Account](./2024-09-30_facebook_suspend-reason-fake-account.png)
+    ein [Fake-Account](./2024-09-30_15-00_facebook_suspend-reason-fake-account.png)
   * jetzt wird es langsam spannend, da ich darauf brenne,
     den echten Alexander Puls,
     geb. am 26. M&auml;rz 1978 in Schwerin,
     kennenzulernen :heart_eyes:
+  * ich kann die [Entscheidung des Meta-Konzerns gerichtlich pr&uuml;fen lassen](./2024-09-30_16-00_facebook_challenge-decision.png)
   </details>
   
 <details>
