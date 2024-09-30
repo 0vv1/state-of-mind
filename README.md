@@ -2634,7 +2634,9 @@ ver&shy;lei&shy;tet wor&shy;den.
 <details>
   <summary>
     <h5>Suspendierung meines 1. Facebook-Accounts am 30.09.24,
-      1 Tag, 9 Std. und 26 Minuten nach (feierlicher) Er&ouml;ffnung :wink:</h5></summary>
+      1 Tag, 9 Std. und 26 Minuten nach
+      (feierlicher)
+      Er&ouml;ffnung wegen mangelnder Integrit&auml;t :wink:</h5></summary>
 
   * ich entschied mich in schlafloser Nacht nur sehr widerwillig zur Er&ouml;ffnung eines Facebook-Kontos,
     da ich schon lange das diffuse Gef&uuml;hl habe, mind. ein
@@ -2649,7 +2651,7 @@ ver&shy;lei&shy;tet wor&shy;den.
   * jetzt wird es langsam spannend, da ich darauf brenne,
     den echten Alexander Puls,
     geb. am 26. M&auml;rz 1978 in Schwerin,
-    kennenzulernen :heart_eyes:)
+    kennenzulernen :heart_eyes:
   </details>
   
 <details>
