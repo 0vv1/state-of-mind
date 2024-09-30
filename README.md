@@ -2646,8 +2646,10 @@ ver&shy;lei&shy;tet wor&shy;den.
   * Grund f&uuml;r die Suspendierung ist wohl
     (nach Upload meines Personalausweises!)
     ein [Fake-Account](./2024-09-30_facebook_suspend-reason-fake-account.png)
-    * jetzt wird es langsam spannend, da ich darauf brenne,
-      den echten (the real deal) Alexander Puls, geb. am 26.03.78 in Schwerin, kennenzulernen :wink:
+  * jetzt wird es langsam spannend, da ich darauf brenne,
+    den echten Alexander Puls,
+    geb. am 26. M&auml;rz 1978 in Schwerin,
+    kennenzulernen :heart_eyes:)
   </details>
   
 <details>
