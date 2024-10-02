@@ -299,6 +299,10 @@ version: Mo., 30. Sep. 2024
 > (und schon sehr lange)
 > eben&shy;falls als nich&shy;tig.
 
+> [!NOTE]
+> [Erg. 02.10. gg. 21:00]
+> *Ich mag verarscht werden und bin sicher auch ein idealer Adressat für allen möglichen Info-Trash, aber was ist, wenn dieser ganze monströse Müll der Obfuskation / Verschleierung / falschen Verdächtigung bei einer [Straftat](#bsp) dient?*
+
 **These**:
 <nobr>Ein(-e)</nobr> oder mehre&shy;re
 (ini&shy;tial ver&shy;ant&shy;wort&shy;<nobr>liche(-r))</nobr>
@@ -510,6 +514,7 @@ Tele&shy;fon&shy;nr.
     [mons&shy;trö&shy;sen
     **Hor&shy;ror&shy;sto&shy;rys**](#taktiken) "**wahr**" ge&shy;wor&shy;den wäre
     (wider Erwar&shy;ten: **Nein.** :relaxed:).
+    * **Anm.**: Mind. ein Täter versucht vehement und unter hohem Aufwand, jede Kontaktidee im Keim zu ersticken (verschiedenste, wechselnde Suggestionen), was mich wundert.
   
   * ich
     <nobr>bin/</nobr><wbr>war/</nobr><wbr>habe/</nobr><wbr>hatte,<wbr>
@@ -1464,7 +1469,7 @@ Ein ~~initialer(?) (Haupt-)~~ Täter
 > Es er&shy;scheint mir jeden&shy;falls immer
 > un&shy;wahr&shy;schein&shy;lich&shy;er,
 > dass so&shy;etwas von einem in ört&shy;lich&shy;er Nähe
-> leben&shy;den Men&shy;sch&shy;en "ver&shy;übt" wird,
+> leben&shy;den Men&shy;sch&shy;en unter mehrfacher Eigennennung seines Namens "ver&shy;übt" wird,
 > der dann auch noch einen ohne&shy;hin schon auf&shy;ge&shy;brach&shy;ten
 > Drit&shy;ten direkt vor "seine" höl&shy;zer&shy;ne
 > Woh&shy;nungs&shy;tür lotst,
@@ -1480,37 +1485,63 @@ Ein ~~initialer(?) (Haupt-)~~ Täter
 sowie zwei wei&shy;te&shy;re
 (sug&shy;ge&shy;rier&shy;te)
 an&shy;we&shy;sen&shy;de <nobr>Frauen(-stim</nobr>&shy;men)
-sug&shy;ge&shy;rie&shy;<nobr>ren/</nobr><wbr>ins&shy;ze&shy;nie&shy;ren
+* sug&shy;ge&shy;rie&shy;<nobr>ren/</nobr><wbr>ins&shy;ze&shy;nie&shy;ren
 am Valen&shy;tins&shy;tag&shy;abend(!)
-etwa 8 Stunden lang(!) die
+* etwa 8 Stunden lang(!)
+* die
 (an&shy;geb&shy;lich mas&shy;kier&shy;te?!)
 Miss&shy;hand&shy;lung(/Ver&shy;ge&shy;wal&shy;ti&shy;gung?)
-einer (sug&shy;ge&shy;riert) ehe&shy;ma&shy;li&shy;gen Nach&shy;barin
+* einer (sug&shy;ge&shy;riert) ehe&shy;ma&shy;li&shy;gen Nach&shy;barin
 (die längst wo&shy;an&shy;ders woh&shy;nen müsste?),
-sprechen dabei mehr&shy;mals direkt mit mir,
-täuschen sequentiell meh&shy;re&shy;re Rea&shy;li&shy;tä&shy;ten an,
-bieten mir dann eine Art Über&shy;gabe an,
-lassen mich mehr&shy;mals
-(irgend&shy;wo im Haus)
-an&shy;tre&shy;<nobr>ten/</nobr><wbr>um&shy;her&shy;irren,
-lassen diese Über&shy;gabe dann aber,
+* sprechen dabei mehr&shy;mals direkt mit mir,
+* täuschen sequentiell meh&shy;re&shy;re Rea&shy;li&shy;tä&shy;ten an,
+* bieten mir dann eine Art Über&shy;gabe an,
+* lassen mich mehr&shy;mals
+  (irgend&shy;wo im Haus)
+  an&shy;tre&shy;<nobr>ten</nobr><wbr>um&shy;her&shy;irren,
+* lassen diese Über&shy;gabe dann aber,
 auf&shy;grund unter&shy;stell&shy;ter
 Un&shy;fähig&shy;<nobr>keit/</nobr><wbr>Über&shy;for&shy;de&shy;rung
-meiner Per&shy;son ob der Ver&shy;wahr&shy;lo&shy;sung ihres Opfers,
-unter Abspielen der Verzweiflung selbiger Frau,
-zum Zwecke der Ent&shy;wür&shy;di&shy;gung zweier(!) Men&shy;sch&shy;en,
-spät nachts platzen,
-um mich unter größten Sor&shy;gen und
+meiner Per&shy;son
+* ob der Ver&shy;wahr&shy;lo&shy;sung ihres Opfers,
+* unter Abspielen der Verzweiflung selbiger Frau,
+* zum Zwecke der Ent&shy;wür&shy;di&shy;gung zweier(!) Men&shy;sch&shy;en,
+* spät nachts platzen,
+* um mich unter größten Sor&shy;gen und
 der Ver&shy;höh&shy;nung durch sug&shy;ge&shy;rier&shy;te
-An&shy;we&shy;sen&shy;de zu&shy;rück in meine Woh&shy;nung gehen zu lassen,
-mir dann damit zu drohen,
+An&shy;we&shy;sen&shy;de
+* zu&shy;rück in meine Woh&shy;nung gehen zu lassen,
+* mir dann damit zu drohen,
 mir diese Tat unter&shy;zu&shy;schie&shy;ben und
-(hoffentlich nur)
+* (hoffentlich nur)
 mich eine der schreck&shy;lichs&shy;ten Nächte meines Lebens
 ver&shy;brin&shy;gen zu las&shy;sen.
 
 [**Anm. 26.09.24 02:22**] Mich momen&shy;tan ab&shy;hö&shy;ren&shy;der
 Täter droht mit "Nach&shy;spiel".
+
+> [!CAUTION]
+> [Erg. 02.10 gg. 19:00 wegen mgl. Zus.-hang?]
+> * schlecht "produzierte"/vorbereitete NLP: "Du warst dabei als ... gefahren wurde."
+> * ich denke, diese NLP ist nicht für mich
+> * zwei Adressaten, um zu schauen, welcher besser "zieht"?
+>   (ich habe selbst ausgedehnte NLPs zum Thema bekommen sowie einige Manipulationsversuche bzgl. Ort & Zeit, hatte aber Kalendereinträge)
+
+> [!NOTE]
+> [Erg. 02.10., 20:37 - 20:42]
+> NLP-Reaktion: "Du bist dem Tod geweiht." in Schleife
+
+> [!NOTE]
+> Hier wieder: Schizophrenie-Patient. Was soll die Polizei bitte mit NLP-Manipulationsversuchen anfangen?!  
+> (gestern erst abgeblitzt)
+
+[Erg. 02.10. gg. 20:05]  
+* NLP Frauenstimme (sicher auch nicht für mich): "[weibl. Vorname], Du bist ein Arschloch, hat der geagt."
+* darauf ich: "Wer ist der?"
+* Stimme: "Du!"
+* ich: "Wer ist ich?"
+* Stimme: "Du."
+* **Anm.**: Mglw. Mehrfachverwendung.
 
 ---
 <!-- ende taktiken -->
