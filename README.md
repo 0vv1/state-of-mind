@@ -2771,8 +2771,18 @@ lei&shy;se mensch&shy;li&shy;che Stim&shy;me nicht zu&shy;ord&shy;nen
 kon&shy;nte. Als ich ihm sag&shy;te, ich wür&shy;de mir diese nur
 ein&shy;bil&shy;den, be&shy;ruhig&shy;te er sich lang&shy;sam
 wieder.. :relieved:
+</details>
 
-> *bzgl. des Hand&shy;lungs&shy;spiel&shy;raums der Poli&shy;zei*:  
+### Handlungsspielraum
+
+> [!CAUTION]
+> Immer möglich und auch, wenn ich "glaube zu wissen":
+> * beliebige Person (auch Täter) öffnet die Tür zu einer Whg., die mich sorgt
+> * versichert, alles sei in Ordnung (auch mgl. Einrede)
+> * mgl. Suggestion: Man sei schizophren und kümmere sich zu sehr um das Leben der Anderen (vgl. Tätervorwurf)
+
+> [!NOTE]
+>*bzgl. des Hand&shy;lungs&shy;spiel&shy;raums der Poli&shy;zei*:  
 > Es wird sicher nicht einfach. Sie wer&shy;den fra&shy;gen, was
 > pas&shy;siert ist. Mein omi&shy;nö&shy;ser "Täter" wür&shy;de sagen:  
 > "Es ist noch nichts pas&shy;siert."  
