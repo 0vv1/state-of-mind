@@ -7,7 +7,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Mo., 30. Sep. 2024
+version: Fr., 4. Okt. 2024
 ```
 
 # Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>bei Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie zyni&shy;sche [Buch&shy;empfeh&shy;lung eines mögl. Täters](#buchempfehlung-eines-t&auml;ters)?!)</sup></sub>
@@ -210,13 +210,30 @@ version: Mo., 30. Sep. 2024
   Miss&shy;hand&shy;<nobr>lung/</nobr>Ver&shy;ge&shy;wal&shy;ti&shy;gung,
   T&ouml;&shy;tung,
   nicht nur der eige&shy;nen Per&shy;son) 
-  in hun&shy;der&shy;ten Fäl&shy;len,
+  in weit &uuml;ber 10.000 Fäl&shy;len,
   
+  (mglw.) Un&shy;ter&shy;dr&uuml;ckung digi&shy;ta&shy;ler
+  Kom&shy;mu&shy;ni&shy;ka&shy;tion in mind. 3 F&auml;llen
+
+  (mglw.) heim&shy;t&uuml;ckisch fin&shy;gier&shy;te digi&shy;ta&shy;le
+  Kom&shy;mu&shy;ni&shy;ka&shy;tion mit un&shy;be&shy;kann&shy;ter
+  Fall&shy;zall
+
+  (mglw.) Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl
+  (mglw.) i.&#8239;Z.&#8239;m. einer
+  (mglw.) ho&shy;hen noch un&shy;be&shy;stimm&shy;ten Zahl von
+  (mglw. teils schwe&shy;ren)
+  Folge-Ver&shy;brech&shy;en
+
+  (mglw.) Un&shy;ter&shy;dr&uuml;ckung regul&auml;ren
+  Brief&shy;ver&shy;kehrs (in nur einem Fall)
+
   die (ver&shy;su&shy;chte)
   **Ver&shy;lei&shy;tung zur Selbt&shy;tö&shy;tung**
   (§&#8239;78&#8239;(1)&nbsp;StGB i.&#8239;Z.&#8239;m.
   §&#8239;23&#8239;(1)&nbsp;StGB)
-  in (mglw.) mehre&shy;ren Fäl&shy;len und
+  in (mglw.) mehre&shy;ren Fäl&shy;len
+  bei (mglw.) mehreren Opfern
   
   und da&shy;mit Haupt&shy;"tat":
   kom&shy;plexe,
@@ -301,7 +318,14 @@ version: Mo., 30. Sep. 2024
 
 > [!NOTE]
 > [Erg. 02.10. gg. 21:00]
-> *Ich mag verarscht werden und bin sicher auch ein idealer Adressat für allen möglichen Info-Trash, aber was ist, wenn dieser ganze monströse Müll der Obfuskation / Verschleierung / falschen Verdächtigung bei einer [Straftat](#bsp) dient?*
+> *Ich mag ver&shy;arscht wer&shy;den und bin sich&shy;er auch ein
+> idea&shy;ler Adres&shy;sat für allen mög&shy;li&shy;ch&shy;en
+> Info-Trash,
+> aber was ist wenn die&shy;ser gan&shy;ze mons&shy;trö&shy;se Müll der
+> Ob&shy;fus&shy;ka&shy;<nobr>tion
+> /&#8239;</nobr>Ver&shy;schlei&shy;<nobr>erung /&#8239;</nobr>falschen
+> Ver&shy;däch&shy;ti&shy;gung bei einer
+> [Straf&shy;tat](#vergwltg) dient?*
 
 **These**:
 <nobr>Ein(-e)</nobr> oder mehre&shy;re
@@ -512,9 +536,14 @@ Tele&shy;fon&shy;nr.
     k&ouml;n&shy;nen :wink:),  
     fast täg&shy;lich **vor&shy;ge&shy;spiel&shy;ten**<sup>?!</sup>
     [mons&shy;trö&shy;sen
-    **Hor&shy;ror&shy;sto&shy;rys**](#taktiken) "**wahr**" ge&shy;wor&shy;den wäre
+    **Hor&shy;ror&shy;sto&shy;rys**](#taktiken) "**wahr**"
+    ge&shy;wor&shy;den wäre
     (wider Erwar&shy;ten: **Nein.** :relaxed:).
-    * **Anm.**: Mind. ein Täter versucht vehement und unter hohem Aufwand, jede Kontaktidee im Keim zu ersticken (verschiedenste, wechselnde Suggestionen), was mich wundert.
+    * **Anm.**: Mind. ein Täter ver&shy;sucht vehe&shy;ment und unter
+      hohem Auf&shy;wand,
+      jede [Kon&shy;takt&shy;idee im Keim zu
+      er&shy;sticken](#iso),
+      was mich wundert.
   
   * ich
     <nobr>bin/</nobr><wbr>war/</nobr><wbr>habe/</nobr><wbr>hatte,<wbr>
@@ -1082,7 +1111,7 @@ wer&shy;den kann(?),
   
 Miss&shy;hand&shy;lungs- bzw.
 Ver&shy;ge&shy;wal&shy;ti&shy;gungs&shy;vor&shy;wür&shy;fe
-(vgl. auch [Bsp.](#bsp)),
+(vgl. auch [Bsp.](#vergwltg)),
 
 Erzeu&shy;gen emo&shy;tio&shy;na&shy;ler Kri&shy;sen durch
 Aus&shy;nu&shy;tzen indi&shy;vi&shy;du&shy;el&shy;ler
@@ -1170,6 +1199,118 @@ keine Selbst&shy;ge&shy;sprä&shy;che mehr führe,
 keine Instru&shy;men&shy;te mehr spie&shy;le und
 Musik nur noch über  Kopf&shy;hö&shy;rer höre.
 
+Die
+(be&shy;son&shy;ders per&shy;fide)
+Sug&shy;ges&shy;tion,
+alle Nach&shy;barn wür&shy;den,
+durch das **Auf&shy;neh&shy;men** und
+(mani&shy;pu&shy;lier&shy;te)
+**Ab&shy;spie&shy;len** von
+(auch in&shy;tim&shy;sten)
+**Ge&shy;räu&shy;sch&shy;e**n oder **Gesprä&shy;che**n,
+gegen&shy;ein&shy;an&shy;der aus&shy;ge&shy;spielt,
+nimmt sehr viel Raum ein.
+Nach dem Grund daf&uuml;r ge&shy;fragt, r&auml;umte ein T&auml;ter ein,
+dass eine solche Situa&shy;tion un&shy;aus&shy;halt&shy;bar
+be&shy;las&shy;tend w&auml;re und
+(f&uuml;r ihn)
+ein Grund f&uuml;r Tot&shy;schlag.
+
+<span id="iso">Weiter ent&shy;steht
+(bei mir)</span>
+manch&shy;mal der Ein&shy;druck,
+es best&uuml;nde t&auml;ter&shy;sei&shy;ti&shy;ges Inter&shy;esse,
+evtl. Amou&shy;r&ouml;&shy;sit&auml;ten
+(via [unterschwelliger
+Suggestion](#unterschwellige-suggestion))
+ge&shy;zielt
+(aber in&shy;di&shy;rekt)
+an&shy;zu&shy;bah&shy;nen,
+zu f&ouml;rdern und
+zu inten&shy;si&shy;vieren,
+direk&shy;ten Kon&shy;takt zwisch&shy;en die&shy;sen Per&shy;so&shy;nen
+aber durch Des&shy;in&shy;for&shy;ma&shy;tion passiv
+(Ver&shy;keh&shy;ren der Emo&shy;tio&shy;nen,
+Sug&shy;ges&shy;tion  von je&shy;wei&shy;li&shy;<nobr>ger/-em(!)</nobr>
+"Ent&shy;t&auml;u&shy;schung", Hass <nobr>und(!)/</nobr><wbr>oder
+krankhaftem Stalking auf der gegen&uuml;ber&shy;lie&shy;gen&shy;den
+Seite, bis hin zur voll&shy;st&auml;n&shy;di&shy;gen
+Ent&shy;stel&shy;lung der ur&shy;spr&uuml;ng&shy;lich&shy;en
+Pers&ouml;nlichkeit, 
+<nobr>**Anm.**: WTF!)</nobr>  
+oder
+(im weiteren Verlauf)
+sogar aktiv bis hin zur
+[Mani&shy;pu&shy;la&shy;tion der Rea&shy;li&shy;t&auml;t selbst
+(*sie&shy;he Bsp*](#kommunikationsunterdr&uuml;ckung)),  
+**weitere Anm.: mehr WTF!!**).  
+Die **Metho&shy;den** jeden&shy;falls kön&shy;nen
+(auch hier)
+belie&shy;big **per&shy;fi&shy;de, mitunter monstr&ouml;s**
+aus&shy;ar&shy;ten,
+bis hin zum Er&shy;sticken s&auml;mt&shy;lich&shy;er ande&shy;rer
+Inte&shy;res&shy;sen als der **blan&shy;ke**n
+**Exis&shy;tenz&shy;angst** bzw. Sorge um Un&shy;ver&shy;sehrt&shy;heit
+des
+(ehe&shy;mals)
+ande&shy;ren,
+da erschwerend
+(und gern os&shy;zilie&shy;rend)
+Fol&shy;ter, Miss&shy;hand&shy;lung, Tod, Ver&shy;wahr&shy;lo&shy;sung,
+gei&shy;sti&shy;ge Um&shy;nach&shy;tung u.&#8239;v.&#8239;m.
+besonders leb&shy;haft sug&shy;ge&shy;riert
+(und t&auml;ter&shy;sei&shy;tig ge&shy;nos&shy;sen)
+wer&shy;den.  
+(**WTFF! MONSTR&Ouml;SER SHIT!!**)  
+Ins&shy;be&shy;son&shy;de&shy;re hier k&ouml;n&shy;nen die T&auml;ter
+ein hohes Ma&szlig; an Freu&shy;de <nobr>und/oder</nobr>
+Er&shy;re&shy;gung kaum noch ver&shy;ber&shy;gen  
+(**keine Wor&shy;te in der deut&shy;sch&shy;en Sprache**),  
+Dem Opfer bleibt das Fle&shy;hen um &Uuml;ber&shy;le&shy;ben,
+unter Verh&ouml;nung ein&shy;zel&shy;ner T&auml;ter,
+die die (hof&shy;fent&shy;lich) er&shy;fun&shy;de&shy;ne
+Ge&shy;schich&shy;te um Sui&shy;zid
+(ob des nicht zu ver&shy;ste&shy;hen&shy;den blan&shy;ken Has&shy;ses 
+(der ja eigent&shy;lich der eines sadis&shy;ti&shy;schen T&auml;ters
+ist!) auf der "anderen Seite")
+gern bei gleich&shy;zeiti&shy;ger, leb&shy;haf&shy;ter
+akus&shy;ti&shy;sch&shy;er Unter&shy;ma&shy;lung,
+halb erz&auml;hlt und ein&shy;zel&shy;ne Opfer in betteln&shy;der
+Star&shy;re hal&shy;ten.  
+(**Pers. Anm.**: Gera&shy;de hier das ers&shy;te Mal in mei&shy;nem
+Le&shy;ben der un&shy;be&shy;ding&shy;te Wunsch nach T&ouml;tung
+be&shy;tei&shy;lig&shy;ter T&auml;ter.
+Gera&shy;de das Spiel mit der Hoff&shy;nung
+(voll&shy;kom&shy;men anony&shy;mer T&auml;ter bei
+gleich&shy;zei&shy;tig vollst&auml;ndiger Iso&shy;la&shy;tion
+und 100-pro&shy;zen&shy;ti&shy;gem Ver&shy;lust der eige&shy;nen
+Glaub&shy;w&uuml;rdig&shy;keit)
+in all sei&shy;ner L&auml;nge ist **nicht mehr** wirk&shy;lich in
+Wor&shy;ten **erfass&shy;bar**.)  
+(**Weitere pers. Anm.**: Ich meine, es gibt auch fiktiv kein
+&Auml;quivalent.  
+Und ich kann eine Schi&shy;zo&shy;phre&shy;nie nicht mehr
+recht&shy;fer&shy;ti&shy;gen(?),
+da mei&shy;ner Vor&shy;stel&shy;lung von Grau&shy;sam&shy;keit schlicht
+Gren&shy;zen ge&shy;setzt sind.)
+
+---
+
+Wenigs&shy;tens ein Täter **ver&shy;än&shy;dert** und rei&shy;chert
+die auf&shy;ge&shy;nom&shy;me&shy;nen **Stim&shy;men** der&shy;art an,
+dass sich beim Wie&shy;der&shy;ab&shy;spie&shy;len,
+ganz nor&shy;ma&shy;le Nach&shy;barn über lange Zeit&shy;räume
+**an**&shy;zu&shy;**schreien** schei&shy;nen,
+was dann mit aller&shy;lei Horror&shy;sto&shy;rys gar&shy;niert wird
+und so in der sog. "Rea&shy;li&shy;tät" ja eigentlich nicht
+mög&shy;lich ist,  
+was die **Atmo&shy;sphä&shy;re noch ir&shy;rea&shy;ler** macht und
+die "**Wahr&shy;neh&shy;mung der eige&shy;nen
+Wahr&shy;neh&shy;mung**"(!) zu&shy;sätz&shy;lich **ver&shy;zerrt**,
+damit
+(weiter)
+in Rich&shy;tung Traum&shy;er&shy;leben rückt.  
+
 ---
 
 Die ge&shy;schick&shy;te und über einen jahre&shy;lang&shy;en
@@ -1216,58 +1357,6 @@ Aus&shy;füh&shy;rung.
 > [neuro-linguistisch](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
 > zu pro&shy;gram&shy;mie<nobr>ren<sup><a href="#wvt">:warning:VT</a></sup>[^1]. :+1:</nobr>  
 > *.. nee, wird schon stimmen, Dude!* :joy:
-
----
-
-Be&shy;stän&shy;dige Sug&shy;ges&shy;tion
-(und be&shy;son&shy;ders per&shy;fide),
-alle Nach&shy;barn wür&shy;den,
-durch das **Auf&shy;neh&shy;men** und
-(mani&shy;pu&shy;lier&shy;te)
-**Ab&shy;spie&shy;len** von
-(auch in&shy;tim&shy;sten)
-**Ge&shy;räu&shy;sch&shy;e**n oder **Gesprä&shy;che**n,
-gegen&shy;ein&shy;an&shy;der aus&shy;ge&shy;spielt,
-
-wobei (bei mir) min&shy;des&shy;tens zwei&shy;mal der Ein&shy;druck
-ent&shy;stand,
-es best&uuml;nde t&auml;ter&shy;sei&shy;ti&shy;ges Inter&shy;esse,
-evtl. Amou&shy;r&ouml;&shy;sit&auml;ten
-(via [unterschwelliger
-Suggestion](#unterschwellige-suggestion))
-ge&shy;zielt
-(aber in&shy;di&shy;rekt)
-an&shy;zu&shy;bah&shy;nen,
-zu f&ouml;rdern und
-zu inten&shy;si&shy;vieren,
-direk&shy;ten Kon&shy;takt zwisch&shy;en die&shy;sen Per&shy;so&shy;nen
-aber durch Des&shy;in&shy;for&shy;ma&shy;tion aktiv zu
-ver&shy;hin&shy;dern,  
-Emo&shy;tio&shy;nen m&ouml;g&shy;lich&shy;er&shy;weise so&shy;gar in das
-Gegen&shy;teil zu ver&shy;kehren und dem ein&shy;zel&shy;nen
-je&shy;weils "Ent&shy;t&auml;u&shy;schung" bis Hass auf der ande&shy;ren
-Seite zu sug&shy;ge&shy;rie&shy;ren?!  
-(**Anm.**: Mglw. eine indi&shy;vi&shy;du&shy;ell sehr
-ver&shy;schie&shy;de&shy;ne Inzen&shy;ti&shy;vie&shy;rung f&uuml;r
-irgend&shy;was?  
-**weitere Anm.**: WTF!)
-
----
-
-Wenigs&shy;tens ein Täter **ver&shy;än&shy;dert** und rei&shy;chert
-die auf&shy;ge&shy;nom&shy;me&shy;nen **Stim&shy;men** der&shy;art an,
-dass sich beim Wie&shy;der&shy;ab&shy;spie&shy;len,
-ganz nor&shy;ma&shy;le Nach&shy;barn über lange Zeit&shy;räume
-**an**&shy;zu&shy;**schreien** schei&shy;nen,
-was dann mit aller&shy;lei Horror&shy;sto&shy;rys gar&shy;niert wird
-und so in der sog. "Rea&shy;li&shy;tät" ja eigentlich nicht
-mög&shy;lich ist,  
-was die **Atmo&shy;sphä&shy;re noch ir&shy;rea&shy;ler** macht und
-die "**Wahr&shy;neh&shy;mung der eige&shy;nen
-Wahr&shy;neh&shy;mung**"(!) zu&shy;sätz&shy;lich **ver&shy;zerrt**,
-damit
-(weiter)
-in Rich&shy;tung Traum&shy;er&shy;leben rückt.  
 
 ---
 
@@ -1467,13 +1556,17 @@ Ein ~~initialer(?) (Haupt-)~~ Täter
 > [**Anm.** 27.09.24]
 > Jemand [sonst](#mglw-zweite-ebene-oder-abl%C3%B6sung)?!
 > Es er&shy;scheint mir jeden&shy;falls immer
-> un&shy;wahr&shy;schein&shy;lich&shy;er,
+> un&shy;wahr&shy;schein&shy;lich&shy;er
+> wenn nicht über&shy;trie&shy;ben ego&shy;man),
 > dass so&shy;etwas von einem in ört&shy;lich&shy;er Nähe
-> leben&shy;den Men&shy;sch&shy;en unter mehrfacher Eigennennung seines Namens "ver&shy;übt" wird,
-> der dann auch noch einen ohne&shy;hin schon auf&shy;ge&shy;brach&shy;ten
+> leben&shy;den Men&shy;sch&shy;en unter mehr&shy;fach&shy;er
+> Eigen&shy;nen&shy;nung sei&shy;nes Namens "ver&shy;übt" wird,
+> der dann auch noch einen ohne&shy;hin schon
+> auf&shy;ge&shy;brach&shy;ten
 > Drit&shy;ten direkt vor "seine" höl&shy;zer&shy;ne
 > Woh&shy;nungs&shy;tür lotst,
-> um ihn vor&shy;zu&shy;füh&shy;<nobr>ren /</nobr> zu de&shy;mü&shy;ti&shy;gen.  
+> um ihn vor&shy;zu&shy;füh&shy;<nobr>ren /</nobr> zu
+> de&shy;mü&shy;ti&shy;gen.  
 > **Aber**
 > (und mir nur schwer vor&shy;stell&shy;bar)<sup>:warning:Sug</sup>:</nobr>
 > Die [Sug&shy;ges&shy;tion akus&shy;ti&shy;sch&shy;er
@@ -2555,6 +2648,41 @@ ihrer Opfer.
   (so wahr&shy;ge&shy;nom&shy;me&shy;ner)
   Mani&shy;pu&shy;la&shy;tion der Rea&shy;li&shy;t&auml;t selbst</h4>
 
+<!-- kommunikationsunterdrückung -->
+<h4>Kom&shy;mu&shy;ni&shy;ka&shy;tions&shy;un&shy;ter&shy;dr&uuml;ckung
+  </h4>
+  
+  * Ver&shy;dacht unter&shy;dr&uuml;ck&shy;ten E-Mail-Ver&shy;kehrs
+    in 4 Fäl&shy;len durch Mani&shy;pu&shy;la&shy;tion der
+    DSL-Lei&shy;tung
+    (nach Ein&shy;re&shy;de durch T&auml;ter)
+    * Mails vom **12.02., 20:08**, **16.08., 2:49** & **21:00** sowie
+      **2. Okt., 5:30**
+  * fin&shy;gier&shy;te "Er&shy;satz"-E-Mails vol&shy;ler Hass
+    * mglw. fin&shy;gier&shy;ter Ab&shy;sen&shy;der aus
+      ab&shy;ge&shy;fisch&shy;ten ori&shy;gi&shy;na&shy;len E-Mails
+      (s.&#8239;o.)
+  * [fin&shy;gier&shy;te Social-Media-Accounts](#suspendierung-meines-1--facebook-accounts-am-30--Sep--2024)
+    zum Streuen von Hass und
+    belie&shy;bi&shy;ger Des&shy;infor&shy;ma&shy;tion
+    <img align="right" alt="Brief-Einwurf" width="400px"
+      src="./2024-10-02_20-59_einwurf-brief.jpg">
+    (in diesem Zusam&shy;men&shy;hang mglw.
+    [Job-Ver&shy;lust](#job-verlust))
+  * Ver&shy;dacht der Unter&shy;dr&uuml;ckung regu&shy;l&auml;ren
+    Brief&shy;ver&shy;kehrs nach eigen&shy;h&auml;n&shy;di&shy;gem(!)
+    Ein&shy;wurf am **2. Okt, 20:59** Uhr.
+  * T&auml;ter war nach mei&shy;ner R&uuml;ck&shy;kehr nach Hau&shy;se
+    be&shy;reits in&shy;for&shy;miert
+    (die Ver&shy;mitt&shy;lung die&shy;ses Um&shy;stands
+    au&szlig;er&shy;or&shy;dent&shy;lich wich&shy;tig)
+    * bedeu&shy;te&shy;te zwangs&shy;l&auml;ufig die
+      (min&shy;des&shy;tens(!) akus&shy;ti&shy;sche)
+      &Uuml;ber&shy;wachung auch dieses Wohn&shy;raums(!!),  
+      hier: mit ho&shy;her Wahr&shy;schein&shy;lich&shy;keit
+      wei&shy;te&shy;re(!³)
+    </img>
+
 <!-- suizidversuch -->
 <details>
   <summary>
@@ -2710,15 +2838,16 @@ ver&shy;lei&shy;tet wor&shy;den.
 <!-- suspendierung facebook -->
 <details>
   <summary>
-    <h5>Suspendierung meines 1. Facebook-Accounts am 30.09.24,
-      einen(!) Tag nach Er&shy;&ouml;ff&shy;nung,
-      wegen mangelnder Inte&shy;gri&shy;t&auml;t :wink:</h5></summary>
+    <h5>Suspendierung meines 1. Facebook-Accounts am 30. Sep. 2024
+      </h5></summary>
 
   <img alt="Face&shy;book: Fake-Account als Grund f&uuml;r die
     Suspendierung" align="right" border-left="100px none transparent"
     src="./2024-09-30_15-00_facebook_suspend-reason-fake-account.png"
     width="600px">
   
+  * einen(!) Tag nach Er&shy;&ouml;ff&shy;nung,
+    wegen mangelnder Inte&shy;gri&shy;t&auml;t :wink:
   * ich ent&shy;schied mich in einer meiner vielen schlaf&shy;lo&shy;sen
     N&auml;chte nur sehr wider&shy;wil&shy;lig zur
     Er&shy;&ouml;ff&shy;nung eines Facebook-Kontos,
