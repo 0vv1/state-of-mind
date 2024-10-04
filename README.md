@@ -2649,8 +2649,7 @@ ihrer Opfer.
   Mani&shy;pu&shy;la&shy;tion der Rea&shy;li&shy;t&auml;t selbst</h4>
 
 <!-- kommunikationsunterdrückung -->
-<h4>Kom&shy;mu&shy;ni&shy;ka&shy;tions&shy;un&shy;ter&shy;dr&uuml;ckung
-  </h4>
+<h4>Kom&shy;mu&shy;ni&shy;ka&shy;tions&shy;un&shy;ter&shy;dr&uuml;ckung</h4>
   
   * Ver&shy;dacht unter&shy;dr&uuml;ck&shy;ten E-Mail-Ver&shy;kehrs
     in 4 Fäl&shy;len durch Mani&shy;pu&shy;la&shy;tion der
@@ -2662,7 +2661,7 @@ ihrer Opfer.
     * mglw. fin&shy;gier&shy;ter Ab&shy;sen&shy;der aus
       ab&shy;ge&shy;fisch&shy;ten ori&shy;gi&shy;na&shy;len E-Mails
       (s.&#8239;o.)
-  * [fin&shy;gier&shy;te Social-Media-Accounts](#suspendierung-meines-1--facebook-accounts-am-30--Sep--2024)
+  * [fin&shy;gier&shy;te Social-Media-Accounts](#suspendierung-meines-1--facebook-accounts-am-30--sep--2024)
     zum Streuen von Hass und
     belie&shy;bi&shy;ger Des&shy;infor&shy;ma&shy;tion
     <img align="right" alt="Brief-Einwurf" width="400px"
@@ -2838,8 +2837,8 @@ ver&shy;lei&shy;tet wor&shy;den.
 <!-- suspendierung facebook -->
 <details>
   <summary>
-    <h5>Suspendierung meines 1. Facebook-Accounts am 30. Sep. 2024
-      </h5></summary>
+    <h5>Suspendierung meines 1. Facebook-Accounts am 30. Sep. 2024</h5>
+    </summary>
 
   <img alt="Face&shy;book: Fake-Account als Grund f&uuml;r die
     Suspendierung" align="right" border-left="100px none transparent"
