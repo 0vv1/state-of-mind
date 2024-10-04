@@ -43,7 +43,8 @@ version: Fr., 4. Okt. 2024
 > der Wohnung über meiner und warten bis ich einkaufen gehe, weil sie sonst
 > nicht weg kommen. Du glaubst es nicht. Noch ein paar Min. und
 > ich bin vollständig geheilt.~~  
-> Zu früh gefreut, aber ich werde alles unternehmen, diese NS[4] 
+> Zu früh gefreut, aber ich werde alles unternehmen,
+> diese GSPNZS[5] zu identifizieren und die Strafverfolgung zu unterst&uuml;tzen wo es geht
 
 <!-- english -->
 <details>
@@ -1940,11 +1941,30 @@ eini&shy;ger&shy;maßen be&shy;son&shy;de&shy;ren Geis&shy;tes
 <h3>Mut&shy;maß&shy;lich&shy;es Ziel
       an&shy;ge&shy;nom&shy;me&shy;ner Täter</h3></summary>
 
-Ich kann lei&shy;der über&shy;haupt nichts sicher zu Zie&shy;len
+> [!CAUTION]
+> [**Anm.** 04.10.]  
+> Heute hat sich die dunkle,
+> und immer nicht wahr gehabt werden wollende,
+> Vermutung verfestigt,
+> dass es sich bei den T&auml;tern um gew&ouml;hnlichen Faschismus bzw.
+> aktive Nazi-Strukturen mit weitgehend degenerierten Protagonisten
+> handelt.
+> Soweit,
+> so eindeutig,
+> mit immer gleichem und bekannten Muster,
+> aber ab jetzt
+> (und wie immer zu sp&auml;t)
+> gilt besondere Vorsicht.
+
+<img alt="GeStaPo-Nazi-Pig of the Year"
+    src="./gspnzpoty.jpg"
+    width="300px">
+
+~~Ich kann lei&shy;der über&shy;haupt nichts sicher zu Zie&shy;len
 even&shy;tuel&shy;ler Täter, in&shy;ten&shy;dier&shy;ten Effek&shy;ten
 oder Ab&shy;sich&shy;ten irgend&shy;wel&shy;cher
 Inte&shy;ress&shy;en&shy;grup&shy;pen sagen und nehme die Sache am
-besten auch nicht zu ernst. :sunglasses:  
+besten auch nicht zu ernst. :sunglasses:~~ 
 
 * sug&shy;ge&shy;riert wurd&shy;e mehr&shy;mals, dass einer der
   Haupt&shy;tä&shy;ter sexu&shy;el&shy;le Erre&shy;gung durch das
@@ -1958,11 +1978,12 @@ besten auch nicht zu ernst. :sunglasses:
   der ihm wohl durch das Aus&uuml;ben von "Kon&shy;trolle"(?) &uuml;ber
   ande&shy;re Men&shy;sch&shy;en ent&shy;st&uuml;n&shy;de
   (wenn es so&shy;was gibt?)
+</img>
 
-Ich meine,
+~~Ich meine,
 recht schwache Moti&shy;ve für die&shy;sen Wahn&shy;sinn,
 die viel&shy;leicht echte Be&shy;weggr&uuml;nde obfus&shy;kie&shy;ren
-sol&shy;len.
+sol&shy;len.~~
   
 <details>
   <summary>
@@ -2174,7 +2195,7 @@ Die Sze&shy;ne&shy;rie drif&shy;tet **immer h&auml;ufiger** ins
 
 * beauf&shy;trag&shy;te **nicht ein&shy;geweih&shy;te** bzw.
   ge&shy;täusch&shy;te **Drit&shy;te**
-
+  
 * ich hal&shy;te den&shy;noch mind. eine **Meta&shy;ebe&shy;ne** für
   mög&shy;lich,
   da so&shy;wohl Kon&shy;text als auch Kom&shy;pe&shy;tenz von
@@ -2228,8 +2249,8 @@ Die Sze&shy;ne&shy;rie drif&shy;tet **immer h&auml;ufiger** ins
 <details>
   <summary>
     <h3>Beob&shy;ach&shy;tun&shy;gen & An&shy;nah&shy;men
-      zu <a href="#foko">Täter "F."</a><sup><a
-      href="#foko">5</a></sup></h3></summary>
+      zu <a href="#alias">Täter "GSPNZS-1"</a><sup><a
+      href="#alias">5</a></sup></h3></summary>
 
 Hier der Ver&shy;such eines Pro&shy;fils eines, aus mei&shy;ner Sicht,
 <nobr>(Haupt-)</nobr><wbr><nobr>Täters bzw.
@@ -2238,8 +2259,9 @@ jeden&shy;falls
 (bis&shy;her)
 domi&shy;nan&shy;tes&shy;ten Pro&shy;ta&shy;go&shy;nis&shy;ten zu
 skiz&shy;zie&shy;ren.  
-**Man&shy;gels Iden&shy;ti&shy;tät** haben "*wir uns*" auf
-"**Fotzkopf**" ge&shy;ei&shy;nigt.[^5]
+**Man&shy;gels Iden&shy;ti&shy;tät** ~~haben "*wir uns*" auf
+"**Fotzkopf**" ge&shy;ei&shy;nigt~~ ab jetzt und b.a.w.
+GeStaPo-Nazi-Schwein + lfd. Nr. ab Auf&shy;tre&shy;ten[^5]
 
 * m&ouml;g&shy;lich&shy;er&shy;wei&shy;se Ini&shy;tia&shy;tor,
   mglw. Haupt&shy;tä&shy;ter,
@@ -2508,7 +2530,8 @@ sie soll&shy;te (wenn alles ge&shy;nann&shy;te so zu&shy;trifft)
 nicht in nor&shy;ma&shy;len Miets&shy;häusern woh&shy;nen.  
 Ob aus&shy;ge&shy;feil&shy;ter
 Mani&shy;pu&shy;la&shy;tions&shy;tech&shy;ni&shy;ken halte ich
-manchmal sogar das sprechen dieser Person mit anderen für zu gefährlich<sup>Paranoia?</sup>  
+manchmal sogar das sprechen dieser Person mit anderen für zu
+gefährlich<sup>Paranoia?</sup>  
   </details></details>
   
 <h2>"Ben&shy;ding of Reality" & die
@@ -3168,11 +3191,9 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   nach](#vor-bedingungen--grundannahmen)[^8],~~
   auf die neuen Alias~~Deck~~&shy;-Na&shy;men
   ~~«**Fotz&shy;kopf**»~~ «**GeStaPo-Nazi-Schwein I**»,
-  kurz *GSPNS-1*,
+  kurz *GSPZNS-1*,
   ehemalig "Fotz&shy;kopf",
   was aber
-  <img align="right" alt="GeStaPo-Nazi-P. of the Year" width="300px"
-    src="./gspnzpigoty.jpg">
   1. viel zu freund&shy;lich war, da&shy;her von
      **selbst&shy;er&shy;nann&shy;te**n(!)
      **unter&shy;joch&shy;en&shy;de**n **und
@@ -3180,7 +3201,7 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
      zur Verh&ouml;nung ge&shy;nutzt wur&shy;de und
   3. Horte der Freude im wei&shy;te&shy;ren Ver&shy;lauf
      h&auml;t&shy;te be&shy;lei&shy;di&shy;gen k&ouml;n&shy;nen,
-  sowie «**GeStaPo-Nazi-Schwein II**», kurz *GSPNS-2*  eini&shy;gen
+  sowie «**GeStaPo-Nazi-Schwein II**», kurz *GSPZNS-2*  eini&shy;gen
   m&uuml;ssen</span>[^9],
   da sich wei&shy;te&shy;res per&shy;vers-sadis&shy;ti&shy;sches
   Ge&shy;schmei&szlig; ein&shy;ge&shy;fun&shy;den hat.
@@ -3201,8 +3222,7 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   (Goa-Party-After&shy;show,
   sonst deut&shy;lich
   [griesgr&auml;mig](#https://de.wikipedia.org/wiki/Griesgram)er).
-  </img>
-
+  
 [^6]: an den Polen wenig&shy;er :wink:
 
 [^7]: In mei&shy;ner Er&shy;in&shy;ne&shy;rung habe ich die&shy;sen Satz
