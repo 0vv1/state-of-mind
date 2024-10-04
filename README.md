@@ -2661,7 +2661,7 @@ ihrer Opfer.
     * mglw. fin&shy;gier&shy;ter Ab&shy;sen&shy;der aus
       ab&shy;ge&shy;fisch&shy;ten ori&shy;gi&shy;na&shy;len E-Mails
       (s.&#8239;o.)
-  * [fin&shy;gier&shy;te Social-Media-Accounts](#suspendierung-meines-1--facebook-accounts-am-30--sep--2024)
+  * [fin&shy;gier&shy;te Social-Media-Accounts](#suspendierung-meines-1-facebook-accounts-am-30-sep-2024)
     zum Streuen von Hass und
     belie&shy;bi&shy;ger Des&shy;infor&shy;ma&shy;tion
     <img align="right" alt="Brief-Einwurf" width="400px"
