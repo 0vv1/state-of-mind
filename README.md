@@ -23,7 +23,28 @@ version: Fr., 4. Okt. 2024
   be&shy;han&shy;delnd,
   <br />
   </details>
-  
+
+> [!NOTE]
+> [Anm. 4.10,8:55]
+> Mutmaßl. drei **Täter versuchen mich** seit etwa 4 h **zur Selbsttötung zu
+> verleiten**, indem sie mir die Selbsttötung einer best. Frau suggerieren.
+>
+> Sie nutzen verschiedenste Mittel der Manipulation, unterstrichen mit
+> vielfältiger akustischer Untemalung, Remixen, Erinnerungs- und
+> Versatzstücken und allem, was sie auffahren können, um größtmögliche
+> Belastung zu erzeugen.
+>
+> [Anm. 4.10, 9:34]
+> Jetzt hat er's verkackt, der peinliche Lappen!
+> Einfach zu dämlich. Zu doof für die ultimative Grausamkeit. 😂
+> Er kriegt es nicht auf die Kette, sein reudiges "Frauen"bild einigermaßen
+> glaubhaft anzupassen. Stattdessen ein pimmeliger Feuchttraum 😆
+> Seine zwei geilen Lakeien sind auch zu hot. Jetzt sitzen alle drei in
+> der Wohnung über meiner und warten bis ich einkaufen gehe, weil sie sonst
+> nicht weg kommen. Du glaubst es nicht. Noch ein paar Min. und
+> ich bin vollständig geheilt. 😬  
+> Irgendwann liest Du das hier, Sweetie! Dann lass ma treffen! 😗
+
 <!-- english -->
 <details>
   <summary>Des&shy;crip&shy;tion in
@@ -1222,7 +1243,7 @@ manch&shy;mal der Ein&shy;druck,
 es best&uuml;nde t&auml;ter&shy;sei&shy;ti&shy;ges Inter&shy;esse,
 evtl. Amou&shy;r&ouml;&shy;sit&auml;ten
 (via [unterschwelliger
-Suggestion](#unterschwellige-suggestion))
+Suggestion](#dauerhaft--unterschwellige-suggestion))
 ge&shy;zielt
 (aber in&shy;di&shy;rekt)
 an&shy;zu&shy;bah&shy;nen,
@@ -1242,7 +1263,7 @@ oder
 (im weiteren Verlauf)
 sogar aktiv bis hin zur
 [Mani&shy;pu&shy;la&shy;tion der Rea&shy;li&shy;t&auml;t selbst
-(*sie&shy;he Bsp*](#kommunikationsunterdr&uuml;ckung)),  
+(*sie&shy;he Bsp.*](#kommunikationsunterdr&uuml;ckung)),  
 **weitere Anm.: mehr WTF!!**).  
 Die **Metho&shy;den** jeden&shy;falls kön&shy;nen
 (auch hier)
@@ -2615,8 +2636,7 @@ ihrer Opfer.
 
 <!-- unterschwellige suggestion -->
 <h4>Dauer&shy;haf&shy;t:
-  Un&shy;ter&shy;schwel&shy;li&shy;ge Sug&shy;ges&shy;tion
-  </h4>
+  Un&shy;ter&shy;schwel&shy;li&shy;ge Sug&shy;ges&shy;tion</h4>
 
 * Stich&shy;wor&shy;te
   (Namen,
