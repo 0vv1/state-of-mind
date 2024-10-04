@@ -30,7 +30,7 @@ version: Fr., 4. Okt. 2024
 > verleiten**, indem sie mir die Selbsttötung einer best. Frau suggerieren.
 >
 > Sie nutzen verschiedenste Mittel der Manipulation, unterstrichen mit
-> vielfältiger akustischer Untemalung, Remixen, Erinnerungs- und
+> vielfältiger akustischer Untermalung, Remixen, Erinnerungs- und
 > Versatzstücken und allem, was sie auffahren können, um größtmögliche
 > Belastung zu erzeugen.
 >
@@ -38,12 +38,12 @@ version: Fr., 4. Okt. 2024
 > Jetzt hat er's verkackt, der peinliche Lappen!
 > Einfach zu dämlich. Zu doof für die ultimative Grausamkeit. 😂
 > Er kriegt es nicht auf die Kette, sein reudiges "Frauen"bild einigermaßen
-> glaubhaft anzupassen. Stattdessen ein pimmeliger Feuchttraum 😆
-> Seine zwei geilen Lakeien sind auch zu hot. Jetzt sitzen alle drei in
+> glaubhaft anzupassen. Stattdessen ein pimmeliger Feuchttraum. 😆
+> Seine zwei Lakeien sind auch zu geil. ~~Jetzt sitzen alle drei in
 > der Wohnung über meiner und warten bis ich einkaufen gehe, weil sie sonst
 > nicht weg kommen. Du glaubst es nicht. Noch ein paar Min. und
-> ich bin vollständig geheilt. 😬  
-> Irgendwann liest Du das hier, Sweetie! Dann lass ma treffen! 😗
+> ich bin vollständig geheilt.~~  
+> Zu früh gefreut, aber ich werde alles unternehmen, diese NS[4] 
 
 <!-- english -->
 <details>
@@ -3163,28 +3163,45 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   dann aus&shy;schließ&shy;lich zu
   Mani&shy;pu&shy;la&shy;tions&shy;zweck&shy;en)
 
-[^5]: <span id="foko">Wir haben uns [mei&shy;ner Wahr&shy;neh&shy;mung
-  nach](#vor-bedingungen--grundannahmen)[^8],
-  auf den Deck&shy;na&shy;men
-  «**Fotz&shy;kopf**»</span>[^9] eini&shy;gen k&ouml;n&shy;nen,
-  den wir auch so <nobr>liebe-</nobr> und res&shy;pekt&shy;voll wie nur
-  irgend&shy;mög&shy;lich,
-  ver&shy;stan&shy;den wis&shy;sen wol&shy;len,  
-  er, um sich sei&shy;ner laten&shy;ten Miso&shy;gy&shy;nie
-  an&shy;ge&shy;mes&shy;sen stell&shy;en zu k&ouml;n&shy;nen und  
-  ich, um den span&shy;nen&shy;sten "Er&shy;fin&shy;dungen" der
-  Evo&shy;lu&shy;tion ange&shy;mes&shy;se&shy;n zu hul&shy;di&shy;gen.  
-  Eigent&shy;lich ein Fran&shy;ken&shy;stein-KZ-Nazi-Fotz&shy;kopf,
-  aber da&shy;für ist ja nicht immer Zeit.  
-  **Fran&shy;ken&shy;stein** wegen sei&shy;ner Vor&shy;liebe,
-  mensch&shy;liche Gehir&shy;ne zu mani&shy;pu&shy;lieren,
-  sozu&shy;sagen im über&shy;tra&shy;ge&shy;nen Sinne zu sezieren,  
-  **KZ**, wegen sei&shy;ner schein&shy;bar per&shy;ver&shy;sen
-  Nei&shy;gung zum Zu&shy;fü&shy;gen von mensch&shy;lich&shy;em Leid,  
-  **Nazi**, wegen sei&shy;ner Passion zur Kon&shy;trol&shy;le über
-  ande&shy;re, seiner un&shy;gewöhn&shy;lich&shy;en Roh&shy;heit,
-  Un&shy;freund&shy;lich&shy;keit und Respektlosigkeit ggü.
-  ande&shy;ren Lebe&shy;we&shy;sen.
+[^5]: <span id="alias">Wir haben uns ~~[mei&shy;ner bescheidenen
+  Wahr&shy;neh&shy;mung
+  nach](#vor-bedingungen--grundannahmen)[^8],~~
+  auf die neuen Alias~~Deck~~&shy;-Na&shy;men
+  ~~«**Fotz&shy;kopf**»~~ «**GeStaPo-Nazi-Schwein I**»,
+  kurz *GSPNS-1*,
+  ehemalig "Fotz&shy;kopf",
+  was aber
+  <img align="right" alt="GeStaPo-Nazi-P. of the Year" width="300px"
+    src="./gspnzpigoty.jpg">
+  1. viel zu freund&shy;lich war, da&shy;her von
+     **selbst&shy;er&shy;nann&shy;te**n(!)
+     **unter&shy;joch&shy;en&shy;de**n **und
+     ver&shy;ge&shy;wal&shy;ti&shy;gen&shy;de**n **Trieb&shy;t&auml;ter**n
+     zur Verh&ouml;nung ge&shy;nutzt wur&shy;de und
+  3. Horte der Freude im wei&shy;te&shy;ren Ver&shy;lauf
+     h&auml;t&shy;te be&shy;lei&shy;di&shy;gen k&ouml;n&shy;nen,
+  sowie «**GeStaPo-Nazi-Schwein II**», kurz *GSPNS-2*  eini&shy;gen
+  m&uuml;ssen</span>[^9],
+  da sich wei&shy;te&shy;res per&shy;vers-sadis&shy;ti&shy;sches
+  Ge&shy;schmei&szlig; ein&shy;ge&shy;fun&shy;den hat.
+  Wich&shy;tige **Anm.**: Die Namens&shy;**tr&auml;&shy;ger richten sich
+  bitte auf bis zu t&auml;g&shy;liche Namens&shy;ro&shy;ta&shy;tion ein und
+  m&uuml;s&shy;sen ihren Namen**
+  (zur Iden&shy;ti&shy;fi&shy;ka&shy;tion)
+  immer **voll&shy;st&auml;n&shy;dig nen&shy;nen**
+  (MUSS-Be&shy;stim&shy;mung als An&shy;pas&shy;sung auf "ihren"
+  ge&shy;wohn&shy;ten tota&shy;li&shy;t&auml;ren An&shy;satz,
+  da es in der j&uuml;n&shy;ge&shy;ren Ver&shy;gan&shy;gen&shy;heit et&shy;was
+  hak&shy;te),
+  allen ande&shy;ren ist es frei&shy;ge&shy;stellt, zu verk&uuml;rzen
+  (&uuml;b&shy;lich aber und auch im Ausland gel&auml;ufig ist das von jedem
+  Kind be&shy;kann&shy;te einfache Nazi-Schwein).
+  Wei&shy;te&shy;re **Anm.**: Foto lei&shy;der et&shy;was
+  ver&shy;harm&shy;lo&shy;send
+  (Goa-Party-After&shy;show,
+  sonst deut&shy;lich
+  [griesgr&auml;mig](#https://de.wikipedia.org/wiki/Griesgram)er).
+  </img>
 
 [^6]: an den Polen wenig&shy;er :wink:
 
