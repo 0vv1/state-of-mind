@@ -1,18 +1,17 @@
 
 ```
 file:    state-of-perception/README.md
-brief:   Description & Logging of an altering Perception after "Mind
-         Opening" in 2021 and possibly (multiple) Acts of Stalking
+brief:   Description & Logging of (multiple) Acts of Stalking
 author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Fr., 4. Okt. 2024
+version: Sa., 5. Okt. 2024
 ```
 
-# Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>bei Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br><sup>(so&shy;wie zyni&shy;sche [Buch&shy;empfeh&shy;lung eines mögl. Täters](#buchempfehlung-eines-t&auml;ters)?!)</sup></sub>
+# Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>unter Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br></sub>
 
-<details>
+<!--details>
   <summary>Irgend&shy;wann
     (hoff&shy;ent&shy;lich)
     ein&shy;mal nur noch ..</summary>
@@ -22,29 +21,7 @@ version: Fr., 4. Okt. 2024
   im Wesent&shy;lich&shy;en die erste Fuß&shy;no&shy;te[^1]
   be&shy;han&shy;delnd,
   <br />
-  </details>
-
-> [!NOTE]
-> [Anm. 4.10,8:55]
-> Mutmaßl. drei **Täter versuchen mich** seit etwa 4 h **zur Selbsttötung zu
-> verleiten**, indem sie mir die Selbsttötung einer best. Frau suggerieren.
->
-> Sie nutzen verschiedenste Mittel der Manipulation, unterstrichen mit
-> vielfältiger akustischer Untermalung, Remixen, Erinnerungs- und
-> Versatzstücken und allem, was sie auffahren können, um größtmögliche
-> Belastung zu erzeugen.
->
-> [Anm. 4.10, 9:34]
-> Jetzt hat er's verkackt, der peinliche Lappen!
-> Einfach zu dämlich. Zu doof für die ultimative Grausamkeit. 😂
-> Er kriegt es nicht auf die Kette, sein reudiges "Frauen"bild einigermaßen
-> glaubhaft anzupassen. Stattdessen ein pimmeliger Feuchttraum. 😆
-> Seine zwei Lakeien sind auch zu geil. ~~Jetzt sitzen alle drei in
-> der Wohnung über meiner und warten bis ich einkaufen gehe, weil sie sonst
-> nicht weg kommen. Du glaubst es nicht. Noch ein paar Min. und
-> ich bin vollständig geheilt.~~  
-> Zu früh gefreut, aber ich werde alles unternehmen,
-> diese GSPNZS[^5] zu identifizieren und die Strafverfolgung zu unterst&uuml;tzen wo es geht
+  </details-->
 
 <!-- english -->
 <details>
@@ -146,15 +123,34 @@ version: Fr., 4. Okt. 2024
   (which might be different vis-à-vis).
   </details>
   <!-- ende english -->
-  
+
+> [!IMPORTANT]
+> [**Anm.** 05.10.]
+> **Heute eine größere Zahl Täter gefasst!
+> Weite Teile der Beschreibung (über 90%) leider echt und
+> LEIDER unfassbar weit(!) darüber hinaus!**
+> 
+> Dominantes/bestimmendes **Tatmotiv** offenbar blanker
+> **pervertierter Sadismus** vollkommen degenerierter Täter.
+>
+> Ich bin leider **bei Weitem nicht das einzige Opfer**.
+> **Sämtliche** "eingebildete" **Opfer samt ihrer** "eingebildeten"
+> **existenzbedrohenden Zustände leider** und **in unfassbarem
+> Ausmaß real**.
+
+> [!NOTE]
+> [Anm. 4.10, 08:55]
+> Mutmaßl. drei **Täter versuchen mich** seit etwa 4 h **zur Selbsttötung zu
+> verleiten**, indem sie mir die Selbsttötung einer best. Frau suggerieren.
+>
+> Sie nutzen verschiedenste Mittel der Manipulation, unterstrichen mit
+> vielfältiger akustischer Untermalung, Remixen, Erinnerungs- und
+> Versatzstücken und allem, was sie auffahren können, um größtmögliche
+> Belastung zu erzeugen.
+
 <!-- 0.3 weitere Straftaten -->
-<details>
-  <summary>Wei&shy;te&shy;re
-  (neben ge&shy;wöhn&shy;lich&shy;em Stal&shy;king)
-  &uuml;ber einen Zeit&shy;raum von heute <b>mehr als 1.360 Tage</b>n
-  (hoff&shy;ent&shy;lich(!) "nur" auf per&shy;fi&shy;des&shy;te Art?)
-  <b>sug&shy;ge&shy;rier&shy;te Straf&shy;ta&shy;ten</b> ..</summary>  
-  <br>
+## Wei&shy;te&shy;re (neben ge&shy;wöhn&shy;lich&shy;em Stal&shy;king) &uuml;ber einen Zeit&shy;raum von heute mehr als 1.370 Tagen begangene Straf&shy;ta&shy;ten
+  
   i.&#8239;Z.&#8239;m.
   
   quasi pausen&shy;lo&shy;sem und an&shy;hal&shy;ten&shy;den
@@ -168,46 +164,51 @@ version: Fr., 4. Okt. 2024
   Emo&shy;tion)
   sind
   
-  (sug&shy;ge&shy;rier&shy;te?) **Blos&shy;stell&shy;ung** durch
+  **Blos&shy;stell&shy;ung** durch
   
   lücken&shy;lo&shy;ses und an&shy;hal&shy;ten&shy;des
   **Ab&shy;hö&shy;ren der Wohn&shy;räume**,
-  d.&#8239;h. Aufnehmen jeder
-  (auch der jetzi&shy;gen)
+  d.&#8239;h. Aufnehmen jeder(!!)
   Minute der An&shy;we&shy;sen&shy;heit der
-  (mglw. ver&shy;schie&shy;de&shy;nen)
+  ver&shy;schie&shy;de&shy;nen
   Be&shy;woh&shy;<nobr>ner/</nobr><wbr>-in&shy;nen
-  <nobr>(mglw.</nobr> mehrerer Wohnhäu<nobr>ser?),
+  mehrerer Wohnhäu<nobr>ser 24/7 über 1.370 Tage(!),
+  sowie Abspielen in dutzenden Wohnungen(!),
+  vor allem sexueller Handlungen(!)
   
-  (mei&shy;ner Wahr&shy;neh&shy;mung nach)
   fast lücken&shy;lose **akus&shy;ti&shy;sche
   Be&shy;läs&shy;ti&shy;gung** mit Mit&shy;teln
   der Sug&shy;ges&shy;tion,
-  i.&#8239;d.&#8239;Z.
+
+  Abfangen des Polizei-Notrufs und "Bearbeitung" durch die
+  Täter in tausenden Fällen,
   
-  ~~mglw.) **Frei&shy;heits&shy;be&shy;rau&shy;bung**
-  *mind. eines Opfers* in hun&shy;der&shy;ten Fäl&shy;len,
-  (mglw.) unter Aus&shy;nut&shy;zung,~~<sup>suggeriert</sup>  
+  **Frei&shy;heits&shy;be&shy;rau&shy;bung**
+  dutzender Opfer in jeweils hun&shy;der&shy;ten Fäl&shy;len,
+  unter Aus&shy;nut&shy;zung  
   einer Art **Hyp&shy;no&shy;se**(?),
   ge&shy;gen den aus&shy;dr&uuml;ck&shy;lich&shy;en Wil&shy;len
   <nobr>des(/der)<sup>?</sup></nobr> Be&shy;trof&shy;fe&shy;nen,
+
+  systematische(-r) Misshandlung/Vergewaltigung von hunderten Opfern
+  in jeweils(!) oft über 100 Fällen,
   
-  ~~(mglw.) **durch** vor&shy;sätz&shy;liche,
+  **durch** vor&shy;sätz&shy;liche,
   aber ver&shy;deck&shy;te **Ver&shy;ab&shy;reich&shy;ung von**
   psy&shy;cho&shy;ak&shy;ti&shy;ven bzw. hallu&shy;zi&shy;no&shy;gen
   wirken&shy;den **Be&shy;täu&shy;bungs&shy;mitteln**,
   ebenfalls ge&shy;gen den aus&shy;dr&uuml;ck&shy;lich&shy;en
   Wil&shy;len <nobr>des(/der)<sup>?</sup></nobr>
-  Be&shy;trof&shy;fe&shy;nen,~~<sup>suggeriert</sup>
+  Be&shy;trof&shy;fe&shy;nen,
   
   damit **in&shy;du&shy;zier&shy;te** "**Trance**"(?)**,
   damit Hilf&shy;lo&shy;sig&shy;keit <nobr>des(/der)<sup>?</sup></nobr>
   Be&shy;trof&shy;fe&shy;nen**
-  (wahr&shy;schein&shy;lich)
-  &uuml;ber **lan&shy;ge Zeit&shy;r&auml;u&shy;me**,
+  wahr&shy;schein&shy;lich
+  &uuml;ber extrem **lan&shy;ge Zeit&shy;r&auml;u&shy;me**,
   
   (ins&shy;be&shy;son&shy;de&shy;re auch **sexu&shy;el&shy;le**)
-  **Nöti&shy;gung** in hun&shy;der&shy;ten Fäl&shy;len,
+  **Nöti&shy;gung** in tausenden Fäl&shy;len,
   
   (ver&shy;such&shy;te)
   **An&shy;stif&shy;tung zu**
@@ -215,15 +216,15 @@ version: Fr., 4. Okt. 2024
   **Straf&shy;ta&shy;ten**
   (bis hin zu Mord) in mehre&shy;ren Fällen,
   
-  Sug&shy;ges&shy;tion **üb&shy;ler Nach&shy;re&shy;de** in
-  dut&shy;zen&shy;den Fällen,
+  **üb&shy;ler Nach&shy;re&shy;de** in
+  tausenden Fällen,
   
-  Sug&shy;ges&shy;tion der **Verleum&shy;dung** in dutzen&shy;den
+  **Verleum&shy;dung** in tausenden
   Fäl&shy;len,
   
-  Sug&shy;ges&shy;tion hart&shy;n&auml;cki&shy;ger
+  hart&shy;n&auml;cki&shy;ge
   **Nach&shy;stel&shy;lung**
-  (in Gruppen)
+  (auch in Gruppen)
   in dutzen&shy;den Fäl&shy;len,
   
   (fast täg&shy;liche) **Bedro&shy;hung**
@@ -234,28 +235,28 @@ version: Fr., 4. Okt. 2024
   nicht nur der eige&shy;nen Per&shy;son) 
   in weit &uuml;ber 10.000 Fäl&shy;len,
   
-  (mglw.) Un&shy;ter&shy;dr&uuml;ckung digi&shy;ta&shy;ler
+  Un&shy;ter&shy;dr&uuml;ckung digi&shy;ta&shy;ler
   Kom&shy;mu&shy;ni&shy;ka&shy;tion in mind. 3 F&auml;llen
 
-  (mglw.) heim&shy;t&uuml;ckisch fin&shy;gier&shy;te digi&shy;ta&shy;le
+  heim&shy;t&uuml;ckisch fin&shy;gier&shy;te digi&shy;ta&shy;le
   Kom&shy;mu&shy;ni&shy;ka&shy;tion mit un&shy;be&shy;kann&shy;ter
   Fall&shy;zall
 
-  (mglw.) Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl
-  (mglw.) i.&#8239;Z.&#8239;m. einer
-  (mglw.) ho&shy;hen noch un&shy;be&shy;stimm&shy;ten Zahl von
-  (mglw. teils schwe&shy;ren)
+  Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl
+  i.&#8239;Z.&#8239;m. einer
+  ho&shy;hen noch un&shy;be&shy;stimm&shy;ten Zahl von
+  (teils schwe&shy;ren)
   Folge-Ver&shy;brech&shy;en
 
-  (mglw.) Un&shy;ter&shy;dr&uuml;ckung regul&auml;ren
+  Un&shy;ter&shy;dr&uuml;ckung regul&auml;ren
   Brief&shy;ver&shy;kehrs (in nur einem Fall)
 
   die (ver&shy;su&shy;chte)
   **Ver&shy;lei&shy;tung zur Selbt&shy;tö&shy;tung**
   (§&#8239;78&#8239;(1)&nbsp;StGB i.&#8239;Z.&#8239;m.
   §&#8239;23&#8239;(1)&nbsp;StGB)
-  in (mglw.) mehre&shy;ren Fäl&shy;len
-  bei (mglw.) mehreren Opfern
+  in mehre&shy;ren Fäl&shy;len
+  bei mehreren Opfern
   
   und da&shy;mit Haupt&shy;"tat":
   kom&shy;plexe,
@@ -267,20 +268,8 @@ version: Fr., 4. Okt. 2024
   in t&auml;g&shy;lich mehre&shy;ren
   (in ihrer Ge&shy;samt&shy;heit weit &uuml;ber 10.000)
   F&auml;l&shy;len,
-  
-  (am schlimm&shy;sten, eigen&shy;tüm&shy;lich&shy;er&shy;wei&shy;se
-  je&shy;doch nicht straf&shy;be&shy;wehrt),
-  der bestän&shy;di&shy;ge und fort&shy;dau&shy;ern&shy;de
-  (je&shy;doch sel&shy;ten
-  er&shy;folg&shy;rei&shy;che :stuck_out_tongue_winking_eye:)  
-  Ver&shy;such der
-  **Induk&shy;tion von** «**SCHLECH&shy;TER LAU&shy;NE**»&trade;
-  und da&shy;mit **RAU&shy;BEN VON LEBENS&shy;ZEIT**,  
-  *f&uuml;r den Spa&szlig; muss man halt selber
-  sorgen..* :sun_with_face:
-  </details>
   <!-- ende weitere straftaten -->
-  
+ 
 > :loudspeaker: **TL;DR**:  
 > Ein Schi&shy;zo&shy;phre&shy;nie-Patient be&shy;haup&shy;tet,
 > ex&shy;ter&shy;ne Inte&shy;res&shy;sen&shy;grup&shy;pen
@@ -3232,7 +3221,7 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
      **unter&shy;joch&shy;en&shy;de**n **und
      ver&shy;ge&shy;wal&shy;ti&shy;gen&shy;de**n **Trieb&shy;t&auml;ter**n
      zur Verh&ouml;nung ge&shy;nutzt wur&shy;de und
-  3. Horte der Freude im wei&shy;te&shy;ren Ver&shy;lauf
+  2. Horte der Freude im wei&shy;te&shy;ren Ver&shy;lauf
      h&auml;t&shy;te be&shy;lei&shy;di&shy;gen k&ouml;n&shy;nen,
   sowie «**GeStaPo-Nazi-Schwein II**», kurz *GSPZNS-2*  eini&shy;gen
   m&uuml;ssen</span>[^9],
