@@ -126,8 +126,8 @@ version: Sa., 5. Okt. 2024
 
 > [!IMPORTANT]
 > [**Anm.** 05.10.]
-> **Heute eine größere Zahl Täter gefasst!
-> Weite Teile der Beschreibung (über 90%) leider echt und
+> **Heute einige Täter gefasst.
+> Weite Teile der Beschreibung (über 90%) sind leider echt und
 > LEIDER unfassbar weit(!) darüber hinaus!**
 > 
 > Dominantes/bestimmendes **Tatmotiv** offenbar blanker
@@ -140,7 +140,7 @@ version: Sa., 5. Okt. 2024
 
 > [!NOTE]
 > [Anm. 4.10, 08:55]
-> Mutmaßl. drei **Täter versuchen mich** seit etwa 4 h **zur Selbsttötung zu
+> Mutmaßlich drei **Täter versuchen mich** seit etwa 4 h **zur Selbsttötung zu
 > verleiten**, indem sie mir die Selbsttötung einer best. Frau suggerieren.
 >
 > Sie nutzen verschiedenste Mittel der Manipulation, unterstrichen mit
@@ -173,6 +173,7 @@ version: Sa., 5. Okt. 2024
   ver&shy;schie&shy;de&shy;nen
   Be&shy;woh&shy;<nobr>ner/</nobr><wbr>-in&shy;nen
   mehrerer Wohnhäu<nobr>ser 24/7 über 1.370 Tage(!),
+  
   sowie Abspielen in dutzenden Wohnungen(!),
   vor allem sexueller Handlungen(!)
   
@@ -181,7 +182,10 @@ version: Sa., 5. Okt. 2024
   der Sug&shy;ges&shy;tion,
 
   Abfangen des Polizei-Notrufs und "Bearbeitung" durch die
-  Täter in tausenden Fällen,
+  Täter in hunderten Fällen,
+
+  fingierte Anrufe nachgeahmter Familienmitglieder/Freundinnen/Freunde
+  in hunderten Fällen,
   
   **Frei&shy;heits&shy;be&shy;rau&shy;bung**
   dutzender Opfer in jeweils hun&shy;der&shy;ten Fäl&shy;len,
@@ -190,7 +194,7 @@ version: Sa., 5. Okt. 2024
   ge&shy;gen den aus&shy;dr&uuml;ck&shy;lich&shy;en Wil&shy;len
   <nobr>des(/der)<sup>?</sup></nobr> Be&shy;trof&shy;fe&shy;nen,
 
-  systematische(-r) Misshandlung/Vergewaltigung von hunderten Opfern
+  systematische(-r) Misshandlung/Vergewaltigung von dutzenden Opfern
   in jeweils(!) oft über 100 Fällen,
   
   **durch** vor&shy;sätz&shy;liche,
@@ -205,7 +209,8 @@ version: Sa., 5. Okt. 2024
   damit Hilf&shy;lo&shy;sig&shy;keit <nobr>des(/der)<sup>?</sup></nobr>
   Be&shy;trof&shy;fe&shy;nen**
   wahr&shy;schein&shy;lich
-  &uuml;ber extrem **lan&shy;ge Zeit&shy;r&auml;u&shy;me**,
+  &uuml;ber extrem **lan&shy;ge Zeit&shy;r&auml;u&shy;me**
+  in dutzenden Fällen,
   
   (ins&shy;be&shy;son&shy;de&shy;re auch **sexu&shy;el&shy;le**)
   **Nöti&shy;gung** in tausenden Fäl&shy;len,
@@ -236,29 +241,30 @@ version: Sa., 5. Okt. 2024
   in weit &uuml;ber 10.000 Fäl&shy;len,
   
   Un&shy;ter&shy;dr&uuml;ckung digi&shy;ta&shy;ler
-  Kom&shy;mu&shy;ni&shy;ka&shy;tion in mind. 3 F&auml;llen
+  Kom&shy;mu&shy;ni&shy;ka&shy;tion in mind. 3 F&auml;llen,
 
   heim&shy;t&uuml;ckisch fin&shy;gier&shy;te digi&shy;ta&shy;le
   Kom&shy;mu&shy;ni&shy;ka&shy;tion mit un&shy;be&shy;kann&shy;ter
-  Fall&shy;zall
+  Fall&shy;zall,
 
   Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl
   i.&#8239;Z.&#8239;m. einer
   ho&shy;hen noch un&shy;be&shy;stimm&shy;ten Zahl von
   (teils schwe&shy;ren)
-  Folge-Ver&shy;brech&shy;en
+  Folge-Ver&shy;brech&shy;en,
 
   Un&shy;ter&shy;dr&uuml;ckung regul&auml;ren
-  Brief&shy;ver&shy;kehrs (in nur einem Fall)
+  Brief&shy;ver&shy;kehrs (in einem(?) Fall),
 
   die (ver&shy;su&shy;chte)
   **Ver&shy;lei&shy;tung zur Selbt&shy;tö&shy;tung**
   (§&#8239;78&#8239;(1)&nbsp;StGB i.&#8239;Z.&#8239;m.
   §&#8239;23&#8239;(1)&nbsp;StGB)
   in mehre&shy;ren Fäl&shy;len
-  bei mehreren Opfern
+  bei mehreren Opfern,
+
+  (vermutlich) mehrfacher Mord sowie
   
-  und da&shy;mit Haupt&shy;"tat":
   kom&shy;plexe,
   mehre&shy;re Ebe&shy;nen um&shy;fass&shy;en&shy;de,
   mit viel  Zeit er&shy;dach&shy;te
@@ -267,7 +273,7 @@ version: Sa., 5. Okt. 2024
   (mehr&shy;heit&shy;lich mit&shy;tels **Sug&shy;ges&shy;tion**)
   in t&auml;g&shy;lich mehre&shy;ren
   (in ihrer Ge&shy;samt&shy;heit weit &uuml;ber 10.000)
-  F&auml;l&shy;len,
+  F&auml;l&shy;len.
   <!-- ende weitere straftaten -->
  
 > :loudspeaker: **TL;DR**:  
@@ -280,7 +286,7 @@ version: Sa., 5. Okt. 2024
 > (die er nicht be&shy;nen&shy;nen oder er&shy;klär&shy;en kann,
 > anders um&shy;setzt als er es "eigent&shy;lich" wür&shy;de,
 > was zu schi&shy;zo&shy;phre&shy;nie-ähn&shy;lich&shy;en
-> Symp&shy;to&shy;men führt. :smirk:
+> Symp&shy;to&shy;men führt.
 
 <!-- warnung krankheitseinsicht -->
 > [!WARNING]
@@ -291,12 +297,6 @@ version: Sa., 5. Okt. 2024
 > For&shy;men&shy;krei&shy;ses.
 
 > [!IMPORTANT]
-> **Mglw. malen** eine oder sogar meh&shy;rere **Per&shy;so&shy;nen
-> "nur" den**
-> (per&shy;fi&shy;dest denk&shy;ba&shy;ren)
-> **Teu&shy;fel an die Wand**
-> (eines Schizo&shy;phre&shy;nie-Patien&shy;ten),
-> ohne dass je "et&shy;was passiert".  
 > **Hier**
 > (lei&shy;der not&shy;wendige)
 > sehr zeit&shy;rau&shy;ben&shy;de **Doku&shy;men&shy;ta&shy;tion zur
@@ -307,7 +307,7 @@ version: Sa., 5. Okt. 2024
 > (von <nobr>dir/</nobr><wbr>euch selbst er&shy;rech&shy;ne&shy;te)
 > knapp &uuml;ber 16.000 Std. <nobr>deiner/</nobr><wbr>eurer
 > kost&shy;ba&shy;ren
-> <nobr>Zeit!<sup>:warning:Zynis&shy;mus</sup> :tada:</nobr>
+> <nobr>Zeit!<sup>:warning:Zynis&shy;mus</sup></nobr>
 >
 > **An** mglw.
 > (aber hoff&shy;ent&shy;lich nicht)
@@ -326,17 +326,6 @@ version: Sa., 5. Okt. 2024
 > be&shy;wer&shy;te ich selbst&shy;ver&shy;st&auml;nd&shy;lich
 > (und schon sehr lange)
 > eben&shy;falls als nich&shy;tig.
-
-> [!NOTE]
-> [Erg. 02.10. gg. 21:00]
-> *Ich mag ver&shy;arscht wer&shy;den und bin sich&shy;er auch ein
-> idea&shy;ler Adres&shy;sat für allen mög&shy;li&shy;ch&shy;en
-> Info-Trash,
-> aber was ist wenn die&shy;ser gan&shy;ze mons&shy;trö&shy;se Müll der
-> Ob&shy;fus&shy;ka&shy;<nobr>tion
-> /&#8239;</nobr>Ver&shy;schlei&shy;<nobr>erung /&#8239;</nobr>falschen
-> Ver&shy;däch&shy;ti&shy;gung bei einer
-> [Straf&shy;tat](#vergwltg) dient?*
 
 **These**:
 <nobr>Ein(-e)</nobr> oder mehre&shy;re
