@@ -124,6 +124,14 @@ version: Sa., 5. Okt. 2024
   </details>
   <!-- ende english -->
 
+> [!NOTE]
+> [**Anm.** 04.10.]
+> Die Wohnung über meiner im 1. OG der Borussiastr. 34A scheint
+> als eine Art Hauptquartier der Haupttäter besetzt worden zu sein:
+> * Telefonanlage, die den Notruf der (eigentlich) Polizei
+>   entgegennimmt
+> * ausgehende Anrufe fingiert als Familienmitglieder der Opfer,
+>   um Kontrolle über die Opfer auszuüben.
 
 > [!NOTE]
 > [Anm. 4.10, 08:55]
