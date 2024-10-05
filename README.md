@@ -252,9 +252,7 @@ fingierte Anrufe nachgeahmter Familienmitglieder/Freundinnen/Freunde
   (§&#8239;78&#8239;(1)&nbsp;StGB i.&#8239;Z.&#8239;m.
   §&#8239;23&#8239;(1)&nbsp;StGB)
   in mehre&shy;ren Fäl&shy;len
-  bei mehreren Opfern,
-
-  (vermutlich) mehrfacher Mord sowie
+  bei mehreren Opfern sowie
   
   kom&shy;plexe,
   mehre&shy;re Ebe&shy;nen um&shy;fass&shy;en&shy;de,
