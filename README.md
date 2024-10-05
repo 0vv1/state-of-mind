@@ -44,7 +44,7 @@ version: Fr., 4. Okt. 2024
 > nicht weg kommen. Du glaubst es nicht. Noch ein paar Min. und
 > ich bin vollständig geheilt.~~  
 > Zu früh gefreut, aber ich werde alles unternehmen,
-> diese GSPNZS[5] zu identifizieren und die Strafverfolgung zu unterst&uuml;tzen wo es geht
+> diese GSPNZS[^5] zu identifizieren und die Strafverfolgung zu unterst&uuml;tzen wo es geht
 
 <!-- english -->
 <details>
