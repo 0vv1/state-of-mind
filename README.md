@@ -141,9 +141,9 @@ version: Sa., 5. Okt. 2024
 > * scheinen LMs Rufnr. zu haben (F.?) und  mit meiner Rufnr.
 >   rauszugehen; it's NOT me, Deary
 
-> * wird heute mit Cali-Punk gestört :v:
-> * der bearbeitende "Beamte" schreit die ganze Zeit
->   "Wichser" nach unten :sunglasses:
+> [**Anm.** 05.10, 22:55] Wird heute mit Cali-Punk gestört. :v:
+> Der bearbeitende "Beamte" schreit die ganze Zeit
+> "Wichser" nach unten :sunglasses:
 
 > [!NOTE]
 > [Anm. 4.10, 08:55]
