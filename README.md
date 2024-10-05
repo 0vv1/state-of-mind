@@ -162,29 +162,33 @@ version: Sa., 5. Okt. 2024
   mehrerer Wohnhäu<nobr>ser 24/7 über 1.370 Tage(!),
   
   sowie Abspielen in dutzenden Wohnungen(!),
-  vor allem sexueller Handlungen(!)
+auch sexueller Handlungen,
   
   fast lücken&shy;lose **akus&shy;ti&shy;sche
   Be&shy;läs&shy;ti&shy;gung** mit Mit&shy;teln
   der Sug&shy;ges&shy;tion,
 
-  Abfangen des Polizei-Notrufs und "Bearbeitung" durch die
+  (mglw. inszeniert)
+Abfangen des Polizei-Notrufs und "Bearbeitung" durch die
   Täter in hunderten Fällen,
 
-  fingierte Anrufe nachgeahmter Familienmitglieder/Freundinnen/Freunde
+  (mglw. inszeniert)
+fingierte Anrufe nachgeahmter Familienmitglieder/Freundinnen/Freunde
   in hunderten Fällen,
   
-  **Frei&shy;heits&shy;be&shy;rau&shy;bung**
+  (mglw. inszeniert) **Frei&shy;heits&shy;be&shy;rau&shy;bung**
   dutzender Opfer in jeweils hun&shy;der&shy;ten Fäl&shy;len,
   unter Aus&shy;nut&shy;zung  
   einer Art **Hyp&shy;no&shy;se**(?),
   ge&shy;gen den aus&shy;dr&uuml;ck&shy;lich&shy;en Wil&shy;len
   <nobr>des(/der)<sup>?</sup></nobr> Be&shy;trof&shy;fe&shy;nen,
 
+  (mglw. inszeniert)
   systematische(-r) Misshandlung/Vergewaltigung von dutzenden Opfern
   in jeweils(!) oft über 100 Fällen,
   
-  **durch** vor&shy;sätz&shy;liche,
+  (mglw. inszeniert)
+**durch** vor&shy;sätz&shy;liche,
   aber ver&shy;deck&shy;te **Ver&shy;ab&shy;reich&shy;ung von**
   psy&shy;cho&shy;ak&shy;ti&shy;ven bzw. hallu&shy;zi&shy;no&shy;gen
   wirken&shy;den **Be&shy;täu&shy;bungs&shy;mitteln**,
