@@ -1413,7 +1413,8 @@ Ge&shy;fahr**:
   (zu&shy;nächst immer sug&shy;ge&shy;riert)
   nicht be&shy;greifen will,
   viel&shy;mehr geht es ihm hier&shy;bei um die Ver&shy;mitt&shy;lung,
-  ihm sei ein Men&shy;sch als fühlendes und denkendes Wesen nichts
+  ihm sei ein Mensch als füh&shy;len&shy;des und den&shy;ken&shy;des
+  Wesen nichts
   <nobr>wert[^4]</nobr>
 
 ---
@@ -1425,11 +1426,11 @@ gezogen**,
 gern kom&shy;bi&shy;niert mit
 (hof&shy;fent&shy;lich)
 ima&shy;gi&shy;nä&shy;ren Opfern,
-die ihren Ur&shy;sprung aber bei realen,
+die ihren Ur&shy;sprung aber bei rea&shy;len,
 oft einem, einem selbst be&shy;kann&shy;ten, Men&shy;sch&shy;en haben
 (Vor&shy;lie&shy;be:
 be&shy;ste&shy;hen&shy;de emo&shy;tio&shy;na&shy;le Bin&shy;dung).  
-[Anm. 18.09.24] Soll&shy;te es "dir" dennoch
+[Anm. 18.09.24] Soll&shy;te es "dir" den&shy;noch
 irgend&shy;wann ein&shy;mal ge&shy;lin&shy;gen
 (oder dass ich mich min&shy;des&shy;tens für irgend&shy;was
 recht&shy;fer&shy;ti&shy;gen muss)
@@ -1449,7 +1450,7 @@ Erleb&shy;baren orches&shy;trier&shy;tes,
 dabei immer geschickt **zwisch&shy;en** Wahr&shy;neh&shy;mung der
 **Reali&shy;tät und schizo&shy;phre&shy;nem**
 Er&shy;le&shy;ben
-**[austariert](#austarieren-bestimmter-parameter)es**
+**[aus&shy;ta&shy;riert](#austarieren-bestimmter-parameter)es**
 [**Gas&shy;lighting**](https://de.wikipedia.org/wiki/Gaslighting)
 
 ---
@@ -1459,7 +1460,7 @@ Er&shy;le&shy;ben
 
 Zwei sehr in&shy;te&shy;res&shy;san&shy;te As&shy;pek&shy;te sind
 her&shy;vor&shy;zu&shy;he&shy;ben,
-die ich für so bemer&shy;kens&shy;wert hal&shy;te,
+die ich für so be&shy;mer&shy;kens&shy;wert hal&shy;te,
 dass ich da&shy;zu ten&shy;die&shy;re,
 leben&shy;de Men&shy;schen "hin&shy;ter" "all dem hier" zu
 ver&shy;mu&shy;ten.
@@ -1538,7 +1539,8 @@ Schwerste Ver&shy;brech&shy;en offen&shy;ba&shy;ren sich erst in
 
 ---
 
-<span id="bsp">Alles **zusammenfassendes Bsp.**</span>:  
+<span id="bsp">Alles **zu&shy;sam&shy;men&shy;fas&shy;sen&shy;des
+Bsp.**</span>:  
 Ein ~~initialer(?) (Haupt-)~~ Täter
 
 > [!CAUTION]
@@ -1557,7 +1559,8 @@ Ein ~~initialer(?) (Haupt-)~~ Täter
 > um ihn vor&shy;zu&shy;füh&shy;<nobr>ren /</nobr> zu
 > de&shy;mü&shy;ti&shy;gen.  
 > **Aber**
-> (und mir nur schwer vor&shy;stell&shy;bar)<sup>:warning:Sug</sup>:</nobr>
+> (und mir nur schwer
+> vor&shy;stell&shy;bar)<sup>:warning:Sug</sup>:</nobr>
 > Die [Sug&shy;ges&shy;tion akus&shy;ti&shy;sch&shy;er
 > Nähe](#akustik),
 > könnte von irgend&shy;was wo&shy;an&shy;ders
@@ -1575,55 +1578,71 @@ am Valen&shy;tins&shy;tag&shy;abend(!)
 Miss&shy;hand&shy;lung(/Ver&shy;ge&shy;wal&shy;ti&shy;gung?)
 * einer (sug&shy;ge&shy;riert) ehe&shy;ma&shy;li&shy;gen Nach&shy;barin
 (die längst wo&shy;an&shy;ders woh&shy;nen müsste?),
-* sprechen dabei mehr&shy;mals direkt mit mir,
-* täuschen sequentiell meh&shy;re&shy;re Rea&shy;li&shy;tä&shy;ten an,
-* bieten mir dann eine Art Über&shy;gabe an,
+* spre&shy;chen dabei mehr&shy;mals direkt mit mir,
+* täu&shy;schen sequen&shy;tiell meh&shy;re&shy;re
+  Rea&shy;li&shy;tä&shy;ten an,
+* bie&shy;ten mir dann eine Art Über&shy;gabe an,
 * lassen mich mehr&shy;mals
   (irgend&shy;wo im Haus)
   an&shy;tre&shy;<nobr>ten</nobr><wbr>um&shy;her&shy;irren,
 * lassen diese Über&shy;gabe dann aber,
-auf&shy;grund unter&shy;stell&shy;ter
-Un&shy;fähig&shy;<nobr>keit/</nobr><wbr>Über&shy;for&shy;de&shy;rung
-meiner Per&shy;son
+  auf&shy;grund unter&shy;stell&shy;ter
+  Un&shy;fähig&shy;<nobr>keit/</nobr><wbr>Über&shy;for&shy;de&shy;rung
+  meiner Per&shy;son
 * ob der Ver&shy;wahr&shy;lo&shy;sung ihres Opfers,
-* unter Abspielen der Verzweiflung selbiger Frau,
+* unter Ab&shy;spie&shy;len der Ver&shy;zweif&shy;lung
+  sel&shy;bi&shy;ger Frau,
 * zum Zwecke der Ent&shy;wür&shy;di&shy;gung zweier(!) Men&shy;sch&shy;en,
 * spät nachts platzen,
 * um mich unter größten Sor&shy;gen und
-der Ver&shy;höh&shy;nung durch sug&shy;ge&shy;rier&shy;te
-An&shy;we&shy;sen&shy;de
+  der Ver&shy;höh&shy;nung durch sug&shy;ge&shy;rier&shy;te
+  An&shy;we&shy;sen&shy;de
 * zu&shy;rück in meine Woh&shy;nung gehen zu lassen,
 * mir dann damit zu drohen,
-mir diese Tat unter&shy;zu&shy;schie&shy;ben und
+  mir diese Tat unter&shy;zu&shy;schie&shy;ben und
 * (hoffentlich nur)
-mich eine der schreck&shy;lichs&shy;ten Nächte meines Lebens
-ver&shy;brin&shy;gen zu las&shy;sen.
+  mich eine der schreck&shy;lichs&shy;ten Nächte meines Lebens
+  ver&shy;brin&shy;gen zu las&shy;sen.
 
 [**Anm. 26.09.24 02:22**] Mich momen&shy;tan ab&shy;hö&shy;ren&shy;der
 Täter droht mit "Nach&shy;spiel".
 
 > [!CAUTION]
 > [Erg. 02.10 gg. 19:00 wegen mgl. Zus.-hang?]
-> * schlecht "produzierte"/vorbereitete NLP: "Du warst dabei als ... gefahren wurde."
-> * ich denke, diese NLP ist nicht für mich
-> * zwei Adressaten, um zu schauen, welcher besser "zieht"?
->   (ich habe selbst ausgedehnte NLPs zum Thema bekommen sowie einige Manipulationsversuche bzgl. Ort & Zeit, hatte aber Kalendereinträge)
+> * schlecht
+>   "pro&shy;du&shy;zier&shy;te"/vor&shy;be&shy;rei&shy;te&shy;te NLP:
+>   "Du warst da&shy;bei als ... ge&shy;fah&shy;ren wur&shy;de."
+> * ich den&shy;ke, diese NLP ist nicht für mich
+> * zwei Adres&shy;saten, um zu schauen,
+>   wel&shy;cher bes&shy;ser "zieht"?
+>   (ich habe selbst aus&shy;ge&shy;dehn&shy;te NLPs zum Thema
+    be&shy;kom&shy;men so&shy;wie eini&shy;ge
+    Mani&shy;pu&shy;la&shy;tions&shy;ver&shy;su&shy;che bzgl.
+    Ort & Zeit,
+    hat&shy;te aber Kalen&shy;der&shy;ein&shy;trä&shy;ge)
 
 > [!NOTE]
 > [Erg. 02.10., 20:37 - 20:42]
-> NLP-Reaktion: "Du bist dem Tod geweiht." in Schleife
+> NLP-Reak&shy;tion: "Du bist dem Tod ge&shy;weiht." in Schlei&shy;fe
 
 > [!NOTE]
-> Hier wieder: Schizophrenie-Patient. Was soll die Polizei bitte mit NLP-Manipulationsversuchen anfangen?!  
-> (gestern erst abgeblitzt)
+> Hier wie&shy;der: Schizo&shy;phre&shy;nie-Patient.
+> Was soll die Poli&shy;zei bit&shy;te mit
+> NLP-Mani&shy;pu&shy;la&shy;tions&shy;ver&shy;such&shy;en
+> an&shy;fan&shy;gen?!  
+> (ges&shy;tern erst ab&shy;ge&shy;blitzt)
 
 [Erg. 02.10. gg. 20:05]  
-* NLP Frauenstimme (sicher auch nicht für mich): "[weibl. Vorname], Du bist ein Arschloch, hat der geagt."
-* darauf ich: "Wer ist der?"
-* Stimme: "Du!"
+* NLP-Frauen&shy;stim&shy;me
+  (sich&shy;er auch nicht für mich):
+  "[weibl. Vor&shy;name],
+  Du bist ein Arsch&shy;loch,
+  hat der ge&shy;sagt."
+* da&shy;rauf ich: "Wer ist der?"
+* Stim&shy;me: "Du!"
 * ich: "Wer ist ich?"
-* Stimme: "Du."
-* **Anm.**: Mglw. Mehrfachverwendung.
+* Stim&shy;me: "Du."
+* **Anm.**: Mglw. Mehr&shy;fach&shy;ver&shy;wen&shy;dung.
 
 ---
 <!-- ende taktiken -->
@@ -1634,13 +1653,13 @@ Täter droht mit "Nach&shy;spiel".
   auch auf die Ge&shy;fahr hin,
   mir sämt&shy;liche noch ver&shy;blie&shy;be&shy;ne
   Repu&shy;ta&shy;tion unter dem A\*\*\*\* weg&shy;zu&shy;reißen,
-  halte ich es für mög&shy;lich,
+  hal&shy;te ich es für mög&shy;lich,
   dass es mehre&shy;re ver&shy;schie&shy;de&shy;ne
   Inte&shy;res&shy;<nobr>sen-/</nobr><wbr>Täter&shy;grup&shy;pen gibt,
   da Vor&shy;ge&shy;hen,
   Per&shy;sön&shy;lich&shy;kei&shy;ten und
-  Kon&shy;text zu divers,
-  aber wieder&shy;er&shy;kenn&shy;ber sind
+  Kon&shy;text zu di&shy;vers,
+  aber wie&shy;der&shy;er&shy;kenn&shy;ber sind
 
 * ich arbei&shy;te sozu&shy;sa&shy;gen
   (manch&shy;mal "gleich&shy;zei&shy;tig" oder mit
@@ -1650,18 +1669,18 @@ Täter droht mit "Nach&shy;spiel".
   wie typ&shy;isch so&shy;et&shy;was für eine
   schi&shy;zo&shy;phre&shy;ne Psy&shy;cho&shy;se ist,
   mir aber durch&shy;aus vor&shy;stel&shy;len,
-  dass soet&shy;was vor&shy;kommt)
+  dass so&shy;et&shy;was vor&shy;kommt)
   
 <details>
   <summary>
     <h4>"Nur" <a
-      href="#manipulation-der-realit&auml;t-selbst">insze&shy;niert</a>?
+      href="#mani&shy;pu&shy;la&shy;tion-der-rea&shy;lit&auml;t-selbst">insze&shy;niert</a>?
       </h4></summary>
 
 * (Ach&shy;tung: **noch absur&shy;der!**)
   eini&shy;ge Täter&shy;grup&shy;pen schei&shy;nen sich zu
   über&shy;schnei&shy;den,
-  was m.&#8239;M.&#8239;n. für Insze&shy;nie&shy;rung und gegen
+  was m.&#8239;M.&#8239;n. für Ins&shy;ze&shy;nie&shy;rung und gegen
   Schizo&shy;phre&shy;nie sprä&shy;che
 
 * **bei&shy;spiel**s&shy;wei&shy;se ist ein
