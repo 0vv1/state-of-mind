@@ -2965,6 +2965,18 @@ ver&shy;lei&shy;tet wor&shy;den.
 
 <details>
   <summary>
+    <h5>~~Möglicherweise~~ Bereits seit längerer Zeit (ausgedehnte?) "Abhöraktionen" in der neuen Whg.</h5></summary>
+
+  * ein von der Vormieterin "vergessener" Kabelbinder an den Heizungsrohren Wohnzimmer Richtung 1. OG, links
+  * kenne ich doch irgendwo her?!
+    (Empfehlung Fischer, Pankower Allee 86?)
+  <img alt="Heizungsrohre: Kabelbinder"
+    width="400"
+    src="./2024-10_whg-Borussiastr.jpg" />
+  </details>
+
+<details>
+  <summary>
     <h2>Mein eige&shy;nes Motiv</h2></summary>
 
 Mit einer Schizo&shy;phre&shy;nie-Diag&shy;nose wäre es
