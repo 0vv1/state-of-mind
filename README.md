@@ -128,11 +128,18 @@ version: Sa., 5. Okt. 2024
 > [**Anm.** 04.10.]
 > Die Wohnung über meiner im 1. OG, links, der Borussiastr. 34A scheint
 > als eine Art Hauptquartier vollkommen degenerierter
-> Sadisten AKA Haupttäter besetzt worden zu sein:
+> Sadisten :wink: AKA Haupttäter besetzt worden zu sein:
 > * Telefonanlage, die den Notruf der (eigentlich) Polizei
 >   entgegennimmt und von den Tätern "bearbeitet" wird
 > * ausgehende Anrufe fingiert als Familienmitglieder,
->   um Kontrolle über die Opfer auszuüben.
+>   um Kontrolle über die Opfer auszuüben
+>   (herzzerrei&szlig;ende, kaum auszuhaltende Szenen)
+> * gehen mit beliebigen Rufnr. raus
+>   * DW der Berliner Polizei hat sich bspw. um
+>     meine Beschwerde bzgl. eines abgefangenen 
+>     Notrufs "gekümmert" :joy:
+> * scheinen LMs Rufnr. zu haben (F.?) und  mit meiner Rufnr.
+>   rauszugehen; it's NOT me, Deary
 
 > [!NOTE]
 > [Anm. 4.10, 08:55]
