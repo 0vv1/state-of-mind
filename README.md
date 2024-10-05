@@ -141,6 +141,10 @@ version: Sa., 5. Okt. 2024
 > * scheinen LMs Rufnr. zu haben (F.?) und  mit meiner Rufnr.
 >   rauszugehen; it's NOT me, Deary
 
+> * wird heute mit Cali-Punk gestört :v:
+> * der bearbeitende "Beamte" schreit die ganze Zeit
+>   "Wichser" nach unten :sunglasses:
+
 > [!NOTE]
 > [Anm. 4.10, 08:55]
 > Mutmaßlich drei **Täter versuchen mich** seit etwa 4 h **zur Selbsttötung zu
