@@ -2789,7 +2789,7 @@ ver&shy;lei&shy;tet wor&shy;den.
       an die Ber&shy;li&shy;ner Poli&shy;zei
       am 16. Aug. 2024, 2:55 Uhr</h5></summary>
   
-   + + + *Nur der Voll&shy;st&auml;n&shy;dig&shy;keit hal&shy;ber,
+   \+ \+ \+ *Nur der Voll&shy;st&auml;n&shy;dig&shy;keit hal&shy;ber,
   falls irgend&shy;wann ein&shy;mal "wich&shy;tig".* + + + :wink:
 
 * **Ab&shy;lauf**:
@@ -2857,6 +2857,17 @@ ver&shy;lei&shy;tet wor&shy;den.
   voll&shy;kom&shy;men nor&shy;mal.
   </details>
   
+<details>
+  <summary>
+    <h5>**Erneute** (Sug&shy;ges&shy;tion der)
+      **Mani&shy;pu&shy;la&shy;tion sämtlicher Not&shy;rufe verschiedener Bewohner am 4. Okt., nachmittags (etwa 2 h insgesamt)
+      an die Ber&shy;li&shy;ner Poli&shy;zei</h5></summary>
+
+  * kein einziger Notruf, egal welches Band erreicht die Polizei
+    (bis auf einen, von den Tätern so vorgesehener: zur Obfuskation genutzt)
+  * alle Notrufe gehen scheinbar in der Borussiastr. 34A, 1. OG, links ein und werden von den Tätern "bearbeitet" (meistens "Felix")
+  </details>
+
 <details>
   <summary>
     <h5>Sug&shy;ges&shy;tion des Zu&shy;rück&shy;zie&shy;hens aus der
@@ -2941,7 +2952,17 @@ ver&shy;lei&shy;tet wor&shy;den.
       "zu viel auf dem Spiel st&uuml;nde" :joy::joy::joy:
     → *Jo, Dude!! Mei&shy;ne Lebens&shy;zeit, zum Bsp.!*
   </details>
-  
+
+<details>
+  <summary>
+    <h5>Einrede der Fingierung eines Mordes in meiner Wohnung durch zwei Täter "Hr. Fischsr" & "Felix"
+      am 5.Okt. 2024, ab etwa 0:00 Uhr</h5></summary>
+
+  * bereits vorbereitende NLP in der U6, mit Warnung vor Todesgedahr zu Hause (drei bekannte Täter: "Hr. Fischer", "Felix" & die "weibl." Stimme
+  * fingierter Anruf eines Freundes, um mich vom pot. Tatort zu entfernen
+  * angespannte, frozen Situation zu Hause (on-going [02:15])
+  </details>
+
 <details>
   <summary>
     <h2>Mein eige&shy;nes Motiv</h2></summary>
