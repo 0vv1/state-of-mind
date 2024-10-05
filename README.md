@@ -127,9 +127,10 @@ version: Sa., 5. Okt. 2024
 > [!NOTE]
 > [**Anm.** 04.10.]
 > Die Wohnung über meiner im 1. OG, links, der Borussiastr. 34A scheint
-> als eine Art Hauptquartier der Haupttäter besetzt worden zu sein:
+> als eine Art Hauptquartier vollkommen degenerierter
+> Sadisten AKA Haupttäter besetzt worden zu sein:
 > * Telefonanlage, die den Notruf der (eigentlich) Polizei
->   entgegennimmt
+>   entgegennimmt und von den Tätern "bearbeitet" wird
 > * ausgehende Anrufe fingiert als Familienmitglieder,
 >   um Kontrolle über die Opfer auszuüben.
 
