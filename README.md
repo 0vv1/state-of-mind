@@ -124,19 +124,6 @@ version: Sa., 5. Okt. 2024
   </details>
   <!-- ende english -->
 
-> [!IMPORTANT]
-> [**Anm.** 05.10.]
-> **Heute einige Täter gefasst.
-> Weite Teile der Beschreibung (über 90%) sind leider echt und
-> LEIDER unfassbar weit(!) darüber hinaus!**
-> 
-> Dominantes/bestimmendes **Tatmotiv** offenbar blanker
-> **pervertierter Sadismus** vollkommen degenerierter Täter.
->
-> Ich bin leider **bei Weitem nicht das einzige Opfer**.
-> **Sämtliche** "eingebildete" **Opfer samt ihrer** "eingebildeten"
-> **existenzbedrohenden Zustände leider** und **in unfassbarem
-> Ausmaß real**.
 
 > [!NOTE]
 > [Anm. 4.10, 08:55]
@@ -149,7 +136,7 @@ version: Sa., 5. Okt. 2024
 > Belastung zu erzeugen.
 
 <!-- 0.3 weitere Straftaten -->
-## Wei&shy;te&shy;re (neben ge&shy;wöhn&shy;lich&shy;em Stal&shy;king) &uuml;ber einen Zeit&shy;raum von heute mehr als 1.370 Tagen begangene Straf&shy;ta&shy;ten
+## Wei&shy;te&shy;re (neben ge&shy;wöhn&shy;lich&shy;em Stal&shy;king) &uuml;ber einen Zeit&shy;raum von heute mehr als 1.370 Tagen suggerierte Straf&shy;ta&shy;ten
   
   i.&#8239;Z.&#8239;m.
   
