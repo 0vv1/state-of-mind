@@ -13,170 +13,99 @@ version: So., 6. Okt. 2024
 <h1>Zustandsbeschreibung meines Verstandes</h1>
 
 > [!IMPORTANT]
-> [**06.10.**24 12:00]
-> Nach bitterer Erkenntnis von heute Vormittag,
-> mal wieder "nur" Spielfigur in anderer Leute Spiel
-> (AKA 2. schizophrener Schub)
-> gewesen(?) zu sein,  
-> hier zum Mitmei&szlig;eln:
+> [**06.10.**2024 12:00]
+> Nach bitte&shy;rer Er&shy;kennt&shy;nis von heute Vor&shy;mit&shy;tag,
+> mal wie&shy;der "nur" Spiel&shy;fi&shy;gur in ande&shy;rer Leu&shy;te
+> Spiel
+> (AKA 2. schizo&shy;phre&shy;ner Schub)
+> ge&shy;we&shy;sen(?) zu sein,  
+> hier zum Mit&shy;mei&szlig;eln:
 > Fickt euch und eure bl&ouml;de Show!  
-> Und dann noch in so einer Kack-Figurengruppe
-> (Welche soll das &uuml;berhaupt sein?
-> Bedarfsweises `$hate_object` zusammen mit F.?
-> Er f&uuml;r beliebigen Criminal,
-> ich f&uuml;r anderer Leute Eifersucht?
-> Wenn das kein Fraternisierungsgrund ist. :joy:)  
+> Und dann noch in so einer Kack-Figu&shy;ren&shy;grup&shy;pe
+> (Welche soll das &uuml;ber&shy;haupt sein?
+> Bedarfs&shy;wei&shy;ses `$hate_object` zu&shy;sam&shy;men mit F.?
+> Er f&uuml;r be&shy;lie&shy;bi&shy;gen Crimi&shy;nal,
+> ich f&uuml;r ande&shy;rer Leu&shy;te Eifer&shy;sucht?
+> Wenn das kein Fra&shy;ter&shy;ni&shy;sierungs&shy;grund ist. :joy:)  
 > **Anm.**:
-> *Hier triggern mich drei, vier Leute wie bl&ouml;d von der
-> Seite und versuchen
-> (mal wieder)
-> mich hochzupitchen.
-> Suggerierte (Sender-)Richtung:
-> (Mal wieder)
-> Die Wohnung &uuml;ber meiner.
-> Sehr witzig!
-> Heute ist Sonntag, Kollegen
-> (mit dem Diskreditierungspotential fange ich besser gar nicht an)!
+> *Hier trig&shy;gern mich drei, vier Leute wie bl&ouml;d von der
+> Seite und ver&shy;such&shy;en
+> (mal wie&shy;der)
+> mich hoch&shy;zu&shy;pitchen.
+> Sug&shy;ge&shy;rier&shy;te (Sender-)Rich&shy;tung:
+> (Mal wie&shy;der)
+> Die Woh&shy;nung &uuml;ber mei&shy;ner.
+> Sehr wit&shy;zig!
+> Heute ist Sonn&shy;tag, Kol&shy;le&shy;gen
+> (mit dem Dis&shy;kre&shy;di&shy;tie&shy;rungs&shy;po&shy;ten&shy;tial
+> fange ich bes&shy;ser gar nicht an)!
 > ich bin raus.
 > Und*:  
-> Entweder hier erkl&auml;rt mir mal einer irgendwas
-> oder ihr k&ouml;nnt mich mal..  
-> (Und zwar NICHT(!) virtuell. Das ist eine Frage des Respekts.
-> Traurig, dass man das &uuml;berhaupt sagen muss.)
-
-<details>
-  <summary>Des&shy;crip&shy;tion in
-    Eng&shy;<nobr>lish :us: :gb: </nobr></summary>
-  
-  ## Collect&shy;ion of Evi&shy;den&shy;ce regar&shy;ding Acts of Stal&shy;king&nbsp;<sub><sup>or</sub></sup><br/>«The *Fotz&shy;kopf* Recor&shy;dings»
-  
-  Hi there,
-  
-  in this repository I am collecting **recordings** I took and still
-  take **from** the **flats I live and lived in** during the last
-  few years.
-  It is **mainly** the loud **noise of a**n almost **silent flat**.
-    
-  ### Brief History
-  
-  Since January 2021 **I** feel to **get penetrated by "voices"** almost
-  every minute I stay at my home flat.  
-  At first I thought to have gotten a Schizophrenia at the age of 42,
-  which is not too common,
-  but might happen,
-  since all of a sudden
-  (within a few nights)
-  I started to hear "voices",
-  which
-  (even while different)
-  are to be heared outside too.
-  
-  Today **I** kinda know I got and still **get** (IMHO) most likely
-  fooled
-  (or better say **harassed**)
-  **by some** really evil "**human" being/s**:  
-  Today I know that I got so called neuro-linguistic programs while at
-  sleep at night,
-  which I had to "work on" during the day,
-  even at my ordinary work,
-  which can be burdening as long as one has no idea where the voices
-  might come from.  
-  As soon as one knows,
-  the voices outside are "only" virtual voices and
-  can be played,
-  fooled around with,
-  altered and even
-  silenced,
-  they loose their power.
-  
-  It's different with the voices at home:
-  They can't be played or silenced,
-  which led to the idea,
-  that there is someone talking to me for real!
-  The guy who used to program me at night!
-  
-  Since **I am using earplugs now** at night (which I hate),
-  I **no longer** get programs or just some really soft ones,
-  at least not so very well elaborated ones.  
-  I even wear these terrible earplugs at daylight and don't **hear** any
-  **voices**.
-  **Or** say **a few** really **quit ones** every now and then.
-  
-  *You guess it*: I don't want to wear earplugs at my own home and from
-  time to time I really would like to do activities not meant for
-  someone else but me or people I carefully select to participate in my
-  life.
-  
-  *You guess more*: Police doesn't really listen to someone hearing
-  voices from someone who isn't there.
-  
-  Furthermore:  
-  Nothing happened so far.
-  No crime scene.  
-  No motive.  
-  Noone's hating me
-  (AFAIK :kissing_closed_eyes:).  
-  Not really an opportunity for anyone
-  (I mean that guy really got time).  
-  And:
-  How does that sound even get in my flat in the 1st place?
-    
-  ### Contribution/Help is very much appreciated
-  
-  *You guess even more*: **You please feel free to *listen
-  to*&#8239;/&#8239;*dissemble*&#8239;/&#8239;*do-whatever-you-want-with*
-  that recs.  
-  And:
-  If '*someone out there*'&trade; finds anything** near of a human voice
-  (which by all means unfortunately will be German)
-  **please feel free to contact me!**  
-  The last time I asked,
-  that dude was fine with it. :grimacing:  
-  I called him **Fotzkopf** since unfortunately I do not have 
-  a 'real' name.
-  
-  If you like,
-  I translate for you,
-  but please be aware,
-  that *Fotzkopf* is not the nicest guy on earth,
-  at least not remote when he is in his home office
-  (which might be different vis-à-vis).
-  </details>
-  <!-- ende english -->
+> Ent&shy;we&shy;der hier erkl&auml;rt mir mal "einer"
+> (von denen da oben, wa?)
+> "irgend&shy;was"
+> oder ihr k&ouml;nnt mich mal.. :angry:  
+> (Und zwar NICHT(!) vir&shy;tuell. Das ist eine Fra&shy;ge des
+> Res&shy;pekts.
+> Trau&shy;rig, dass man das &uuml;ber&shy;haupt sagen muss.)
 
 > [!NOTE]
-> [**Anm.** 04.10.]
-> Die Wohnung über meiner im 1. OG, links, der Borussiastr. 34A scheint
-> als eine Art Hauptquartier vollkommen degenerierter
-> Sadisten :wink: AKA Haupttäter besetzt worden zu sein:
-> * Telefonanlage, die den Notruf der (eigentlich) Polizei
->   entgegennimmt und von den Tätern "bearbeitet" wird
-> * ausgehende Anrufe fingiert als Familienmitglieder,
->   um Kontrolle über die Opfer auszuüben
->   (herzzerrei&szlig;ende, kaum auszuhaltende Szenen)
-> * gehen mit beliebigen Rufnr. raus
->   * DW der Berliner Polizei hat sich bspw. um
->     meine Beschwerde bzgl. eines abgefangenen 
->     Notrufs "gekümmert" :joy:
-> * scheinen LMs Rufnr. zu haben (F.?) und  mit meiner Rufnr.
->   rauszugehen; it's NOT me, Deary
+> [**Anm.** 06.10.]
+> In der letz&shy;ten Nacht war ich
+> (selt&shy;samer&shy;weise und mal wie&shy;der)
+> sehr be&shy;sorgt ob der Un&shy;ver&shy;sehrt&shy;heit
+> (wahr&shy;schein&shy;lich)
+> be&shy;liebi&shy;ger Drit&shy;ter&trade;.  
+> Selt&shy;sam,
+> dass das jetzt ge&shy;h&auml;uft auf&shy;tritt
+> (t&uml;g&shy;lich),
+> wo das doch das ein&shy;zige ist,
+> wo&shy;mit "ihr" :smirk: mich &uuml;ber&shy;haupt noch trig&shy;gern
+> k&ouml;nnt.
 
-> [**Anm.** 05.10, 22:55] Wird heute mit Cali-Punk gestört. :v:
-> Der bearbeitende "Beamte" schreit die ganze Zeit
-> "Wichser" nach unten :sunglasses:
+> [!TIP]
+> "Ihr"
+> (zu lustig!)
+> m&uuml;sst euch schon ent&shy;schei&shy;den
+> (wie sonst auch :joy:):
+> Ent&shy;we&shy;der Schizo oder nicht.  
+> Mir selbst ist das Schei&szlig; egal,
+> ich komm schon klar.. :kissing_heart:
+
+> [!WARNING]
+> [**Erg.** 5.10.]
+> (Hof&shy;fent&shy;lich nur)
+> Sug&shy;ge&shy;rier&shy;te(?) [Ein&shy;re&shy;de des Ver&shy;suchs
+> eines fin&shy;gier&shy;ten
+> Mor&shy;des](#einrede-eines-fingierten-mordes-in-meiner-wohnung-am-5-okt-2024-ab-nach-etwa-0-00)
+> zum Zwecke fal&shy;scher Ver&shy;d&auml;ch&shy;ti&shy;gung mei&shy;ner
+> Person?  
+> Darf ich mal fra&shy;gen,
+> was der Bl&ouml;d&shy;sinn soll?
+> Wer soll das denn glau&shy;ben?
 
 > [!NOTE]
-> [Anm. 4.10, 08:55]
-> Mutmaßlich drei **Täter versuchen mich** seit etwa 4 h **zur Selbsttötung zu
-> verleiten**, indem sie mir die Selbsttötung einer best. Frau suggerieren.
+> [**Anm.** 4.10., 08:55]
+> Mut&shy;maß&shy;lich drei **T&auml;ter ver&shy;such&shy;en mich**
+> seit etwa vier Std. **zur Selbst&shy;tö&shy;tung zu
+> ver&shy;lei&shy;ten**,
+> in&shy;dem sie mir die Selbst&shy;tö&shy;tung einer an&shy;de&shy;ren
+> Per&shy;son sugge&shy;rie&shy;ren.
 >
-> Sie nutzen verschiedenste Mittel der Manipulation, unterstrichen mit
-> vielfältiger akustischer Untermalung, Remixen, Erinnerungs- und
-> Versatzstücken und allem, was sie auffahren können, um größtmögliche
-> Belastung zu erzeugen.
+> Sie nut&shy;zen ver&shy;schie&shy;dens&shy;te Mit&shy;tel der
+> Mani&shy;pu&shy;la&shy;tion
+> (wirk&shy;lich per&shy;fi&shy;de),
+> unter&shy;strichen mit
+> viel&shy;fäl&shy;ti&shy;ger akus&shy;tischer
+> (aber aus&shy;reichend dif&shy;fu&shy;ser)
+> Unter&shy;ma&shy;lung, Re&shy;mixen, Er&shy;inne&shy;rungs- und
+> Ver&shy;satz&shy;stücken und allem,
+> was sie auf&shy;fahren kön&shy;nen,
+> um größt&shy;mö&shy;gliche
+> Be&shy;las&shy;tung zu er&shy;zeu&shy;gen.
 
 <!-- 0.3 weitere Straftaten -->
-## Wei&shy;te&shy;re (neben ge&shy;wöhn&shy;lich&shy;em Stal&shy;king) &uuml;ber einen Zeit&shy;raum von heute mehr als 1.370 Tagen suggerierte Straf&shy;ta&shy;ten
+## Wei&shy;te&shy;re (neben ge&shy;wöhn&shy;lich&shy;em Stal&shy;king) &uuml;ber einen Zeit&shy;raum von heute mehr als 1.370 Tagen (oft "nur"?) sug&shy;ge&shy;rier&shy;te Straf&shy;ta&shy;ten
   
   i.&#8239;Z.&#8239;m.
   
@@ -184,7 +113,7 @@ version: So., 6. Okt. 2024
   **Stal&shy;king** nach <nobr>§&#8239;238</nobr> StGB,  
   inkl. be&shy;stän&shy;di&shy;gen (d.&#8239;h. täg&shy;lich
   mehr&shy;fach&shy;en,
-  in ihrer Ge&shy;samt&shy;heit mehreren 1.000)  
+  in ihrer Ge&shy;samt&shy;heit meh&shy;re&shy;ren 1.000)  
   **Ver&shy;suche**n **des Auf&shy;zwin&shy;gens von Dia&shy;logen**
   (je&shy;weils durch dyna&shy;mi&shy;sche Aus&shy;nut&shy;zung der
   immer gera&shy;de aktu&shy;ell be&shy;we&shy;gen&shy;sten
@@ -198,19 +127,21 @@ version: So., 6. Okt. 2024
   d.&#8239;h. Aufnehmen jeder(!!)
   Minute der An&shy;we&shy;sen&shy;heit der
   ver&shy;schie&shy;de&shy;nen
-  Be&shy;woh&shy;<nobr>ner/</nobr><wbr>-in&shy;nen
-  mehrerer Wohnhäu<nobr>ser 24/7 über 1.370 Tage(!),
+  Be&shy;woh&shy;<nobr>ner/</nobr><wbr>-in&shy;nen(?)
+  mehrerer Wohnhäu<nobr>ser(?) 24/7 über 1.370 Tage(!),
   
-  sowie Abspielen in dutzenden Wohnungen(!),
-auch sexueller Handlungen,
+  so&shy;wie Ab&shy;spie&shy;len in meh&shy;re&shy;ren
+  Woh&shy;nungen(?),
+  auch sexu&shy;el&shy;ler Hand&shy;lun&shy;gen(?),
   
   fast lücken&shy;lose **akus&shy;ti&shy;sche
   Be&shy;läs&shy;ti&shy;gung** mit Mit&shy;teln
   der Sug&shy;ges&shy;tion,
 
-  (mglw. inszeniert)
-Abfangen des Polizei-Notrufs und "Bearbeitung" durch die
-  Täter in hunderten Fällen,
+  (mglw. ins&shy;ze&shy;niert)
+  Ab&shy;fan&shy;gen des Poli&shy;zei-Not&shy;rufs und
+  "Be&shy;ar&shy;bei&shy;tung" durch die T&auml;ter in
+  hun&shy;der&shy;ten F&auml;l&shy;len,
 
   (mglw. inszeniert)
 fingierte Anrufe nachgeahmter Familienmitglieder/Freundinnen/Freunde
@@ -2981,12 +2912,31 @@ ver&shy;lei&shy;tet wor&shy;den.
 
 <details>
   <summary>
-    <h5>Einrede der Fingierung eines Mordes in meiner Wohnung durch zwei Täter "Hr. Fischsr" & "Felix"
-      am 5.Okt. 2024, ab etwa 0:00 Uhr</h5></summary>
+    <h5>Ein&shy;re&shy;de der Fin&shy;gie&shy;rung eines Mor&shy;des in
+      mei&shy;ner Woh&shy;nung
+      am 5. Okt. 2024, ab nach 0:00 Uhr</h5></summary>
 
-  * bereits vorbereitende NLP in der U6, mit Warnung vor Todesgedahr zu Hause (drei bekannte Täter: "Hr. Fischer", "Felix" & die "weibl." Stimme
-  * fingierter Anruf eines Freundes, um mich vom pot. Tatort zu entfernen
-  * angespannte, frozen Situation zu Hause (on-going [02:15])
+  * bereits vor&shy;be&shy;rei&shy;ten&shy;de NLP in der U6,
+    mit War&shy;nung vor Todes&shy;ge&shy;fahr zu Hause
+    (drei be&shy;kann&shy;te T&auml;ter:
+    "Hr. F.", "Felix" & die weib&shy;liche Stimme
+  * fin&shy;gier&shy;ter An&shy;ruf eines Freun&shy;des,
+    um mich vom "poten&shy;tiel&shy;len Tat&shy;ort"
+    fern&shy;zu&shy;hal&shy;ten
+  * [**02:15** on-going] an&shy;ge&shy;spann&shy;te,
+    "ein&shy;ge&shy;fro&shy;re&shy;ne" Situa&shy;tion zu Hause
+    > **Anm.**: Das ist ja wohl hoffent&shy;lich "nur" eine
+    > Sug&shy;ges&shy;tion!
+    > Wer w&auml;re denn so irre?  
+    > (Ob&shy;gleich einer der T&auml;ter mal behaup&shy;te&shy;te,
+    > einen Schl&uuml;s&shy;sel zu mei&shy;ner Whg.
+    > vor&shy;zu&shy;hal&shy;ten und ich auch bereits
+    > (mind. einmal)
+    > das Gef&uuml;hl hatte,
+    > jemand sei &uuml;ber Nacht ein&shy;ge&shy;drun&shy;gen,
+    > um belie&shy;bige Sachen um&shy;zu&shy;arran&shy;gie&shy;ren,
+    > was "damals" wohl "nur" der Ver&shy;wirrung dienen soll&shy;te,
+    > quasi "aus Spa&szlig;" pas&shy;sier&shy;te?)
   </details>
 
 <details>
