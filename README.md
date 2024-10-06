@@ -1682,7 +1682,18 @@ Täter droht mit "Nach&shy;spiel".
   schi&shy;zo&shy;phre&shy;ne Psy&shy;cho&shy;se ist,
   mir aber durch&shy;aus vor&shy;stel&shy;len,
   dass so&shy;et&shy;was vor&shy;kommt)
-  
+
+> [!CAUTION]
+> Ich kann mir in&shy;zwi&shy;schen,
+> zum Zwecke der Mone&shy;ta&shy;ri&shy;sie&shy;rung,
+> eine Art Sado-Tou&shy;ris&shy;mus vor&shy;stel&shy;len
+> (so&shy;zu&shy;sa&shy;gen Reise&shy;grup&shy;pen
+> sadis&shy;ti&shy;scher
+> (Gele&shy;gen&shy;<nobr>heits-)</nobr><wbr>T&auml;ter).
+> Das w&uuml;r&shy;de jeden&shy;falls einige
+> (akus&shy;tische)
+> Beob&shy;ach&shy;tun&shy;gen erkl&auml;&shy;ren.
+
 <details>
   <summary>
     <h4>"Nur" <a
