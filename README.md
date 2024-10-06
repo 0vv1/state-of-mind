@@ -13,14 +13,14 @@ version: So., 6. Okt. 2024
 <h1>Zustandsbeschreibung meines Verstandes</h1>
 
 > [!IMPORTANT]
-> [**06.10.**2024 12:00]
+> [**06.10.2024** 12:00]
 > Nach bitte&shy;rer Er&shy;kennt&shy;nis von heute Vor&shy;mit&shy;tag,
-> mal wie&shy;der "nur" Spiel&shy;fi&shy;gur in ande&shy;rer Leu&shy;te
-> Spiel
+> mal wie&shy;der **"nur" Spiel&shy;fi&shy;gur** in ande&shy;rer
+> Leu&shy;te Spiel
 > (AKA 2. schizo&shy;phre&shy;ner Schub)
 > ge&shy;we&shy;sen(?) zu sein,  
 > hier zum Mit&shy;mei&szlig;eln:
-> Fickt euch und eure bl&ouml;de Show!  
+> Fickt euch und **eure bl&ouml;de Show**!  
 > Und dann noch in so einer Kack-Figu&shy;ren&shy;grup&shy;pe
 > (Welche soll das &uuml;ber&shy;haupt sein?
 > Bedarfs&shy;wei&shy;ses `$hate_object` zu&shy;sam&shy;men mit F.?
@@ -41,9 +41,7 @@ version: So., 6. Okt. 2024
 > fange ich bes&shy;ser gar nicht an)!
 > ich bin raus.
 > Und*:  
-> Ent&shy;we&shy;der hier erkl&auml;rt mir mal "einer"
-> (von denen da oben, wa?)
-> "irgend&shy;was"
+> Ent&shy;we&shy;der hier **erkl&auml;rt mir mal einer** irgend&shy;was
 > oder ihr k&ouml;nnt mich mal.. :angry:  
 > (Und zwar NICHT(!) vir&shy;tuell. Das ist eine Fra&shy;ge des
 > Res&shy;pekts.
@@ -52,40 +50,40 @@ version: So., 6. Okt. 2024
 > [!NOTE]
 > [**Anm.** 06.10.]
 > In der letz&shy;ten Nacht war ich
-> (selt&shy;samer&shy;weise und mal wie&shy;der)
-> sehr be&shy;sorgt ob der Un&shy;ver&shy;sehrt&shy;heit
+> (**selt&shy;samer&shy;weise** und mal wie&shy;der)
+> **sehr be&shy;sorgt ob der Un&shy;ver&shy;sehrt&shy;heit**
 > (wahr&shy;schein&shy;lich)
-> be&shy;liebi&shy;ger Drit&shy;ter&trade;.  
+> be&shy;liebi&shy;ger **Drit&shy;ter**&trade;.  
 > Selt&shy;sam,
 > dass das jetzt ge&shy;h&auml;uft auf&shy;tritt
-> (t&uml;g&shy;lich),
+> (t&auml;g&shy;lich),
 > wo das doch das ein&shy;zige ist,
-> wo&shy;mit "ihr" :smirk: mich &uuml;ber&shy;haupt noch trig&shy;gern
+> wo&shy;mit ihr mich &uuml;ber&shy;haupt noch trig&shy;gern
 > k&ouml;nnt.
 
 > [!TIP]
-> "Ihr"
-> (zu lustig!)
-> m&uuml;sst euch schon ent&shy;schei&shy;den
-> (wie sonst auch :joy:):
-> Ent&shy;we&shy;der Schizo oder nicht.  
-> Mir selbst ist das Schei&szlig; egal,
-> ich komm schon klar.. :kissing_heart:
+> Ihr m&uuml;sst euch schon ent&shy;schei&shy;den,
+> ihr bl&ouml;&shy;den Pim&shy;mel:
+> Ent&shy;we&shy;der ihr h&auml;ngt mir eine
+> Ver&shy;ge&shy;wal&shy;ti&shy;gung an oder lasst mich vor Sor&shy;ge
+> um (selbst&shy;ver&shy;st&auml;nd&shy;lich "nur" sug&shy;ge&shy;rier&shy;te)
+> schwer miss&shy;han&shy;del&shy;<nobr>te/</nobr><wbr>ver&shy;ge&shy;wal&shy;tigte Menschen
+> fast ster&shy;ben. 
 
 > [!WARNING]
-> [**Erg.** 5.10.]
+> [**Erg.** 05.10.]
 > (Hof&shy;fent&shy;lich nur)
 > Sug&shy;ge&shy;rier&shy;te(?) [Ein&shy;re&shy;de des Ver&shy;suchs
 > eines fin&shy;gier&shy;ten
-> Mor&shy;des](#einrede-eines-fingierten-mordes-in-meiner-wohnung-am-5-okt-2024-ab-nach-etwa-0-00)
+> Mor&shy;des](#einrede-eines-fingierten-mordes-in-meiner-wohnung-am-5-okt-2024-ab-nach-etwa-000)
 > zum Zwecke fal&shy;scher Ver&shy;d&auml;ch&shy;ti&shy;gung mei&shy;ner
-> Person?  
+> Per&shy;son?  
 > Darf ich mal fra&shy;gen,
 > was der Bl&ouml;d&shy;sinn soll?
 > Wer soll das denn glau&shy;ben?
 
 > [!NOTE]
-> [**Anm.** 4.10., 08:55]
+> [**Anm.** 04.10., 08:55]
 > Mut&shy;maß&shy;lich drei **T&auml;ter ver&shy;such&shy;en mich**
 > seit etwa vier Std. **zur Selbst&shy;tö&shy;tung zu
 > ver&shy;lei&shy;ten**,
@@ -124,11 +122,11 @@ version: So., 6. Okt. 2024
   
   lücken&shy;lo&shy;ses und an&shy;hal&shy;ten&shy;des
   **Ab&shy;hö&shy;ren der Wohn&shy;räume**,
-  d.&#8239;h. Aufnehmen jeder(!!)
+  d.&#8239;h. Aufnehmen jeder(!)
   Minute der An&shy;we&shy;sen&shy;heit der
   ver&shy;schie&shy;de&shy;nen
   Be&shy;woh&shy;<nobr>ner/</nobr><wbr>-in&shy;nen(?)
-  mehrerer Wohnhäu<nobr>ser(?) 24/7 über 1.370 Tage(!),
+  mehre&shy;rer(?) Wohn&shy;häu&shy;ser 24/7 über 1.370 Tage(!),
   
   so&shy;wie Ab&shy;spie&shy;len in meh&shy;re&shy;ren
   Woh&shy;nungen(?),
@@ -143,36 +141,39 @@ version: So., 6. Okt. 2024
   "Be&shy;ar&shy;bei&shy;tung" durch die T&auml;ter in
   hun&shy;der&shy;ten F&auml;l&shy;len,
 
-  (mglw. inszeniert)
-fingierte Anrufe nachgeahmter Familienmitglieder/Freundinnen/Freunde
-  in hunderten Fällen,
+  (ich hoffe(!) "nur" inszeniert)
+  fin&shy;gier&shy;te An&shy;ru&shy;fe nach&shy;ge&shy;ahm&shy;ter
+  Familien&shy;mit&shy;glie&shy;<nobr>der/</nobr><wbr>Freun&shy;din&shy;<nobr>nen/</nobr><wbr>Freun&shy;de
+  in vielen Fäl&shy;len,
   
-  (mglw. inszeniert) **Frei&shy;heits&shy;be&shy;rau&shy;bung**
-  dutzender Opfer in jeweils hun&shy;der&shy;ten Fäl&shy;len,
+  (mglw. ins&shy;ze&shy;niert)
+  **Frei&shy;heits&shy;be&shy;rau&shy;bung**
+  dut&shy;zen&shy;der Opfer in jeweils hun&shy;der&shy;ten Fäl&shy;len,
   unter Aus&shy;nut&shy;zung  
   einer Art **Hyp&shy;no&shy;se**(?),
   ge&shy;gen den aus&shy;dr&uuml;ck&shy;lich&shy;en Wil&shy;len
   <nobr>des(/der)<sup>?</sup></nobr> Be&shy;trof&shy;fe&shy;nen,
 
-  (mglw. inszeniert)
-  systematische(-r) Misshandlung/Vergewaltigung von dutzenden Opfern
-  in jeweils(!) oft über 100 Fällen,
+  (mglw. "nur" sug&shy;ge&shy;riert)
+  sys&shy;te&shy;ma&shy;tische(-r) Miss&shy;hand&shy;<nobr>lung/</nobr><wbr>Ver&shy;ge&shy;wal&shy;ti&shy;gung
+  von dut&shy;zen&shy;den Opfern in vielen F&auml;l&shy;len,
   
-  (mglw. inszeniert)
-**durch** vor&shy;sätz&shy;liche,
+  (ich hoffe "nur" ins&shy;ze&shy;niert oder irgend&shy;wie anders
+  ge&shy;t&auml;scht)
+  **durch** vor&shy;sätz&shy;liche,
   aber ver&shy;deck&shy;te **Ver&shy;ab&shy;reich&shy;ung von**
   psy&shy;cho&shy;ak&shy;ti&shy;ven bzw. hallu&shy;zi&shy;no&shy;gen
-  wirken&shy;den **Be&shy;täu&shy;bungs&shy;mitteln**,
-  ebenfalls ge&shy;gen den aus&shy;dr&uuml;ck&shy;lich&shy;en
+  wir&shy;ken&shy;den **Be&shy;täu&shy;bungs&shy;mit&shy;teln**,
+  eben&shy;falls ge&shy;gen den aus&shy;dr&uuml;ck&shy;lich&shy;en
   Wil&shy;len <nobr>des(/der)<sup>?</sup></nobr>
   Be&shy;trof&shy;fe&shy;nen,
   
-  damit **in&shy;du&shy;zier&shy;te** "**Trance**"(?)**,
+  ~~damit **in&shy;du&shy;zier&shy;te** "**Trance**"(?)**,
   damit Hilf&shy;lo&shy;sig&shy;keit <nobr>des(/der)<sup>?</sup></nobr>
   Be&shy;trof&shy;fe&shy;nen**
   wahr&shy;schein&shy;lich
   &uuml;ber extrem **lan&shy;ge Zeit&shy;r&auml;u&shy;me**
-  in dutzenden Fällen,
+  in dut&shy;zen&shy;den F&auml;l&shy;len,~~
   
   (ins&shy;be&shy;son&shy;de&shy;re auch **sexu&shy;el&shy;le**)
   **Nöti&shy;gung** in hun&shy;der&shy;ten Fäl&shy;len,
@@ -180,19 +181,17 @@ fingierte Anrufe nachgeahmter Familienmitglieder/Freundinnen/Freunde
   (ver&shy;such&shy;te)
   **An&shy;stif&shy;tung zu**
   (auch schwe&shy;ren)
-  **Straf&shy;ta&shy;ten**
-  (bis hin zu Mord) in mehre&shy;ren Fällen,
+  **Straf&shy;ta&shy;ten** in mehre&shy;ren F&auml;l&shy;len,
   
-  **üb&shy;ler Nach&shy;re&shy;de** in
-  tausenden Fällen,
+  **üb&shy;ler Nach&shy;re&shy;de** in tau&shy;sen&shy;den
+  F&auml;l&shy;len,
   
-  **Verleum&shy;dung** in tausenden
-  Fäl&shy;len,
+  **Ver&shy;leum&shy;dung** in tau&shy;sen&shy;den F&auml;l&shy;len,
   
   hart&shy;n&auml;cki&shy;ge
   **Nach&shy;stel&shy;lung**
-  (auch in Gruppen)
-  in dutzen&shy;den Fäl&shy;len,
+  (auch in Grup&shy;pen)
+  in dut&shy;zen&shy;den F&auml;l&shy;len,
   
   (fast täg&shy;liche) **Bedro&shy;hung**
   (Ver&shy;lust der
@@ -219,11 +218,11 @@ fingierte Anrufe nachgeahmter Familienmitglieder/Freundinnen/Freunde
   Brief&shy;ver&shy;kehrs (in einem(?) Fall),
 
   die (ver&shy;su&shy;chte)
-  **Ver&shy;lei&shy;tung zur Selbt&shy;tö&shy;tung**
+  **Ver&shy;lei&shy;tung zur Selbst&shy;tö&shy;tung**
   (§&#8239;78&#8239;(1)&nbsp;StGB i.&#8239;Z.&#8239;m.
   §&#8239;23&#8239;(1)&nbsp;StGB)
   in mehre&shy;ren Fäl&shy;len
-  bei mehreren Opfern sowie
+  bei mehre&shy;ren Opfern sowie
   
   kom&shy;plexe,
   mehre&shy;re Ebe&shy;nen um&shy;fass&shy;en&shy;de,
@@ -2912,7 +2911,7 @@ ver&shy;lei&shy;tet wor&shy;den.
 
 <details>
   <summary>
-    <h5>Ein&shy;re&shy;de der Fin&shy;gie&shy;rung eines Mor&shy;des in
+    <h5>Ein&shy;re&shy;de eines fin&shy;gier&shy;ten Mor&shy;des in
       mei&shy;ner Woh&shy;nung
       am 5. Okt. 2024, ab nach 0:00 Uhr</h5></summary>
 
