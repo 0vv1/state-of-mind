@@ -10,10 +10,10 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: So., 6. Okt. 2024
 ```
 
-<h1>Zustandsbeschreibung meines Vertandes</h1>
+<h1>Zustandsbeschreibung meines Verstandes</h1>
 
 > [!IMPORTANT]
-> [06.10.24 12:00]
+> [**06.10.**24 12:00]
 > Nach bitterer Erkenntnis von heute Vormittag,
 > mal wieder "nur" Spielfigur in anderer Leute Spiel
 > (AKA 2. schizophrener Schub)
@@ -25,20 +25,24 @@ version: So., 6. Okt. 2024
 > Bedarfsweises `$hate_object` zusammen mit F.?
 > Er f&uuml;r beliebigen Criminal,
 > ich f&uuml;r anderer Leute Eifersucht?
-> Wenn das kein Fraternisierungsgrund ist! :joy:)  
+> Wenn das kein Fraternisierungsgrund ist. :joy:)  
 > **Anm.**:
 > *Hier triggern mich drei, vier Leute wie bl&ouml;d von der
 > Seite und versuchen
 > (mal wieder)
 > mich hochzupitchen.
-> Suggerierte Richtung:
+> Suggerierte (Sender-)Richtung:
 > (Mal wieder)
-> Whg. &uuml;ber mir.
+> Die Wohnung &uuml;ber meiner.
 > Sehr witzig!
-> Ich bin raus.
+> Heute ist Sonntag, Kollegen
+> (mit dem Diskreditierungspotential fange ich besser gar nicht an)!
+> ich bin raus.
 > Und*:  
-> Entweder hier erkl&auml;rt mir mal einer irgendwas oder
-> ihr k&ouml;nnt mich mal..
+> Entweder hier erkl&auml;rt mir mal einer irgendwas
+> oder ihr k&ouml;nnt mich mal..  
+> (Und zwar NICHT(!) virtuell. Das ist eine Frage des Respekts.
+> Traurig, dass man das &uuml;berhaupt sagen muss.)
 
 <details>
   <summary>Des&shy;crip&shy;tion in
