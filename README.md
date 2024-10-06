@@ -113,7 +113,7 @@ Mehr nicht..-->
 > (Hof&shy;fent&shy;lich nur)
 > Sug&shy;ge&shy;rier&shy;te(?) [Ein&shy;re&shy;de des Ver&shy;suchs
 > eines fin&shy;gier&shy;ten
-> Mor&shy;des](#einrede-eines-fingierten-mordes-in-meiner-wohnung-am-5-okt-2024-ab-nach-etwa-000-uhr)
+> Mor&shy;des](#einrede-eines-fingierten-mordes-in-meiner-wohnung-am-5-okt-2024-ab-nach-000-uhr)
 > zum Zwecke fal&shy;scher Ver&shy;d&auml;ch&shy;ti&shy;gung mei&shy;ner
 > Per&shy;son?  
 > Darf ich mal fra&shy;gen,
@@ -122,9 +122,8 @@ Mehr nicht..-->
 
 > [!NOTE]
 > [**Anm.** 04.10., 08:55]
-> Mut&shy;maß&shy;lich drei **T&auml;ter ver&shy;such&shy;en mich**
-> seit etwa vier Std. **zur Selbst&shy;tö&shy;tung zu
-> ver&shy;lei&shy;ten**,
+> Bis zu drei **T&auml;ter ver&shy;such&shy;en mich** seit etwa vier
+> Std. **zur Selbst&shy;tö&shy;tung zu ver&shy;lei&shy;ten**,
 > in&shy;dem sie mir die Selbst&shy;tö&shy;tung einer an&shy;de&shy;ren
 > Per&shy;son sugge&shy;rie&shy;ren.
 >
@@ -294,17 +293,20 @@ Mehr nicht..-->
 > For&shy;men&shy;krei&shy;ses.
 
 > [!IMPORTANT]
-> **Hier**
-> (lei&shy;der not&shy;wendige)
+> Von mir ima&shy;gi&shy;nier&shy;te Stim&shy;men
+> poten&shy;tiel&shy;ler T&auml;ter
+> w&uuml;r&shy;den es zwar immer wieder so formu&shy;lieren:
+> "Es ist (noch) nichts passiert."  
+> **Hier** aber
+> (lei&shy;der not&shy;wen&shy;dige)
 > sehr zeit&shy;rau&shy;ben&shy;de **Doku&shy;men&shy;ta&shy;tion zur
 > Ab&shy;siche&shy;rung** für den Fall,
 > dass doch. :+1:  
 > **An die "T&auml;ter"**:
 > Ein herz&shy;lich&shy;es Danke&shy;schön für
 > (von <nobr>dir/</nobr><wbr>euch selbst er&shy;rech&shy;ne&shy;te)
-> knapp &uuml;ber 16.000 Std. <nobr>deiner/</nobr><wbr>eurer
-> kost&shy;ba&shy;ren
-> <nobr>Zeit!<sup>:warning:Zynis&shy;mus</sup></nobr>
+> weit &uuml;ber 16.000 Std. <nobr>deiner/</nobr><wbr>eurer
+> kost&shy;ba&shy;ren Zeit!
 >
 > **An** mglw.
 > (aber hoff&shy;ent&shy;lich nicht)
@@ -378,6 +380,7 @@ und **un&shy;be&shy;stä&shy;tigte**
 <!-- vorbedingungen -->
 ## (Vor-)Bedin&shy;gun&shy;gen
 
+<!--
 > [!WARNING]
 > Nur falls irgend&shy;je&shy;mand
 > (und wie es <nobr>die/</nobr>der
@@ -424,6 +427,7 @@ und **un&shy;be&shy;stä&shy;tigte**
 > damit "**Ver&shy;lei&shy;tung zur Straf&shy;tat**"
 > (des T&auml;ters durch eben jene Drit&shy;<nobr>te(-n))</nobr>
 > **sug&shy;ge&shy;riert**.
+-->
 
 > [!TIP]
 > Eine,
