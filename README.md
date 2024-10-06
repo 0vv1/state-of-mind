@@ -10,7 +10,7 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: So., 6. Okt. 2024
 ```
 
-<h1>Zustands&shy;be&shy;schrei&shy;bung mei&shy;nes Ver&shy;stan&shy;des</h1>
+<h1>Zustands&shy;be&shy;schrei&shy;bung mei&shy;nes Ver&shy;stan&shy;des<br><sub><sup>urspr.: "Sammlung von Hinweisen auf Stalking &c. unter Ausnutzen einer schizoaffektiven St&ouml;rung"</sup></sub></h1>
 
 <!--**1st Things first**:  
 Auch wenn ich mich ob viel&shy;f&auml;l&shy;tigster,
