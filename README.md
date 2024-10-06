@@ -38,8 +38,8 @@ version: So., 6. Okt. 2024
 > Sehr wit&shy;zig!
 > Heute ist Sonn&shy;tag, Kol&shy;le&shy;gen
 > (mit dem Dis&shy;kre&shy;di&shy;tie&shy;rungs&shy;po&shy;ten&shy;tial
-> fange ich bes&shy;ser gar nicht an)!
-> ich bin raus.
+> fange ich bes&shy;ser gar nicht an)!  
+> Ich bin raus.
 > Und*:  
 > Ent&shy;we&shy;der hier **erkl&auml;rt mir mal einer** irgend&shy;was
 > oder ihr k&ouml;nnt mich mal.. :angry:  
@@ -68,7 +68,17 @@ version: So., 6. Okt. 2024
 > Ver&shy;ge&shy;wal&shy;ti&shy;gung an oder lasst mich vor Sor&shy;ge
 > um (selbst&shy;ver&shy;st&auml;nd&shy;lich "nur" sug&shy;ge&shy;rier&shy;te)
 > schwer miss&shy;han&shy;del&shy;<nobr>te/</nobr><wbr>ver&shy;ge&shy;wal&shy;tigte Menschen
-> fast ster&shy;ben. 
+> fast ster&shy;ben.
+> 
+> Ich meine nur.
+> K&ouml;nn&shy;te ja sein,
+> dass mal irgend&shy;wann irgend&shy;je&shy;mand um die Ecke kommt und
+> mir dreist unter&shy;stellt,
+> ich sei gar NICHT schizo&shy;phren.
+> Was denn dann,
+> ihr Idio&shy;ten?
+> Ist ja auch krass ab&shy;we&shy;gig,
+> mal was rea&shy;les zu h&ouml;ren..
 
 > [!WARNING]
 > [**Erg.** 05.10.]
@@ -2911,17 +2921,16 @@ ver&shy;lei&shy;tet wor&shy;den.
 
 <details>
   <summary>
-    <h5>Ein&shy;re&shy;de eines fin&shy;gier&shy;ten Mor&shy;des in
-      mei&shy;ner Woh&shy;nung
-      am 5. Okt. 2024, ab nach 0:00 Uhr</h5></summary>
-
+    <h5>Ein&shy;re&shy;de eines fin&shy;gier&shy;ten Mor&shy;des in mei&shy;ner Woh&shy;nung am 5. Okt. 2024, ab nach 0:00 Uhr</h5>
+    </summary>
+  
   * bereits vor&shy;be&shy;rei&shy;ten&shy;de NLP in der U6,
     mit War&shy;nung vor Todes&shy;ge&shy;fahr zu Hause
     (drei be&shy;kann&shy;te T&auml;ter:
-    "Hr. F.", "Felix" & die weib&shy;liche Stimme
-  * fin&shy;gier&shy;ter An&shy;ruf eines Freun&shy;des,
-    um mich vom "poten&shy;tiel&shy;len Tat&shy;ort"
-    fern&shy;zu&shy;hal&shy;ten
+    "Hr. F.", "Felix" & die weib&shy;liche Stimme)
+  * fin&shy;gier&shy;ter An&shy;ruf eines Freun&shy;des
+    (um mich von einem "poten&shy;tiel&shy;len Tat&shy;ort"
+    fern&shy;zu&shy;hal&shy;ten)
   * [**02:15** on-going] an&shy;ge&shy;spann&shy;te,
     "ein&shy;ge&shy;fro&shy;re&shy;ne" Situa&shy;tion zu Hause
     > **Anm.**: Das ist ja wohl hoffent&shy;lich "nur" eine
