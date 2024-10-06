@@ -1278,9 +1278,9 @@ gern bei gleich&shy;zeiti&shy;ger, leb&shy;haf&shy;ter
 akus&shy;ti&shy;sch&shy;er Unter&shy;ma&shy;lung,
 halb erz&auml;hlt und ein&shy;zel&shy;ne Opfer in betteln&shy;der
 Star&shy;re hal&shy;ten.  
-(**Pers. Anm.**: Gera&shy;de hier das ers&shy;te Mal in mei&shy;nem
+(**Pers. Anm.**: <!-- Gera&shy;de hier das ers&shy;te Mal in mei&shy;nem
 Le&shy;ben der un&shy;be&shy;ding&shy;te Wunsch nach T&ouml;tung
-be&shy;tei&shy;lig&shy;ter T&auml;ter.
+be&shy;tei&shy;lig&shy;ter T&auml;ter. -->
 Gera&shy;de das Spiel mit der Hoff&shy;nung
 (voll&shy;kom&shy;men anony&shy;mer T&auml;ter bei
 gleich&shy;zei&shy;tig vollst&auml;ndiger Iso&shy;la&shy;tion
