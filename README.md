@@ -10,11 +10,38 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: So., 6. Okt. 2024
 ```
 
-<h1>Zustandsbeschreibung meines Verstandes</h1>
+<h1>Zustands&shy;be&shy;schrei&shy;bung mei&shy;nes Ver&shy;stan&shy;des</h1>
+
+<!--**1st Things first**:  
+Auch wenn ich mich ob viel&shy;f&auml;l&shy;tigster,
+sich ggs. wider&shy;sprechen&shy;der,
+oft hef&shy;tig oszi&shy;lie&shy;ren&shy;der,
+hier oft im Staccato rein kom&shy;men&shy;der,
+jedoch selbst&shy;ver&shy;st&auml;nd&shy;lich
+aus&shy;schlie&szlig;&shy;lich ein&shy;ge&shy;bil&shy;de&shy;ter
+Ein&shy;re&shy;den und Sug&shy;ges&shy;tio&shy;nen, kaum noch wage,
+irgend&shy;wem irgend&shy;et&shy;was zu schrei&shy;ben,
+das Fol&shy;gen&shy;de.
+
+Soll&shy;test Du das hier irgend&shy;wann ein&shy;mal lesen:  
+Ich habe noch NIE auch nur einen schlech&shy;ten Ge&shy;dan&shy;ken
+&uuml;ber dich ver&shy;lo&shy;ren,
+noch ein nega&shy;ti&shy;ves Wort ge&shy;sagt,
+geschweige denn geschrien.  
+H&auml;t&shy;te mir ein&shy;fach nur gew&uuml;nscht,
+dich un&shy;vor&shy;ein&shy;ge&shy;nom&shy;men
+(und wenn auch nur ein&shy;mal in mei&shy;nem Leben)
+zu tref&shy;fen,
+m&ouml;g&shy;lich&shy;er&shy;wei&shy;se so&shy;gar
+ver&shy;bun&shy;den mit der Chance,
+dich (in aller K&uuml;rze) kennen&shy;ler&shy;nen zu d&uuml;r&shy;fen.
+Mehr nicht..-->
 
 > [!IMPORTANT]
 > [**06.10.2024** 12:00]
-> Nach bitte&shy;rer Er&shy;kennt&shy;nis von heute Vor&shy;mit&shy;tag,
+> Nach bitte&shy;rer Er&shy;kennt&shy;nis
+> (oder Sug&shy;ges&shy;tion :joy:)
+> von heute Vor&shy;mit&shy;tag,
 > mal wie&shy;der **"nur" Spiel&shy;fi&shy;gur** in ande&shy;rer
 > Leu&shy;te Spiel
 > (AKA 2. schizo&shy;phre&shy;ner Schub)
@@ -28,7 +55,7 @@ version: So., 6. Okt. 2024
 > ich f&uuml;r ande&shy;rer Leu&shy;te Eifer&shy;sucht?
 > Wenn das kein Fra&shy;ter&shy;ni&shy;sierungs&shy;grund ist. :joy:)  
 > **Anm.**:
-> *Hier trig&shy;gern mich drei, vier Leute wie bl&ouml;d von der
+> *Hier trig&shy;gern mich zwei, drei Leute wie bl&ouml;d von der
 > Seite und ver&shy;such&shy;en
 > (mal wie&shy;der)
 > mich hoch&shy;zu&shy;pitchen.
@@ -37,8 +64,9 @@ version: So., 6. Okt. 2024
 > Die Woh&shy;nung &uuml;ber mei&shy;ner.
 > Sehr wit&shy;zig!
 > Heute ist Sonn&shy;tag, Kol&shy;le&shy;gen
-> (mit dem Dis&shy;kre&shy;di&shy;tie&shy;rungs&shy;po&shy;ten&shy;tial
-> fange ich bes&shy;ser gar nicht an)!  
+> (und mit dem
+> Dis&shy;kre&shy;di&shy;tie&shy;rungs&shy;po&shy;ten&shy;tial fange
+> ich bes&shy;ser gar nicht an)!  
 > Ich bin raus.
 > Und*:  
 > Ent&shy;we&shy;der hier **erkl&auml;rt mir mal einer** irgend&shy;was
@@ -85,7 +113,7 @@ version: So., 6. Okt. 2024
 > (Hof&shy;fent&shy;lich nur)
 > Sug&shy;ge&shy;rier&shy;te(?) [Ein&shy;re&shy;de des Ver&shy;suchs
 > eines fin&shy;gier&shy;ten
-> Mor&shy;des](#einrede-eines-fingierten-mordes-in-meiner-wohnung-am-5-okt-2024-ab-nach-etwa-000)
+> Mor&shy;des](#einrede-eines-fingierten-mordes-in-meiner-wohnung-am-5-okt-2024-ab-nach-etwa-000-uhr)
 > zum Zwecke fal&shy;scher Ver&shy;d&auml;ch&shy;ti&shy;gung mei&shy;ner
 > Per&shy;son?  
 > Darf ich mal fra&shy;gen,
@@ -169,14 +197,14 @@ version: So., 6. Okt. 2024
   von dut&shy;zen&shy;den Opfern in vielen F&auml;l&shy;len,
   
   (ich hoffe "nur" ins&shy;ze&shy;niert oder irgend&shy;wie anders
-  ge&shy;t&auml;scht)
-  **durch** vor&shy;sätz&shy;liche,
+  ge&shy;t&auml;uscht)
+  ~~vor&shy;sätz&shy;liche,
   aber ver&shy;deck&shy;te **Ver&shy;ab&shy;reich&shy;ung von**
   psy&shy;cho&shy;ak&shy;ti&shy;ven bzw. hallu&shy;zi&shy;no&shy;gen
   wir&shy;ken&shy;den **Be&shy;täu&shy;bungs&shy;mit&shy;teln**,
   eben&shy;falls ge&shy;gen den aus&shy;dr&uuml;ck&shy;lich&shy;en
   Wil&shy;len <nobr>des(/der)<sup>?</sup></nobr>
-  Be&shy;trof&shy;fe&shy;nen,
+  Be&shy;trof&shy;fe&shy;nen,~~
   
   ~~damit **in&shy;du&shy;zier&shy;te** "**Trance**"(?)**,
   damit Hilf&shy;lo&shy;sig&shy;keit <nobr>des(/der)<sup>?</sup></nobr>
@@ -2949,7 +2977,7 @@ ver&shy;lei&shy;tet wor&shy;den.
 
 <details>
   <summary>
-    <h5>~~Möglicherweise~~ Bereits seit längerer Zeit (ausgedehnte?) "Abhöraktionen" in der neuen Whg.</h5></summary>
+    <h5>Möglicherweise bereits seit längerer Zeit (ausgedehnte?) "Abhöraktionen" in der neuen Whg.</h5></summary>
 
   * ein von der Vormieterin "vergessener" Kabelbinder an den Heizungsrohren Wohnzimmer Richtung 1. OG, links
   * kenne ich doch irgendwo her?!
