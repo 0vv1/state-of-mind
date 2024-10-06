@@ -2983,12 +2983,18 @@ ver&shy;lei&shy;tet wor&shy;den.
   <summary>
     <h5>Möglicherweise bereits seit längerer Zeit (ausgedehnte?) "Abhöraktionen" in der neuen Whg.</h5></summary>
 
-  * ein von der Vormieterin "vergessener" Kabelbinder an den Heizungsrohren Wohnzimmer Richtung 1. OG, links
-  * kenne ich doch irgendwo her?!
-    (Empfehlung Fischer, Pankower Allee 86?)
   <img alt="Heizungsrohre: Kabelbinder"
-    width="400"
-    src="./2024-10_whg-Borussiastr.jpg" />
+    align="right"
+    src="./2024-10-06_whg-Borussiastr_heizung-kabelbinder.jpg">
+    width="300"
+  * ein, von der Vor&shy;mie&shy;te&shy;rin "ver&shy;ges&shy;se&shy;ner"
+    Kabel&shy;bin&shy;der an den Heizungs&shy;roh&shy;ren im
+    Wohn&shy;zimmer, Richtung 1. OG, treppenseitig links
+  * die gleiche Vor&shy;gehens&shy;wei&shy;se wur&shy;de mir da&shy;mals
+    von einem T&auml;ter,
+    der meine Wohnr&auml;ume &uuml;ber&shy;wach&shy;te, nahe gelegt
+    (Pankower Allee 86)
+  </img>
   </details>
 
 <details>
