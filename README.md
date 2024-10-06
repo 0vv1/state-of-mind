@@ -2093,12 +2093,16 @@ lie&shy;gen&shy;den Woh&shy;nung,
 was ich bei&shy;spiel&shy;haft durch Be&shy;fra&shy;gen dort
 leben&shy;der Mieter heraus&shy;fin&shy;den konnte.
 
-<span id="akustik">Mir wurde sogar mehrmals aktiv die akustische Kopplung von noch nichteinmal im selben Stadtteil liegenden Wohneinheiten suggeriert(?!)</span>,
-was aber vielleicht (hoffentlich) der Obfuskation dient.
+<span id="akustik">Mir wurde so&shy;gar mehr&shy;mals aktiv die
+akus&shy;tische Kopp&shy;lung von noch nicht&shy;ein&shy;mal im
+sel&shy;ben Stadt&shy;teil lie&shy;gen&shy;den
+Wohn&shy;ein&shy;hei&shy;ten sug&shy;ge&shy;riert(?!)</span>,
+was aber viel&shy;leicht (hoffent&shy;lich) der
+Ob&shy;fus&shy;ka&shy;tion dient.
 
 > [!NOTE]
-> Auch hier wieder:
-> Schizophrenes Erleben?
+> Auch hier wie&shy;der:
+> Schizo&shy;phre&shy;nes Er&shy;le&shy;ben?
 
 Dass diese [NLP](#wesen-der-neuro-linguistischen-programme)
 (zu&shy;min&shy;dest bei mir)
@@ -2861,9 +2865,13 @@ ver&shy;lei&shy;tet wor&shy;den.
       **Mani&shy;pu&shy;la&shy;tion sämtlicher Not&shy;rufe verschiedener Bewohner am 4. Okt., nachmittags (etwa 2 h insgesamt)
       an die Ber&shy;li&shy;ner Poli&shy;zei</h5></summary>
 
-  * kein einziger Notruf, egal welches Band erreicht die Polizei
-    (bis auf einen, von den Tätern so vorgesehener: zur Obfuskation genutzt)
-  * alle Notrufe gehen scheinbar in der Borussiastr. 34A, 1. OG, links ein und werden von den Tätern "bearbeitet" (meistens "Felix")
+  * kein ein&shy;zi&shy;ger Not&shy;ruf,
+    egal wel&shy;ches Band er&shy;reicht die Po&shy;li&shy;zei
+    (bis auf einen, von den Tätern so vor&shy;ge&shy;se&shy;he&shy;ner,
+    um mich vor&shy;zu&shy;f&uuml;h&shy;ren)
+  * alle Not&shy;rufe gehen schein&shy;bar(!) in der Borussia&shy;str. 34A,
+    1\. OG, links, ein und wer&shy;den von den Tätern(!)
+    "be&shy;ar&shy;bei&shy;tet" (meis&shy;tens "Felix")
   </details>
 
 <details>
@@ -2985,15 +2993,21 @@ ver&shy;lei&shy;tet wor&shy;den.
 
   <img alt="Heizungsrohre: Kabelbinder"
     align="right"
-    src="./2024-10-06_whg-Borussiastr_heizung-kabelbinder.jpg">
-    width="300"
+    src="./2024-10-06_whg-Borussiastr_heizung-kabelbinder.jpg"
+    width="300px">
   * ein, von der Vor&shy;mie&shy;te&shy;rin "ver&shy;ges&shy;se&shy;ner"
     Kabel&shy;bin&shy;der an den Heizungs&shy;roh&shy;ren im
-    Wohn&shy;zimmer, Richtung 1. OG, treppenseitig links
+    Wohn&shy;zimmer, Richtung 1. OG, trep&shy;pen&shy;sei&shy;tig links
   * die gleiche Vor&shy;gehens&shy;wei&shy;se wur&shy;de mir da&shy;mals
     von einem T&auml;ter,
     der meine Wohnr&auml;ume &uuml;ber&shy;wach&shy;te, nahe gelegt
-    (Pankower Allee 86)
+    (Pan&shy;ko&shy;wer Allee 86)
+  * soll da&shy;zu die&shy;nen,
+    die &Uuml;ber&shy;tra&shy;gung von Schall&shy;wel&shy;len in
+    die R&auml;ume ande&shy;rer Wohn&shy;ein&shy;hei&shy;ten &uuml;ber
+    die Hei&shy;zungs&shy;rohre zu unter&shy;bin&shy;den oder
+    zu ver&shy;hin&shy;dern
+    (k.&#8239;A. wie sinn&shy;voll das ist)
   </img>
   </details>
 
