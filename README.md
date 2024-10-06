@@ -1,29 +1,45 @@
 
 ```
-file:    state-of-perception/README.md
-brief:   Description & Logging of (multiple) Acts of Stalking
+file:    state-of-mind/README.md
+brief:   State of my Mind, 1st Derivation
+         (AKA Schizophrenia)
 author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Sa., 5. Okt. 2024
+version: So., 6. Okt. 2024
 ```
 
-# Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king \&c.<br><sub>unter Aus&shy;nu&shy;tzung ei&shy;ner schi&shy;zo&shy;af&shy;fek&shy;ti&shy;ven Stö&shy;rung<br></sub>
+<h1>Zustandsbeschreibung meines Vertandes</h1>
 
-<!--details>
-  <summary>Irgend&shy;wann
-    (hoff&shy;ent&shy;lich)
-    ein&shy;mal nur noch ..</summary>
+> [!IMPORTANT]
+> [06.10.24 12:00]
+> Nach bitterer Erkenntnis von heute Vormittag,
+> mal wieder "nur" Spielfigur in anderer Leute Spiel
+> (AKA 2. schizophrener Schub)
+> gewesen(?) zu sein,  
+> hier zum Mitmei&szlig;eln:
+> Fickt euch und eure bl&ouml;de Show!  
+> Und dann noch in so einer Kack-Figurengruppe
+> (Welche soll das &uuml;berhaupt sein?
+> Bedarfsweises `$hate_object` zusammen mit F.?
+> Er f&uuml;r beliebigen Criminal,
+> ich f&uuml;r anderer Leute Eifersucht?
+> Wenn das kein Fraternisierungsgrund ist! :joy:)  
+> **Anm.**:
+> *Hier triggern mich drei, vier Leute wie bl&ouml;d von der
+> Seite und versuchen
+> (mal wieder)
+> mich hochzupitchen.
+> Suggerierte Richtung:
+> (Mal wieder)
+> Whg. &uuml;ber mir.
+> Sehr witzig!
+> Ich bin raus.
+> Und*:  
+> Entweder hier erkl&auml;rt mir mal einer irgendwas oder
+> ihr k&ouml;nnt mich mal..
 
-  ## «Über die Wirk&shy;mäch&shy;tig&shy;keit (un&shy;ge&shy;wollt selbst er&shy;leb&shy;ter) Sug&shy;ges&shy;tion»
-  
-  im Wesent&shy;lich&shy;en die erste Fuß&shy;no&shy;te[^1]
-  be&shy;han&shy;delnd,
-  <br />
-  </details-->
-
-<!-- english -->
 <details>
   <summary>Des&shy;crip&shy;tion in
     Eng&shy;<nobr>lish :us: :gb: </nobr></summary>
@@ -224,7 +240,7 @@ fingierte Anrufe nachgeahmter Familienmitglieder/Freundinnen/Freunde
   in dutzenden Fällen,
   
   (ins&shy;be&shy;son&shy;de&shy;re auch **sexu&shy;el&shy;le**)
-  **Nöti&shy;gung** in tausenden Fäl&shy;len,
+  **Nöti&shy;gung** in hun&shy;der&shy;ten Fäl&shy;len,
   
   (ver&shy;such&shy;te)
   **An&shy;stif&shy;tung zu**
