@@ -53,10 +53,17 @@ Mehr nicht..-->
 > Du bist so bekloppt: Wahrscheinlich wirfst Du dann anderen auch noch vor, in bester Absicht zu vertrauen, in der perfiden Absicht, dass sie eine wundervolle Charaktereigenschaft verlieren.  
 > Alles was man wissen muss: Du Kreatur bist weg und die Sonne geht auf!
 > 
-> **Anm.**: *Julia* hat mglw. gar nicht aufgeh&ouml;rt, sondern "Seitenwechsel" fingiert. Sie versucht n&auml;mlich gerade, mich zu &uuml;berzeugen. Je l&auml;nger sie das versucht, destso fester das Resultat: Sie bleibt f&uuml;r mich(!) 100% kadavergehorsame Komplizin (und viel zu gef&auml;hrliche Sadistin).
+> [**Anm.**] *Julia* hat mglw. gar nicht aufgeh&ouml;rt, sondern "Seitenwechsel" fingiert. Sie versucht n&auml;mlich gerade, mich zu &uuml;berzeugen. Je l&auml;nger sie das versucht, destso fester das Resultat: Sie bleibt f&uuml;r mich(!) 100% kadavergehorsame Komplizin (und viel zu gef&auml;hrliche Sadistin).
 >
-> **Weitere Anm.**: Die T&auml;ter [greifen mglw. tief in menschliche Beziehungen ein](#iso), eine zumindest initiale Etablierung von (irgendwann) "Liebes"beziehungen halte ich inzwischen zumindest f&uuml;r m&ouml;glich.
-
+> [**weitere Anm.**] Die T&auml;ter [greifen mglw. tief in menschliche Beziehungen ein](#iso), eine zumindest initiale Etablierung von (irgendwann) "Liebes"beziehungen halte ich inzwischen zumindest f&uuml;r m&ouml;glich.
+>
+> [**3. Anm.** 13:10] Die T&auml;ter fangen an,
+> via Akustik Gedanken zu [soufflieren](https://de.wikipedia.org/wiki/Souffleur)
+> (sodass man auf Gedanken "hängen" bleibt oder bestimmte Wörter sagen muss)
+> und wollen so Uplaod von Fotomaterial erreichen
+> (ich meine(!) sie sitzen physisch auf meiner DSL-Leitung)
+> oder Zweifel sähen
+> (was erschreckend oft gut funktioniert).
 
 > [!IMPORTANT]
 > [**06.10.2024** 12:00]
