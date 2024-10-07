@@ -84,10 +84,9 @@ Mehr nicht..-->
 > dort Pro&shy;to&shy;koll und Ent&shy;ge&shy;gen&shy;nahme)
 > er&shy;scheint mir in&shy;zwischen fin&shy;giert.   
 > 
-> Ich habe mich am 9. Aug. erst um&shy;ge&shy;mel&shy;det.
-> Die neue Adresse soll&shy;te damals noch nicht ver&shy;merkt
-> gewe&shy;sen sein.
-> Ich habe gera&shy;de ein Foto von der R&uuml;ck&shy;seite gemacht,
+> Ich habe mich am 9. Aug. erst um&shy;ge&shy;mel&shy;det,
+> so dass die neue Adresse da&shy;mals noch nicht ver&shy;merkt war.
+> Gera&shy;de ein Foto von der R&uuml;ck&shy;seite gemacht,
 > ich traue den T&auml;tern in&shy;zwischen alles zu..
 > 
 > [**Anm.**] Die *Julia*-"Entit&auml;t" hat mglw. gar nicht
