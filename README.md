@@ -2980,16 +2980,16 @@ ver&shy;lei&shy;tet wor&shy;den.
 
 <details>
   <summary>
-  <img align="right"
-    alt="Call-Log: Notruf 6.10., ab 0:13"
-    src="./2024-10-06_log_Polizei-notruf.png"
-    width="300px">
     <h5>**Noch mal** (Sug&shy;ges&shy;tion der)
       **Mani&shy;pu&shy;la&shy;tion sämt&shy;lich&shy;er Not&shy;rufe
       ver&shy;schie&shy;de&shy;ner Be&shy;woh&shy;ner am 6. Okt.,
       nachts (etwas &uuml;ber 2 h ins&shy;ge&shy;samt)
       an die Ber&shy;li&shy;ner Poli&shy;zei</h5></summary>
 
+  <img align="right"
+    alt="Call-Log: Notruf 6.10., ab 0:13"
+    src="./2024-10-06_log_Polizei-notruf.jpg"
+    width="300px">
   * einige Not&shy;rufe er&shy;rei&shy;chen die Po&shy;li&shy;zei
   * drei Not&shy;ru&shy;fe gehen durch,
     wer&shy;den auch be&shy;arbei&shy;tet,
