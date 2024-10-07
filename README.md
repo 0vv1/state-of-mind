@@ -7,7 +7,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: So., 6. Okt. 2024
+version: Mo., 7. Okt. 2024
 ```
 
 <h1>Zustands&shy;be&shy;schrei&shy;bung mei&shy;nes Ver&shy;stan&shy;des<br><sub><sup>urspr.: "Sammlung von Hinweisen auf Stalking &c. unter Ausnutzen einer schizoaffektiven St&ouml;rung"</sup></sub></h1>
@@ -42,13 +42,16 @@ Mehr nicht..-->
 > Eine Sache, die so reichlich kaputt ist, dass man sie kaum in Erwägung zieht:  
 > Diese Kreatur von Haupttäter wollte von Anfang an ich sein.  
 > Der hat mich ganz leise gemacht, vermutlich kennt niemand meine echte Stimme.  
-
+> 
 > Warum auch immer er ich sein will, ich fand das so kauptt, dass ich es nicht ernst genommen habe.
 > 
 > Aber so langsam fürchte ich, dass er es Dritte zumindest kurz glauben lassen kann, wenn er sich perfide genug Vertrauen erschleicht.
 > Und da ich vermute, dass er am 30. Juli für knapp 25 min im Besitz meines Personalausweises war, befürchte ich, dass er ihn für irgendeinen Quatsch missbraucht haben könnte.  
 > 
-> Ich habe mich am 9. Aug. erst umgemeldet. Die neue Adresse sollte damals noch nicht vermerkt gewesen sein. Mal Foto machen, dem Freak traue ich alles zu.
+> Ich habe mich am 9. Aug. erst umgemeldet. Die neue Adresse sollte damals noch nicht vermerkt gewesen sein. Mal Foto machen, dem Freak traue ich alles zu.  
+> Du bist so bekloppt. Wahrscheinlich wirfst Du dann anderem auch noch vor, in bester Absicht zu Vertrauen. So peinlich bist Du.
+> Alles was man wissen muss: Du Kreatur bist weg und alles wird gut. Easy Call.  
+
 
 > [!IMPORTANT]
 > [**06.10.2024** 12:00]
