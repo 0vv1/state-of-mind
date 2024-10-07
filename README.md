@@ -43,44 +43,52 @@ Mehr nicht..-->
 > die so reich&shy;lich kaputt ist,
 > dass man sie kaum in Erw&auml;gung zieht:  
 > Der Haupt&shy;t&auml;ter sug&shy;ge&shy;rier&shy;te mir
-> von An&shy;fang an,
-> dass er ich sein woll&shy;te.
-> (**Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl**).  
-> Er hat mich ganz lei&shy;se ge&shy;macht,
-> ver&shy;mut&shy;lich kennt nie&shy;mand meine echte Stim&shy;me.  
-> Jetzt ver&shy;st&uuml;n&shy;de ich dieses hohle
+> ziem&shy;lich fr&uuml;h, meine Pers&ouml;nlichkeit
+> &uuml;ber&shy;neh&shy;men zu wol&shy;len,
+> was ich ein&shy;fach nie ernst ge&shy;nom&shy;men habe
+> (wie soll man das).  
+> Als ich vor ein paar Tagen dann den ers&shy;ten
+> [Ver&shy;dacht](#suspendierung-meines-1-facebook-accounts-am-30-sep-2024)
+> auf **Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl** hatte,
+> viel mir ein,
+> dass man das Ver&shy;hal&shy;ten des T&auml;ters auch als
+> [Versuch](#iso) wer&shy;ten k&ouml;nnte,
+> mich quasi
+> (auf ganz weir&shy;de Art)
+> zu "l&ouml;schen".  
+> Sollte es &uuml;ber&shy;haupt wei&shy;te&shy;re
+> Be&shy;tei&shy;lig&shy;te ge&shy;ben,
+> d&uuml;rfte bspw. nie&shy;mand meine ech&shy;te Stim&shy;me ken&shy;nen.  
+> Jetzt ver&shy;st&uuml;n&shy;de ich die&shy;ses hohle
 > Nach&shy;ge&shy;plap&shy;per:
 > <nobr>Der/die(?)</nobr> <nobr>fing(-en)</nobr> an,
 > mich zu
 > simu&shy;lie&shy;<nobr>ren/</nobr><wbr>imi&shy;tie&shy;ren. :no_mouth:
 > 
-> Ich f&uuml;rch&shy;te so lang&shy;sam auch,
-> dass er es Drit&shy;te län&shy;ger glau&shy;ben las&shy;sen kann,
-> wenn er sich per&shy;fi&shy;de genug Ver&shy;trauen er&shy;schleicht.
-> Und da ich ver&shy;mute,
-> dass er **am 30. Juli für knapp 25 Minuten im Besitz mei&shy;nes
+> Da ich ver&shy;mu&shy;te,
+> dass der **T&auml;ter am 30. Juli nach&shy;mit&shy;tags für knapp 30
+> Minu&shy;ten im Be&shy;sitz mei&shy;nes
 > Per&shy;so&shy;nal&shy;aus&shy;wei&shy;ses** war,
 > be&shy;fürch&shy;te ich,
 > dass er ihn für irgend&shy;ei&shy;nen Quatsch miss&shy;braucht
 > haben könn&shy;te.
 > Ich hat&shy;te n&auml;m&shy;lich das ers&shy;te Mal seit 33 Jahren
-> mei&shy;nen Per&shy;so&shy;nal&shy;aus&shy;weis ver&shy;lo&shy;ren,
-> was ich in&shy;zwischen f&uuml;r fin&shy;giert hal&shy;te.   
+> mein Por&shy;te&shy;mon&shy;naie "ver&shy;lo&shy;ren".
+> Der [Gesamt&shy;vor&shy;gang](#)
+> (30 min f&uuml;r "Ver&shy;lie&shy;ren",
+> Ver&shy;lust be&shy;mer&shy;ken,
+> Fin&shy;den durch junge Frau,
+> Ab&shy;ge&shy;ben durch jene bei einer Poli&shy;zei&shy;dienst&shy;stelle,
+> mein eige&shy;nes Aus&shy;fin&shy;dig&shy;machen sel&shy;bi&shy;ger,
+> Auf&shy;suchen,
+> dort Pro&shy;to&shy;koll und Ent&shy;ge&shy;gen&shy;nahme)
+> er&shy;scheint mir in&shy;zwischen fin&shy;giert.   
 > 
 > Ich habe mich am 9. Aug. erst um&shy;ge&shy;mel&shy;det.
 > Die neue Adresse soll&shy;te damals noch nicht ver&shy;merkt
 > gewe&shy;sen sein.
-> Ich habe gerade ein Foto von der R&uuml;ckseite gemacht,
+> Ich habe gera&shy;de ein Foto von der R&uuml;ck&shy;seite gemacht,
 > ich traue den T&auml;tern in&shy;zwischen alles zu..
->   
-> So verr&uuml;ckt:
-> Wahr&shy;schein&shy;lich wirfst Du dann ande&shy;ren auch noch vor,
-> in bes&shy;ter Ab&shy;sicht zu ver&shy;tra&shy;uen,
-> in der per&shy;fi&shy;den Ab&shy;sicht,
-> dass sie eine wun&shy;der&shy;volle
-> Charak&shy;ter&shy;ei&shy;gen&shy;schaft ver&shy;lie&shy;ren.  
-> Alles was man wis&shy;sen muss:
-> Diese Kreatur ist weg und die Sonne geht auf!
 > 
 > [**Anm.**] Die *Julia*-"Entit&auml;t" hat mglw. gar nicht
 > "auf&shy;ge&shy;h&ouml;rt",
