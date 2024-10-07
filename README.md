@@ -1551,7 +1551,7 @@ Schwerste Ver&shy;brech&shy;en offen&shy;ba&shy;ren sich erst in
 
 ---
 
-<span id="bsp">Alles **zu&shy;sam&shy;men&shy;fas&shy;sen&shy;des
+<span id="vergwltg">Alles **zu&shy;sam&shy;men&shy;fas&shy;sen&shy;des
 Bsp.**</span>:  
 Ein ~~initialer(?) (Haupt-)~~ Täter
 
