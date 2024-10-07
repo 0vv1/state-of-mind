@@ -38,6 +38,19 @@ dich (in aller K&uuml;rze) kennen&shy;ler&shy;nen zu d&uuml;r&shy;fen.
 Mehr nicht..-->
 
 > [!IMPORTANT]
+> [**Erg.** 07.10.]
+> Eine Sache, die so reichlich kaputt ist, dass man sie kaum in Erwägung zieht:  
+> Diese Kreatur von Haupttäter wollte von Anfang an ich sein.  
+> Der hat mich ganz leise gemacht, vermutlich kennt niemand meine echte Stimme.  
+
+> Warum auch immer er ich sein will, ich fand das so kauptt, dass ich es nicht ernst genommen habe.
+> 
+> Aber so langsam fürchte ich, dass er es Dritte zumindest kurz glauben lassen kann, wenn er sich perfide genug Vertrauen erschleicht.
+> Und da ich vermute, dass er am 30. Juli für knapp 25 min im Besitz meines Personalausweises war, befürchte ich, dass er ihn für irgendeinen Quatsch missbraucht haben könnte.  
+> 
+> Ich habe mich am 9. Aug. erst umgemeldet. Die neue Adresse sollte damals noch nicht vermerkt gewesen sein. Mal Foto machen, dem Freak traue ich alles zu.
+
+> [!IMPORTANT]
 > [**06.10.2024** 12:00]
 > Nach bitte&shy;rer Er&shy;kennt&shy;nis
 > (oder Sug&shy;ges&shy;tion :joy:)
