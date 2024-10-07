@@ -1558,19 +1558,21 @@ Ein ~~initialer(?) (Haupt-)~~ Täter
 > [!CAUTION]
 > [**Anm.** 27.09.24]
 > Jemand [sonst](#mglw-zweite-ebene-oder-abl%C3%B6sung)?!
-> Es er&shy;scheint mir jeden&shy;falls immer
-> un&shy;wahr&shy;schein&shy;lich&shy;er
-> wenn nicht über&shy;trie&shy;ben ego&shy;man),
+> Es er&shy;scheint zun&auml;chst un&shy;wahr&shy;schein&shy;lich,
 > dass so&shy;etwas von einem in ört&shy;lich&shy;er Nähe
 > leben&shy;den Men&shy;sch&shy;en unter mehr&shy;fach&shy;er
-> Eigen&shy;nen&shy;nung sei&shy;nes Namens "ver&shy;übt" wird,
+> Eigen&shy;nen&shy;nung sei&shy;nes Namens "ver&shy;&uuml;bt" wird,
 > der dann auch noch einen ohne&shy;hin schon
 > auf&shy;ge&shy;brach&shy;ten
 > Drit&shy;ten direkt vor "seine" höl&shy;zer&shy;ne
 > Woh&shy;nungs&shy;tür lotst,
 > um ihn vor&shy;zu&shy;füh&shy;<nobr>ren /</nobr> zu
-> de&shy;mü&shy;ti&shy;gen.  
-> **Aber**
+> de&shy;mü&shy;ti&shy;gen.
+> Aber sol&shy;che Taten erge&shy;ben sich wohl sehr oft aus
+> Gele&shy;gen&shy;heit und ich denke,
+> der indi&shy;vidu&shy;el&shy;le Cha&shy;rak&shy;ter wird eine
+> gro&szlig;e Rolle spielen.  
+> **Mglw. auch**
 > (und mir nur schwer
 > vor&shy;stell&shy;bar)<sup>:warning:Sug</sup>:</nobr>
 > Die [Sug&shy;ges&shy;tion akus&shy;ti&shy;sch&shy;er
