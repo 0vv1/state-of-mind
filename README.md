@@ -49,8 +49,8 @@ Mehr nicht..-->
 > Und da ich vermute, dass er am 30. Juli für knapp 25 min im Besitz meines Personalausweises war, befürchte ich, dass er ihn für irgendeinen Quatsch missbraucht haben könnte.  
 > 
 > Ich habe mich am 9. Aug. erst umgemeldet. Die neue Adresse sollte damals noch nicht vermerkt gewesen sein. Mal Foto machen, dem Freak traue ich alles zu.  
-> Du bist so bekloppt. Wahrscheinlich wirfst Du dann anderem auch noch vor, in bester Absicht zu Vertrauen. So peinlich bist Du.
-> Alles was man wissen muss: Du Kreatur bist weg und alles wird gut. Easy Call.  
+> Du bist so bekloppt. Wahrscheinlich wirfst Du dann anderen auch noch vor, in bester Absicht zu Vertrauen, in der perfiden Absicht, eine wundervolle Charaktereigenschaft zu verlieren.  
+> Alles was man wissen muss: Du Kreatur bist weg und die Sonne geht auf.
 
 
 > [!IMPORTANT]
