@@ -39,35 +39,77 @@ Mehr nicht..-->
 
 > [!IMPORTANT]
 > [**Erg.** 07.10.]
-> Eine Sache, die so reichlich kaputt ist, dass man sie kaum in Erwägung zieht:  
-> Der Haupttäter suggerierte mir von Anfang an, dass er ich sein wollte.
-> (**Identit&auml;tsdiebstahl**).  
-> Er hat mich ganz leise gemacht, vermutlich kennt niemand meine echte Stimme.  
-> Jetzt verst&uuml;nde ich dieses hohle Nachgeplapper:
-> Der/die(?) fing(-en) an,
-> mich zu simulieren/imitieren. 😶
+> Eine Sache,
+> die so reich&shy;lich kaputt ist,
+> dass man sie kaum in Erw&auml;gung zieht:  
+> Der Haupt&shy;t&auml;ter sug&shy;ge&shy;rier&shy;te mir
+> von An&shy;fang an,
+> dass er ich sein woll&shy;te.
+> (**Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl**).  
+> Er hat mich ganz lei&shy;se ge&shy;macht,
+> ver&shy;mut&shy;lich kennt nie&shy;mand meine echte Stim&shy;me.  
+> Jetzt ver&shy;st&uuml;n&shy;de ich dieses hohle
+> Nach&shy;ge&shy;plap&shy;per:
+> <nobr>Der/die(?)</nobr> <nobr>fing(-en)</nobr> an,
+> mich zu
+> simu&shy;lie&shy;<nobr>ren/</nobr><wbr>imi&shy;tie&shy;ren. :no_mouth:
 > 
-> Ich fürchte so langsam auch, dass er es Dritte länger glauben lassen kann, wenn er sich perfide genug Vertrauen erschleicht.
-> Und da ich vermute, dass er **am 30. Juli für knapp 25 min im Besitz meines Personalausweises** war, befürchte ich, dass er ihn für irgendeinen Quatsch missbraucht haben könnte.
-> Ich hatte nämlich das erste Mal seit 33 Jahren meinen Personalausweis verloren,
-> was ich inzwischen f&uuml;r fingiert halte.   
+> Ich f&uuml;rch&shy;te so lang&shy;sam auch,
+> dass er es Drit&shy;te län&shy;ger glau&shy;ben las&shy;sen kann,
+> wenn er sich per&shy;fi&shy;de genug Ver&shy;trauen er&shy;schleicht.
+> Und da ich ver&shy;mute,
+> dass er **am 30. Juli für knapp 25 Minuten im Besitz mei&shy;nes
+> Per&shy;so&shy;nal&shy;aus&shy;wei&shy;ses** war,
+> be&shy;fürch&shy;te ich,
+> dass er ihn für irgend&shy;ei&shy;nen Quatsch miss&shy;braucht
+> haben könn&shy;te.
+> Ich hat&shy;te n&auml;m&shy;lich das ers&shy;te Mal seit 33 Jahren
+> mei&shy;nen Per&shy;so&shy;nal&shy;aus&shy;weis ver&shy;lo&shy;ren,
+> was ich in&shy;zwischen f&uuml;r fin&shy;giert hal&shy;te.   
 > 
-> Ich habe mich am 9. Aug. erst umgemeldet. Die neue Adresse sollte damals noch nicht vermerkt gewesen sein. Mal Foto machen, dem Freak traue ich alles zu..
+> Ich habe mich am 9. Aug. erst um&shy;ge&shy;mel&shy;det.
+> Die neue Adresse soll&shy;te damals noch nicht ver&shy;merkt
+> gewe&shy;sen sein.
+> Ich habe gerade ein Foto von der R&uuml;ckseite gemacht,
+> ich traue den T&auml;tern in&shy;zwischen alles zu..
 >   
-> Du bist so bekloppt: Wahrscheinlich wirfst Du dann anderen auch noch vor, in bester Absicht zu vertrauen, in der perfiden Absicht, dass sie eine wundervolle Charaktereigenschaft verlieren.  
-> Alles was man wissen muss: Du Kreatur bist weg und die Sonne geht auf!
+> So verr&uuml;ckt:
+> Wahr&shy;schein&shy;lich wirfst Du dann ande&shy;ren auch noch vor,
+> in bes&shy;ter Ab&shy;sicht zu ver&shy;tra&shy;uen,
+> in der per&shy;fi&shy;den Ab&shy;sicht,
+> dass sie eine wun&shy;der&shy;volle
+> Charak&shy;ter&shy;ei&shy;gen&shy;schaft ver&shy;lie&shy;ren.  
+> Alles was man wis&shy;sen muss:
+> Diese Kreatur ist weg und die Sonne geht auf!
 > 
-> [**Anm.**] *Julia* hat mglw. gar nicht aufgeh&ouml;rt, sondern "Seitenwechsel" fingiert. Sie versucht n&auml;mlich gerade, mich zu &uuml;berzeugen. Je l&auml;nger sie das versucht, destso fester das Resultat: Sie bleibt f&uuml;r mich(!) 100% kadavergehorsame Komplizin (und viel zu gef&auml;hrliche Sadistin).
+> [**Anm.**] Die *Julia*-"Entit&auml;t" hat mglw. gar nicht
+> "auf&shy;ge&shy;h&ouml;rt",
+> son&shy;dern "Sei&shy;ten&shy;wech&shy;sel" fin&shy;giert.
+> Sie ver&shy;sucht n&auml;m&shy;lich ge&shy;ra&shy;de,
+> mich zu &uuml;ber&shy;zeu&shy;gen.
+> Je l&auml;n&shy;ger sie das ver&shy;sucht,
+> dest&shy;so fes&shy;ter das Resul&shy;tat:
+> Sie bleibt f&uuml;r mich(!) 100% kada&shy;ver&shy;ge&shy;hor&shy;same
+> Kompli&shy;zin
+> (und viel zu ge&shy;f&auml;hr&shy;liche Sadis&shy;tin).
 >
-> [**weitere Anm.**] Die T&auml;ter [greifen mglw. tief in menschliche Beziehungen ein](#iso), eine zumindest initiale Etablierung von (irgendwann) "Liebes"beziehungen halte ich inzwischen zumindest f&uuml;r m&ouml;glich.
+> [**weitere Anm.**] Die T&auml;ter [grei&shy;fen mglw. tief in
+> mensch&shy;liche Be&shy;zie&shy;hun&shy;gen ein](#iso),
+> eine zumin&shy;dest ini&shy;tiale Etab&shy;lie&shy;rung von
+> (irgend&shy;wann) "Liebes"be&shy;zie&shy;hun&shy;gen hal&shy;te ich
+> in&shy;zwischen zu&shy;min&shy;dest f&uuml;r m&ouml;glich.
 >
-> [**3. Anm.** 13:10] Die T&auml;ter fangen an,
-> via Akustik Gedanken zu [soufflieren](https://de.wikipedia.org/wiki/Souffleur)
-> (sodass man auf Gedanken "hängen" bleibt oder bestimmte Wörter sagen muss)
-> und wollen so Uplaod von Fotomaterial erreichen
-> (ich meine(!) sie sitzen physisch auf meiner DSL-Leitung)
-> oder Zweifel sähen
-> (was erschreckend oft gut funktioniert).
+> [**3. Anm.** 13:10] Die T&auml;ter fan&shy;gen an,
+> via Akus&shy;tik Ge&shy;dan&shy;ken zu
+> [soufflieren](https://de.wikipedia.org/wiki/Souffleur)
+> (so&shy;dass man auf Ge&shy;dan&shy;ken "h&auml;n&shy;gen" bleibt
+> oder be&shy;stimm&shy;te W&ouml;r&shy;ter sagen muss)
+> und wol&shy;len so Up&shy;load von Foto&shy;ma&shy;te&shy;rial
+> er&shy;rei&shy;chen
+> (ich mei&shy;ne(!) sie sit&shy;zen phy&shy;sisch auf mei&shy;ner
+> DSL-Lei&shy;tung)
+> oder Zwei&shy;fel sähen
+> (was er&shy;schreckend oft gut funk&shy;tio&shy;niert).
 
 > [!IMPORTANT]
 > [**06.10.2024** 12:00]
@@ -91,7 +133,7 @@ Mehr nicht..-->
 > Seite und ver&shy;such&shy;en
 > (mal wie&shy;der)
 > mich hoch&shy;zu&shy;pitchen.
-> Sug&shy;ge&shy;rier&shy;te (Sender-)Rich&shy;tung:
+> Sug&shy;ge&shy;rier&shy;te (Sen&shy;der-)Rich&shy;tung:
 > (Mal wie&shy;der)
 > Die Woh&shy;nung &uuml;ber mei&shy;ner.
 > Sehr wit&shy;zig!
@@ -2770,6 +2812,14 @@ ihrer Opfer.
       &Uuml;ber&shy;wachung auch dieses Wohn&shy;raums(!!),  
       hier: mit ho&shy;her Wahr&shy;schein&shy;lich&shy;keit
       wei&shy;te&shy;re(!³)
+  * [**Anm.** 07.10.] Ob Sug&shy;ges&shy;tion heu&shy;te:
+    Der
+    (im&shy;mer freund&shy;li&shy;che :grimacing:)
+    Brief&shy;in&shy;halt ist nat&uuml;r&shy;lich ein&shy;mal
+    ab&shy;fo&shy;to&shy;gra&shy;fiert,
+    schon um Mani&shy;pu&shy;la&shy;tion zu ver&shy;mei&shy;den,
+    aber mit Sicher&shy;heit nicht im &ouml;ffent&shy;lichen
+    Up&shy;load-Be&shy;reich. :wink:
     </img>
 
 <!-- suizidversuch -->
@@ -2914,9 +2964,34 @@ ver&shy;lei&shy;tet wor&shy;den.
     egal wel&shy;ches Band er&shy;reicht die Po&shy;li&shy;zei
     (bis auf einen, von den Tätern so vor&shy;ge&shy;se&shy;he&shy;ner,
     um mich vor&shy;zu&shy;f&uuml;h&shy;ren)
-  * alle Not&shy;rufe gehen schein&shy;bar(!) in der Borussia&shy;str. 34A,
-    1\. OG, links, ein und wer&shy;den von den Tätern(!)
-    "be&shy;ar&shy;bei&shy;tet" (meis&shy;tens "Felix")
+  * alle Not&shy;rufe gehen schein&shy;bar(!) in der
+    Borussia&shy;str. 34A, 1\. OG, links, ein und
+    wer&shy;den von den T&auml;tern(!)
+    "be&shy;ar&shy;bei&shy;tet"
+    (meis&shy;tens "Felix")
+  </details>
+
+<details>
+  <summary>
+  <img align="right"
+    alt="Call-Log: Notruf 6.10., ab 0:13"
+    src="./2024-10-06_log_Polizei-notruf.png"
+    width="300px">
+    <h5>**Noch mal** (Sug&shy;ges&shy;tion der)
+      **Mani&shy;pu&shy;la&shy;tion sämt&shy;lich&shy;er Not&shy;rufe
+      ver&shy;schie&shy;de&shy;ner Be&shy;woh&shy;ner am 6. Okt.,
+      nachts (etwas &uuml;ber 2 h ins&shy;ge&shy;samt)
+      an die Ber&shy;li&shy;ner Poli&shy;zei</h5></summary>
+
+  * einige Not&shy;rufe er&shy;rei&shy;chen die Po&shy;li&shy;zei
+  * drei Not&shy;ru&shy;fe gehen durch,
+    wer&shy;den auch be&shy;arbei&shy;tet,
+    aber so be&shy;han&shy;delt,
+    dass nie&shy;mand kommt,
+    da ich &uuml;ber&shy;trei&shy;be oder
+    meine Ge&shy;schich&shy;te un&shy;glaub&shy;w&uuml;r&shy;dig ist
+    oder ich un&shy;h&ouml;f&shy;lich bin
+  </img>
   </details>
 
 <details>
@@ -3311,7 +3386,8 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   1. viel zu freund&shy;lich war, da&shy;her von
      **selbst&shy;er&shy;nann&shy;te**n(!)
      **unter&shy;joch&shy;en&shy;de**n **und
-     ver&shy;ge&shy;wal&shy;ti&shy;gen&shy;de**n **Trieb&shy;t&auml;ter**n
+     ver&shy;ge&shy;wal&shy;ti&shy;gen&shy;de**n
+     **Trieb&shy;t&auml;ter**n
      zur Verh&ouml;nung ge&shy;nutzt wur&shy;de und
   2. Horte der Freude im wei&shy;te&shy;ren Ver&shy;lauf
      h&auml;t&shy;te be&shy;lei&shy;di&shy;gen k&ouml;n&shy;nen,
@@ -3320,17 +3396,17 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   da sich wei&shy;te&shy;res per&shy;vers-sadis&shy;ti&shy;sches
   Ge&shy;schmei&szlig; ein&shy;ge&shy;fun&shy;den hat.
   Wich&shy;tige **Anm.**: Die Namens&shy;**tr&auml;&shy;ger richten sich
-  bitte auf bis zu t&auml;g&shy;liche Namens&shy;ro&shy;ta&shy;tion ein und
-  m&uuml;s&shy;sen ihren Namen**
+  bitte auf bis zu t&auml;g&shy;liche Namens&shy;ro&shy;ta&shy;tion ein
+  und m&uuml;s&shy;sen ihren Namen**
   (zur Iden&shy;ti&shy;fi&shy;ka&shy;tion)
   immer **voll&shy;st&auml;n&shy;dig nen&shy;nen**
   (MUSS-Be&shy;stim&shy;mung als An&shy;pas&shy;sung auf "ihren"
   ge&shy;wohn&shy;ten tota&shy;li&shy;t&auml;ren An&shy;satz,
-  da es in der j&uuml;n&shy;ge&shy;ren Ver&shy;gan&shy;gen&shy;heit et&shy;was
-  hak&shy;te),
+  da es in der j&uuml;n&shy;ge&shy;ren Ver&shy;gan&shy;gen&shy;heit
+  et&shy;was hak&shy;te),
   allen ande&shy;ren ist es frei&shy;ge&shy;stellt, zu verk&uuml;rzen
-  (&uuml;b&shy;lich aber und auch im Ausland gel&auml;ufig ist das von jedem
-  Kind be&shy;kann&shy;te einfache Nazi-Schwein).
+  (&uuml;b&shy;lich aber und auch im Aus&shy;land ge&shy;l&auml;ufig ist
+  das von jedem Kind be&shy;kann&shy;te ein&shy;fache Nazi-Schwein).
   Wei&shy;te&shy;re **Anm.**: Foto lei&shy;der et&shy;was
   ver&shy;harm&shy;lo&shy;send
   (Goa-Party-After&shy;show,
