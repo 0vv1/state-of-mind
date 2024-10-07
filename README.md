@@ -40,10 +40,11 @@ Mehr nicht..-->
 > [!IMPORTANT]
 > [**Erg.** 07.10.]
 > Eine Sache, die so reichlich kaputt ist, dass man sie kaum in Erwägung zieht:  
-> Diese Kreatur von Haupttäter wollte von Anfang an ich sein
+> Der Haupttäter suggerierte mir von Anfang an, dass er ich sein wollte.
 > (**Identit&auml;tsdiebstahl**).  
-> Der hat mich ganz leise gemacht, vermutlich kennt niemand meine echte Stimme.  
-> Jetzt verstehe ich dieses hohle Nachgeplapper: Der/die(?) fing(-en) an,
+> Er hat mich ganz leise gemacht, vermutlich kennt niemand meine echte Stimme.  
+> Jetzt verst&uuml;nde ich dieses hohle Nachgeplapper:
+> Der/die(?) fing(-en) an,
 > mich zu simulieren/imitieren. 😶
 > 
 > Ich fürchte so langsam auch, dass er es Dritte länger glauben lassen kann, wenn er sich perfide genug Vertrauen erschleicht.
