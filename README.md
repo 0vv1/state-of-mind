@@ -40,13 +40,16 @@ Mehr nicht..-->
 > [!IMPORTANT]
 > [**Erg.** 07.10.]
 > Eine Sache, die so reichlich kaputt ist, dass man sie kaum in Erwägung zieht:  
-> Diese Kreatur von Haupttäter wollte von Anfang an ich sein.  
+> Diese Kreatur von Haupttäter wollte von Anfang an ich sein
+> (**Identit&auml;tsdiebstahl**).  
 > Der hat mich ganz leise gemacht, vermutlich kennt niemand meine echte Stimme.  
 > Jetzt verstehe ich dieses hohle Nachgeplapper: Der/die(?) fing(-en) an,
 > mich zu simulieren/imitieren. 😶
 > 
 > Ich fürchte so langsam auch, dass er es Dritte länger glauben lassen kann, wenn er sich perfide genug Vertrauen erschleicht.
-> Und da ich vermute, dass er am 30. Juli für knapp 25 min im Besitz meines Personalausweises war, befürchte ich, dass er ihn für irgendeinen Quatsch missbraucht haben könnte.  
+> Und da ich vermute, dass er **am 30. Juli für knapp 25 min im Besitz meines Personalausweises** war, befürchte ich, dass er ihn für irgendeinen Quatsch missbraucht haben könnte.
+> Ich hatte nämlich das erste Mal seit 33 Jahren meinen Personalausweis verloren,
+> was ich inzwischen f&uuml;r fingiert halte.   
 > 
 > Ich habe mich am 9. Aug. erst umgemeldet. Die neue Adresse sollte damals noch nicht vermerkt gewesen sein. Mal Foto machen, dem Freak traue ich alles zu..
 >   
