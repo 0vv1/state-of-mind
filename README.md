@@ -41,20 +41,21 @@ Mehr nicht..-->
 > [**Erg.** 07.10.]
 > Eine Sache, die so reichlich kaputt ist, dass man sie kaum in Erwägung zieht:  
 > Diese Kreatur von Haupttäter wollte von Anfang an ich sein.  
-> Der hat mich ganz leise gemacht, vermutlich kennt niemand meine echte Stimme.
-> Der/die(?) hat/haben(?) mich simuliert/imitiert.
-> Und ich f&uuml;rchte manchmal irgendwann alles.. 😶
+> Der hat mich ganz leise gemacht, vermutlich kennt niemand meine echte Stimme.  
+> Jetzt verstehe ich dieses hohle Nachgeplapper: Der/die(?) fing(-en) an,
+> mich zu simulieren/imitieren. 😶
 > 
-> Aber so langsam fürchte ich, dass er es Dritte zumindest kurz glauben lassen kann, wenn er sich perfide genug Vertrauen erschleicht.
+> Ich fürchte so langsam auch, dass er es Dritte länger glauben lassen kann, wenn er sich perfide genug Vertrauen erschleicht.
 > Und da ich vermute, dass er am 30. Juli für knapp 25 min im Besitz meines Personalausweises war, befürchte ich, dass er ihn für irgendeinen Quatsch missbraucht haben könnte.  
 > 
-> Ich habe mich am 9. Aug. erst umgemeldet. Die neue Adresse sollte damals noch nicht vermerkt gewesen sein. Mal Foto machen, dem Freak traue ich alles zu.  
-> Du bist so bekloppt. Wahrscheinlich wirfst Du dann anderen auch noch vor, in bester Absicht zu Vertrauen, in der perfiden Absicht, dass sie eine wundervolle Charaktereigenschaft verlieren.  
+> Ich habe mich am 9. Aug. erst umgemeldet. Die neue Adresse sollte damals noch nicht vermerkt gewesen sein. Mal Foto machen, dem Freak traue ich alles zu..
+>   
+> Du bist so bekloppt: Wahrscheinlich wirfst Du dann anderen auch noch vor, in bester Absicht zu vertrauen, in der perfiden Absicht, dass sie eine wundervolle Charaktereigenschaft verlieren.  
 > Alles was man wissen muss: Du Kreatur bist weg und die Sonne geht auf!
 > 
-> **Anm.**: *Julia* hat mglw. gar nicht aufgeh&ouml;rt, sondern "Seitenwechsel" fingiert. Sie versucht n&auml;lich gerade, mich zu &uuml;berzeugen. Je l&auml;nger sie das versucht, destso fester das Resultat: Sie bleibt f&uuml;r mich(!) 100% kadavergehorsame Komplizin (und viel zu gef&auml;hrliche Sadistin).
+> **Anm.**: *Julia* hat mglw. gar nicht aufgeh&ouml;rt, sondern "Seitenwechsel" fingiert. Sie versucht n&auml;mlich gerade, mich zu &uuml;berzeugen. Je l&auml;nger sie das versucht, destso fester das Resultat: Sie bleibt f&uuml;r mich(!) 100% kadavergehorsame Komplizin (und viel zu gef&auml;hrliche Sadistin).
 >
-> **Weitere Anm.**: Die T&auml;ter [greifen mglw. tief in menschliche Beziehungen ein](#iso), die initiale Etablierung von auch tiefen "Liebes"beziehungen halte ich inzwischen zumindest f&uuml;r m&ouml;glich.
+> **Weitere Anm.**: Die T&auml;ter [greifen mglw. tief in menschliche Beziehungen ein](#iso), eine zumindest initiale Etablierung von (irgendwann) "Liebes"beziehungen halte ich inzwischen zumindest f&uuml;r m&ouml;glich.
 
 
 > [!IMPORTANT]
