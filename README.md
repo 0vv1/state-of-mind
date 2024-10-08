@@ -85,12 +85,22 @@ version: Di., 8. Okt. 2024
 > ich will die sog. Wahr&shy;heit wis&shy;sen,
 > ihr reu&shy;di&shy;gen Lap&shy;pen!
 >
-> [**Anm.** 16:10] Grad mal 'nen Test gemacht und laut gesagt,
-> dass ich Kontakt zu ihr habe und meine "Stimmen" nur verarsche.
-> Die "Stimmen" wurden recht aufgeregt, fast "zu laut" f&uuml;r eine
-> Schizophrenie?  
-> Mglw. muss ich mir keine oder wenigstens weniger Sorgen machen.
-> F&Uuml;r mich i.O.
+> [**Anm.** 16:10] Grad mal 'nen Test ge&shy;macht und laut ge&shy;sagt,
+> dass ich Kon&shy;takt zu ihr habe und meine "Stim&shy;men" nur
+> ver&shy;arsche.
+> Die "Stim&shy;men" wur&shy;den recht auf&shy;ge&shy;regt,
+> fast "zu laut" f&uuml;r eine Schi&shy;zo&shy;phre&shy;nie?  
+> Diese Num&shy;mer hier wird lei&shy;der immer ech&shy;ter und damit
+> auch per&shy;fi&shy;der,
+> aber:
+> Mglw. muss ich mir keine oder wenigs&shy;tens weni&shy;ger
+> Sor&shy;gen machen. :clap: :grimacing:
+> Noch&shy;mal:
+> Darf ich fra&shy;gen,
+> um was es hier geht?
+> Be&shy;fin&shy;den sich in der Woh&shy;nung ne&shy;ben mei&shy;ner
+> wirk&shy;lich er&shy;wach&shy;se&shy;ne Men&shy;schen und ver&shy;bringen
+> ihren Tag mit dem hostilen Voll&shy;s&uuml;l&shy;zen eines ande&shy;ren?
 
 > [!IMPORTANT]
 > [**Erg.** 07.10.]
