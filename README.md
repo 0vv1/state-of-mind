@@ -11,6 +11,14 @@ version: Di., 8. Okt. 2024
 
 <h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Versuch der Induk&shy;tion einer k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie?</sup></sub></h1>
 
+> [!CAUTION]
+> Mglw. Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl und zwei
+> "Alex&shy;an&shy;der Puls".
+>
+> Bis heute (8. Okt.) **muss** lei&shy;der **nichts** von dem,
+> was ich hier schrei&shy;be,
+> irgend&shy;ei&shy;nem **Reali&shy;t&auml;ts&shy;be&shy;zug** ha&shy;ben!
+
 > [!NOTE]
 > [**08.10.**]
 > Die "Stim&shy;men" arten so aus,
