@@ -116,7 +116,8 @@ version: Di., 8. Okt. 2024
 > Was ich (vielleicht) von ihr mitbekommen habe, ist herzlich, witzig, s&uuml;&szlig;.  
 >
 > P.S.: Das Buch erstmal nicht. Warum sollte es 1 (in Worten eine) gute Information von dieser Kreatur geben?  
-> P.P.S.: Das hier ist eine Lebensversicherung, wa..
+> P.P.S.: Das hier ist eine Lebensversicherung, wa..  
+> P.P.P.S.: I'm fuckin' great, Dude! :wink:
 
 > [!CAUTION]
 > Der Typ scheint Teil einer Sadistengang zu sein (3+ Typen plus eine Frau)! Details nicht hier, aber ich bin abgesichert.  
