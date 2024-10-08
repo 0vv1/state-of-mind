@@ -15,10 +15,10 @@ version: Di., 8. Okt. 2024
 > Mglw. Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl und zwei
 > "Alex&shy;an&shy;der Puls".
 >
-> Auch wenn ich es bef&uuml;chte,
+> Auch wenn ich es lang&shy;sam bef&uuml;chte,
 > **muss** bis heute
 > (8. Okt.)
-> lei&shy;der **nichts** von dem,
+> **nichts** von dem,
 > was ich hier schrei&shy;be,
 > irgend&shy;ei&shy;nem **Reali&shy;t&auml;ts&shy;be&shy;zug** ha&shy;ben!
 
