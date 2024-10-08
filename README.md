@@ -2855,34 +2855,35 @@ ihrer Opfer.
 <h4>Kom&shy;mu&shy;ni&shy;ka&shy;tions&shy;un&shy;ter&shy;dr&uuml;ckung</h4>
   
   * Ver&shy;dacht unter&shy;dr&uuml;ck&shy;ten E-Mail-Ver&shy;kehrs
-    in 4 Fäl&shy;len durch Mani&shy;pu&shy;la&shy;tion der
+    in 4 Fäl&shy;len mglw. durch Mani&shy;pu&shy;la&shy;tion der
     DSL-Lei&shy;tung
     (nach Ein&shy;re&shy;de durch T&auml;ter)
     * Mails vom **12.02., 20:08**, **16.08., 2:49** & **21:00** sowie
       **2. Okt., 5:30**
-  * fin&shy;gier&shy;te "Er&shy;satz"-E-Mails vol&shy;ler Hass
+  * mglw. fin&shy;gier&shy;te "Er&shy;satz"-E-Mails vol&shy;ler Hass
     * mglw. fin&shy;gier&shy;ter Ab&shy;sen&shy;der aus
       ab&shy;ge&shy;fisch&shy;ten ori&shy;gi&shy;na&shy;len E-Mails
       (s.&#8239;o.)
   * [fin&shy;gier&shy;te Social-Media-Accounts](#suspendierung-meines-1-facebook-accounts-am-30-sep-2024)
-    zum Streuen von Hass und
-    belie&shy;bi&shy;ger Des&shy;infor&shy;ma&shy;tion
+    zum Streuen von Hass und belie&shy;bi&shy;ger Des&shy;infor&shy;ma&shy;tion
     <img align="right" alt="Brief-Einwurf" width="400px"
       src="./2024-10-02_20-59_einwurf-brief.jpg">
     (in diesem Zusam&shy;men&shy;hang mglw.
     [Job-Ver&shy;lust](#job-verlust))
   * Ver&shy;dacht der Unter&shy;dr&uuml;ckung regu&shy;l&auml;ren
     Brief&shy;ver&shy;kehrs nach eigen&shy;h&auml;n&shy;di&shy;gem(!)
-    Ein&shy;wurf am **2. Okt, 20:59** Uhr.
+    Ein&shy;wurf am **2. Okt., 20:59** Uhr.
   * T&auml;ter war nach mei&shy;ner R&uuml;ck&shy;kehr nach Hau&shy;se
     be&shy;reits in&shy;for&shy;miert
     (die Ver&shy;mitt&shy;lung die&shy;ses Um&shy;stands
     au&szlig;er&shy;or&shy;dent&shy;lich wich&shy;tig)
     * bedeu&shy;te&shy;te zwangs&shy;l&auml;ufig die
       (min&shy;des&shy;tens(!) akus&shy;ti&shy;sche)
-      &Uuml;ber&shy;wachung auch dieses Wohn&shy;raums(!!),  
-      hier: mit ho&shy;her Wahr&shy;schein&shy;lich&shy;keit
-      wei&shy;te&shy;re(!³)
+      &Uuml;ber&shy;wachung auch dieses Wohn&shy;raums(!),  
+      hier: mit durch&shy;aus ho&shy;her Wahr&shy;schein&shy;lich&shy;keit
+      auch wei&shy;te&shy;re Wohn&shy;ein&shy;hei&shy;ten
+      (m&ouml;g&shy;lich&shy;er&shy;wei&shy;se auch in ande&shy;ren
+      Stadt&shy;tei&shy;len?!)
     <img align="right" alt="Brief: Ecke" width="200px"
       src="./2024-10-02_brief-an-lia.ecke.jpg">
   * [**Anm.** 07.10.] Ob Sug&shy;ges&shy;tion heu&shy;te:
