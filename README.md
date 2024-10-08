@@ -12,24 +12,6 @@ version: Di., 8. Okt. 2024
 <h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Versuch der Induk&shy;tion einer k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie?</sup></sub></h1>
 
 > [!NOTE]
-> [**08.10** 18:00]
-> Mir geht grad auf,
-> dass dieser Idiot seine letzte Karte verspielt hat
-> (und kam mit 32).
-> Du wusstest selber nicht, wo sie ist, Dude! Und das Beste: Du kannst ihr auch nix. (Erstmal.) Ich hab alles brav mitgeschrieben.  
-> Mir ist auch Scheiß egal, ob diese Frau mich überhaupt kennt oder alles Einrede/Suggestion ist.
-> Es gibt wichtigeres, aber:
-> Wenn alles gut l&auml;uft,
-> "darf" ich sie irgendwann mal kennenlernen.
-> Vielleicht erlaubst Du das ja? :joy:
-> Was ich (vielleicht) von ihr mitbekommen habe, ist herzlich, witzig, s&uuml;&szlig;.  
-P.S.: Das Buch erstmal nicht. Warum sollte es 1 (in Worten eine) gute Information von dieser Kreatur geben?
-
-> [!CAUTION]
-> Der Typ scheint Teil einer Sadistengang zu sein (3+ Typen plus eine Frau)! Details nicht hier, aber ich bin abgesichert.  
-> Alle anderen "Tatbeteiligten" sind perfide get&auml;uschte Opfer.
-
-> [!NOTE]
 > [**08.10.**]
 > Die "Stim&shy;men" arten so aus,
 > dass ich fast von einer k&uuml;nst&shy;li&shy;chen
@@ -104,7 +86,7 @@ P.S.: Das Buch erstmal nicht. Warum sollte es 1 (in Worten eine) gute Informatio
 > ihr reu&shy;di&shy;gen Lap&shy;pen!
 >
 > [**Anm.** 16:10] Grad mal 'nen Test ge&shy;macht und laut ge&shy;sagt,
-> dass ich Kon&shy;takt zu ihr habe und meine "Stim&shy;men" nur
+> dass ich eh Kon&shy;takt zu ihr habe und meine "Stim&shy;men" nur
 > ver&shy;arsche.
 > Die "Stim&shy;men" wur&shy;den recht auf&shy;ge&shy;regt,
 > fast "zu laut" f&uuml;r eine Schi&shy;zo&shy;phre&shy;nie?  
@@ -119,6 +101,27 @@ P.S.: Das Buch erstmal nicht. Warum sollte es 1 (in Worten eine) gute Informatio
 > Be&shy;fin&shy;den sich in der Woh&shy;nung ne&shy;ben mei&shy;ner
 > wirk&shy;lich er&shy;wach&shy;se&shy;ne Men&shy;schen und ver&shy;bringen
 > ihren Tag mit dem hostilen Voll&shy;s&uuml;l&shy;zen eines ande&shy;ren?
+
+> [!NOTE]
+> [**08.10.** 18:00]
+> Mir geht grad auf,
+> dass dieser Idiot seine letzte Karte verspielt hat
+> (und kam mit 32).
+> Du wusstest selber nicht, wo sie ist, Dude! Und das Beste: Du Spinner kannst ihr auch nix. (Erstmal.) Ich hab alles brav mitgeschrieben.  
+> Mir ist auch Scheiß egal, ob diese Frau mich überhaupt kennt oder alles Einrede/Suggestion ist.
+> Es gibt wichtigeres, aber:
+> Wenn alles gut l&auml;uft,
+> "darf" ich sie irgendwann mal kennenlernen.
+> Vielleicht erlaubst Du das ja? :joy:
+> Was ich (vielleicht) von ihr mitbekommen habe, ist herzlich, witzig, s&uuml;&szlig;.  
+>
+> P.S.: Das Buch erstmal nicht. Warum sollte es 1 (in Worten eine) gute Information von dieser Kreatur geben?  
+> P.P.S.: Das hier ist eine Lebensversicherung, wa..
+
+> [!CAUTION]
+> Der Typ scheint Teil einer Sadistengang zu sein (3+ Typen plus eine Frau)! Details nicht hier, aber ich bin abgesichert.  
+> Alle anderen "Tatbeteiligten" sind perfide get&auml;uschte Opfer.
+
 
 > [!IMPORTANT]
 > [**Erg.** 07.10.]
