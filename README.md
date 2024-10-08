@@ -6,13 +6,13 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Mo., 7. Okt. 2024
+version: Di., 8. Okt. 2024
 ```
 
 <h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Versuch der Induk&shy;tion einer k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie?</sup></sub></h1>
 
 > [!NOTE]
-> [**08.10**]
+> [**08.10.**]
 > Die "Stim&shy;men" arten so aus,
 > dass ich fast von einer k&uuml;nst&shy;li&shy;chen
 > "Induk&shy;tion" einer Schizo&shy;phre&shy;nie aus&shy;ge&shy;hen
@@ -28,15 +28,17 @@ version: Mo., 7. Okt. 2024
 > es ist der Kon&shy;trast).
 > 
 > Ab&shy;ge&shy;se&shy;hen von die&shy;sem gan&shy;zen
-> mon&shy;str&ouml;s grau&shy;sa&shy;men M&uuml;ll mit aber mir im
-> Wesent&shy;li&shy;chen un&shy;be&shy;kann&shy;ten Per&shy;so&shy;nen
-> (die voll&shy;kom&shy;men ver&shy;ant&shy;wor&shy;tungs&shy;frei
-> sind),
+> mon&shy;str&ouml;s grau&shy;sa&shy;men M&uuml;ll,
+> mit mir im Wesent&shy;li&shy;chen un&shy;be&shy;kann&shy;ten
+> Per&shy;so&shy;nen
+> (un&shy;be&shy;las&shy;teten und ohne Ver&shy;ant&shy;wor&shy;tung),
 > geht es sehr oft um eine,
-> mir eigent&shy;lich auch un&shy;be&shy;kann&shy;te Per&shy;son
-> (auch ver&shy;ant&shy;wor&shy;tungs&shy;frei,
-> nur per&shy;fi&shy;de get&auml;uscht),
-> aber wenigs&shy;tens ver&shy;se&shy;hen mit einem Namen.
+> mir eigent&shy;lich auch un&shy;be&shy;kann&shy;te,
+> aber reale(!) Per&shy;son
+> (auch un&shy;be&shy;las&shy;tet,
+> je&shy;doch per&shy;fi&shy;de
+> <nobr>get&auml;uscht<sup>:warning:Suggestion</sup>)</nobr>,
+> aber ver&shy;se&shy;hen mit einem Namen:
 > 
 > **Wo ist Lia?**  
 > 
@@ -53,13 +55,13 @@ version: Mo., 7. Okt. 2024
 > Ihren Lieblings&shy;fu&szlig;&shy;ball&shy;club?  
 > Wenn nicht von ihr?
 > 
-> Sollte es Ver&shy;ant&shy;wort&shy;liche f&uuml;r die&shy;sen
+> Soll&shy;te es Ver&shy;ant&shy;wort&shy;liche f&uuml;r die&shy;sen
 > Irr&shy;sinn geben:  
 > Wenn irgend&shy;je&shy;mand vor Jahren bereits mit Ein&shy;rede,
-> Sug&shy;ges&shy;tion (Hyp&shy;nose?) und Kon&shy;trol&shy;le &uuml;ber
-> die Kom&shy;mu&shy;ni&shy;ka&shy;tion be&shy;gon&shy;nen haben
+> Sug&shy;ges&shy;tion (Hyp&shy;nose?) und
+> Kon&shy;trol&shy;<nobr>le/</nobr>Mani&shy;pu&shy;la&shy;tion
+> der Kom&shy;mu&shy;ni&shy;ka&shy;tion be&shy;gon&shy;nen haben
 > soll&shy;te,
-> um die&shy;se zu mani&shy;pu&shy;lie&shy;ren,
 > halte ich es nach drei Minu&shy;ten schon f&uuml;r sehr schwierig,
 > dass sich zwei Men&shy;schen un&shy;vor&shy;ein&shy;ge&shy;nom&shy;men
 > begeg&shy;nen k&ouml;n&shy;nen.
@@ -67,9 +69,9 @@ version: Mo., 7. Okt. 2024
 > Habt ihr ver&shy;rot&shy;te&shy;ten Krea&shy;tu&shy;ren eine Idee davon,
 > wie es nach drei Mona&shy;ten aus&shy;sieht?
 > Oder Jah&shy;ren?  
-> Bei gleich&shy;zei&shy;ti&shy;gem An&shy;hei&shy;zen be&shy;reits
-> ver&shy;f&auml;lsch&shy;ter Er&shy;in&shy;ne&shy;rung an fal&shy;sche
-> Er&shy;in&shy;ne&shy;rung?  
+> Bei gleich&shy;zei&shy;ti&shy;gem An&shy;hei&shy;zen fal&shy;scher
+> Er&shy;in&shy;ne&shy;rung an bereits verf&auml;lsch&shy;tes
+> Er&shy;le&shy;ben?  
 > Bei gleich&shy;zei&shy;ti&shy;gem quasi Kon&shy;takt&shy;ver&shy;bot
 > oder -ver&shy;hin&shy;de&shy;rung nach Kr&auml;f&shy;ten?
 > 
@@ -1723,7 +1725,7 @@ Miss&shy;hand&shy;lung(/Ver&shy;ge&shy;wal&shy;ti&shy;gung?)
 * bie&shy;ten mir dann eine Art Über&shy;gabe an,
 * lassen mich mehr&shy;mals
   (irgend&shy;wo im Haus)
-  an&shy;tre&shy;<nobr>ten</nobr><wbr>um&shy;her&shy;irren,
+  an&shy;tre&shy;<nobr>ten/</nobr><wbr>um&shy;her&shy;irren,
 * lassen diese Über&shy;gabe dann aber,
   auf&shy;grund unter&shy;stell&shy;ter
   Un&shy;fähig&shy;<nobr>keit/</nobr><wbr>Über&shy;for&shy;de&shy;rung
