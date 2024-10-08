@@ -9,7 +9,7 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: Mo., 7. Okt. 2024
 ```
 
-<h1>Zustands&shy;be&shy;schrei&shy;bung mei&shy;nes Ver&shy;stan&shy;des<br><sub><sup>urspr.: "Sammlung von Hinweisen auf Stalking &c. unter Ausnutzen einer schizoaffektiven St&ouml;rung"</sup></sub></h1>
+<h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Versuch der Induk&shy;tion einer k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie?</sup></sub></h1>
 
 > [!NOTE]
 > [**08.10**]
