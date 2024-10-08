@@ -44,8 +44,9 @@ version: Mo., 7. Okt. 2024
 > Warum ant&shy;wor&shy;tet sie mir nicht,
 > ver&shy;suche ich,
 > es heraus&shy;zu&shy;fin&shy;den?  
-> Ich bin die&shy;sem Men&shy;schen vor Jah&shy;ren drei,
-> vier Mal fl&uuml;ch&shy;tig im Trep&shy;pen&shy;haus begeg&shy;net,  
+> Ich bin die&shy;sem Men&shy;schen in der Realit&auml;t drei,
+> vier Mal fl&uuml;ch&shy;tig im Trep&shy;pen&shy;haus begeg&shy;net
+> (vor Jah&shy;ren),  
 > warum lan&shy;det ihr Name immer wie&shy;der in mei&shy;nem Gehirn?  
 > Woher kenne ich ihr Geburts&shy;da&shy;tum?  
 > Ihre Heimat&shy;stadt?  
@@ -54,8 +55,9 @@ version: Mo., 7. Okt. 2024
 > 
 > Sollte es Ver&shy;ant&shy;wort&shy;liche f&uuml;r die&shy;sen
 > Irr&shy;sinn geben:  
-> Wenn irgend&shy;je&shy;mand vor Jahren Kon&shy;trol&shy;le &uuml;ber
-> die Kom&shy;mu&shy;ni&shy;ka&shy;tion &uuml;ber&shy;nom&shy;men haben
+> Wenn irgend&shy;je&shy;mand vor Jahren bereits mit Ein&shy;rede,
+> Sug&shy;ges&shy;tion (Hyp&shy;nose?) und Kon&shy;trol&shy;le &uuml;ber
+> die Kom&shy;mu&shy;ni&shy;ka&shy;tion be&shy;gon&shy;nen haben
 > soll&shy;te,
 > um die&shy;se zu mani&shy;pu&shy;lie&shy;ren,
 > halte ich es nach drei Minu&shy;ten schon f&uuml;r sehr schwierig,
