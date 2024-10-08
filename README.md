@@ -3073,7 +3073,6 @@ ver&shy;lei&shy;tet wor&shy;den.
       width="450px" />&nbsp;<img alt="Facebook: Appeal & wait.."
       src="./2024-09-30_faceboock_appeal.png" width="450px" />
     
-  
     [**Erg.**] Einer der T&auml;ter
       (ich ver&shy;mute in&shy;zwi&shy;schen mind. zwei,
       aller&shy;dings nur,
@@ -3083,7 +3082,7 @@ ver&shy;lei&shy;tet wor&shy;den.
       die Sus&shy;pen&shy;die&shy;rung h&auml;tten "sie"
       ver&shy;an&shy;lasst, weil
       "zu viel auf dem Spiel st&uuml;nde" :joy::joy::joy:
-    → *Jo, Dude!! Mei&shy;ne Lebens&shy;zeit, zum Bsp.!*
+      → *Jo, Dude!! Mei&shy;ne Lebens&shy;zeit, zum Bsp.!*
   </details>
 
 <details>
@@ -3142,53 +3141,37 @@ ver&shy;lei&shy;tet wor&shy;den.
   <summary>
     <h2>Mein eige&shy;nes Motiv</h2></summary>
 
-Mit einer Schizo&shy;phre&shy;nie-Diag&shy;nose wäre es
-eigent&shy;lich un&shy;mög&shy;lich, sich gegen Taten zu weh&shy;ren,
-deren Aus&shy;wir&shy;kung darin zu lie&shy;gen scheint, die
-Symp&shy;tome einer Schizo&shy;phre&shy;nie ab&shy;zu&shy;bil&shy;den,
-nur dauer&shy;haft von außen
-auf&shy;ge&shy;<nobr>frischt/</nobr><wbr>getrig&shy;gert und im
-Wir&shy;ken durch&shy;aus
-(be&shy;dingt)
-steuer&shy;bar.  
+  Mit einer Schizo&shy;phre&shy;nie-Diag&shy;nose wäre es
+  eigent&shy;lich un&shy;mög&shy;lich, sich gegen Taten zu weh&shy;ren,
+  deren Aus&shy;wir&shy;kung darin zu lie&shy;gen scheint, die
+  Symp&shy;tome einer Schizo&shy;phre&shy;nie ab&shy;zu&shy;bil&shy;den,
+  nur dauer&shy;haft von außen
+  auf&shy;ge&shy;<nobr>frischt/</nobr><wbr>getrig&shy;gert und im
+  Wir&shy;ken durch&shy;aus
+  (be&shy;dingt)
+  steuer&shy;bar.  
 
-Nach&shy;dem ich vier Mal bei der Poli&shy;zei vor&shy;stel&shy;lig war,
-zwei Not&shy;rufe mehr oder min&shy;der igno&shy;riert wur&shy;den und
-mir auch sonst kein wei&shy;te&shy;res höhe&shy;res Säuge&shy;tier auf
-die&shy;sem Pla&shy;ne&shy;ten in irgend&shy;ei&shy;ner Wei&shy;se,
-wenig&shy;stens auch nur halb&shy;her&shy;zig, Glau&shy;ben schenkt,
-hatte ich vor eini&shy;gen Tagen ein span&shy;nen&shy;des
-Er&shy;leb&shy;nis: Einer von zwei Katern (auf die ich in der
-Woh&shy;nung eines Freun&shy;des auf&shy;pas&shy;ste) schien mei&shy;ne
-Wahr&shy;neh&shy;mung zu tei&shy;len und hör&shy;te die glei&shy;che
-(von mir ein&shy;ge&shy;bild&shy;e&shy;te) Stim&shy;me einer der
-Stal&shy;ker&shy;in&shy;nen(-per&shy;sön&shy;lich&shy;kei&shy;ten), die
-mir in die frem&shy;de Woh&shy;nung ge&shy;folgt waren.  
-Der kleine war eini&shy;ger&shy;maßen aufge&shy;bracht, weil er diese
-lei&shy;se mensch&shy;li&shy;che Stim&shy;me nicht zu&shy;ord&shy;nen
-kon&shy;nte. Als ich ihm sag&shy;te, ich wür&shy;de mir diese nur
-ein&shy;bil&shy;den, be&shy;ruhig&shy;te er sich lang&shy;sam
-wieder.. :relieved:
-</details>
+  Nach&shy;dem ich vier Mal bei der Poli&shy;zei vor&shy;stel&shy;lig war,
+  zwei Not&shy;rufe mehr oder min&shy;der igno&shy;riert wur&shy;den und
+  mir auch sonst kein wei&shy;te&shy;res höhe&shy;res Säuge&shy;tier auf
+  die&shy;sem Pla&shy;ne&shy;ten in irgend&shy;ei&shy;ner Wei&shy;se,
+  wenig&shy;stens auch nur halb&shy;her&shy;zig, Glau&shy;ben schenkt,
+  hatte ich vor eini&shy;gen Tagen ein span&shy;nen&shy;des
+  Er&shy;leb&shy;nis: Einer von zwei Katern (auf die ich in der
+  Woh&shy;nung eines Freun&shy;des auf&shy;pas&shy;ste) schien mei&shy;ne
+  Wahr&shy;neh&shy;mung zu tei&shy;len und hör&shy;te die glei&shy;che
+  (von mir ein&shy;ge&shy;bild&shy;e&shy;te) Stim&shy;me einer der
+  Stal&shy;ker&shy;in&shy;nen(-per&shy;sön&shy;lich&shy;kei&shy;ten),
+  die mir in die frem&shy;de Woh&shy;nung ge&shy;folgt waren.  
+  Der klei&shy;ne war eini&shy;ger&shy;maßen auf&shy;ge&shy;bracht,
+  weil er diese lei&shy;se mensch&shy;li&shy;che Stim&shy;me nicht
+  zu&shy;ord&shy;nen kon&shy;nte.
+  Als ich ihm sag&shy;te,
+  ich w&uuml;r&shy;de mir die&shy;se nur ein&shy;bil&shy;den,
+  be&shy;ruhig&shy;te er sich lang&shy;sam
+  wie&shy;der.. :relieved:
+  </details>
 
-### Handlungsspielraum
-
-> [!CAUTION]
-> Immer möglich und auch, wenn ich "glaube zu wissen":
-> * beliebige Person (auch Täter) öffnet die Tür zu einer Whg., die mich sorgt
-> * versichert, alles sei in Ordnung (auch mgl. Einrede)
-> * mgl. Suggestion: Man sei schizophren und kümmere sich zu sehr um das Leben der Anderen (vgl. Tätervorwurf)
-
-> [!NOTE]
->*bzgl. des Hand&shy;lungs&shy;spiel&shy;raums der Poli&shy;zei*:  
-> Es wird sicher nicht einfach. Sie wer&shy;den fra&shy;gen, was
-> pas&shy;siert ist. Mein omi&shy;nö&shy;ser "Täter" wür&shy;de sagen:  
-> "Es ist noch nichts pas&shy;siert."  
-> Aber gibt es einen Ge&shy;schä&shy;dig&shy;ten? Ein Motiv? Am Ende
-> irgend&shy;ei&shy;nen Nut&shy;zen für irgend&shy;je&shy;man&shy;den?
-> Dann doch wenigstens jeman&shy;den mit sehr viel Langeweile
-> (bei hohen Kos&shy;ten und Risi&shy;ko)?
-  
 <details>
   <summary>
     <h3>Gegen&shy;an&shy;zei&shy;ge</h3></summary>
