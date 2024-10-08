@@ -1,8 +1,7 @@
 
 ```
 file:    state-of-mind/README.md
-brief:   State of my Mind, 1st Derivation
-         (AKA Schizophrenia)
+brief:   Artificial Schizophrenia?
 author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
@@ -12,30 +11,74 @@ version: Mo., 7. Okt. 2024
 
 <h1>Zustands&shy;be&shy;schrei&shy;bung mei&shy;nes Ver&shy;stan&shy;des<br><sub><sup>urspr.: "Sammlung von Hinweisen auf Stalking &c. unter Ausnutzen einer schizoaffektiven St&ouml;rung"</sup></sub></h1>
 
-<!--**1st Things first**:  
-Auch wenn ich mich ob viel&shy;f&auml;l&shy;tigster,
-sich ggs. wider&shy;sprechen&shy;der,
-oft hef&shy;tig oszi&shy;lie&shy;ren&shy;der,
-hier oft im Staccato rein kom&shy;men&shy;der,
-jedoch selbst&shy;ver&shy;st&auml;nd&shy;lich
-aus&shy;schlie&szlig;&shy;lich ein&shy;ge&shy;bil&shy;de&shy;ter
-Ein&shy;re&shy;den und Sug&shy;ges&shy;tio&shy;nen, kaum noch wage,
-irgend&shy;wem irgend&shy;et&shy;was zu schrei&shy;ben,
-das Fol&shy;gen&shy;de.
-
-Soll&shy;test Du das hier irgend&shy;wann ein&shy;mal lesen:  
-Ich habe noch NIE auch nur einen schlech&shy;ten Ge&shy;dan&shy;ken
-&uuml;ber dich ver&shy;lo&shy;ren,
-noch ein nega&shy;ti&shy;ves Wort ge&shy;sagt,
-geschweige denn geschrien.  
-H&auml;t&shy;te mir ein&shy;fach nur gew&uuml;nscht,
-dich un&shy;vor&shy;ein&shy;ge&shy;nom&shy;men
-(und wenn auch nur ein&shy;mal in mei&shy;nem Leben)
-zu tref&shy;fen,
-m&ouml;g&shy;lich&shy;er&shy;wei&shy;se so&shy;gar
-ver&shy;bun&shy;den mit der Chance,
-dich (in aller K&uuml;rze) kennen&shy;ler&shy;nen zu d&uuml;r&shy;fen.
-Mehr nicht..-->
+> [!NOTE]
+> [**08.10**]
+> Die "Stim&shy;men" arten so aus,
+> dass ich fast von einer k&uuml;nst&shy;li&shy;chen
+> "Induk&shy;tion" einer Schizo&shy;phre&shy;nie aus&shy;ge&shy;hen
+> **muss**,
+> zu&shy;mal s&auml;mt&shy;liche ande&shy;ren Symp&shy;tome feh&shy;len,
+> die Stim&shy;men eigent&shy;lich nur "zu Hause" be&shy;las&shy;ten,
+> sich selbst ein Aus&shy;flug zur Arbeits&shy;agen&shy;tur wie
+> Ur&shy;laub an&shy;f&uuml;hlt und die Men&shy;schen dort so
+> freund&shy;lich wir&shy;ken,
+> dass ich den&shy;ke,
+> die wol&shy;len mich ver&shy;ar&shy;schen
+> (bis ich mer&shy;ke,
+> es ist der Kon&shy;trast).
+> 
+> Ab&shy;ge&shy;se&shy;hen von die&shy;sem gan&shy;zen
+> mon&shy;str&ouml;s grau&shy;sa&shy;men M&uuml;ll mit aber mir im
+> Wesent&shy;li&shy;chen un&shy;be&shy;kann&shy;ten Per&shy;so&shy;nen
+> (die voll&shy;kom&shy;men ver&shy;ant&shy;wor&shy;tungs&shy;frei
+> sind),
+> geht es sehr oft um eine,
+> mir eigent&shy;lich auch un&shy;be&shy;kann&shy;te Per&shy;son
+> (auch ver&shy;ant&shy;wor&shy;tungs&shy;frei,
+> nur per&shy;fi&shy;de get&auml;uscht),
+> aber wenigs&shy;tens ver&shy;se&shy;hen mit einem Namen.
+> 
+> **Wo ist Lia?**  
+> 
+> Und wer oder was ist sie &uuml;ber&shy;haupt?  
+> Warum ant&shy;wor&shy;tet sie mir nicht,
+> ver&shy;suche ich,
+> es heraus&shy;zu&shy;fin&shy;den?  
+> Ich bin die&shy;sem Men&shy;schen vor Jah&shy;ren drei,
+> vier Mal fl&uuml;ch&shy;tig im Trep&shy;pen&shy;haus begeg&shy;net,  
+> warum lan&shy;det ihr Name immer wie&shy;der in mei&shy;nem Gehirn?  
+> Woher kenne ich ihr Geburts&shy;da&shy;tum?  
+> Ihre Heimat&shy;stadt?  
+> Ihren Lieblings&shy;fu&szlig;&shy;ball&shy;club?  
+> Wenn nicht von ihr?
+> 
+> Sollte es Ver&shy;ant&shy;wort&shy;liche f&uuml;r die&shy;sen
+> Irr&shy;sinn geben:  
+> Wenn irgend&shy;je&shy;mand vor Jahren Kon&shy;trol&shy;le &uuml;ber
+> die Kom&shy;mu&shy;ni&shy;ka&shy;tion &uuml;ber&shy;nom&shy;men haben
+> soll&shy;te,
+> um die&shy;se zu mani&shy;pu&shy;lie&shy;ren,
+> halte ich es nach drei Minu&shy;ten schon f&uuml;r sehr schwierig,
+> dass sich zwei Men&shy;schen un&shy;vor&shy;ein&shy;ge&shy;nom&shy;men
+> begeg&shy;nen k&ouml;n&shy;nen.
+> 
+> Habt ihr ver&shy;rot&shy;te&shy;ten Krea&shy;tu&shy;ren eine Idee davon,
+> wie es nach drei Mona&shy;ten aus&shy;sieht?
+> Oder Jah&shy;ren?  
+> Bei gleich&shy;zei&shy;ti&shy;gem An&shy;hei&shy;zen be&shy;reits
+> ver&shy;f&auml;lsch&shy;ter Er&shy;in&shy;ne&shy;rung an fal&shy;sche
+> Er&shy;in&shy;ne&shy;rung?  
+> Bei gleich&shy;zei&shy;ti&shy;gem quasi Kon&shy;takt&shy;ver&shy;bot
+> oder -ver&shy;hin&shy;de&shy;rung nach Kr&auml;f&shy;ten?
+> 
+> Darf ich fra&shy;gen,
+> wo es noch hin&shy;geht?
+> 
+> Und es inte&shy;res&shy;siert mich auch &uuml;ber&shy;haupt nicht,
+> wer wem be&shy;lie&shy;big mon&shy;str&ouml;&shy;sen M&uuml;ll
+> wann wie "an&shy;h&auml;n&shy;gen" m&ouml;ch&shy;te,
+> ich will die sog. Wahr&shy;heit wis&shy;sen,
+> ihr reu&shy;di&shy;gen Lap&shy;pen!  
 
 > [!IMPORTANT]
 > [**Erg.** 07.10.]
@@ -121,7 +164,7 @@ Mehr nicht..-->
 > [!IMPORTANT]
 > [**06.10.2024** 12:00]
 > Nach bitte&shy;rer Er&shy;kennt&shy;nis
-> (oder Sug&shy;ges&shy;tion :joy:)
+> (oder Sug&shy;ges&shy;tion einer Metaebene :joy:)
 > von heute Vor&shy;mit&shy;tag,
 > mal wie&shy;der **"nur" Spiel&shy;fi&shy;gur** in ande&shy;rer
 > Leu&shy;te Spiel
@@ -133,8 +176,7 @@ Mehr nicht..-->
 > (Welche soll das &uuml;ber&shy;haupt sein?
 > Bedarfs&shy;wei&shy;ses `$hate_object` zu&shy;sam&shy;men mit F.?
 > Er f&uuml;r be&shy;lie&shy;bi&shy;gen Crimi&shy;nal,
-> ich f&uuml;r ande&shy;rer Leu&shy;te Eifer&shy;sucht?
-> Wenn das kein Fra&shy;ter&shy;ni&shy;sierungs&shy;grund ist. :joy:)  
+> ich f&uuml;r ande&shy;rer Leu&shy;te Eifer&shy;sucht?)  
 > **Anm.**:
 > *Hier trig&shy;gern mich zwei, drei Leute wie bl&ouml;d von der
 > Seite und ver&shy;such&shy;en
@@ -2819,6 +2861,8 @@ ihrer Opfer.
       &Uuml;ber&shy;wachung auch dieses Wohn&shy;raums(!!),  
       hier: mit ho&shy;her Wahr&shy;schein&shy;lich&shy;keit
       wei&shy;te&shy;re(!³)
+    <img align="right" alt="Brief: Ecke" width="200px"
+      src="./2024-10-02_brief-an-lia.ecke.jpg">
   * [**Anm.** 07.10.] Ob Sug&shy;ges&shy;tion heu&shy;te:
     Der
     (im&shy;mer freund&shy;li&shy;che :grimacing:)
