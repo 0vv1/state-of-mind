@@ -29,8 +29,9 @@ version: Di., 8. Okt. 2024
 > 
 > Ab&shy;ge&shy;se&shy;hen von die&shy;sem gan&shy;zen
 > mon&shy;str&ouml;s grau&shy;sa&shy;men M&uuml;ll,
-> mit mir im Wesent&shy;li&shy;chen un&shy;be&shy;kann&shy;ten
-> Per&shy;so&shy;nen
+> der an&shy;geb&shy;lich mit mir im Wesent&shy;li&shy;chen
+> un&shy;be&shy;kann&shy;ten Per&shy;so&shy;nen
+> ver&shy;an&shy;stal&shy;tet wird
 > (un&shy;be&shy;las&shy;teten und ohne Ver&shy;ant&shy;wor&shy;tung),
 > geht es sehr oft um eine,
 > mir eigent&shy;lich auch un&shy;be&shy;kann&shy;te,
@@ -82,7 +83,14 @@ version: Di., 8. Okt. 2024
 > wer wem be&shy;lie&shy;big mon&shy;str&ouml;&shy;sen M&uuml;ll
 > wann wie "an&shy;h&auml;n&shy;gen" m&ouml;ch&shy;te,
 > ich will die sog. Wahr&shy;heit wis&shy;sen,
-> ihr reu&shy;di&shy;gen Lap&shy;pen!  
+> ihr reu&shy;di&shy;gen Lap&shy;pen!
+>
+> [**Anm.** 16:10] Grad mal 'nen Test gemacht und laut gesagt,
+> dass ich Kontakt zu ihr habe und meine "Stimmen" nur verarsche.
+> Die "Stimmen" wurden recht aufgeregt, fast "zu laut" f&uuml;r eine
+> Schizophrenie?  
+> Mglw. muss ich mir keine oder wenigstens weniger Sorgen machen.
+> F&Uuml;r mich i.O.
 
 > [!IMPORTANT]
 > [**Erg.** 07.10.]
@@ -90,7 +98,7 @@ version: Di., 8. Okt. 2024
 > die so reich&shy;lich kaputt ist,
 > dass man sie kaum in Erw&auml;gung zieht:  
 > Der Haupt&shy;t&auml;ter sug&shy;ge&shy;rier&shy;te mir
-> ziem&shy;lich fr&uuml;h, meine Pers&ouml;nlichkeit
+> ziem&shy;lich fr&uuml;h, meine Per&shy;s&ouml;n&shy;lich&shy;keit
 > &uuml;ber&shy;neh&shy;men zu wol&shy;len,
 > was ich ein&shy;fach nie ernst ge&shy;nom&shy;men habe
 > (wie soll man das).  
