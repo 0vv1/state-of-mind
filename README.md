@@ -1,15 +1,15 @@
 
 ```
 file:    state-of-mind/README.md
-brief:   Artificial Schizophrenia?
-author:  © 2021-2024 Alexander Puls <github@0vv1.net>
+brief:   artificial schizophrenia?
+author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
 version: mi., 9. oct. 2024
 ```
 
-<h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Versuch der Induk&shy;tion einer k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie?</sup></sub></h1>
+<h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Versuch der Induk&shy;tion einer k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie?</sup></sub><br><sub><sup>oder: Nur eine Geschichte im Sinne einer sog. schizoiden Wahnidee</sup></sub></h1>
 
 > [!WARNING]
 > Mglw. [Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl](#m&ouml;glicher-identit&auml;tsdiebstahl)
@@ -25,7 +25,11 @@ version: mi., 9. oct. 2024
 > (9. Okt.)
 > **nichts** von dem,
 > was ich hier schrei&shy;be,
-> irgend&shy;ei&shy;nem **Reali&shy;t&auml;ts&shy;be&shy;zug ha&shy;ben**.
+> irgend&shy;ei&shy;nem **Reali&shy;t&auml;ts&shy;be&shy;zug
+> ha&shy;ben**.
+> [**Wichtige Anm.**]
+> Mir wurden eine Vielzahl "Mitt&auml;ter" suggeriert,
+> die aber lediglich perfide und heimt&uuml;ckisch "hineingezogen" wurden und vollkommen frei von Verantwortung sind.
 
 > [!NOTE]
 > [**08.10.**]
@@ -3477,15 +3481,15 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   ~~«**Fotz&shy;kopf**»~~ «**GeStaPo-Nazi-Schwein I**»,
   kurz *GSPZNS-1*,
   ehemalig "Fotz&shy;kopf",
-  was aber
-  1. viel zu freund&shy;lich war, da&shy;her von
+  was aber  
+  1\. viel zu freund&shy;lich war, da&shy;her von
      **selbst&shy;er&shy;nann&shy;te**n(!)
      **unter&shy;joch&shy;en&shy;de**n **und
      ver&shy;ge&shy;wal&shy;ti&shy;gen&shy;de**n
      **Trieb&shy;t&auml;ter**n
-     zur Verh&ouml;nung ge&shy;nutzt wur&shy;de und
-  2. Horte der Freude im wei&shy;te&shy;ren Ver&shy;lauf
-     h&auml;t&shy;te be&shy;lei&shy;di&shy;gen k&ouml;n&shy;nen,
+     zur Verh&ouml;nung ge&shy;nutzt wur&shy;de und  
+  2\. Horte der Freude im wei&shy;te&shy;ren Ver&shy;lauf
+     h&auml;t&shy;te be&shy;lei&shy;di&shy;gen k&ouml;n&shy;nen,  
   sowie «**GeStaPo-Nazi-Schwein II**», kurz *GSPZNS-2*  eini&shy;gen
   m&uuml;ssen</span>[^9],
   da sich wei&shy;te&shy;res per&shy;vers-sadis&shy;ti&shy;sches
