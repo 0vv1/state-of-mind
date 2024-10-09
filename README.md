@@ -20,7 +20,7 @@ version: mi., 9. oct. 2024
 > (mglw. von den T&auml;tern)
 > vom Netz ge&shy;nom&shy;men.
 > (Be&shy;haup&shy;ten schon lan&shy;ge,
-> direkt auf mei&shy;ner DSL-Lei&shy;tung zu ope&shy;rie&shy;ren.)   
+> direkt auf mei&shy;ner DSL-Lei&shy;tung zu ope&shy;rie&shy;ren.)  
 > [**Anm.** 09.10., 12:20]
 > Face&shy;book-Account wie&shy;der da?
 > Muss ich aber auf Mani&shy;pu&shy;la&shy;tion checken.
@@ -37,10 +37,13 @@ version: mi., 9. oct. 2024
 > **nichts** von dem,
 > was ich hier schrei&shy;be,
 > irgend&shy;ei&shy;nem **Reali&shy;t&auml;ts&shy;be&shy;zug
-> ha&shy;ben**.
+> ha&shy;ben**.  
 > [**Wichtige Anm.**]
-> Mir wurden eine Vielzahl "Mitt&auml;ter" suggeriert,
-> die aber lediglich perfide und heimt&uuml;ckisch "hineingezogen" wurden und vollkommen frei von Verantwortung sind.
+> Mir wur&shy;den eine Viel&shy;zahl "Mit&shy;t&auml;ter"
+> sug&shy;ge&shy;riert,
+> die aber ledig&shy;lich per&shy;fi&shy;de und heim&shy;t&uuml;ckisch
+> "hinein&shy;ge&shy;zo&shy;gen" wur&shy;den und voll&shy;kom&shy;men
+> frei von Ver&shy;ant&shy;wor&shy;tung sind.
 
 > [!NOTE]
 > [**08.10.**]
