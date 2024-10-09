@@ -9,11 +9,12 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: mi., 9. oct. 2024
 ```
 
-<h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Versuch der Induk&shy;tion einer k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie?</sup></sub><br><sub><sup>oder: Nur eine Geschichte im Sinne einer sog. schizoiden Wahnidee</sup></sub></h1>
+<h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Versuch der Induk&shy;tion einer k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie?</sup></sub><br><sub><sup>oder: Nur eine Geschichte im Sinne einer sog. schizoiden Wahnidee.</sup></sub></h1>
 
 > [!WARNING]
 > Mglw. [Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl](#m&ouml;glicher-identit&auml;tsdiebstahl)
 > und zwei "Alex&shy;an&shy;der Puls"!
+> [Das hier](https://www.facebook.com/61566492002744)(Facebook) bin ich.  
 > Jeden&shy;falls *scheint* es jeman&shy;den zu ge&shy;ben,
 > der regel&shy;m&auml;&szlig;ig meine Stim&shy;me imi&shy;tiert.  
 > [**Anm. 09.10.**]
