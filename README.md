@@ -6,7 +6,7 @@ author:  © 2021-2024 Alexander Puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: Di., 8. Okt. 2024
+version: mi., 9. oct. 2024
 ```
 
 <h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Versuch der Induk&shy;tion einer k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie?</sup></sub></h1>
@@ -15,11 +15,14 @@ version: Di., 8. Okt. 2024
 > Mglw. [Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl](#m&ouml;glicher-identit&auml;tsdiebstahl)
 > und zwei "Alex&shy;an&shy;der Puls"!
 > Jeden&shy;falls *scheint* es jeman&shy;den zu ge&shy;ben,
-> der regel&shy;m&auml;&szlig;ig meine Stim&shy;me imi&shy;tiert.
->
-> Auch wenn ich es lang&shy;sam bef&uuml;chte,
+> der regel&shy;m&auml;&szlig;ig meine Stim&shy;me imi&shy;tiert.  
+> [**Anm. 09.10.**]
+> &Uuml;ber&shy;haupt geht es hier viel um Iden&shy;ti&shy;t&auml;t,
+> was eigent&shy;lich nie so mein Thema war.  
+> 
+> Auch wenn ich es lang&shy;sam be&shy;f&uuml;ch&shy;te,
 > **muss** bis heute
-> (8. Okt.)
+> (9. Okt.)
 > **nichts** von dem,
 > was ich hier schrei&shy;be,
 > irgend&shy;ei&shy;nem **Reali&shy;t&auml;ts&shy;be&shy;zug ha&shy;ben**.
