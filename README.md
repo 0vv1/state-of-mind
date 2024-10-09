@@ -11,6 +11,14 @@ version: mi., 9. oct. 2024
 
 <h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Versuch der Induk&shy;tion einer k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie?</sup></sub><br><sub><sup>oder: Nur eine Geschichte im Sinne einer sog. schizoiden Wahnidee.</sup></sub></h1>
 
+> [!NOTE]
+> [**09.10.**]
+> Jo. Ich würde meinen "2. Schizophrenen Schub" dann gern mal hier beenden wollen. Der Rest ist ein bisschen Pflege, die Versionsverwaltung wird dafür sorgen, dass ich nicht grob entstelle.  
+> Wenn die besprochene Dame das hier irgendwann mal liest (Warum sollte sie?), kannst Du dich immer gern bei mir melden (dein Zitat; diesen Handzettel fand ich so süß, dass ich ihn behalten hab; aus einer kurzen Zeit vor diesen Irren).
+>Meine Kontaktdaten habe ich aus Sorge im gesamten Web verteilt.  
+> Grüße an deinen Vater Frank (den ich wie dich überhaupt nicht kenne)!
+> Aber seine Rache am 15.08. (zwei Stunden Dialog bis kurz vor meiner Erschießung) war sowohl nachvollziehbar als auch der Grund, dich aufzusuchen. Da hat es mir nämlich gereicht..
+
 > [!WARNING]
 > Mglw. [Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl](#m&ouml;glicher-identit&auml;tsdiebstahl)
 > und zwei "Alex&shy;an&shy;der Puls"!
