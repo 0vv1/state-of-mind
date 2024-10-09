@@ -15,15 +15,14 @@ version: mi., 9. oct. 2024
 > Mglw. [Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl](#m&ouml;glicher-identit&auml;tsdiebstahl)
 > und zwei "Alex&shy;an&shy;der Puls"!
 > [Das hier](https://www.facebook.com/61566492002744) (Facebook) bin ich.   
-> [**Anm.** 09.10., 12:01]
+> [**Anm.** 09.10., **12:01**]
 > Gera&shy;de
 > (mglw. von den T&auml;tern)
 > vom Netz ge&shy;nom&shy;men.
 > (Be&shy;haup&shy;ten schon lan&shy;ge,
 > direkt auf mei&shy;ner DSL-Lei&shy;tung zu ope&shy;rie&shy;ren.)  
-> [**Anm.** 09.10., 12:20]
-> Face&shy;book-Account wie&shy;der da?
-> Muss ich aber auf Mani&shy;pu&shy;la&shy;tion checken.
+> [**Anm.** 09.10., **12:20**]
+> Wie&shy;der da..
 > 
 > Es *scheint* jeman&shy;den zu ge&shy;ben,
 > der regel&shy;m&auml;&szlig;ig meine Stim&shy;me imi&shy;tiert.  
