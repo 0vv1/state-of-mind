@@ -12,8 +12,10 @@ version: Di., 8. Okt. 2024
 <h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Versuch der Induk&shy;tion einer k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie?</sup></sub></h1>
 
 > [!WARNING]
-> Mglw. [Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl](#m&ouml;glicher-identit&auml;tsdiebstahl) und zwei
-> "Alex&shy;an&shy;der Puls"!
+> Mglw. [Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl](#m&ouml;glicher-identit&auml;tsdiebstahl)
+> und zwei "Alex&shy;an&shy;der Puls"!
+> Jeden&shy;falls *scheint* es jeman&shy;den zu ge&shy;ben,
+> der regel&shy;m&auml;&szlig;ig meine Stim&shy;me imi&shy;tiert.
 >
 > Auch wenn ich es lang&shy;sam bef&uuml;chte,
 > **muss** bis heute
