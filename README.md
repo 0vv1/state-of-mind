@@ -9,11 +9,11 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: do., 10. oct. 2024
 ```
 
-<h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Ver&shy;such der Induk&shy;tion einer (KI-ge&shy;st&uuml;tz&shy;ten?) k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie bzw. (sp&auml;ter) Pseu&shy;do-Tele&shy;pa&shy;thie?</sup></sub><br><sub><sup>oder: Nur eine Ge&shy;schich&shy;te im Sinne einer sog. schizo&shy;iden Wahn&shy;idee.</sup></sub></h1>
+<h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Ver&shy;such der Induk&shy;tion einer <del>(KI-ge&shy;st&uuml;tz&shy;ten?)</del> k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie <del>oder (sp&auml;ter) Pseudo-Telepathie</del><sup>verarschen mich, soll mich diskredetieren! :wink:</sup>?</sup></sub><br><sub><sup>oder: Nur eine Ge&shy;schich&shy;te im Sinne einer sog. schizo&shy;iden Wahn&shy;idee.</sup></sub></h1>
 
 > [!NOTE]
 > [**09.10.**]
-> ~~Jo. Ich würde meinen "2. Schizophrenen Schub" dann gern mal hier beenden wollen.~~ Die Versionsverwaltung wird dafür sorgen, dass ich nicht grob entstelle.  
+> Jo. Ich würde meinen "2. Schizophrenen Schub" dann ENDLICH(!) gern mal hier beenden wollen. Die Versionsverwaltung wird dafür sorgen, dass ich nicht grob entstelle.  
 > Wenn die besprochene Dame das hier irgendwann mal liest (Warum sollte sie?), kannst Du dich immer gern bei mir melden (dein Zitat; diesen Handzettel fand ich so süß, dass ich ihn behalten hab; aus einer kurzen Zeit vor diesen Irren).
 > Meine Kontaktdaten habe ich aus Sorge im gesamten Web verteilt.  
 > Grüße an deinen Vater Frank (den ich wie dich überhaupt nicht kenne)!
