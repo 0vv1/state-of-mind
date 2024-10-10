@@ -20,13 +20,21 @@ Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrich
 > Ich werd da jetzt jeden Freitag hin,
 > es sind **alle**(!),
 > ausdr&uuml;cklich auch durch suggerierte Mitt&auml;terschaft (egal ab wann!) belastete Menschen,
-> **herzlich eingeladen**!
+> **herzlich eingeladen**!  
 > (Wenigstens)
 > Ich werde niemandem irgendetwas vorwerfen,
 > aber (**wichtig**): Niemand muss jemals erscheinen.
 > Ich werde aber so (laut Kalk&uuml;l) das bl&ouml;de Ges&uuml;lze zu Hause los.  
 > Ebenso, muss sich ausdr&uuml;cklich(!) **niemand f&uuml;r irgendetwas entschuldigen**. Das perfide Spiel mit Schuld, Scham et&#8239;c. liegt ausschlie&szlig;lich bei (h&ouml;chstens) wenigen Initiatoren,
 > denen scheinbar viel an der Vergiftung (guter) Herzen liegt und die Morddrohungen aussprechen, sollten normale Menschen versuchen, sich einfach so zu begegnen.
+
+> [!CAUTION]
+> Ich gehe davon aus,
+> dass nicht nur meine Wohnung
+> (l&uuml;ckenlos!)
+> akustisch abgenommen
+> (evtl. niedrigschwellig (nahe Wahrnehmungsgrenze!) beschallt)
+> wird!
 
 > [!NOTE]
 > [**09.10.**]
