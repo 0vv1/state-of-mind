@@ -62,11 +62,12 @@ Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrich
 > [**Erg. 10.10. 18:15**]
 > Sagt ma, Leute: Kann es sein, dass euch jemand in meinem Namen auf den Sack geht? Ist euer Alexander gar **nicht physisch**?  
 Fällt es diesem Arschloch damit extrem leicht, zu behaupten, er wäre (auch) ich (oder sonstwer)?  
-> Kann es weiter sein, dass er mir (in Person) tatsächlich so nah ist,
+> Kann es weiter sein (\[Erg. 18:45\] muss nicht),
+> dass er mir (in Person) tatsächlich so nah ist,
 > dass er mich problemlos nachäffen, sogar vorgreifen könnte?
 > Kannst Du mir bitte mal sagen,
-> was diese Scheiße soll?  
-> DU REUDIGE MISSGEBURT!!
+> was diese Scheiße soll,
+> DU REUDIGE MISSGEBURT?!
 > 
 > Auch wenn ich es ~~lang&shy;sam~~ immer mehr be&shy;f&uuml;ch&shy;te,
 > **muss** bis heute
