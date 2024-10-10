@@ -19,7 +19,7 @@ Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrich
 > [!IMPORTANT]
 > Ich werd da jetzt jeden Freitag hin,
 > es sind **alle**(!),
-> auch initiale T&auml;ter,
+> auch sich durch suggerierte Mitt&auml;terschaft (egal ab wann!) belastete Menschen,
 > **herzlich eingeladen**.
 > (Wenigstens)
 > Ich werde niemandem irgendetwas vorwerfen,
