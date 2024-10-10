@@ -6,16 +6,16 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: mi., 9. oct. 2024
+version: do., 10. oct. 2024
 ```
 
-<h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Versuch der Induk&shy;tion einer k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie?</sup></sub><br><sub><sup>oder: Nur eine Geschichte im Sinne einer sog. schizoiden Wahnidee.</sup></sub></h1>
+<h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Ver&shy;such der Induk&shy;tion einer (KI-ge&shy;st&uuml;tz&shy;ten?) k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie bzw. (sp&auml;ter) Pseu&shy;do-Tele&shy;pa&shy;thie?</sup></sub><br><sub><sup>oder: Nur eine Ge&shy;schich&shy;te im Sinne einer sog. schizo&shy;iden Wahn&shy;idee.</sup></sub></h1>
 
 > [!NOTE]
 > [**09.10.**]
-> Jo. Ich würde meinen "2. Schizophrenen Schub" dann gern mal hier beenden wollen. Der Rest ist ein bisschen Pflege, die Versionsverwaltung wird dafür sorgen, dass ich nicht grob entstelle.  
+> ~~Jo. Ich würde meinen "2. Schizophrenen Schub" dann gern mal hier beenden wollen.~~ Die Versionsverwaltung wird dafür sorgen, dass ich nicht grob entstelle.  
 > Wenn die besprochene Dame das hier irgendwann mal liest (Warum sollte sie?), kannst Du dich immer gern bei mir melden (dein Zitat; diesen Handzettel fand ich so süß, dass ich ihn behalten hab; aus einer kurzen Zeit vor diesen Irren).
->Meine Kontaktdaten habe ich aus Sorge im gesamten Web verteilt.  
+> Meine Kontaktdaten habe ich aus Sorge im gesamten Web verteilt.  
 > Grüße an deinen Vater Frank (den ich wie dich überhaupt nicht kenne)!
 > Aber seine Rache am 15.08. (zwei Stunden Dialog bis kurz vor meiner Erschießung) war sowohl nachvollziehbar als auch der Grund, dich aufzusuchen. Da hat es mir nämlich gereicht..
 
@@ -32,15 +32,12 @@ version: mi., 9. oct. 2024
 > Sicher nur Zufall.. :wink:
 > 
 > Es *scheint* jeman&shy;den zu ge&shy;ben,
-> der regel&shy;m&auml;&szlig;ig meine Stim&shy;me imi&shy;tiert.  
-> [**Wei&shy;te&shy;re Anm.**]
-> &Uuml;ber&shy;haupt geht es hier viel um Iden&shy;ti&shy;t&auml;t,
-> was eigent&shy;lich nie so mein Thema war.  
-> 
-> Auch wenn ich es lang&shy;sam be&shy;f&uuml;ch&shy;te,
+> der regel&shy;m&auml;&szlig;ig meine Stim&shy;me imi&shy;tiert.
+> [**Erg.** 10.10.] Oder generiert?  
+> Auch wenn ich es ~~lang&shy;sam~~ immer mehr be&shy;f&uuml;ch&shy;te,
 > **muss** bis heute
-> (9. Okt.)
-> **nichts** von dem,
+> (~~9~~10. Okt.)
+> ~~**nichts**~~ **nichts zwingend** von dem,
 > was ich hier schrei&shy;be,
 > irgend&shy;ei&shy;nem **Reali&shy;t&auml;ts&shy;be&shy;zug
 > ha&shy;ben**.  
@@ -48,8 +45,24 @@ version: mi., 9. oct. 2024
 > Mir wur&shy;den eine Viel&shy;zahl "Mit&shy;t&auml;ter"
 > sug&shy;ge&shy;riert,
 > die aber ledig&shy;lich per&shy;fi&shy;de und heim&shy;t&uuml;ckisch
-> "hinein&shy;ge&shy;zo&shy;gen" wur&shy;den und voll&shy;kom&shy;men
-> frei von Ver&shy;ant&shy;wor&shy;tung sind.
+> "hin&shy;ein&shy;ge&shy;zo&shy;gen" wur&shy;den und voll&shy;kom&shy;men
+> frei von Ver&shy;ant&shy;wor&shy;tung sind.  
+>
+> [**Wichtige Anm.** 10.10.]
+> Mglw. meh&shy;re&shy;re Opfer und je&shy;des be&shy;kommt in Iso&shy;la&shy;tion
+> seine eige&shy;ne dumme Ge&shy;schich&shy;te?
+> Jede(!) Kom&shy;mu&shy;ni&shy;ka&shy;tion ist mani&shy;pu&shy;liert
+> (auch [in der ech&shy;ten Welt](#kommunikationsunterdr&uuml;ckung)?)
+> und soll maxi&shy;ma&shy;len emo&shy;tio&shy;na&shy;len Scha&shy;den
+> an&shy;rich&shy;ten?
+> Wo&shy;bei das Opfer
+> (hoff&shy;ent&shy;lich nicht!)
+> immer selbst ver&shy;ant&shy;wort&shy;lich ge&shy;macht wer&shy;den soll?!  
+> **Was??!**
+> Wel&shy;che kran&shy;ke(-n) Krea&shy;tur(-en) soll&shy;te(-n) so&shy;was
+> je&shy;mals an&shy;rich&shy;ten?
+> Und vor allem wa&shy;rum?!  
+> DieVser M&uuml;ll scheint mir &uuml;bri&shy;gens KI-gest&uuml;tzt. H&auml;?!
 
 > [!NOTE]
 > [**08.10.**]
@@ -1934,16 +1947,7 @@ Täu&shy;schung und<nobr>/</nobr><wbr>oder
 Ver&shy;such&shy;en ander&shy;wei&shy;ti&shy;ger
 Mani&shy;pu&shy;la&shy;tion in Tat&shy;ein&shy;heit mit dem
 Ab&shy;hö&shy;ren der eige&shy;nen Woh&shy;nung,
-ge&shy;macht haben.  
-Das
-(bis&shy;he&shy;ri&shy;ge)
-Um&shy;feld mache ich in der Pan&shy;ko&shy;wer Allee 85 ff.
-(Schwer&shy;punkt Hin&shy;ter&shy;haus der Pan&shy;ko&shy;wer Allee 86)
-in Ber&shy;lin-Rei&shy;nick&shy;en&shy;dorf so&shy;wie der
-Borus&shy;sia&shy;str. 34A ff. so&shy;wie
-m&ouml;g&shy;lich&shy;er&shy;wei&shy;se weite&shy;rer Auf&shy;gänge
-(35A ff.?)
-in Ber&shy;lin-Tem&shy;pel&shy;hof aus.
+ge&shy;macht haben.
   
 Weite&shy;re Zeu&shy;gin&shy;<nobr>nen/</nobr><wbr>Zeugen oder
 anders betrof&shy;fe&shy;<nobr>ne/</nobr><wbr>belas&shy;te&shy;te
@@ -3244,7 +3248,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
 
 <details>
   <summary>
-    <h5>Möglicherweise bereits seit längerer Zeit (ausgedehnte?) "Abhöraktionen" in der neuen Whg.</h5></summary>
+    <h5>Mög&shy;lich&shy;er&shy;wei&shy;se be&shy;reits seit län&shy;ge&shy;rer Zeit (aus&shy;ge&shy;dehn&shy;te?) "Ab&shy;hör&shy;aktio&shy;nen" in der neuen Whg.</h5></summary>
 
   <img alt="Heizungsrohre: Kabelbinder"
     align="right"
@@ -3571,4 +3575,3 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   44)](https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-4/abschnitt-44/)
   befän&shy;de sich in der Götz&shy;<nobr>str. 6</nobr> im
   groß&shy;ar&shy;ti&shy;gen Ber&shy;lin-Tem&shy;pel&shy;hof. :cop:
-
