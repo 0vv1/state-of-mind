@@ -58,7 +58,11 @@ Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrich
 > 
 > Es *scheint* jeman&shy;den zu ge&shy;ben,
 > der regel&shy;m&auml;&szlig;ig meine Stim&shy;me imi&shy;tiert.
-> [**Erg.** 10.10.] Oder generiert?  
+> [**Erg.** 10.10.] Oder generiert?
+
+> [**Erg. 10.10. 18:15**]
+> Sagt ma, Leute: Kann es sein, dass "euer" Alexander gar **nicht physisch** ist und es diesem Arschloch damit extrem leicht fällt, zu behaupten, er wäre (auch) ich?  
+> 
 > Auch wenn ich es ~~lang&shy;sam~~ immer mehr be&shy;f&uuml;ch&shy;te,
 > **muss** bis heute
 > (~~9~~10. Okt.)
