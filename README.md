@@ -11,11 +11,15 @@ version: do., 10. oct. 2024
 
 <h1>~~Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Ver&shy;such der Induk&shy;tion einer <del>(KI-ge&shy;st&uuml;tz&shy;ten?)</del> k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie <del>oder (sp&auml;ter) Pseudo-Telepathie</del><sup>verarschen mich, soll mich diskredetieren! :wink:</sup>?</sup></sub><br><sub><sup>oder: Nur eine Ge&shy;schich&shy;te im Sinne einer sog. schizo&shy;iden Wahn&shy;idee.</sup></sub>~~</h1>
 
-<h2>So, Leute: Mir reichts jetzt mit diesem nie enden wollenden M&uuml;ll! Wir chillen jetzt mal alle aus und dann w&uuml;rde ich sagen, begegnen sich vollkommen unvoreingenommen(!), hei&szlig;t ohne irgendeine Information irgendwelcher Dritter(!) zu beachten, normale Menschen in Real Life. Was immer passiert ist: Vergeben und vergessen. Es sind alle herzlich eingeladen, ausdr&uuml;cklich auch die (vermutlich) wenigen verantwortlichen Initiatoren dieser "Geschichte", die wie mir scheint, beliebig Menschen gegeneinander ausspielen</h2>
+<h2>So, Leute: Mir (pers&ouml;nlich) reicht es jetzt mit diesem nie enden wollenden M&uuml;ll und mache den Vorschlag, dass sich normale Menschen ohne Druck/Zwang vollkommen unvoreingenommen(!), hei&szlig;t ohne irgendeine Information irgendwelcher Dritter(!) zu beachten, in Real Life begegnen k&ouml;nnen..</h2>
 
-Und das in einem Ma&szlig;e, das mir bis heute unm&ouml;glich schien. Nothing for ungood! :wink: Ich habe einfach wenig Bock (und Zeit), mich (oder uns) hier weiter ausspielen zu lassen und w&uuml;rde sagen,
+Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrichstr.**, Ausgang Reichtagsufer, dort am Wasser sein (**52.52017,13.38513**).  
+(Einer der T&auml;ter suggeriert mir, vorweg greifen und manipuliert vorab schicken zu wollen. So weit, so normal: Es gilt das eben gesagte.)  
 
-morgiger **Freitag**, Uhrzeit und Ort folgen..
+> [!IMPORTANT]
+> Ich werd da jetzt jeden Freitag hin, aber (**wichtig**): Niemand muss jemals erscheinen. Ich werde aber so (laut Kalk&uuml;l) das bl&ouml;de Ges&uuml;ze zu Hause los.  
+> Ebenso, muss sich ausdr&uuml;cklich(!) **niemand f&uuml;r irgendetwas entschuldigen**. Das perfide Spiel mit Schuld, Scham et&#8239;c. liegt ausschlie&szlig;lich bei (h&ouml;chstens) wenigen Initiatoren,
+> denen scheinbar viel an der Vergiftung (guter) Herzen liegt und die Morddrohungen aussprechen, sollten normale Menschen versuchen, sich einfach so zu begegnen.
 
 > [!NOTE]
 > [**09.10.**]
