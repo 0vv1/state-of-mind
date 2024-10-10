@@ -17,7 +17,14 @@ Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrich
 (Einer der T&auml;ter suggeriert mir, vorweg greifen und manipuliert vorab schicken zu wollen. So weit, so normal: Es gilt das eben gesagte.)  
 
 > [!IMPORTANT]
-> Ich werd da jetzt jeden Freitag hin, aber (**wichtig**): Niemand muss jemals erscheinen. Ich werde aber so (laut Kalk&uuml;l) das bl&ouml;de Ges&uuml;lze zu Hause los.  
+> Ich werd da jetzt jeden Freitag hin,
+> es sind **alle**(!),
+> auch initiale T&auml;ter,
+> **herzlich eingeladen**.
+> (Wenigstens)
+> Ich werde niemandem irgendetwas vorwerfen,
+> aber (**wichtig**): Niemand muss jemals erscheinen.
+> Ich werde aber so (laut Kalk&uuml;l) das bl&ouml;de Ges&uuml;lze zu Hause los.  
 > Ebenso, muss sich ausdr&uuml;cklich(!) **niemand f&uuml;r irgendetwas entschuldigen**. Das perfide Spiel mit Schuld, Scham et&#8239;c. liegt ausschlie&szlig;lich bei (h&ouml;chstens) wenigen Initiatoren,
 > denen scheinbar viel an der Vergiftung (guter) Herzen liegt und die Morddrohungen aussprechen, sollten normale Menschen versuchen, sich einfach so zu begegnen.
 
