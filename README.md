@@ -9,7 +9,13 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: do., 10. oct. 2024
 ```
 
-<h1>Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Ver&shy;such der Induk&shy;tion einer <del>(KI-ge&shy;st&uuml;tz&shy;ten?)</del> k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie <del>oder (sp&auml;ter) Pseudo-Telepathie</del><sup>verarschen mich, soll mich diskredetieren! :wink:</sup>?</sup></sub><br><sub><sup>oder: Nur eine Ge&shy;schich&shy;te im Sinne einer sog. schizo&shy;iden Wahn&shy;idee.</sup></sub></h1>
+<h1>~~Wo ist Lia?<br><sub><sup>oder: &Uuml;ber den Ver&shy;such der Induk&shy;tion einer <del>(KI-ge&shy;st&uuml;tz&shy;ten?)</del> k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie <del>oder (sp&auml;ter) Pseudo-Telepathie</del><sup>verarschen mich, soll mich diskredetieren! :wink:</sup>?</sup></sub><br><sub><sup>oder: Nur eine Ge&shy;schich&shy;te im Sinne einer sog. schizo&shy;iden Wahn&shy;idee.</sup></sub>~~</h1>
+
+<h2>So, Leute: Mir reichts jetzt mit diesem nie enden wollenden M&uuml;ll! Wir chillen jetzt mal alle aus und dann w&uuml;rde ich sagen, begegnen sich vollkommen unvoreingenommen(!), hei&szlig;t ohne irgendeine Information irgendwelcher Dritter(!) zu beachten, normale Menschen in Real Life. Was immer passiert ist: Vergeben und vergessen. Es sind alle herzlich eingeladen, ausdr&uuml;cklich auch die (vermutlich) wenigen verantwortlichen Initiatoren dieser "Geschichte", die wie mir scheint, beliebig Menschen gegeneinander ausspielen</h2>
+
+Und das in einem Ma&szlig;e, das mir bis heute unm&ouml;glich schien. Nothing for ungood! :wink: Ich habe einfach wenig Bock (und Zeit), mich (oder uns) hier weiter ausspielen zu lassen und w&uuml;rde sagen,
+
+morgiger **Freitag**, Uhrzeit und Ort folgen..
 
 > [!NOTE]
 > [**09.10.**]
