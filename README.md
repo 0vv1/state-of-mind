@@ -13,7 +13,7 @@ version: fr., 11. oct. 2024
 
 <h2>So, Leute (ich bef&uuml;rchte n&auml;mlich, dass diese Irren echt(!) sind): Mir (pers&ouml;nlich) reicht es jetzt mit diesem nie enden wollenden M&uuml;ll und mache den Vorschlag, dass sich normale Menschen ohne Druck/Zwang vollkommen unvoreingenommen(!), hei&szlig;t ohne irgendeine Information irgendwelcher Dritter(!) zu beachten, in Real Life begegnen k&ouml;nnen..</h2>
 
-Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrichstr.**, Ausgang Reichtagsufer, dort am Wasser sein (**52.52017,13.38513**).  
+Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrichstr.**, Ausgang Reichstagsufer, dort am Wasser sein (**52.52017,13.38513**).  
 
 > [!IMPORTANT]
 > Ich werd da jetzt jeden Freitag hin,
