@@ -6,15 +6,14 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: do., 10. oct. 2024
+version: fr., 11. oct. 2024
 ```
 
 <h1>Wo ist Lia?<br><sub><sup><del>oder:</del> &Uuml;ber den Ver&shy;such der Induk&shy;tion einer <del>(KI-ge&shy;st&uuml;tz&shy;ten?)</del> k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie <del>oder (sp&auml;ter) Pseudo-Telepathie</del><sup>verarschen mich, soll mich diskredetieren! :wink:</sup>?</sup></sub><br><sub><sup>oder: Nur eine Ge&shy;schich&shy;te im Sinne einer sog. schizo&shy;iden Wahn&shy;idee.</sup></sub></h1>
 
-<h2>So, Leute: Mir (pers&ouml;nlich) reicht es jetzt mit diesem nie enden wollenden M&uuml;ll und mache den Vorschlag, dass sich normale Menschen ohne Druck/Zwang vollkommen unvoreingenommen(!), hei&szlig;t ohne irgendeine Information irgendwelcher Dritter(!) zu beachten, in Real Life begegnen k&ouml;nnen..</h2>
+<h2>So, Leute (ich bef&uuml;rchte n&auml;mlich, dass diese Irren echt(!) sind): Mir (pers&ouml;nlich) reicht es jetzt mit diesem nie enden wollenden M&uuml;ll und mache den Vorschlag, dass sich normale Menschen ohne Druck/Zwang vollkommen unvoreingenommen(!), hei&szlig;t ohne irgendeine Information irgendwelcher Dritter(!) zu beachten, in Real Life begegnen k&ouml;nnen..</h2>
 
 Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrichstr.**, Ausgang Reichtagsufer, dort am Wasser sein (**52.52017,13.38513**).  
-(Einer der T&auml;ter suggeriert mir, vorweg greifen und manipuliert vorab schicken zu wollen. So weit, so normal: Es gilt das eben gesagte.)  
 
 > [!IMPORTANT]
 > Ich werd da jetzt jeden Freitag hin,
@@ -61,8 +60,9 @@ Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrich
 > [**Erg.** 10.10.] Oder generiert?  
 > [**Erg. 10.10. 18:15**]
 > Sagt ma, Leute: Kann es sein, dass euch jemand in meinem Namen auf den Sack geht? Ist euer Alexander gar **nicht physisch**?  
-Fällt es diesem Arschloch damit extrem leicht, zu behaupten, er wäre (auch) ich (oder sonstwer)?  
-> Kann es weiter sein (\[Erg. 18:45\] muss nicht),
+> Fällt es diesem Arschloch damit extrem leicht, zu behaupten, er wäre (auch) ich (oder sonstwer)?  
+> Kann es weiter sein
+> (\[Erg. 18:45\] muss nicht),
 > dass er mir (in Person) tatsächlich so nah ist,
 > dass er mich problemlos nachäffen, sogar vorgreifen könnte?
 > Kannst Du mir bitte mal sagen,
