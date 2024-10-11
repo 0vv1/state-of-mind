@@ -13,6 +13,11 @@ version: fr., 11. oct. 2024
 
 <h2>Auflösung: Lüge wird in mehreren Iterationen bei allen beteiligten "Mittätern" aufgedröselt, so dass sie sich an nichts erinnern können.</h2>
 
+[**11.10.**] **Nur für Doku:** Das ist jetzt schon mehrmals passiert. Manchmal auch vor und zurück. Vielleicht hat das auch was mit diesem "Abbruch" zu tun.  
+Deswegen "Sabrina": "Wir haben die verarscht.", was dann doch nicht stimmt.  
+An dieses vor und zurück kann ich mich bei mir auch erinnern. VIelleicht machen die einmal Schnipps und ich bin z.B. Täter.  
+Deswegen werden Szenen immer wieder wiederholt, man kommt sich vor wie beim Sado-Murmeltier.
+
 <h2>So, Leute (ich bef&uuml;rchte n&auml;mlich, dass diese Irren echt(!) sind): Mir (pers&ouml;nlich) reicht es jetzt mit diesem nie enden wollenden M&uuml;ll und mache den Vorschlag, dass sich normale Menschen ohne Druck/Zwang vollkommen unvoreingenommen(!), hei&szlig;t ohne irgendeine Information irgendwelcher Dritter(!) zu beachten, in Real Life begegnen k&ouml;nnen..</h2>
 
 Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrichstr.**, Ausgang Reichstagsufer, dort am Wasser sein (**52.52017,13.38513**).  
