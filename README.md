@@ -32,7 +32,7 @@ Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrich
 > T&auml;ter-Einrede: Wollen mein Erscheinen heute 17:00 verhindern.
 > - [ ] Ziel erreicht
 > - [ ] Ziel nicht erreicht
-> - [ ] Versp&auml;tung
+> - [x] Versp&auml;tung: 17:08
 
 > [!CAUTION]
 > Ich gehe davon aus,
