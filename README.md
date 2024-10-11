@@ -27,6 +27,13 @@ Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrich
 > Ebenso, muss sich ausdr&uuml;cklich(!) **niemand f&uuml;r irgendetwas entschuldigen**. Das perfide Spiel mit Schuld, Scham et&#8239;c. liegt ausschlie&szlig;lich bei (h&ouml;chstens) wenigen Initiatoren,
 > denen scheinbar viel an der Vergiftung (guter) Herzen liegt und die Morddrohungen aussprechen, sollten normale Menschen versuchen, sich einfach so zu begegnen.
 
+> [!WARNING]
+> [**11.10.**]
+> T&auml;trer-Einrede: Wollen mein Erscheinen heute 17:00 verhindern.
+> - [ ] Ziel erreicht
+> - [ ] Ziel nicht erreicht
+> - [ ] Versp&auml;tung
+
 > [!CAUTION]
 > Ich gehe davon aus,
 > dass nicht nur meine Wohnung
