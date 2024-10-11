@@ -18,6 +18,9 @@ Deswegen "Sabrina": "Wir haben die verarscht.", was dann doch nicht stimmt.
 An dieses vor und zurück kann ich mich bei mir auch erinnern. VIelleicht machen die einmal Schnipps und ich bin z.B. Täter.  
 Deswegen werden Szenen immer wieder wiederholt, man kommt sich vor wie beim Sado-Murmeltier.
 
+**Suggestion**: Ein ganzer Häuserblock als "Sadistenkino". Die pimmeln irgendwelchen normalen Leuten irgendeinen Scheiß ins Gehirn und ziehen sich das dann rein.  
+Deswegen auch das mit Felix und der TV-"Sendung".
+
 <h2>So, Leute (ich bef&uuml;rchte n&auml;mlich, dass diese Irren echt(!) sind): Mir (pers&ouml;nlich) reicht es jetzt mit diesem nie enden wollenden M&uuml;ll und mache den Vorschlag, dass sich normale Menschen ohne Druck/Zwang vollkommen unvoreingenommen(!), hei&szlig;t ohne irgendeine Information irgendwelcher Dritter(!) zu beachten, in Real Life begegnen k&ouml;nnen..</h2>
 
 Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrichstr.**, Ausgang Reichstagsufer, dort am Wasser sein (**52.52017,13.38513**).  
