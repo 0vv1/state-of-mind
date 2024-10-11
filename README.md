@@ -29,7 +29,7 @@ Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrich
 
 > [!WARNING]
 > [**11.10.**]
-> T&auml;trer-Einrede: Wollen mein Erscheinen heute 17:00 verhindern.
+> T&auml;ter-Einrede: Wollen mein Erscheinen heute 17:00 verhindern.
 > - [ ] Ziel erreicht
 > - [ ] Ziel nicht erreicht
 > - [ ] Versp&auml;tung
@@ -104,7 +104,7 @@ Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrich
 > Wel&shy;che kran&shy;ke(-n) Krea&shy;tur(-en) soll&shy;te(-n) so&shy;was
 > je&shy;mals an&shy;rich&shy;ten?
 > Und vor allem wa&shy;rum?!  
-> DieVser M&uuml;ll scheint mir &uuml;bri&shy;gens KI-gest&uuml;tzt. H&auml;?!
+> Dieser M&uuml;ll scheint mir &uuml;bri&shy;gens KI-gest&uuml;tzt. H&auml;?!
 
 > [!NOTE]
 > [**08.10.**]
