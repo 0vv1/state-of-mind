@@ -49,7 +49,7 @@ Deswegen auch das mit Felix und der TV-"Sendung". -->
 > [!WARNING]
 > [**11.10.**]
 > T&auml;ter-Einrede: Wollen mein Erscheinen heute 17:00 verhindern.
-> - [ ] Ziel erreicht
+> - [x] Ziel erreicht
 > - [ ] Ziel nicht erreicht
 > - [x] Versp&auml;tung: 17:08
 
