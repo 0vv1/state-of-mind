@@ -2818,11 +2818,19 @@ Repu&shy;ta&shy;tions&shy;ver&shy;lust im sozia&shy;len Um&shy;feld.
     <h5>"Rave the Planet"-Parade am
       <nobr><b>17. Aug. 2024</b></nobr></h5></summary>
 
-  Vollkommen skurriles Erleben inklusive des NLPen/suggerieren eines
-  schnaufenden, offenbar sehr erregten Mannes auf dem Rücken bzw.
-  Schultern (kanppe halbe Stunde, dann ausfadend),  
-  samt spüren eines männlichen Genitals im  Anus
-  (intendierte Absicht: vermutlich Re-Traumatisierung)
+  Vollkommen skurriles Erleben:
+  * ältere NLP mit sehr einfacher eindimensionaler Emotion subsumierend "Schlechtes Gewissen",
+    aber ohne alles, vor allem "den Grund vergessen"
+  * ein Kumpel hatte mir Vorab eine größere Menge ( ung. 25 µg + 150 µg) LSD-25 verabreicht,
+    welches ich sonst nicht nehme (alle paar Jahre mal)
+    * jedenfalls zeigte es die "künstlichen" flachen Emotionen und schien diese auch gerade zu
+      rücken
+    * auffällig: anscheinend hatte ich eine Toleranz, die ich mir nicht erklären kann
+  * inklusive des NLPen/suggerieren eines
+    schnaufenden, offenbar sehr erregten Mannes auf dem Rücken bzw.
+    Schultern (kanppe halbe Stunde, dann ausfadend),  
+    samt spüren eines männlichen Genitals im  Anus
+    (intendierte Absicht: vermutlich Re-Traumatisierung)
 
   **[W.&#8239;i.&#8239;P.](https://en.wikipedia.org/wiki/Work_in_process)
   ..**
