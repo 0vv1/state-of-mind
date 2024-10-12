@@ -6,12 +6,12 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: fr., 11. oct. 2024
+version: sa., 12. oct. 2024
 ```
 
 <h1>Wo ist Lia?<br><sub><sup><del>oder:</del> &Uuml;ber den Ver&shy;such der Induk&shy;tion einer <del>(KI-ge&shy;st&uuml;tz&shy;ten?)</del> k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie <del>oder (sp&auml;ter) Pseudo-Telepathie</del><sup>verarschen mich, soll mich diskredetieren! :wink:</sup>?</sup></sub><br><sub><sup>oder: Nur eine Ge&shy;schich&shy;te im Sinne einer sog. schizo&shy;iden Wahn&shy;idee.</sup></sub></h1>
 
-<h2>Auflösung: Lüge wird in mehreren Iterationen bei allen beteiligten "Mittätern" aufgedröselt, so dass sie sich an nichts erinnern können.</h2>
+<!-- h2>Auflösung: Lüge wird in mehreren Iterationen bei allen beteiligten "Mittätern" aufgedröselt, so dass sie sich an nichts erinnern können.</h2>
 
 [**11.10.**] **Nur für Doku:** Das ist jetzt schon mehrmals passiert. Manchmal auch vor und zurück. Vielleicht hat das auch was mit diesem "Abbruch" zu tun.  
 Deswegen "Sabrina": "Wir haben die verarscht.", was dann doch nicht stimmt.  
@@ -19,11 +19,20 @@ An dieses vor und zurück kann ich mich bei mir auch erinnern. VIelleicht machen
 Deswegen werden Szenen immer wieder wiederholt, man kommt sich vor wie beim Sado-Murmeltier.
 
 **Suggestion**: Ein ganzer Häuserblock als "Sadistenkino". Die pimmeln irgendwelchen normalen Leuten irgendeinen Scheiß ins Gehirn und ziehen sich das dann rein.  
-Deswegen auch das mit Felix und der TV-"Sendung".
+Deswegen auch das mit Felix und der TV-"Sendung". -->
 
-<h2>So, Leute (ich bef&uuml;rchte n&auml;mlich, dass diese Irren echt(!) sind): Mir (pers&ouml;nlich) reicht es jetzt mit diesem nie enden wollenden M&uuml;ll und mache den Vorschlag, dass sich normale Menschen ohne Druck/Zwang vollkommen unvoreingenommen(!), hei&szlig;t ohne irgendeine Information irgendwelcher Dritter(!) zu beachten, in Real Life begegnen k&ouml;nnen..</h2>
-
-Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrichstr.**, Ausgang Reichstagsufer, dort am Wasser sein (**52.52017,13.38513**).  
+> [!TIP]
+> So, Leute (ich bef&uuml;rchte n&auml;mlich, dass diese Irren echt(!) sind):
+> Mir (pers&ouml;nlich) reicht es jetzt mit diesem nie enden wollenden M&uuml;ll und mache den Vorschlag,
+> dass sich normale Menschen ohne Druck/Zwang vollkommen unvoreingenommen(!),
+> hei&szlig;t ohne irgendeine Information irgendwelcher Dritter(!) zu beachten
+> in Real Life begegnen k&ouml;nnen..
+> 
+> Ich werde am morgigen **Freitag**,
+> gegen **17:00** s&uuml;dlich **Bhf. Friedrichstr.**,
+> Ausgang Reichstagsufer, 
+> dort am Wasser sein
+> (**52.52017,13.38513**).  
 
 > [!IMPORTANT]
 > Ich werd da jetzt jeden Freitag hin,
