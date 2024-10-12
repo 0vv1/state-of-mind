@@ -270,7 +270,8 @@ Ich werde am morgigen **Freitag**, gegen **17:00** s&uuml;dlich **Bhf. Friedrich
 > Fickt euch und **eure bl&ouml;de Show**!  
 > Und dann noch in so einer Kack-Figu&shy;ren&shy;grup&shy;pe
 > (Welche soll das &uuml;ber&shy;haupt sein?
-> Bedarfs&shy;wei&shy;ses `$hate_object` zu&shy;sam&shy;men mit F.?
+> Bedarfs&shy;wei&shy;ses `$hate_object` zu&shy;sam&shy;men mit F.
+> (auch zwei Versionen)?
 > Er f&uuml;r be&shy;lie&shy;bi&shy;gen Crimi&shy;nal,
 > ich f&uuml;r ande&shy;rer Leu&shy;te Eifer&shy;sucht?)  
 > **Anm.**:
