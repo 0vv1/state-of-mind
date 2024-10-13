@@ -20,7 +20,7 @@ version: sa., 12. oct. 2024
 > [!IMPORTANT]
 > **Schizophrenie**-Diagnose.  
 > **Täterseitig** denunziert/**isoliert** (niemand kennt meine Stimme).  
-> Bei der Polizei blitze ich einfach ab.
+> Bei der Polizei blitze ich einfach ab.  
 > **Wichtig**: Das hier ist die **M&uuml;ll**-Story **nur f&uuml;r
 > mich**!  
 > Das hat nichts mit anderen Personen zu tun. Die ist von "denen". 
