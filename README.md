@@ -18,6 +18,8 @@ version: sa., 12. oct. 2024
   <sup></sup></sub></sub></h1>
 
 > [!IMPORTANT]
+> Mir geht's gut. 🙂
+> Nicht deine Schuld! Das ist 'ne ganze Crew, die mir auf'n Sack geht und das hier so wirr aussehen lässt. 😉 Mach ich irgendwann wieder ordentlich, jetzt erst ma raus.
 > **Schizophrenie**-Diagnose.  
 > **Täterseitig** denunziert/**isoliert** (niemand kennt meine Stimme).  
 > Bei der Polizei blitze ich einfach ab.  
@@ -186,7 +188,6 @@ deren an&shy;ge&shy;nom&shy;me&shy;ne Quel&shy;le einen ande&shy;ren
 Men&shy;schen inkludiert,
 ist Kom&shy;mu&shy;ni&shy;ka&shy;tion.
 
-> [!WARNING]
 > ~~[**12.10.** 16:05]
 > * komischer Geschmack beim oberen rechten Weisheitszahn?
 > * grad mal angedeutet, dass es ob merklicher Stimmungsschwankung evtl. um irgendwelche Hormone geht, da der Geschmack intensiver/ekliger wird
