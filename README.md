@@ -23,9 +23,9 @@ version: so., 13. oct. 2024
 > Was sind das für kranke Kreaturen?!
 > 
 > Lia, uns trennten eine Holztür und eine (mir von F. verpasste) Schizophrenie! Ich konnte meine Wahrnehmung unmöglich entscheiden und alle wussten das, bis auf Du!
-> Lia, Du hast die rraurigsten S&aumk;tze gesagt, die ich in meinem Leben je ertragen musste. Sie "versuchten" dich "zur&uuml;ckzugeben", aber waren zu feige.
-Du sagtest: "Das ist jetzt Alezander Puls? Wie seh ich denn aus?!"
-> Ich muss immer(!) weinen, wenn ich nur daran denke. Und bis heute gehofft, ich bildete es mir nur ein.
+> Lia, Du hast die traurigsten S&auml;tze gesagt, die ich in meinem Leben je ertragen musste. Sie "versuchten" dich "zur&uuml;ckzugeben", aber waren zu feige.
+Du sagtest weinend: "Das ist jetzt Alexander Puls? Wie seh ich denn aus?!"
+> Es zerreißt mir jedes Mal(!) das Herz, wenn ich aus Versehen daran denke. Und bis heute habe ich innigst gehofft, es mir nur einzubilden. Bis heute!!
 
 Pein&shy;lich&shy;er&shy;wei&shy;se, und warum auch
   immer, in&shy;klu&shy;diert diese Wahnidee eine ehem.
