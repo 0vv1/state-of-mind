@@ -18,7 +18,8 @@ version: sa., 12. oct. 2024
   <sup></sup></sub></sub></h1>
 
 > [!IMPORTANT]
-> **Schizophrenie**-Diagnose.   > **Täterseitig** denunziert/**isoliert**.  
+> **Schizophrenie**-Diagnose.  
+> **Täterseitig** denunziert/**isoliert**.  
 > Ich blitze bei der Polizei einfach ab.
 
 Pein&shy;lich&shy;er&shy;wei&shy;se, und warum auch
