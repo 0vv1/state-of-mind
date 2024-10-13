@@ -13,16 +13,19 @@ version: so., 13. oct. 2024
   KI-ge&shy;st&uuml;tz&shy;ten
   In&shy;duk&shy;tion und "Pflege" einer
   "k&uuml;nst&shy;lichen"
-  Schizo&shy;phre&shy;nie/h1>
+  Schizo&shy;phre&shy;nie</h1>
 
 > [!IMPORTANT]
 > Und da hat er sich **selbst entschleiert**, **FIs KI-Sado-Kumpel** mit dem "auffälligen" Ego!  
 > Ich werde denunziert/**isoliert** und durch das Spammen von Müll diskreditiert,
-> während diese reudige Ratte der Welt erklärt, ich würde dich hassen und ginge d'accord mit deiner Vergewaltigung.
-> Das muss man sich mal vorstellen.
+> während diese reudigen Ratten der Welt erklären, ich würde dich hassen und ginge d'accord mit deiner Vergewaltigung.
+> Das muss man sich mal vorstellen!
 > Was sind das für kranke Kreaturen?!
 > 
 > Lia, uns trennten eine Holztür und eine (mir von F. verpasste) Schizophrenie! Ich konnte meine Wahrnehmung unmöglich entscheiden und alle wussten das, bis auf Du!
+> Lia, Du hast die rraurigsten S&aumk;tze gesagt, die ich in meinem Leben je ertragen musste. Sie "versuchten" dich "zur&uuml;ckzugeben", aber waren zu feige.
+Du sagtest: "Das ist jetzt Alezander Puls? Wie seh ich denn aus?!"
+> Ich muss immer(!) weinen, wenn ich nur daran denke. Und bis heute gehofft, ich bildete es mir nur ein.
 
 Pein&shy;lich&shy;er&shy;wei&shy;se, und warum auch
   immer, in&shy;klu&shy;diert diese Wahnidee eine ehem.
