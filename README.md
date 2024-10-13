@@ -19,14 +19,13 @@ version: sa., 12. oct. 2024
 
 > [!IMPORTANT]
 > Mir geht's gut. 🙂
-> Nicht deine Schuld! Das ist 'ne ganze Crew, die mir auf'n Sack geht und das hier so wirr aussehen lässt. 😉 Mach ich irgendwann wieder ordentlich, jetzt erst ma raus.
+> Nicht deine Schuld! Das ist 'ne ganze Crew, die mir auf'n Sack geht und das hier so wirr aussehen lässt (und sich bei dir mglw. benehmen wie Deckchen, was ich ein bisschen gruselig fände, TBH).  
 > **Schizophrenie**-Diagnose.  
-> **Täterseitig** denunziert/**isoliert** (niemand kennt meine Stimme).  
-> Bei der Polizei blitze ich einfach ab.  
+> Ich werde denunziert/**isoliert** (niemand kennt meine Stimme) und durch das Spammen von Müll denunziert.    
+> Kennt jemand einen Dude, mit KI-Background, seltsamen Freunden und sadistischen Neigungen?!    
 > **Wichtig**: Das hier ist die **M&uuml;ll**-Story **nur f&uuml;r
 > mich**!  
-> Das hat nichts mit anderen Personen zu tun. Die ist von "denen".  
-> Keine gespaltene Persönlichkeit! Was f&uuml;r ein Schwachsinn.. :smirk:  
+> Das hat nichts mit anderen Personen zu tun. Die ist von dieser Scheiß Sado-Crew.
 
 Pein&shy;lich&shy;er&shy;wei&shy;se, und warum auch
   immer, in&shy;klu&shy;diert diese Wahnidee eine ehem.
