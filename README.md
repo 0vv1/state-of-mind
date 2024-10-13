@@ -72,12 +72,6 @@ Pein&shy;lich&shy;er&shy;wei&shy;se, und warum auch
 > Schi&shy;zo&shy;phre&shy;nie:
 > ein&shy;sa&shy;mes und da&shy;mit be&shy;deu&shy;tungs&shy;lo&shy;ses
 > Er&shy;le&shy;ben)  
-> und mich damit augen&shy;blick&shy;lich vom Joch eines
-> un&shy;fass&shy;ba&shy;ren Sadis&shy;mus' einer
-> schreck&shy;lich&shy;en Schi&shy;zo&shy;phre&shy;nie be&shy;freit.  
-> (Wie&shy;so f&uuml;hlt sich diese selt&shy;sa&shy;me
-> Ge&shy;schich&shy;te schon im&shy;mer an wie ein M&auml;r&shy;chen?!
-> Was soll das?)  
 > Es sind **alle**(!),
 > aus&shy;dr&uuml;ck&shy;lich auch die durch sug&shy;ge&shy;rier&shy;te
 > Mit&shy;t&auml;&shy;ter&shy;schaft
