@@ -192,8 +192,23 @@ ist Kom&shy;mu&shy;ni&shy;ka&shy;tion.
 > son&shy;dern soll maxi&shy;mals&shy;ten emo&shy;tio&shy;na&shy;len
 > Scha&shy;den an&shy;rich&shy;ten!**
 > 
-> Ich f&uuml;rch&shy;te,
-> ich bin gera&shy;de ge&shy;sund ge&shy;wor&shy;den.
+> ~~Ich f&uuml;rch&shy;te,
+> ich bin gera&shy;de ge&shy;sund ge&shy;wor&shy;den.~~
+> Von wegen: Die haben mich wieder in der Schizo-Schiene. Das ist mit das widerlichste. Und dann erzählen die einem irgendwas von Schusswaffen, dass man umzingelt ist.  
+> Die tun vielleicht auch nur so als haben sie Dritte in ihrer Gewalt, aber der Zweifel ist eben da. Perfide.  
+> Man kann nichts machen. M.M.n. machen die dieses Schizo-Ding öfter.
+
+> [12:50]
+> Der kann alles behaupten, er suggeriert kadavergehorsam auf Opferseite.  
+> Einfach nur gruselig - junger Täter (mglw. U30): "Du musst kapieren, dass das normal für uns ist."
+> [12:54]
+> Suggestion, F II übernimmt und macht Alarm (ist aber glaub ich auch der Haupttäter)!  
+> Die wollen mich klein kriegen.
+> Die anderen scheinen zu irgendeinem Scheiß gezwungen, glaub ich (andere Opfer, die er die ganze Zeit volllabert)
+> Der kann alles mit denen machen, weil er denen irgendeinen Müll eingeredet hat.
+> Dann zu mir, wie üblich Einrede Mittäterschaft. 
+> Noch besser: Lässt sich inspirieren von mir.
+> Ebene 3 mischt sich ein.
 
 > [!CAUTION]
 > Ich gehe davon aus,
@@ -219,7 +234,7 @@ ist Kom&shy;mu&shy;ni&shy;ka&shy;tion.
 > 
 > Es *scheint* jeman&shy;den zu ge&shy;ben,
 > der regel&shy;m&auml;&szlig;ig meine Stim&shy;me imi&shy;tiert.
-> [**Erg.** 10.10.] Oder generiert?  
+> [**Erg.** 10.10.] Oder generiert (KI)?  
 > [**Erg. 10.10. 18:15**]
 > Sagt ma, Leute: Kann es sein, dass euch jemand in meinem Namen auf den Sack geht? Ist euer Alexander gar **nicht physisch**?  
 > Fällt es diesem Arschloch damit extrem leicht, zu behaupten, er wäre (auch) ich (oder sonstwer)?  
