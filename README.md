@@ -21,8 +21,9 @@ version: sa., 12. oct. 2024
 > Mir geht's gut. 🙂
 > Nicht deine Schuld! Das ist 'ne ganze Crew, die mir auf'n Sack geht und das hier so wirr aussehen lässt (und sich bei dir mglw. benehmen wie Deckchen, was ich ein bisschen gruselig fände, TBH).  
 > **Schizophrenie**-Diagnose.  
-> Ich werde denunziert/**isoliert** (niemand kennt meine Stimme) und durch das Spammen von Müll denunziert.    
-> Kennt jemand einen Dude, mit KI-Background, seltsamen Freunden und sadistischen Neigungen?!    
+> Ich werde denunziert/**isoliert** (niemand kennt meine Stimme) und durch das Spammen von Müll diskreditiert.
+> Weil ich so krass ber&uuml;hmt bin, Arschloch.  
+> Kennt jemand einen Dude, mit KI-Background, seltsamen Freunden, sadistischen Neigungen und einigermaßen "auff&auml;lligen" Ego"?!    
 > **Wichtig**: Das hier ist die **M&uuml;ll**-Story **nur f&uuml;r
 > mich**!  
 > Das hat nichts mit anderen Personen zu tun. Die ist von dieser Scheiß Sado-Crew.
