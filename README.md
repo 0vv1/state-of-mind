@@ -9,7 +9,18 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: sa., 12. oct. 2024
 ```
 
-<h1>Wo ist Lia?<br><sub><sup><del>oder:</del> &Uuml;ber den Ver&shy;such der Induk&shy;tion einer <del>(KI-ge&shy;st&uuml;tz&shy;ten?)</del> k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie <del>oder (sp&auml;ter) Pseudo-Telepathie</del><sup>verarschen mich, soll mich diskredetieren! :wink:</sup>?</sup></sub><br><sub><sup>oder: Nur eine Ge&shy;schich&shy;te im Sinne einer sog. schizo&shy;iden Wahn&shy;idee.</sup></sub></h1>
+<h1>Wo ist L\.?<br><sub><sup>oder: &Uuml;ber den Ver&shy;such der
+  <del>(KI-ge&shy;st&uuml;tz&shy;ten?)</del> In&shy;duk&shy;tion einer
+  k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie
+  <del>so&shy;wie (sp&auml;&shy;ter)
+  Pseu&shy;do-<wbr>Te&shy;le&shy;pa&shy;<nobr>thie</del><sup>:warning:Diskredit</sup>?</sup></sub></nobr><br><sub><sup>oder:
+  Schizo&shy;ide Wahn&shy;idee meines 2ten Schubs.
+  <sub><sup>(pein&shy;lich&shy;er&shy;wei&shy;se und warum auch
+  immer eine ehem. Nach&shy;ba&shy;rin in&shy;klu&shy;die&shy;rend.
+  Sie m&ouml;ge mir bit&shy;te ver&shy;zei&shy;hen,
+  soll&shy;te sie diesen Quatsch,
+  wa&shy;rum auch im&shy;mer,
+  je&shy;mals lesen.)</sup></sup></sub></sub></h1>
 
 <!-- h2>Auflösung: Lüge wird in mehreren Iterationen bei allen beteiligten "Mittätern" aufgedröselt, so dass sie sich an nichts erinnern können.</h2>
 
@@ -22,52 +33,148 @@ Deswegen werden Szenen immer wieder wiederholt, man kommt sich vor wie beim Sado
 Deswegen auch das mit Felix und der TV-"Sendung". -->
 
 > [!TIP]
-> So, Leute (ich bef&uuml;rchte n&auml;mlich, dass diese Irren echt(!) sind):
-> Mir (pers&ouml;nlich) reicht es jetzt mit diesem nie enden wollenden M&uuml;ll und mache den Vorschlag,
-> dass sich normale Menschen ohne Druck/Zwang vollkommen unvoreingenommen(!),
-> hei&szlig;t ohne irgendeine Information irgendwelcher Dritter(!) zu beachten
-> in Real Life begegnen k&ouml;nnen..
+> So, Leute
+> (ich be&shy;f&uuml;rch&shy;te n&auml;m&shy;lich,
+> dass die&shy;se Irren echt sind!):
+> Mir
+> (per&shy;s&ouml;n&shy;lich)
+> reicht es jetzt mit die&shy;sem nie enden wol&shy;len&shy;den
+> M&uuml;ll und mache den Vor&shy;schlag,
+> dass sich nor&shy;ma&shy;le Men&shy;schen ohne
+> <nobr>Druck/</nobr><wbr>Zwang voll&shy;kom&shy;men
+> un&shy;vor&shy;ein&shy;ge&shy;nom&shy;men(!),
+> hei&szlig;t ohne d&uuml;mm&shy;liche
+> "In&shy;for&shy;ma&shy;tio&shy;nen"
+> ver&shy;kom&shy;me&shy;ner Drit&shy;ter(!) in Betracht zu zie&shy;hen,
+> im Real Life be&shy;geg&shy;nen k&ouml;n&shy;nen ..
 > 
-> Ich werde am morgigen **Freitag**,
-> gegen **17:00** s&uuml;dlich **Bhf. Friedrichstr.**,
-> Ausgang Reichstagsufer, 
-> dort am Wasser sein
-> (**52.52017,13.38513**).  
+> Ich wer&shy;de am [mor&shy;gi&shy;gen **Fre&shy;itag**,
+> gegen **17:00** s&uuml;dlich **Bhf.
+> Fried&shy;rich&shy;str.**](https://fb.me/e/7IUi9gbQq),
+> Aus&shy;gang Reichs&shy;tags&shy;ufer, 
+> dort am Was&shy;ser sein
+> (**52.52017,13.38513**),
+> ein Weil&shy;chen blei&shy;ben und schauen,
+> ob je&shy;mand er&shy;scheint.  
 
 > [!IMPORTANT]
-> Ich werd da jetzt jeden Freitag hin,
-> es sind **alle**(!),
-> ausdr&uuml;cklich auch durch suggerierte Mitt&auml;terschaft (egal ab wann!) belastete Menschen,
-> **herzlich eingeladen**!  
-> (Wenigstens)
-> Ich werde niemandem irgendetwas vorwerfen,
-> aber (**wichtig**): Niemand muss jemals erscheinen.
-> Ich werde aber so (laut Kalk&uuml;l) das bl&ouml;de Ges&uuml;lze zu Hause los.  
-> Ebenso, muss sich ausdr&uuml;cklich(!) **niemand f&uuml;r irgendetwas entschuldigen**. Das perfide Spiel mit Schuld, Scham et&#8239;c. liegt ausschlie&szlig;lich bei (h&ouml;chstens) wenigen Initiatoren,
-> denen scheinbar viel an der Vergiftung (guter) Herzen liegt und die Morddrohungen aussprechen, sollten normale Menschen versuchen, sich einfach so zu begegnen.
-
-> [!WARNING]
-> [**11.10.**]
-> T&auml;ter-Einrede: Wollen mein Erscheinen heute 17:00 verhindern.
-> - [ ] Ziel erreicht
-> - [x] Ziel nicht erreicht
-> - [x] Versp&auml;tung: 17:08
-
-> [!CAUTION]
-> Ich gehe davon aus,
-> dass nicht nur meine Wohnung
-> (l&uuml;ckenlos!)
-> akustisch abgenommen
-> (evtl. niedrigschwellig (nahe Wahrnehmungsgrenze!) beschallt)
-> wird!
+> Dort&shy;hin wer&shy;de ich mich,
+> schon aus rei&shy;nem Ego&shy;is&shy;mus,
+> ab jetzt je&shy;den Frei&shy;tag
+> be&shy;ge&shy;ben,
+> bis ein rea&shy;ler Men&shy;sch mir eine
+> mit mir ge&shy;teil&shy;te Realit&auml;t und
+> da&shy;mit ge&shy;mein&shy;sa&shy;mes Er&shy;le&shy;ben best&auml;tigt  
+> (Kern&shy;ele&shy;ment und -pro&shy;blem je&shy;der
+> Schi&shy;zo&shy;phre&shy;nie:
+> ein&shy;sa&shy;mes und da&shy;mit be&shy;deu&shy;tungs&shy;lo&shy;ses
+> Er&shy;le&shy;ben)  
+> und mich damit augen&shy;blick&shy;lich vom Joch eines
+> un&shy;fass&shy;ba&shy;ren Sadis&shy;mus einer
+> schreck&shy;lich&shy;en Schi&shy;zo&shy;phre&shy;nie be&shy;freit.
+> (Wie&shy;so f&uuml;hlt sich diese selt&shy;sa&shy;me
+> Ge&shy;schich&shy;te schon im&shy;mer an wie ein M&auml;r&shy;chen?!
+> Was soll das?)
+> Es sind **alle**(!),
+> aus&shy;dr&uuml;ck&shy;lich auch die durch sug&shy;ge&shy;rier&shy;te
+> Mit&shy;t&auml;&shy;ter&shy;schaft
+> (egal ab wann!)
+> be&shy;las&shy;te&shy;ten Men&shy;schen,
+> **herz&shy;lich ein&shy;ge&shy;la&shy;den**!  
+> (Wenigs&shy;tens)
+> Ich wer&shy;de nie&shy;man&shy;dem irgend&shy;et&shy;was
+> vor&shy;wer&shy;fen,
+> aber (**wich&shy;tig**):
+> Nie&shy;mand muss je&shy;mals er&shy;schei&shy;nen!
+> Ich wer&shy;de aber so
+> (laut Kal&shy;k&uuml;l)
+> das bl&ouml;&shy;de Ge&shy;s&uuml;l&shy;ze zu Hause los.  
+> Eben&shy;so muss sich aus&shy;dr&uuml;ck&shy;lich(!) **nie&shy;mand
+> f&uuml;r irgend&shy;et&shy;was ent&shy;schul&shy;di&shy;gen**.
+> Das per&shy;fi&shy;de Spiel mit Schuld, Scham et&#8239;c.
+> liegt aus&shy;schlie&szlig;&shy;lich bei
+> (h&ouml;chs&shy;tens)
+> we&shy;ni&shy;gen Ini&shy;tia&shy;to&shy;ren,
+> de&shy;nen schein&shy;bar viel an der Ver&shy;gif&shy;tung
+> (sch&ouml;ner)
+> Her&shy;zen liegt und die Mord&shy;dro&shy;hun&shy;gen
+> aus&shy;spre&shy;chen,
+> soll&shy;ten ganz nor&shy;ma&shy;le Men&shy;schen ver&shy;suchen,
+> sich ein&shy;fach so zu be&shy;geg&shy;nen.
 
 > [!NOTE]
 > [**09.10.**]
-> Jo. Ich würde meinen "2. Schizophrenen Schub" dann ENDLICH(!) gern mal hier beenden wollen. Die Versionsverwaltung wird dafür sorgen, dass ich nicht grob entstelle.  
-> Wenn die besprochene Dame das hier irgendwann mal liest (Warum sollte sie?), kannst Du dich immer gern bei mir melden (dein Zitat; diesen Handzettel fand ich so süß, dass ich ihn behalten hab; aus einer kurzen Zeit vor diesen Irren).
-> Meine Kontaktdaten habe ich aus Sorge im gesamten Web verteilt.  
-> Grüße an deinen Vater Frank (den ich wie dich überhaupt nicht kenne)!
-> Aber seine Rache am 15.08. (zwei Stunden Dialog bis kurz vor meiner Erschießung) war sowohl nachvollziehbar als auch der Grund, dich aufzusuchen. Da hat es mir nämlich gereicht..
+> Wenn L\. das hier irgend&shy;wann ein&shy;mal lesen soll&shy;te
+> (eine Frau, die mich h&ouml;chst&shy;wahr&shy;schein&shy;lich
+> &uuml;ber&shy;haupt nicht zu&shy;ord&shy;nen kann),
+> dann
+>  1. Ent&shy;schul&shy;di&shy;ge bit&shy;te das Ver&shy;we&shy;ben
+>     be&shy;klopp&shy;ter
+>     (ite&shy;rier&shy;ter)
+>     Fi&shy;gu&shy;ren,
+>     die **dei&shy;ne**r **rea&shy;le**n **Per&shy;son**
+>     ab&shy;ge&shy;lei&shy;tet sind, :wink:
+> so&shy;wie:
+>  2. dem ini&shy;tia&shy;len Sa&shy;dis&shy;ten **Herr**n **F.** aus
+>     Rei&shy;nicken&shy;dorf,
+>  3. sei&shy;ner 1. Ab&shy;lei&shy;tung (**F. II**) ande&shy;rer
+>     Sa&shy;dis&shy;ten,
+>  4. sei&shy;ner treu&shy;en La&shy;kei&shy;in **Ju&shy;lia**,
+>  5. **Herr**n **M.** aus Tem&shy;pel&shy;hof,
+>     dem sadis&shy;ti&shy;schen Pup&shy;pet&shy;mas&shy;ter
+>     1. Ord&shy;nung,
+>  6. sei&shy;nen even&shy;tu&shy;el&shy;len Ab&shy;lei&shy;tun&shy;gen
+>     h&ouml;he&shy;rer Meta&shy;ebe&shy;nen,
+>  7. mir sug&shy;ge&shy;rier&shy;te be&shy;tei&shy;lig&shy;te
+>     (je&shy;doch un&shy;schul&shy;di&shy;ge)
+>     selbst in Mit&shy;t&auml;&shy;ter&shy;schaft
+>     sug&shy;ge&shy;rier&shy;te ande&shy;re Opfer,
+>     bis auf **Sabri&shy;na** <nobr>(Klemke<sup>?</sup>)</nobr>
+>     in Ano&shy;ny&shy;mi&shy;t&auml;t,
+>  8. einer Rei&shy;he sug&shy;ge&shy;rier&shy;ter
+>     ge&shy;w&ouml;hn&shy;licher(?!) "Sa&shy;do-Tou&shy;ris&shy;ten"(?)
+>     wie "Fe&shy;lix",
+>  9. Side&shy;kick **Jezz** so&shy;wie
+> 10. ein nicht n&auml;her be&shy;kann&shy;ter mglw.
+>     Psy&shy;cho&shy;path(?)
+>     3\. Ebe&shy;ne, mit sei&shy;ner(?)
+>     "Ei&shy;sen&shy;bahn&shy;plat&shy;te"
+>     (o.&#8239;&auml;.)
+>     und ei&shy;ner ein&shy;zi&shy;gen
+>     (aus &uuml;ber 17k Stun&shy;den!)
+>     des Be&shy;mer&shy;kens wer&shy;ten &Auml;u&szlig;e&shy;rung[^1],
+> **ganz wich&shy;tig**:
+> 2\. bis 10.
+> (bis&shy;her)
+> ohne nach&shy;ge&shy;wie&shy;se&shy;ne
+> (wenn auch nur an&shy;ge&shy;lehn&shy;ten)
+> Exis&shy;tenz.
+
+F&uuml;r L\. gilt,
+<img
+  align="right"
+  alt="Handzettel"
+  src="2022-09_L_msg.jpg"
+  width="300px">
+warum auch immer Du das hier lesen soll&shy;test,  
+und ich zi&shy;tie&shy;re dich von ei&shy;nem Hand&shy;zet&shy;tel aus
+einer Zeit vor die&shy;sen Irren,
+den ich so süß fand,
+dass ich ihn be&shy;hal&shy;ten habe.  
+Glei&shy;ches gilt nat&uuml;r&shy;lich um&shy;ge&shy;kehrt,
+auch wenn ich bis heute nie mehr Ge&shy;le&shy;gen&shy;heit fand,
+es dir so aus&shy;zu&shy;rich&shy;ten.
+</img>
+
+> [!CAUTION]
+> Ich gehe davon aus,
+> dass nicht nur meine **Woh&shy;nung**
+> (l&uuml;cken&shy;los!)
+> **akus&shy;tisch ab&shy;ge&shy;nom&shy;men**
+> (**evtl. auch** nie&shy;drig&shy;schwel&shy;lig
+> (nahe Wahr&shy;neh&shy;mungs&shy;gren&shy;ze!)
+> **be&shy;schallt**)
+> **wird**!
 
 > [!WARNING]
 > Mglw. [Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl](#m&ouml;glicher-identit&auml;tsdiebstahl)
@@ -155,7 +262,7 @@ Deswegen auch das mit Felix und der TV-"Sendung". -->
 > <nobr>get&auml;uscht<sup>:warning:Suggestion</sup>)</nobr>,
 > aber ver&shy;se&shy;hen mit einem Namen:
 > 
-> **Wo ist Lia?**  
+> **<big>Wo ist L.?</big>**  
 > 
 > Und wer oder was ist sie &uuml;ber&shy;haupt?  
 > Warum ant&shy;wor&shy;tet sie mir nicht,
@@ -2968,7 +3075,7 @@ ihrer Opfer.
       (m&ouml;g&shy;lich&shy;er&shy;wei&shy;se auch in ande&shy;ren
       Stadt&shy;tei&shy;len?!)
     <img align="right" alt="Brief: Ecke" width="200px"
-      src="./2024-10-02_brief-an-lia.ecke.jpg">
+      src="./2024-10-02_brief-an-l.ro.jpg">
   * [**Anm.** 07.10.] Ob Sug&shy;ges&shy;tion heu&shy;te:
     Der
     (im&shy;mer freund&shy;li&shy;che :grimacing:)
