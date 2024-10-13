@@ -23,7 +23,7 @@ version: sa., 12. oct. 2024
 > **Schizophrenie**-Diagnose.  
 > Ich werde denunziert/**isoliert** (niemand kennt meine Stimme) und durch das Spammen von Müll diskreditiert.
 > Weil ich so krass ber&uuml;hmt bin, Arschloch.  
-> Kennt jemand einen Dude, mit KI-Background, seltsamen Freunden, sadistischen Neigungen und einigermaßen "auff&auml;lligen" Ego"?!    
+> Kennt jemand einen Dude, mit KI-Background, seltsamen Freunden, sadistischen Neigungen und einigermaßen "auff&auml;lligem" Ego"?!    
 > **Wichtig**: Das hier ist die **M&uuml;ll**-Story **nur f&uuml;r
 > mich**!  
 > Das hat nichts mit anderen Personen zu tun. Die ist von dieser Scheiß Sado-Crew.
@@ -127,7 +127,7 @@ Pein&shy;lich&shy;er&shy;wei&shy;se, und warum auch
 >     soll&shy;te er real sein,
 >     auf Schizo&shy;phre&shy;nie-Pa&shy;tien&shy;ten
 >     spe&shy;zia&shy;li&shy;siert ist),
->  4. sei&shy;ne treu&shy;en La&shy;kei&shy;in **Ju&shy;lia**,
+>  4. sei&shy;ne treu&shy;e La&shy;kei&shy;in **Ju&shy;lia**,
 >  5. **Herr**n **M.** aus Tem&shy;pel&shy;hof,
 >     dem sadis&shy;ti&shy;schen Pup&shy;pet&shy;mas&shy;ter
 >     1\. Ord&shy;nung,
@@ -187,11 +187,6 @@ Je&shy;de Sin&shy;nes&shy;wahr&shy;neh&shy;mung,
 deren an&shy;ge&shy;nom&shy;me&shy;ne Quel&shy;le einen ande&shy;ren
 Men&shy;schen inkludiert,
 ist Kom&shy;mu&shy;ni&shy;ka&shy;tion.
-
-> ~~[**12.10.** 16:05]
-> * komischer Geschmack beim oberen rechten Weisheitszahn?
-> * grad mal angedeutet, dass es ob merklicher Stimmungsschwankung evtl. um irgendwelche Hormone geht, da der Geschmack intensiver/ekliger wird
-> * muss ma zum Zahnarzt und hoffe, dass nix übles ist~~ Sehr lustig.. 👍
 
 > [!CAUTION]
 > [**12.10.**]
