@@ -24,7 +24,7 @@ version: sa., 12. oct. 2024
 > **Wichtig**: Das hier ist die **M&uuml;ll**-Story **nur f&uuml;r
 > mich**!  
 > Das hat nichts mit anderen Personen zu tun. Die ist von "denen".  
-> Keine gespaltnene Persönlichkeit!  
+> Keine gespaltene Persönlichkeit! Was f&uuml;r ein Schwachsinn.. :smirk:  
 
 Pein&shy;lich&shy;er&shy;wei&shy;se, und warum auch
   immer, in&shy;klu&shy;diert diese Wahnidee eine ehem.
