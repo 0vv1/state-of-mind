@@ -276,6 +276,10 @@ ist Kom&shy;mu&shy;ni&shy;ka&shy;tion.
 > Und vor allem wa&shy;rum?!  
 > Dieser M&uuml;ll scheint mir &uuml;bri&shy;gens KI-gest&uuml;tzt. H&auml;?!
 
+> [!CAUTION]
+> Modifikation der Wohnraumakustik (ich bin überzeugt davon, das oben nicht immer oben ist, k.A. wie "die" das machen) und Dialog-Führung mit ständigem Remixing der Sender/Adressaten wird auf perfideste Art ausgenutzt, um ganz normale Menschen als Nachbarn gegeneinander auszuspielen.  
+> Einfach unglaublich..
+
 > [!NOTE]
 > [**08.10.**]
 > Die "Stim&shy;men" arten so aus,
