@@ -1,35 +1,28 @@
 
 ```
 file:    state-of-mind/README.md
-brief:   artificial schizophrenia?
+brief:   artificial schizophrenia
 author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: sa., 12. oct. 2024
+version: so., 13. oct. 2024
 ```
 
-<h1>Wo ist L.?<br><sub><sup>oder: &Uuml;ber den Ver&shy;such der
-  <del>(KI-ge&shy;st&uuml;tz&shy;ten?)</del> In&shy;duk&shy;tion einer
-  k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie
-  <del>so&shy;wie (sp&auml;&shy;ter)
-  Pseu&shy;do-<wbr>Te&shy;le&shy;pa&shy;<nobr>thie</del><sup>:warning:Diskredit</sup>?</sup></sub></nobr><br><sub><sup>oder:
-  Schizo&shy;ide Wahn&shy;idee meines 2. Schubs.<br />
-  <sup></sup></sub></sub></h1>
+<h1>&Uuml;ber den Ver&shy;such einer
+  KI-ge&shy;st&uuml;tz&shy;ten
+  In&shy;duk&shy;tion und "Pflege" einer
+  "k&uuml;nst&shy;lichen"
+  Schizo&shy;phre&shy;nie/h1>
 
 > [!IMPORTANT]
-> Mir geht's gut. 🙂
-> Nicht deine Schuld! Das ist 'ne ganze Crew, die mir auf'n Sack geht und das hier so wirr aussehen lässt (und sich bei dir mglw. benehmen wie Deckchen, was ich ein bisschen gruselig fände, TBH).  
-> **Schizophrenie**-Diagnose.  
-> Ich werde denunziert/**isoliert** (niemand kennt meine Stimme) und durch das Spammen von Müll diskreditiert.
-> Weil ich so krass ber&uuml;hmt bin, Arschloch.  
-> Kennt jemand einen Dude, mit KI-Background, seltsamen Freunden, sadistischen Neigungen und einigermaßen "auff&auml;lligem" Ego"?!  
-> Hast Du mir nicht am 6. Feb. ab 14:00 die Zeit mit einer der interessanteren Demütigungen meines Lebens vertrieben? Auch damals schon unbekannter Weise? Kurz vor dem Auftritt der Gemeinde der Asexuellen und ihrem Hohepriester der schlechten Laune?  
-> Ich bin (jetzt grade) nicht schizo, F.?! Was denn jetzt?  
-> Is das 'nen Kumpel von dir?  
-> **Wichtig**: Das hier ist die **M&uuml;ll**-Story **nur f&uuml;r
-> mich**!  
-> Das hat nichts mit anderen Personen zu tun. Die ist von dieser Scheiß Sado-Crew.
+> Und da hat er sich **selbst entschleiert**, **FIs KI-Sado-Kumpel** mit dem "auffälligen" Ego!  
+> Ich werde denunziert/**isoliert** und durch das Spammen von Müll diskreditiert,
+> während diese reudige Ratte der Welt erklärt, ich würde dich hassen und ginge d'accord mit deiner Vergewaltigung.
+> Das muss man sich mal vorstellen.
+> Was sind das für kranke Kreaturen?!
+> 
+> Lia, uns trennten eine Holztür und eine (mir von F. verpasste) Schizophrenie! Ich konnte meine Wahrnehmung unmöglich entscheiden und alle wussten das, bis auf Du!
 
 Pein&shy;lich&shy;er&shy;wei&shy;se, und warum auch
   immer, in&shy;klu&shy;diert diese Wahnidee eine ehem.
