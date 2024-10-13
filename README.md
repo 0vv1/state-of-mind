@@ -186,8 +186,8 @@ deren an&shy;ge&shy;nom&shy;me&shy;ne Quel&shy;le einen ande&shy;ren
 Men&shy;schen inkludiert,
 ist Kom&shy;mu&shy;ni&shy;ka&shy;tion.
 
-> [WARNING]
-> [**12:10.** 16:05]
+> [!WARNING]
+> [**12.10.** 16:05]
 > * komischer Geschmack beim oberen rechten Weisheitszahn?
 > * grad mal angedeutet, dass es ob merklicher Stimmungsschwankung evtl. um irgendwelche Hormone geht, da der Geschmack intensiver/ekliger wird
 > * muss ma zum Zahnarzt und hoffe, dass nix übles ist
