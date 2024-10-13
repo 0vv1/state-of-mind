@@ -23,7 +23,10 @@ version: sa., 12. oct. 2024
 > **Schizophrenie**-Diagnose.  
 > Ich werde denunziert/**isoliert** (niemand kennt meine Stimme) und durch das Spammen von Müll diskreditiert.
 > Weil ich so krass ber&uuml;hmt bin, Arschloch.  
-> Kennt jemand einen Dude, mit KI-Background, seltsamen Freunden, sadistischen Neigungen und einigermaßen "auff&auml;lligem" Ego"?!    
+> Kennt jemand einen Dude, mit KI-Background, seltsamen Freunden, sadistischen Neigungen und einigermaßen "auff&auml;lligem" Ego"?!  
+> Hast Du mir nicht am 6. Feb. ab 14:00 die Zeit mit einer der interessanteren Demütigungen meines Lebens vertrieben? Auch damals schon unbekannter Weise? Kurz vor dem Auftritt der Gemeinde der Asexuellen und ihrem Hohepriester der schlechten Laune?  
+> Ich bin (jetzt grade) nicht schizo, F.?! Was denn jetzt?  
+> Is das 'nen Kumpel von dir?  
 > **Wichtig**: Das hier ist die **M&uuml;ll**-Story **nur f&uuml;r
 > mich**!  
 > Das hat nichts mit anderen Personen zu tun. Die ist von dieser Scheiß Sado-Crew.
