@@ -9,28 +9,21 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: sa., 12. oct. 2024
 ```
 
-<h1>Wo ist L\.?<br><sub><sup>oder: &Uuml;ber den Ver&shy;such der
+<h1>Wo ist L.?<br><sub><sup>oder: &Uuml;ber den Ver&shy;such der
   <del>(KI-ge&shy;st&uuml;tz&shy;ten?)</del> In&shy;duk&shy;tion einer
   k&uuml;nst&shy;lichen Schizo&shy;phre&shy;nie
   <del>so&shy;wie (sp&auml;&shy;ter)
   Pseu&shy;do-<wbr>Te&shy;le&shy;pa&shy;<nobr>thie</del><sup>:warning:Diskredit</sup>?</sup></sub></nobr><br><sub><sup>oder:
-  Schizo&shy;ide Wahn&shy;idee meines 2ten Schubs.
-  <sub><sup>(pein&shy;lich&shy;er&shy;wei&shy;se und warum auch
-  immer eine ehem. Nach&shy;ba&shy;rin in&shy;klu&shy;die&shy;rend.
+  Schizo&shy;ide Wahn&shy;idee meines 2. Schubs.<br />
+  <sup></sup></sub></sub></h1>
+
+Pein&shy;lich&shy;er&shy;wei&shy;se, und warum auch
+  immer, in&shy;klu&shy;diert diese Wahnidee eine ehem.
+  Nach&shy;ba&shy;rin.
   Sie m&ouml;ge mir bit&shy;te ver&shy;zei&shy;hen,
   soll&shy;te sie diesen Quatsch,
   wa&shy;rum auch im&shy;mer,
-  je&shy;mals lesen.)</sup></sup></sub></sub></h1>
-
-<!-- h2>Auflösung: Lüge wird in mehreren Iterationen bei allen beteiligten "Mittätern" aufgedröselt, so dass sie sich an nichts erinnern können.</h2>
-
-[**11.10.**] **Nur für Doku:** Das ist jetzt schon mehrmals passiert. Manchmal auch vor und zurück. Vielleicht hat das auch was mit diesem "Abbruch" zu tun.  
-Deswegen "Sabrina": "Wir haben die verarscht.", was dann doch nicht stimmt.  
-An dieses vor und zurück kann ich mich bei mir auch erinnern. VIelleicht machen die einmal Schnipps und ich bin z.B. Täter.  
-Deswegen werden Szenen immer wieder wiederholt, man kommt sich vor wie beim Sado-Murmeltier.
-
-**Suggestion**: Ein ganzer Häuserblock als "Sadistenkino". Die pimmeln irgendwelchen normalen Leuten irgendeinen Scheiß ins Gehirn und ziehen sich das dann rein.  
-Deswegen auch das mit Felix und der TV-"Sendung". -->
+  je&shy;mals lesen (m&uuml;s&shy;sen).
 
 > [!TIP]
 > So, Leute
@@ -62,19 +55,20 @@ Deswegen auch das mit Felix und der TV-"Sendung". -->
 > schon aus rei&shy;nem Ego&shy;is&shy;mus,
 > ab jetzt je&shy;den Frei&shy;tag
 > be&shy;ge&shy;ben,
-> bis ein rea&shy;ler Men&shy;sch mir eine
-> mit mir ge&shy;teil&shy;te Realit&auml;t und
+> bis ein rea&shy;ler Men&shy;sch mir eine,
+> mit mir ge&shy;teil&shy;te,
+> Realit&auml;t und
 > da&shy;mit ge&shy;mein&shy;sa&shy;mes Er&shy;le&shy;ben best&auml;tigt  
 > (Kern&shy;ele&shy;ment und -pro&shy;blem je&shy;der
 > Schi&shy;zo&shy;phre&shy;nie:
 > ein&shy;sa&shy;mes und da&shy;mit be&shy;deu&shy;tungs&shy;lo&shy;ses
 > Er&shy;le&shy;ben)  
 > und mich damit augen&shy;blick&shy;lich vom Joch eines
-> un&shy;fass&shy;ba&shy;ren Sadis&shy;mus einer
-> schreck&shy;lich&shy;en Schi&shy;zo&shy;phre&shy;nie be&shy;freit.
+> un&shy;fass&shy;ba&shy;ren Sadis&shy;mus' einer
+> schreck&shy;lich&shy;en Schi&shy;zo&shy;phre&shy;nie be&shy;freit.  
 > (Wie&shy;so f&uuml;hlt sich diese selt&shy;sa&shy;me
 > Ge&shy;schich&shy;te schon im&shy;mer an wie ein M&auml;r&shy;chen?!
-> Was soll das?)
+> Was soll das?)  
 > Es sind **alle**(!),
 > aus&shy;dr&uuml;ck&shy;lich auch die durch sug&shy;ge&shy;rier&shy;te
 > Mit&shy;t&auml;&shy;ter&shy;schaft
@@ -114,24 +108,33 @@ Deswegen auch das mit Felix und der TV-"Sendung". -->
 >     Fi&shy;gu&shy;ren,
 >     die **dei&shy;ne**r **rea&shy;le**n **Per&shy;son**
 >     ab&shy;ge&shy;lei&shy;tet sind, :wink:
-> so&shy;wie:
->  2. dem ini&shy;tia&shy;len Sa&shy;dis&shy;ten **Herr**n **F.** aus
+> 
+> wei&shy;te&shy;re sich evtl. wieder&shy;er&shy;ken&shy;nen&shy;de
+> Per&shy;s&ouml;n&shy;lich&shy;kei&shy;ten einer ge&shy;teil&shy;ten
+> Rea&shy;li&shy;t&auml;t ent&shy;schul&shy;di&shy;gen mir bit&shy;te
+> fol&shy;gen&shy;de Ab&shy;lei&shy;tun&shy;gen:
+> 
+>  2. den ini&shy;tia&shy;len Sa&shy;dis&shy;ten **Herr**n **F.** aus
 >     Rei&shy;nicken&shy;dorf,
->  3. sei&shy;ner 1. Ab&shy;lei&shy;tung (**F. II**) ande&shy;rer
->     Sa&shy;dis&shy;ten,
->  4. sei&shy;ner treu&shy;en La&shy;kei&shy;in **Ju&shy;lia**,
+>  3. sei&shy;ne 1\. Ab&shy;lei&shy;tung (**F II**) ande&shy;rer
+>     Sa&shy;dis&shy;ten
+>     (der aller&shy;dings,
+>     soll&shy;te er real sein,
+>     auf Schizo&shy;phre&shy;nie-Pa&shy;tien&shy;ten
+>     spe&shy;zia&shy;li&shy;siert ist),
+>  4. sei&shy;ne treu&shy;en La&shy;kei&shy;in **Ju&shy;lia**,
 >  5. **Herr**n **M.** aus Tem&shy;pel&shy;hof,
 >     dem sadis&shy;ti&shy;schen Pup&shy;pet&shy;mas&shy;ter
->     1. Ord&shy;nung,
->  6. sei&shy;nen even&shy;tu&shy;el&shy;len Ab&shy;lei&shy;tun&shy;gen
+>     1\. Ord&shy;nung,
+>  6. sei&shy;ne even&shy;tu&shy;el&shy;len Ab&shy;lei&shy;tun&shy;gen
 >     h&ouml;he&shy;rer Meta&shy;ebe&shy;nen,
 >  7. mir sug&shy;ge&shy;rier&shy;te be&shy;tei&shy;lig&shy;te
 >     (je&shy;doch un&shy;schul&shy;di&shy;ge)
->     selbst in Mit&shy;t&auml;&shy;ter&shy;schaft
+>     und jeweils Mit&shy;t&auml;&shy;ter&shy;schaft
 >     sug&shy;ge&shy;rier&shy;te ande&shy;re Opfer,
 >     bis auf **Sabri&shy;na** <nobr>(Klemke<sup>?</sup>)</nobr>
 >     in Ano&shy;ny&shy;mi&shy;t&auml;t,
->  8. einer Rei&shy;he sug&shy;ge&shy;rier&shy;ter
+>  8. eine Rei&shy;he sug&shy;ge&shy;rier&shy;ter
 >     ge&shy;w&ouml;hn&shy;licher(?!) "Sa&shy;do-Tou&shy;ris&shy;ten"(?)
 >     wie "Fe&shy;lix",
 >  9. Side&shy;kick **Jezz** so&shy;wie
@@ -143,28 +146,54 @@ Deswegen auch das mit Felix und der TV-"Sendung". -->
 >     und ei&shy;ner ein&shy;zi&shy;gen
 >     (aus &uuml;ber 17k Stun&shy;den!)
 >     des Be&shy;mer&shy;kens wer&shy;ten &Auml;u&szlig;e&shy;rung[^1],
+> 
 > **ganz wich&shy;tig**:
-> 2\. bis 10.
+> 2\. bis 10\.
 > (bis&shy;her)
 > ohne nach&shy;ge&shy;wie&shy;se&shy;ne
-> (wenn auch nur an&shy;ge&shy;lehn&shy;ten)
+> (wenn auch nur an&shy;ge&shy;lehn&shy;te)
 > Exis&shy;tenz.
 
-F&uuml;r L\. gilt,
+F&uuml;r L\. zi&shy;tiere ich,
 <img
   align="right"
   alt="Handzettel"
   src="2022-09_L_msg.jpg"
   width="300px">
-warum auch immer Du das hier lesen soll&shy;test,  
-und ich zi&shy;tie&shy;re dich von ei&shy;nem Hand&shy;zet&shy;tel aus
-einer Zeit vor die&shy;sen Irren,
+warum auch immer sie das hier lesen soll&shy;te,
+von ei&shy;nem ihrer Hand&shy;zet&shy;tel,
+aus einer kur&shy;zen Zeit vor die&shy;sen Irren,
 den ich so süß fand,
 dass ich ihn be&shy;hal&shy;ten habe.  
 Glei&shy;ches gilt nat&uuml;r&shy;lich um&shy;ge&shy;kehrt,
 auch wenn ich bis heute nie mehr Ge&shy;le&shy;gen&shy;heit fand,
 es dir so aus&shy;zu&shy;rich&shy;ten.
 </img>
+
+Be&shy;reits drei Mi&shy;nu&shy;ten ver&shy;f&auml;sch&shy;ten
+(da&shy;mit nicht mehr ge&shy;mein&shy;sa&shy;men!)
+Erlebens geschweige denn Kommunikation(!) m&uuml;s&shy;sen dazu
+f&uuml;hren,
+dass Men&shy;schen sich nicht mehr
+un&shy;vor&shy;ein&shy;ge&shy;nom&shy;men be&shy;geg&shy;nen
+k&ouml;n&shy;nen.  
+Bit&shy;te be&shy;ach&shy;ten:
+Je&shy;de Sin&shy;nes&shy;wahr&shy;neh&shy;mung,
+deren an&shy;ge&shy;nom&shy;me&shy;ne Quel&shy;le einen ande&shy;ren
+Men&shy;schen inkludiert,
+ist Kom&shy;mu&shy;ni&shy;ka&shy;tion.
+
+> [!CAUTION]
+> [**12.10.**]
+> Ich hielt es bis&shy;her f&uuml;r eine schizo&shy;ide Idee,
+> dass Kom&shy;mu&shy;ni&shy;ka&shy;tion ver&shy;f&auml;lscht ist.  
+> Gerade f&auml;llt mir auf:  
+> **Jede(!) Kom&shy;mu&shy;ni&shy;ka&shy;tion ist nicht nur falsch,
+> son&shy;dern soll maxi&shy;mals&shy;ten emo&shy;tio&shy;na&shy;len
+> Scha&shy;den an&shy;rich&shy;ten!**
+> 
+> Ich f&uuml;rch&shy;te,
+> ich bin gera&shy;de ge&shy;sund ge&shy;wor&shy;den.
 
 > [!CAUTION]
 > Ich gehe davon aus,
@@ -3637,10 +3666,20 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
 
 <br>
 
-[^1]: <span id="wvt">Die Mar&shy;kierung
-  <sub><sup>:warning:VT</sub></sup> **warnt vor** mgl.
-  **Sug&shy;ges&shy;tion</span>** einer sog.
-  **Ver&shy;schw&ouml;&shy;rungs&shy;theo&shy;rie** :grimacing:  
+[^1]: N&auml;m&shy;lich dem so&shy;for&shy;ti&shy;gen Ver&shy;sin&shy;ken
+  jedes Er&shy;le&shy;bens in prin&shy;zi&shy;piell un&shy;end&shy;lichen
+  "Threads",
+  schnell ab&shy;sinkend,
+  nie wie&shy;der be&shy;merkt wer&shy;dend,
+  da&shy;mit fast augen&shy;blick&shy;lich
+  (wie in einer Schi&shy;zo&shy;phre&shy;nie)
+  voll&shy;kom&shy;men be&shy;deu&shy;tungs&shy;los seiend
+  und nie&shy;mals den Boden er&shy;rei&shy;chend.  
+  Ich schw&ouml;re,
+  das wird mir nie&shy;mals pas&shy;sie&shy;ren.
+  Ich habe ein Face&shy;book-Kon&shy;to,
+  weil ich da&shy;zu ge&shy;zwun&shy;gen bin,
+  nicht weil ich es selbst be&shy;n&ouml;&shy;ti&shy;ge.
 
 [^2]: [dt. Wikipedia](https://de.wikipedia.org/wiki/Schizophrenie):
   "Von medi&shy;zi&shy;ni&shy;sch&shy;en Lai&shy;en wird
