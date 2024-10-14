@@ -16,20 +16,26 @@ version: so., 13. oct. 2024
   Schizo&shy;phre&shy;nie</h1>
 
 > [!IMPORTANT]
-> Und da hat er sich **selbst entschleiert**, **FIs KI-Sado-Kumpel** mit dem "auffälligen" Ego!  
+> [So., **13.10.**]
+> **<big>Ende</big> einer Schizophrenie**!
+> Und da hat er sich **selbst entschleiert**,
+> **FIs KI-Sado-Kumpel** mit dem "auffälligen" Ego!  
 > Ich werde denunziert/**isoliert** und durch das Spammen von Müll diskreditiert,
-> während diese reudigen Ratten der Welt erklären, ich würde dich hassen und ginge d'accord mit deiner Vergewaltigung.
+> während diese reudigen Ratten der Welt erklären,
+> ich würde dich hassen und ginge d'accord mit deiner Vergewaltigung.
 > Das muss man sich mal vorstellen!
 > Was sind das für kranke Kreaturen?!
 > 
-> Lia, uns trennten eine Holztür und eine (mir von F. verpasste) Schizophrenie! Ich konnte meine Wahrnehmung unmöglich entscheiden und alle wussten das, bis auf Du!
-> Lia, Du hast die traurigsten S&auml;tze gesagt, die ich in meinem Leben je ertragen musste. Sie "versuchten" dich "zur&uuml;ckzugeben", aber waren zu feige.
+> Uns trennten eine Holztür und eine (mir von F. verpasste) Schizophrenie! Ich konnte meine Wahrnehmung unmöglich entscheiden und alle wussten das, bis auf Du!
+> Du hast die traurigsten S&auml;tze gesagt, die ich in meinem Leben je ertragen musste. Sie "versuchten" dich "zur&uuml;ckzugeben", aber waren zu feige.
 Du sagtest weinend: "Das ist jetzt Alexander Puls? Wie seh ich denn aus?!"
-> Es zerreißt mir jedes Mal(!) das Herz, wenn ich aus Versehen daran denke. Und bis heute habe ich innigst gehofft, es mir nur einzubilden. Bis heute!!
+> Es zerreißt mir jedes Mal(!) das Herz, wenn ich aus Versehen daran denke. Und bis heute habe ich innigst gehofft, es mir nur einzubilden.
+> Bis heute!! Und dann ist sie auf einmal weg, die Schizophrenie.
 
-Pein&shy;lich&shy;er&shy;wei&shy;se, und warum auch
-  immer, in&shy;klu&shy;diert diese Wahnidee eine ehem.
-  Nach&shy;ba&shy;rin.
+Es war mir immer pein&shy;lich,
+  auch konnte ich es mir nicht erklären,
+  in&shy;klu&shy;diert diese ang. "Wahnidee" eine ehem.
+  Nach&shy;ba&shy;rin umfasste.
   Sie m&ouml;ge mir bit&shy;te ver&shy;zei&shy;hen,
   soll&shy;te sie diesen Quatsch,
   wa&shy;rum auch im&shy;mer,
