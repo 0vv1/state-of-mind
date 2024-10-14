@@ -52,12 +52,12 @@ Am Ende ist die Welt eben doch ge&shy;recht:
   Gl&uuml;ck&shy;lich&shy;er&shy;wei&shy;se sind wir um&shy;ge&shy;ben
   von Herz&shy;lich&shy;keit und F&uuml;r&shy;sor&shy;ge,  
   stell dir vor,
-  da w&auml;re nur L&uuml;ge und Ver&shy;rat.. :wink:
+  da w&auml;re nur L&uuml;ge und Ver&shy;rat.. :smirk:
 
 Oder: Wer sol&shy;che Freun&shy;de hat,
   braucht kei&shy;ne Fein&shy;de.
 
-> [mind. Teil einer Einrede]
+> [mind. Teil einer Einrede]  
 > Wie vie&shy;le "Auf&shy;pas&shy;ser" hast Du,
    dass wir uns so nahe wie m&ouml;g&shy;lich sind,
 > ohne uns je zu be&shy;geg&shy;nen?
@@ -67,31 +67,32 @@ Oder: Wer sol&shy;che Freun&shy;de hat,
    Spam&shy;men von M&uuml;ll so gut wie eben m&ouml;glich dis&shy;kre&shy;di&shy;tiert,
    *wäh&shy;rend die&shy;se reu&shy;di&shy;gen Rat&shy;ten der Welt er&shy;klä&shy;ren,
    ich wür&shy;de dich has&shy;sen und gin&shy;ge d'accord mit dei&shy;ner
-   wohlwollenden Ver&shy;ge&shy;wal&shy;ti&shy;gung*:warning:Einrede.
+   wohlwollenden Ver&shy;ge&shy;wal&shy;ti&shy;gung*<sup>:warning:Einrede</sup>.
  
+[mglw. alles Einrede oder KI-Gepimmel, wer weiß das schon]  
 ~~Ich konnte dir nicht helfen!  
 Und uns trenn&shy;ten nur eine Holz&shy;t&uuml;r und eine
   (mir von Herrn Fehler und einer Nach&shy;ba&shy;rin ver&shy;pass&shy;te)
-  Schizo&shy;phre&shy;nie!
-  Ich konn&shy;te mei&shy;ner Wahr&shy;neh&shy;mung un&shy;mög&shy;lich
+  Schizo&shy;phre&shy;nie!~~
+  ~~Ich konn&shy;te mei&shy;ner Wahr&shy;neh&shy;mung un&shy;mög&shy;lich
   ver&shy;trau&shy;en und alle wuss&shy;ten
   (einige nutzten)
   das,
-  bis auf Du!  
-  Ich mein&shy;te, dich die trau&shy;rigs&shy;ten S&auml;tze sagen zu h&ouml;ren,
-  die ich in mei&shy;nem Le&shy;ben je er&shy;tra&shy;gen muss&shy;te.
-  Sie "ver&shy;such&shy;ten" dich "zu&shy;r&uuml;ck&shy;zu&shy;ge&shy;ben",
+  bis auf Du!~~  
+  ~~Ich mein&shy;te, dich die trau&shy;rigs&shy;ten S&auml;tze sagen zu h&ouml;ren,
+  die ich in mei&shy;nem Le&shy;ben je er&shy;tra&shy;gen muss&shy;te.~~
+  ~~Sie "ver&shy;such&shy;ten" dich "zu&shy;r&uuml;ck&shy;zu&shy;ge&shy;ben",
   aber wa&shy;ren zu fei&shy;ge.  
   Du sag&shy;test wei&shy;nend:  
   "Das ist jetzt Alex&shy;an&shy;der Puls?  
   Wie sehe ich denn aus?!"  
   Es zer&shy;reißt mir jedes(!) Mal das Herz,
-  wenn ich aus Ver&shy;se&shy;hen da&shy;ran denke.
+  wenn ich aus Ver&shy;se&shy;hen da&shy;ran denke.~~
   
-Wei&szlig;t Du,
+~~Wei&szlig;t Du,
   dass ich bis heu&shy;te in&shy;nigst darauf hoff&shy;te,
   es mir nur ein&shy;ge&shy;bil&shy;det zu haben?  
-  Bis heute!~~<sup>:warning:Einrede</sup>
+  Bis heute!~~ <sup>:warning:Einrede</sup>
   Und dann ist sie auf einmal weg,
   die Schizophrenie..
 
