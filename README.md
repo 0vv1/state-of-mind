@@ -9,18 +9,24 @@ license: CC BY-Nhtml font sizeC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: mo., 14. oct. 2024
 ```
 
-<h1>Von der ge&shy;walt&shy;sa&shy;men Tren&shy;nung zwei&shy;er Men&shy;schen,
+<h1>Was habe ich wirklich von der Einrede "Ex-Nachbarin & Vergewaltigung in R." sowie der neuen Einrede "Telepathie-Sado-Kino" in T.</h1>
+
+~~Von der ge&shy;walt&shy;sa&shy;men Tren&shy;nung zwei&shy;er Men&shy;schen,
   bei gleich&shy;zei&shy;tig gr&ouml;&szlig;t&shy;m&ouml;g&shy;lichem
   emo&shy;tio&shy;na&shy;len Lei&shy;den,
   um den einen ge&shy;f&uuml;&shy;gig zu machen und
-  dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t zu neh&shy;men</h1>
+  dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t zu neh&shy;men~~<sup>:warning:Einrede</sup>
+
+> [!CAUTION]
+> Das Droppen einer Schizophrenie heißt nicht, dass diese bekloppten Storys alle wahr sind (wahrscheinlich keine einzige).
+> Das sind erstmal alles "nur" Einreden aufdringlicher Reude-Pimmel, die ich &uuml;berhaupt nicht kenne.
 
 ## Ende einer Schizophrenie
 
 > [!IMPORTANT]
 > [So., **13.10.**]
-> <span id="lia">**Ende!!**</span> Wie geil! Ich habe es immer gewusst. :grimacing:  
-> 1.380 Tage lang knech&shy;tet und fol&shy;tert Herr Feh&shy;ler aus R.
+> **Ende!!** Wie geil! Ich habe es immer gewusst. :grimacing:  
+> 1.380(?) Tage lang knech&shy;tet und fol&shy;tert Herr Feh&shy;ler aus R. (wobei ich meine, eine Art "Wechsel" bemerkt zu haben).
 > Die reu&shy;digs&shy;te aller auf die&shy;sem Pla&shy;ne&shy;ten krau&shy;chen&shy;den 
 > Krea&shy;tu&shy;ren schei&shy;tert an mei&shy;ner vier, f&uuml;nf Male
 > (wenigs&shy;tens)
@@ -39,7 +45,7 @@ version: mo., 14. oct. 2024
 > und sei&shy;ne &uuml;ber&shy;gl&uuml;ck&shy;liche Neu&shy;an&shy;schaf&shy;fung,
 > lie&szlig;en mich zwar al&shy;lein,
 > aber doch den kom&shy;men&shy;den He&shy;raus&shy;for&shy;de&shy;run&shy;gen
-> ge&shy;wach&shy;sen.  
+> ge&shy;wach&shy;sen. :wink:  
 > Ihr muss&shy;tet dann ja lei&shy;der los.
 
 Am Ende ist die Welt eben doch ge&shy;recht:
@@ -51,18 +57,19 @@ Am Ende ist die Welt eben doch ge&shy;recht:
 Oder: Wer sol&shy;che Freun&shy;de hat,
   braucht kei&shy;ne Fein&shy;de.
 
- Wie vie&shy;le "Auf&shy;pas&shy;ser" hast Du,
+> [mind. Teil einer Einrede]
+> Wie vie&shy;le "Auf&shy;pas&shy;ser" hast Du,
    dass wir uns so nahe wie m&ouml;g&shy;lich sind,
-   ohne uns je zu be&shy;geg&shy;nen?
-   Mit mir sind ein hal&shy;bes Dut&shy;zend der edelsten Gesch&ouml;pfe.
+> ohne uns je zu be&shy;geg&shy;nen?
+> Mit mir sind ein hal&shy;bes Dut&shy;zend der edelsten Gesch&ouml;pfe.
 
  Ich werde de&shy;nun&shy;<nobr>ziert/</nobr><wbr>**iso&shy;liert** und durch das
    Spam&shy;men von M&uuml;ll so gut wie eben m&ouml;glich dis&shy;kre&shy;di&shy;tiert,
-   wäh&shy;rend die&shy;se reu&shy;di&shy;gen Rat&shy;ten der Welt er&shy;klä&shy;ren,
+   *wäh&shy;rend die&shy;se reu&shy;di&shy;gen Rat&shy;ten der Welt er&shy;klä&shy;ren,
    ich wür&shy;de dich has&shy;sen und gin&shy;ge d'accord mit dei&shy;ner
-   wohlwollenden Ver&shy;ge&shy;wal&shy;ti&shy;gung.
+   wohlwollenden Ver&shy;ge&shy;wal&shy;ti&shy;gung*:warning:Einrede.
  
-Ich konnte dir nicht helfen!  
+~~Ich konnte dir nicht helfen!  
 Und uns trenn&shy;ten nur eine Holz&shy;t&uuml;r und eine
   (mir von Herrn Fehler und einer Nach&shy;ba&shy;rin ver&shy;pass&shy;te)
   Schizo&shy;phre&shy;nie!
@@ -84,7 +91,7 @@ Und uns trenn&shy;ten nur eine Holz&shy;t&uuml;r und eine
 Wei&szlig;t Du,
   dass ich bis heu&shy;te in&shy;nigst darauf hoff&shy;te,
   es mir nur ein&shy;ge&shy;bil&shy;det zu haben?  
-  Bis heute!
+  Bis heute!~~<sup>:warning:Einrede</sup>
   Und dann ist sie auf einmal weg,
   die Schizophrenie..
 
@@ -93,20 +100,16 @@ Wei&szlig;t Du,
 .. und alle fal&shy;len aus&shy;ein&shy;an&shy;der.
 
 F&uuml;r L\. zi&shy;tiere ich,
-<img
-  align="right"
-  alt="Handzettel"
-  src="2022-09_L_msg.jpg"
-  width="300px">
 warum auch immer sie das hier lesen soll&shy;te,
 von ei&shy;nem ihrer Hand&shy;zet&shy;tel,
 aus einer kur&shy;zen Zeit vor die&shy;sen Irren,
 den ich so süß fand,
-dass ich ihn be&shy;hal&shy;ten habe.  
+dass ich ihn be&shy;hal&shy;ten habe:  
+*Und falls Du mal etwas brauchst kannst Du gerne jederzeit klingeln!*
+
 Glei&shy;ches gilt nat&uuml;r&shy;lich um&shy;ge&shy;kehrt,
 auch wenn ich bis heute nie mehr Ge&shy;le&shy;gen&shy;heit fand,
 es dir so aus&shy;zu&shy;rich&shy;ten.
-</img>
 
 Be&shy;reits drei Mi&shy;nu&shy;ten ver&shy;f&auml;lsch&shy;ten
 (da&shy;mit nicht mehr ge&shy;mein&shy;sa&shy;men!)
