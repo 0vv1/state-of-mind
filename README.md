@@ -3,7 +3,7 @@
 file:    state-of-mind/README.md
 brief:   artificial schizophrenia
 author:  © 2021-2024 alexander puls <github@0vv1.net>
-license: CC BY-Nhtml font sizeC-ND 4.0 Int. (Creative Commons: Namensnennung -
+license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
 version: mo., 14. oct. 2024
@@ -503,16 +503,16 @@ Und es inte&shy;res&shy;siert mich auch &uuml;ber&shy;haupt nicht,
   (auch in Grup&shy;pen)
   in dut&shy;zen&shy;den F&auml;l&shy;len,
   
-  (fast täg&shy;liche) **Bedro&shy;hung**
+  (täg&shy;liche) **Bedro&shy;hung**
   (Ver&shy;lust der
   Repu&shy;ta&shy;<nobr>tion/</nobr><wbr>Arbeits&shy;stel&shy;le,
   Miss&shy;hand&shy;<nobr>lung/</nobr>Ver&shy;ge&shy;wal&shy;ti&shy;gung,
   T&ouml;&shy;tung,
   nicht nur der eige&shy;nen Per&shy;son) 
-  in weit &uuml;ber 10.000 Fäl&shy;len,
+  in knapp 100.000 Fäl&shy;len,
   
   Un&shy;ter&shy;dr&uuml;ckung digi&shy;ta&shy;ler
-  Kom&shy;mu&shy;ni&shy;ka&shy;tion in mind. 3 F&auml;llen,
+  Kom&shy;mu&shy;ni&shy;ka&shy;tion in mglw. 5 F&auml;llen,
 
   heim&shy;t&uuml;ckisch fin&shy;gier&shy;te digi&shy;ta&shy;le
   Kom&shy;mu&shy;ni&shy;ka&shy;tion mit un&shy;be&shy;kann&shy;ter
@@ -541,7 +541,7 @@ Und es inte&shy;res&shy;siert mich auch &uuml;ber&shy;haupt nicht,
   **Täu&shy;schung**
   (mehr&shy;heit&shy;lich mit&shy;tels **Sug&shy;ges&shy;tion**)
   in t&auml;g&shy;lich mehre&shy;ren
-  (in ihrer Ge&shy;samt&shy;heit weit &uuml;ber 10.000)
+  (in ihrer Ge&shy;samt&shy;heit mehreren 10.000)
   F&auml;l&shy;len.
   <!-- ende weitere straftaten -->
  
