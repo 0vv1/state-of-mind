@@ -107,6 +107,13 @@ diese Ir&shy;ren zu be&shy;kom&shy;men.
 >    &uuml;ber&shy;zeu&shy;gend wir&shy;ken m&uuml;ss&shy;ten
 
 > [!WARNING]
+> [**15.10.**]
+> **Ir&shy;gend&shy;wer(?) scheint per&shy;ma&shy;nent zu be&shy;haup&shy;ten,
+> ich zu sein.**
+> (Oder ein Teil von mir?)  
+> Das ist selbst&shy;ver&shy;st&auml;nd&shy;lich voll&shy;kom&shy;me&shy;ner
+> Bl&ouml;dsinn.
+>
 > [**09.10.**]
 > Mglw. [Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl](#m&ouml;glicher-identit&auml;tsdiebstahl)
 > und zwei "Alex&shy;an&shy;der Puls".
