@@ -6,38 +6,54 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
          nicht kommerziell - keine Bearbeitung 4.0 International)
          <https://0vv1.io/cc-by-nc-nd>
-version: mo., 14. oct. 2024
+version: di., 15. oct. 2024
 ```
 
-<h1>Was habe ich wirklich von der Einrede "Ex-Nachbarin & Vergewaltigung in R." sowie der neuen Einrede "Telepathie-Sado-Kino" in T.</h1>
+<h1>Was ha&shy;be ich wirk&shy;lich von der Ein&shy;re&shy;de
+         "Ex-Nach&shy;ba&shy;rin & Ver&shy;ge&shy;wal&shy;ti&shy;gung in R."
+         so&shy;wie der neuen Ein&shy;re&shy;de
+         "Tele&shy;pa&shy;thie-Sa&shy;do-Ki&shy;no" in T.</h1>
 
 ~~Von der ge&shy;walt&shy;sa&shy;men Tren&shy;nung zwei&shy;er Men&shy;schen,
   bei gleich&shy;zei&shy;tig gr&ouml;&szlig;t&shy;m&ouml;g&shy;lichem
   emo&shy;tio&shy;na&shy;len Lei&shy;den,
   um den einen ge&shy;f&uuml;&shy;gig zu machen und
-  dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t zu neh&shy;men~~<sup>:warning:Einrede</sup>
+  dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t zu
+  neh&shy;men~~<sup>:warning:Einrede</sup>
 
 > [!NOTE]
-> Da ich gestern mit einem Freund/Ex-Kollegen unterwegs war:  
+> Da ich ges&shy;tern mit ei&shy;nem <nobr>Freund/</nobr>Ex-Kol&shy;le&shy;gen
+> un&shy;ter&shy;wegs war:  
 > Das hier ist **nicht mein M&uuml;ll**!
 > 
-> Das ist der Output einiger reichlich degenerierter Gehirne
+> Das ist der Out&shy;put eini&shy;ger reich&shy;lich
+> de&shy;ge&shy;ne&shy;rier&shy;ter Ge&shy;hir&shy;ne
 > (+ KI),
-> die mich manchmal 24/7 aus Nebenwohnungen \&&#8239;c. volls&uuml;lzen/br&uuml;llen,
-> **ich r&auml;um hier** eigentlich **"nur" auf**.
+> die mich manch&shy;mal 24/7 aus Ne&shy;ben&shy;woh&shy;nun&shy;gen \&&#8239;c.
+> voll&shy;s&uuml;l&shy;<nobr>zen/</nobr><wbr />br&uuml;l&shy;len,
+> **ich r&auml;um hier** ei&shy;gent&shy;lich **"nur" auf**.
 > Die werden das nicht tun
-> (auch wenn sie mittlerweile seit knapp 17k Std. jede Grenze &uuml;berschreiten,
-> die sie so finden k&ouml;nnen).
+> (auch wenn sie mitt&shy;ler&shy;wei&shy;le seit knapp 17k Std. jede Gren&shy;ze
+> &uuml;ber&shy;schrei&shy;ten,
+> die sie so fin&shy;den k&ouml;n&shy;nen).
 >
-> Ja, meine Reputation/Ruf sinkt hiermit auf 0
-> (und diese Sadisten wissen das),
-> aber bei suggerierter Gefahr f&uuml;r Dritte bin ich leider gezwungen,
-> zu reagieren.
-> Ich w&uuml;rde mein Leben nicht mehr froh,
-> unterlie&szlig;e ich es und diese Kreaturen w&uuml;rden wirken.
+> Ja,
+> mei&shy;ne Re&shy;pu&shy;ta&shy;<nobr>tion/</nobr><wbr />Ruf sinkt hier&shy;mit
+> auf 0
+> (und die&shy;se Sa&shy;dis&shy;ten wis&shy;sen das),
+> aber bei
+> (**sug&shy;ge&shy;rier&shy;te**r)
+> **Ge&shy;fahr** f&uuml;r Drit&shy;te bin ich lei&shy;der ge&shy;zwun&shy;gen,
+> zu rea&shy;gie&shy;ren.
+> Ich w&uuml;r&shy;de mein Le&shy;ben nicht mehr froh,
+> unter&shy;lie&szlig;e ich es und diese Krea&shy;tu&shy;ren w&uuml;r&shy;den
+> wir&shy;ken.
+
+> The&shy;men hier sind Iden&shy;ti&shy;t&auml;t und
+> Kom&shy;mu&shy;ni&shy;ka&shy;tion.
 
 > [!CAUTION]
-> Ganz besonders wichtig ist die Priorisierng pot. Gefahren
+> Ganz besonders wichtig ist die Priorisierung pot. Gefahren
 > 1. so gut wie kein Kommunikationskanal ist vertraulich
 >    (auch PKI doppelt pr&uuml;fen!)
 > 2. s&auml;mtliche Telefonkontakte k&ouml;nnen manipuliert sein, bspw. der Notruf der Polizei Berlin
@@ -46,7 +62,8 @@ version: mo., 14. oct. 2024
 
 > [!CAUTION]
 > Das Droppen einer Schizophrenie heißt nicht, dass diese bekloppten Storys alle wahr sind (wahrscheinlich keine einzige).
-> Das sind erstmal alles "nur" Einreden aufdringlicher Reude-Pimmel, die ich &uuml;berhaupt nicht kenne.
+> Das sind erstmal alles "nur" Einreden aufdringlicher Sadisten,
+> die ich &uuml;berhaupt nicht kenne.
 
 ## Ende einer Schizophrenie
 
