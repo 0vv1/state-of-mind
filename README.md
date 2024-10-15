@@ -49,16 +49,57 @@ version: di., 15. oct. 2024
 > unter&shy;lie&szlig;e ich es und diese Krea&shy;tu&shy;ren w&uuml;r&shy;den
 > wir&shy;ken.
 
-> The&shy;men hier sind Iden&shy;ti&shy;t&auml;t und
-> Kom&shy;mu&shy;ni&shy;ka&shy;tion.
+Die The&shy;men hier sind Iden&shy;ti&shy;t&auml;t,
+Kom&shy;mu&shy;ni&shy;ka&shy;tion und Ein&shy;re&shy;de bzw. Sug&shy;ges&shy;tion
+einer sozusagen alternativen Realit&auml;t.
+
+> [!IMPORTANT]
+> F&uuml;r je&shy;den,
+> der das hier liest und evtl. be&shy;trof&shy;fen ist:
+> Bitte pr&uuml;ft
+> (zur Not 100 mal):  
+> **Gibt es**
+> (wirk&shy;lich)
+> **Au&szlig;en&shy;wir&shy;kung?**  
+> Wirklich?!  
+> **Oder wird euch** ei&shy;gent&shy;lich
+> (per&shy;fi&shy;der&shy;wei&shy;se sicht&shy;bar f&uuml;r an&shy;de&shy;re)
+> "**NUR**
+> Au&szlig;en&shy;wir&shy;kung **sug&shy;ge&shy;riert**?!  
+> Und wenn ihr der Meinung seid,
+> "Ja,
+> da war etwas.",
+> dann w&uuml;r&shy;de ich mir per&shy;s&ouml;n&shy;lich w&uuml;n&shy;schen,
+> ohne je&shy;man&shy;den zwin&shy;gen oder wider&shy;sprechen zu wol&shy;len,
+> dass ihr noch&shy;mal hin&shy;schaut und noch&shy;mal pr&uuml;ft.
+>
+> Ich per&shy;s&ouml;n&shy;lich ver&shy;mu&shy;te,
+> **da war/ist nichts**.
+
+Ich den&shy;ke,
+dass hier Men&shy;schen von sadis&shy;ti&shy;schen Trieb&shy;t&auml;tern in
+au&szlig;er&shy;or&shy;dent&shy;liche Ge&shy;fahr ge&shy;bracht wer&shy;den und
+ein pro&shy;fes&shy;sio&shy;nel&shy;ler Hin&shy;ter&shy;grund be&shy;steht.
+
+Spe&shy;ziell in mei&shy;nem Fall ver&shy;mu&shy;te ich aber sehr stark
+per&shy;s&ouml;n&shy;liche Gr&uuml;n&shy;de eines T&auml;ters,
+und dass l&auml;sst mich hof&shy;fen,
+diese Ir&shy;ren zu be&shy;kom&shy;men.
 
 > [!CAUTION]
-> Ganz besonders wichtig ist die Priorisierung pot. Gefahren
-> 1. so gut wie kein Kommunikationskanal ist vertraulich
->    (auch PKI doppelt pr&uuml;fen!)
-> 2. s&auml;mtliche Telefonkontakte k&ouml;nnen manipuliert sein, bspw. der Notruf der Polizei Berlin
-> 3. die haben mittlerweile vermutlich sehr gute Stimmprofile (nicht nur von mir), so dass
->    KI-Stimmen einigerma&szlig;en &uuml;berzeugend wirken m&uuml;ssten
+> Ganz be&shy;son&shy;ders wich&shy;tig ist die Prio&shy;ri&shy;sie&shy;rung pot.
+> Gefahren
+> 1. so gut wie kein Kom&shy;mu&shy;ni&shy;ka&shy;tions&shy;ka&shy;nal ist
+>    ver&shy;trau&shy;lich
+>    (auch PKI dop&shy;pelt pr&uuml;&shy;fen!)
+> 3. s&auml;mt&shy;liche Tele&shy;fon&shy;kon&shy;tak&shy;te k&ouml;n&shy;nen
+>    mani&shy;pu&shy;liert sein,
+>    bspw. der Not&shy;ruf der Po&shy;li&shy;zei Ber&shy;lin
+> 5. "die" ha&shy;ben mitt&shy;ler&shy;wei&shy;le ver&shy;mut&shy;lich sehr gute
+>    Stimm&shy;pro&shy;fi&shy;le
+>    (nicht nur von mir),
+>    so dass KI-Stim&shy;men ei&shy;ni&shy;ger&shy;ma&szlig;en
+>    &uuml;ber&shy;zeu&shy;gend wir&shy;ken m&uuml;ss&shy;ten
 
 > [!CAUTION]
 > Das Droppen einer Schizophrenie heißt nicht, dass diese bekloppten Storys alle wahr sind (wahrscheinlich keine einzige).
