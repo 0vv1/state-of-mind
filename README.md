@@ -17,6 +17,34 @@ version: mo., 14. oct. 2024
   um den einen ge&shy;f&uuml;&shy;gig zu machen und
   dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t zu neh&shy;men~~<sup>:warning:Einrede</sup>
 
+> [!NOTE]
+> Eine mir pers&ouml;nlich wichtige Sache,
+> da ich gestern mit einem Freund/Ex-Kollegen unterwegs war,
+> der dummerweise dieses Repo gesehen hat:  
+> Das hier ist **nicht mein M&uuml;ll**!
+> 
+> Das ist der Output einiger reichlich degenerierter Gehirne
+> (+ KI),
+> die mich manchmal 24/7 aus Nebenwohnungen \&&#8239;c. volls&uuml;lzen/br&uuml;llen,
+> **ich r&auml;um hier** eigentlich **"nur" auf**.
+> Die werden das nicht tun
+> (auch wenn sie mittlerweile seit knapp 17k Std. jede Grenze &uuml;berschreiten,
+> die sie so finden k&ouml;nnen).
+>
+> Ja, meine Reputation/Ruf sinkt hiermit auf 0
+> (und diese Sadisten wissen das),
+> aber bei suggerierter Gefahr f&uuml;r Dritte bin ich leider gezwungen,
+> zu reagieren.
+> Ich w&uuml;rde mein Leben nicht mehr froh,
+> unterlie&szlig;e ich es und diese Kreaturen w&uuml;rden wirken.
+
+> [!CAUTION]
+> Ganz besonders wichtig ist die Priorisierng pot. Gefahren
+> 1. so gut wie kein Kommunikationskanal ist vertraulich
+> 2. s&auml;mtliche Telefonkontakte k&ouml;nnen manipuliert sein, bspw. der Notruf der Polizei Berlin
+> 3. die haben mittlerweile vermutlich sehr gute Stimmprofile (nicht nur von mir), so dass
+>    KI-Stimmen einigerma&szlig;en &uuml;berzeugend wirken m&uuml;ssten
+
 > [!CAUTION]
 > Das Droppen einer Schizophrenie heißt nicht, dass diese bekloppten Storys alle wahr sind (wahrscheinlich keine einzige).
 > Das sind erstmal alles "nur" Einreden aufdringlicher Reude-Pimmel, die ich &uuml;berhaupt nicht kenne.
