@@ -64,14 +64,14 @@ einer sozusagen alternativen Realit&auml;t.
 > Wirklich?!  
 > **Oder wird euch** ei&shy;gent&shy;lich
 > (per&shy;fi&shy;der&shy;wei&shy;se sicht&shy;bar f&uuml;r an&shy;de&shy;re)
-> "**NUR**
+> "**nur**"
 > Au&szlig;en&shy;wir&shy;kung **sug&shy;ge&shy;riert**?!  
 > Und wenn ihr der Meinung seid,
 > "Ja,
 > da war etwas.",
 > dann w&uuml;r&shy;de ich mir per&shy;s&ouml;n&shy;lich w&uuml;n&shy;schen,
 > ohne je&shy;man&shy;den zwin&shy;gen oder wider&shy;sprechen zu wol&shy;len,
-> dass ihr noch&shy;mal hin&shy;schaut und noch&shy;mal pr&uuml;ft.
+> dass ihr bitte noch&shy;mal hin&shy;schaut und bitte noch&shy;mal pr&uuml;ft.
 >
 > Ich per&shy;s&ouml;n&shy;lich ver&shy;mu&shy;te,
 > **da war/ist nichts**.
@@ -105,10 +105,12 @@ diese Ir&shy;ren zu be&shy;kom&shy;men.
 >    &uuml;ber&shy;zeu&shy;gend wir&shy;ken m&uuml;ss&shy;ten
 
 > [!CAUTION]
-> Das Droppen einer Schizophrenie heißt nicht, dass diese bekloppten Storys alle wahr sind (wahrscheinlich keine einzige).
-> Das sind erstmal alles "nur" Einreden aufdringlicher Sadisten,
-> die ich &uuml;berhaupt nicht kenne.
-
+> Das Drop&shy;pen einer Schi&shy;zo&shy;phre&shy;nie heißt nicht,
+> dass die&shy;se be&shy;klopp&shy;ten Sto&shy;rys alle wahr sind
+> (wahr&shy;schein&shy;lich kei&shy;ne ein&shy;zi&shy;ge).
+> Das sind erst&shy;mal alles "nur" Ein&shy;re&shy;den
+> auf&shy;dring&shy;li&shy;cher Pim&shy;mel,
+> die ich &uuml;ber&shy;haupt nicht kenne.
 
 [Di., **15.10., 10:12**]
 Mir wird
@@ -120,11 +122,19 @@ soll&shy;te diese Frau sicher sein,
 wenn seine ekel&shy;haf&shy;te
 (und ich ver&shy;mu&shy;te lei&shy;der in&shy;zwi&shy;schen gr&ouml;&szlig;e&shy;re)
 Crew hier mit&shy;<nobr>h&ouml;rt/-</nobr><wbr />liest.  
-Durch Nen&shy;nung des Na&shy;mens "Ste&shy;<nobr>fan/</nobr><wbr />Stephan Mai/y"[^1]
+Durch Nen&shy;nung des Vor&shy;na&shy;mens "Ste&shy;<nobr>fan/</nobr><wbr />Stephan"[^1]
 ei&shy;ner weib&shy;lichen Stim&shy;me,
 soll mir ge&shy;ra&shy;de ein Haupt&shy;t&auml;ter sug&shy;ge&shy;riert wer&shy;&shy;den,
-was ich f&uuml;r schwach&shy;sin&shy;nig hal&shy;te,
-aber das m&uuml;s&shy;sen die wis&shy;sen.
+Mei&shy;ne Ver&shy;kn&uuml;p&shy;fung
+(aus Er&shy;in&shy;nern)
+mit dem Nach&shy;na&shy;men "Mai/y" ist eine,
+ziem&shy;lich sich&shy;er un&shy;zu&shy;l&auml;s&shy;si&shy;ge,
+Sug&shy;ges&shy;tion und m.&#8239;M.&#8239;n. ei&shy;ni&shy;ger&shy;ma&szlig;en
+schwach&shy;sin&shy;nig.
+Ers&shy;tens muss es die&shy;sen Men&shy;schen nicht ge&shy;ben oder er mag bspw.
+eben&shy;falls
+(ver&shy;lei&shy;te&shy;tes)
+Opfer sein.
 
 ## Ende einer Schizophrenie
 
