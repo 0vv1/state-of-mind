@@ -18,9 +18,7 @@ version: mo., 14. oct. 2024
   dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t zu neh&shy;men~~<sup>:warning:Einrede</sup>
 
 > [!NOTE]
-> Eine mir pers&ouml;nlich wichtige Sache,
-> da ich gestern mit einem Freund/Ex-Kollegen unterwegs war,
-> der dummerweise dieses Repo gesehen hat:  
+> Da ich gestern mit einem Freund/Ex-Kollegen unterwegs war:  
 > Das hier ist **nicht mein M&uuml;ll**!
 > 
 > Das ist der Output einiger reichlich degenerierter Gehirne
@@ -41,6 +39,7 @@ version: mo., 14. oct. 2024
 > [!CAUTION]
 > Ganz besonders wichtig ist die Priorisierng pot. Gefahren
 > 1. so gut wie kein Kommunikationskanal ist vertraulich
+>    (auch PKI doppelt pr&uuml;fen!)
 > 2. s&auml;mtliche Telefonkontakte k&ouml;nnen manipuliert sein, bspw. der Notruf der Polizei Berlin
 > 3. die haben mittlerweile vermutlich sehr gute Stimmprofile (nicht nur von mir), so dass
 >    KI-Stimmen einigerma&szlig;en &uuml;berzeugend wirken m&uuml;ssten
