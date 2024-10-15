@@ -117,18 +117,23 @@ diese Ir&shy;ren zu be&shy;kom&shy;men.
 > [**09.10.**]
 > Mglw. [Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl](#m&ouml;glicher-identit&auml;tsdiebstahl)
 > und zwei "Alex&shy;an&shy;der Puls".
-> [Das hier](https://www.facebook.com/61566492002744) (Facebook) bin ich.   
+> [Das hier](https://www.facebook.com/61566492002744)
+> (Face&shy;book)
+> bin ich.   
 > [**Anm.** 09.10., **12:01**]
 > Und just in die&shy;sem Moment gesperrt
 > (T&auml;ter be&shy;haup&shy;ten schon lan&shy;ge,
 > direkt auf mei&shy;ner DSL-Lei&shy;tung zu ope&shy;rie&shy;ren.)  
 > [**Anm.** 09.10., **12:20**]
 > Wie&shy;der da.
-> Sicher nur Zufall.. :wink:
+> Sicher nur Zu&shy;fall.. :wink:
+>
+> Mir wird auch seit Wochen ein&shy;ge&shy;re&shy;det,
+> irgend&shy;wel&shy;che Leu&shy;te w&uuml;r&shy;den mich ken&shy;nen,
 
 > [!CAUTION]
-> Ich gehe davon aus,
-> dass nicht nur meine **Woh&shy;nung**
+> Ich ge&shy;he da&shy;von aus,
+> dass nicht nur mei&shy;ne **Woh&shy;nung**
 > (l&uuml;cken&shy;los!)
 > **akus&shy;tisch ab&shy;ge&shy;nom&shy;men**
 > (**evtl. auch** nie&shy;drig&shy;schwel&shy;lig
