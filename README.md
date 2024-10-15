@@ -79,7 +79,8 @@ einer sozusagen alternativen Realit&auml;t.
 Ich den&shy;ke,
 dass hier Men&shy;schen von sadis&shy;ti&shy;schen Trieb&shy;t&auml;tern in
 au&szlig;er&shy;or&shy;dent&shy;liche Ge&shy;fahr ge&shy;bracht wer&shy;den und
-ein pro&shy;fes&shy;sio&shy;nel&shy;ler Hin&shy;ter&shy;grund be&shy;steht.
+ein orga&shy;ni&shy;sier&shy;<nobr>ter/</nobr><wbr />pro&shy;fes&shy;sio&shy;nel&shy;ler
+Hin&shy;ter&shy;grund be&shy;steht.
 Spe&shy;ziell in mei&shy;nem Fall ver&shy;mu&shy;te ich aber sehr stark
 per&shy;s&ouml;n&shy;liche Gr&uuml;n&shy;de eines T&auml;ters,
 und dass l&auml;sst mich hof&shy;fen,
@@ -106,38 +107,48 @@ diese Ir&shy;ren zu be&shy;kom&shy;men.
 >    &uuml;ber&shy;zeu&shy;gend wir&shy;ken m&uuml;ss&shy;ten
 
 > [!WARNING]
+> [**09.10.**]
+> Mglw. [Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl](#m&ouml;glicher-identit&auml;tsdiebstahl)
+> und zwei "Alex&shy;an&shy;der Puls".
+> [Das hier](https://www.facebook.com/61566492002744) (Facebook) bin ich.   
+> [**Anm.** 09.10., **12:01**]
+> Und just in die&shy;sem Moment gesperrt
+> (T&auml;ter be&shy;haup&shy;ten schon lan&shy;ge,
+> direkt auf mei&shy;ner DSL-Lei&shy;tung zu ope&shy;rie&shy;ren.)  
+> [**Anm.** 09.10., **12:20**]
+> Wie&shy;der da.
+> Sicher nur Zufall.. :wink:
+
+> [!CAUTION]
+> Ich gehe davon aus,
+> dass nicht nur meine **Woh&shy;nung**
+> (l&uuml;cken&shy;los!)
+> **akus&shy;tisch ab&shy;ge&shy;nom&shy;men**
+> (**evtl. auch** nie&shy;drig&shy;schwel&shy;lig
+> (nahe Wahr&shy;neh&shy;mungs&shy;gren&shy;ze!)
+> **be&shy;schallt**)
+> **wird**!
+
+> [!CAUTION]
+> Mglw. Modi&shy;fi&shy;ka&shy;tion der Wohn&shy;raum&shy;akus&shy;tik
+> (ich bin über&shy;zeugt davon,
+> das oben nicht immer oben ist,
+> k.&#8239;A. wie das ge&shy;macht wird)
+> und Dia&shy;log-Füh&shy;rung mit st&auml;n&shy;di&shy;gem Re&shy;mix&shy;ing
+> der Sen&shy;<nobr>der/</nobr><wbr />Adres&shy;sa&shy;ten wird auf
+> per&shy;fi&shy;des&shy;te Art aus&shy;ge&shy;nutzt,
+> um ganz nor&shy;ma&shy;le Men&shy;schen als Nach&shy;barn
+> ge&shy;gen&shy;ein&shy;an&shy;der aus&shy;zu&shy;spie&shy;len.
+
+## Ende einer Schizophrenie
+
+> [!WARNING]
 > Das Drop&shy;pen einer Schi&shy;zo&shy;phre&shy;nie heißt nicht,
 > dass die&shy;se be&shy;klopp&shy;ten Sto&shy;rys alle wahr sind
 > (wahr&shy;schein&shy;lich kei&shy;ne ein&shy;zi&shy;ge).
 > Das sind erst&shy;mal alles "nur" Ein&shy;re&shy;den
 > auf&shy;dring&shy;li&shy;cher Pim&shy;mel,
 > die ich &uuml;ber&shy;haupt nicht kenne.
-
-[Di., **15.10., 10:12**]
-Mir wird
-(ge&shy;ra&shy;de in die&shy;sem Mo&shy;ment)
-der Selbst&shy;mord ei&shy;ner Frau sug&shy;ge&shy;riert,
-die ich ei&shy;gent&shy;lich &uuml;ber&shy;haupt nicht ken&shy;ne.  
-Da aber ein T&auml;ter per&shy;s&ouml;n&shy;lich mit seinem Opfer ver&shy;bun&shy;den ist,
-soll&shy;te diese Frau sicher sein,
-wenn seine ekel&shy;haf&shy;te
-(und ich ver&shy;mu&shy;te lei&shy;der in&shy;zwi&shy;schen gr&ouml;&szlig;e&shy;re)
-Crew hier mit&shy;<nobr>h&ouml;rt/-</nobr><wbr />liest.  
-Durch Nen&shy;nung des Vor&shy;na&shy;mens "Ste&shy;<nobr>fan/</nobr><wbr />Stephan"[^1]
-ei&shy;ner weib&shy;lichen Stim&shy;me,
-soll mir ge&shy;ra&shy;de ein Haupt&shy;t&auml;ter sug&shy;ge&shy;riert wer&shy;&shy;den,
-Mei&shy;ne Ver&shy;kn&uuml;p&shy;fung
-(aus Er&shy;in&shy;nern)
-mit dem Nach&shy;na&shy;men "Mai/y" ist eine,
-ziem&shy;lich sich&shy;er un&shy;zu&shy;l&auml;s&shy;si&shy;ge,
-Sug&shy;ges&shy;tion und m.&#8239;M.&#8239;n. ei&shy;ni&shy;ger&shy;ma&szlig;en
-schwach&shy;sin&shy;nig.
-Ers&shy;tens muss es die&shy;sen Men&shy;schen nicht ge&shy;ben oder er mag bspw.
-eben&shy;falls
-(ver&shy;lei&shy;te&shy;tes)
-Opfer sein.
-
-## Ende einer Schizophrenie
 
 > [!IMPORTANT]
 > [So., **13.10.**]
@@ -240,19 +251,6 @@ k&ouml;n&shy;nen.
 Ach so:
 &Uuml;brigens nie mehr.
 
-> [!WARNING]
-> [**09.10.**]
-> Mglw. [Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl](#m&ouml;glicher-identit&auml;tsdiebstahl)
-> und zwei "Alex&shy;an&shy;der Puls".
-> [Das hier](https://www.facebook.com/61566492002744) (Facebook) bin ich.   
-> [**Anm.** 09.10., **12:01**]
-> Und just in die&shy;sem Moment gesperrt
-> (T&auml;ter be&shy;haup&shy;ten schon lan&shy;ge,
-> direkt auf mei&shy;ner DSL-Lei&shy;tung zu ope&shy;rie&shy;ren.)  
-> [**Anm.** 09.10., **12:20**]
-> Wie&shy;der da.
-> Sicher nur Zufall.. :wink:
-
 > [!CAUTION]
 > [**12.10.**]
 > Ich hielt es bis&shy;her f&uuml;r eine schizo&shy;ide Idee,
@@ -264,26 +262,29 @@ Ach so:
 > son&shy;dern **soll maxi&shy;mals&shy;ten** emo&shy;tio&shy;na&shy;len
 > **Scha&shy;den ver&shy;ur&shy;sachen!**
 
-> [!CAUTION]
-> Ich gehe davon aus,
-> dass nicht nur meine **Woh&shy;nung**
-> (l&uuml;cken&shy;los!)
-> **akus&shy;tisch ab&shy;ge&shy;nom&shy;men**
-> (**evtl. auch** nie&shy;drig&shy;schwel&shy;lig
-> (nahe Wahr&shy;neh&shy;mungs&shy;gren&shy;ze!)
-> **be&shy;schallt**)
-> **wird**!
-
-> [!CAUTION]
-> Mglw. Modi&shy;fi&shy;ka&shy;tion der Wohn&shy;raum&shy;akus&shy;tik
-> (ich bin über&shy;zeugt davon,
-> das oben nicht immer oben ist,
-> k.&#8239;A. wie das ge&shy;macht wird)
-> und Dia&shy;log-Füh&shy;rung mit st&auml;n&shy;di&shy;gem Re&shy;mix&shy;ing
-> der Sen&shy;<nobr>der/</nobr><wbr />Adres&shy;sa&shy;ten wird auf
-> per&shy;fi&shy;des&shy;te Art aus&shy;ge&shy;nutzt,
-> um ganz nor&shy;ma&shy;le Men&shy;schen als Nach&shy;barn
-> ge&shy;gen&shy;ein&shy;an&shy;der aus&shy;zu&shy;spie&shy;len.
+[Di., **15.10., 10:12**]
+Mir wird
+(ge&shy;ra&shy;de in die&shy;sem Mo&shy;ment)
+der Selbst&shy;mord ei&shy;ner Frau sug&shy;ge&shy;riert,
+die ich ei&shy;gent&shy;lich &uuml;ber&shy;haupt nicht ken&shy;ne.  
+Da aber ein T&auml;ter per&shy;s&ouml;n&shy;lich mit seinem Opfer ver&shy;bun&shy;den ist,
+soll&shy;te diese Frau sicher sein,
+wenn seine ekel&shy;haf&shy;te
+(und ich ver&shy;mu&shy;te lei&shy;der in&shy;zwi&shy;schen gr&ouml;&szlig;e&shy;re)
+Crew hier mit&shy;<nobr>h&ouml;rt/-</nobr><wbr />liest.  
+Durch Nen&shy;nung des Vor&shy;na&shy;mens "Ste&shy;<nobr>fan/</nobr><wbr />Stephan"[^1]
+ei&shy;ner weib&shy;lichen Stim&shy;me,
+soll mir ge&shy;ra&shy;de ein Haupt&shy;t&auml;ter sug&shy;ge&shy;riert wer&shy;&shy;den,
+Mei&shy;ne Ver&shy;kn&uuml;p&shy;fung
+(aus Er&shy;in&shy;nern)
+mit dem Nach&shy;na&shy;men "Mai/y" ist eine,
+ziem&shy;lich sich&shy;er un&shy;zu&shy;l&auml;s&shy;si&shy;ge,
+Sug&shy;ges&shy;tion und m.&#8239;M.&#8239;n. ei&shy;ni&shy;ger&shy;ma&szlig;en
+schwach&shy;sin&shy;nig.
+Ers&shy;tens muss es die&shy;sen Men&shy;schen nicht ge&shy;ben oder er mag bspw.
+eben&shy;falls
+(ver&shy;lei&shy;te&shy;tes)
+Opfer sein.
 
 > [!NOTE]
 > [**08.10.**]
