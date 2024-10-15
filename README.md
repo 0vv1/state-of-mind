@@ -2040,6 +2040,8 @@ Täter droht mit "Nach&shy;spiel".
 > [!NOTE]
 > [Erg. 02.10., 20:37 - 20:42]
 > NLP-Reak&shy;tion: "Du bist dem Tod ge&shy;weiht." in Schlei&shy;fe
+>
+> [15.10., 15:15] vermtl. gleicher Dude 
 
 > [!NOTE]
 > Hier wie&shy;der: Schizo&shy;phre&shy;nie-Patient.
