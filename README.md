@@ -88,10 +88,11 @@ diese Ir&shy;ren zu be&shy;kom&shy;men.
 > [!CAUTION]
 > Prio&shy;ri&shy;sie&shy;rung po&shy;ten&shy;tiel&shy;ler
 > (aber mglw. "le&shy;dig&shy;lich" sug&shy;ge&shy;rier&shy;ter)
-> Ge&shy;fah&shy;ren
+> Ge&shy;fah&shy;ren:
 > 1. so gut wie kein Kom&shy;mu&shy;ni&shy;ka&shy;tions&shy;ka&shy;nal scheint
 >    ver&shy;trau&shy;lich
->    (auch PKI nicht)
+>    (ich ver&shy;mu&shy;te auch PKI als frag&shy;lich,
+>    soll&shy;te das hier et&shy;was per&shy;s&ouml;n&shy;liches sein)
 > 3. s&auml;mt&shy;liche Tele&shy;fon&shy;kon&shy;tak&shy;te wir&shy;ken
 >    mani&shy;pu&shy;lier&shy;bar
 >    (nicht mehr,
@@ -104,7 +105,7 @@ diese Ir&shy;ren zu be&shy;kom&shy;men.
 >    so&shy;dass KI-Stim&shy;men ei&shy;ni&shy;ger&shy;ma&szlig;en
 >    &uuml;ber&shy;zeu&shy;gend wir&shy;ken m&uuml;ss&shy;ten
 
-> [!CAUTION]
+> [!WARNING]
 > Das Drop&shy;pen einer Schi&shy;zo&shy;phre&shy;nie heißt nicht,
 > dass die&shy;se be&shy;klopp&shy;ten Sto&shy;rys alle wahr sind
 > (wahr&shy;schein&shy;lich kei&shy;ne ein&shy;zi&shy;ge).
@@ -3689,7 +3690,15 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
 
 <br>
 
-[^1]: N&auml;m&shy;lich dem so&shy;for&shy;ti&shy;gen Ver&shy;sin&shy;ken
+[^1]: Das ist aus&shy;dr&uuml;ck&shy;lich kei&shy;ne(!)
+  Ver&shy;d&auml;ch&shy;ti&shy;gung,
+  kann der Ob&shy;fus&shy;ka&shy;tion per&shy;fi&shy;der T&auml;ter
+  die&shy;nen und wei&shy;ter:
+  Soll&shy;te eine rea&shy;le Per&shy;son ihre Rech&shy;te
+  be&shy;trof&shy;fen se&shy;hen,
+  bit&shy;te immer gern mel&shy;den,
+  dann kann ich um&shy;ge&shy;hend be&shy;rich&shy;ti&shy;gen.
+[^2]: N&auml;m&shy;lich dem so&shy;for&shy;ti&shy;gen Ver&shy;sin&shy;ken
   jedes Er&shy;le&shy;bens in prin&shy;zi&shy;piell un&shy;end&shy;lichen
   "Threads",
   schnell ab&shy;sinkend,
@@ -3704,7 +3713,7 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   weil ich da&shy;zu ge&shy;zwun&shy;gen bin,
   nicht weil ich es selbst be&shy;n&ouml;&shy;ti&shy;ge.
 
-[^2]: [dt. Wikipedia](https://de.wikipedia.org/wiki/Schizophrenie):
+[^3]: [dt. Wikipedia](https://de.wikipedia.org/wiki/Schizophrenie):
   "Von medi&shy;zi&shy;ni&shy;sch&shy;en Lai&shy;en wird
   [Schi&shy;zo&shy;phre&shy;nie](https://de.wikipedia.org/wiki/Schizophrenie)
   häu&shy;fig **fälsch&shy;lich&shy;er&shy;wei&shy;se** mit der
@@ -3712,7 +3721,7 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   Per&shy;sön&shy;lich&shy;keit](https://de.wikipedia.org/wiki/Dissoziative_Identit%C3%A4tsst%C3%B6rung)“
   ver&shy;bun&shy;den."
 
-[^3]: Ich ver&shy;mute,
+[^4]: Ich ver&shy;mute,
   dass die&shy;ses "ver&shy;steck&shy;te",
   und da&shy;mit abso&shy;lut sich&shy;ere Ope&shy;rie&shy;ren,
   bei den Tätern einen ganz beson&shy;de&shy;ren Reiz aus&shy;löst,
@@ -3727,7 +3736,7 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   unter&shy;be&shy;wuss&shy;ten Be&shy;wer&shy;tung des eige&shy;nen
   Selbsts.*)
 
-[^4]: die&shy;ser Täter spe&shy;ziell hat,
+[^5]: die&shy;ser Täter spe&shy;ziell hat,
   ab&shy;ge&shy;se&shy;hen von di&shy;rekt sexu&shy;ell
   attra&shy;hier&shy;en&shy;den Merk&shy;malen der Phy&shy;sis, in
   **über drei&shy;ein&shy;halb Jah&shy;ren** noch **NIE** "ein sog.
@@ -3737,7 +3746,7 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   dann aus&shy;schließ&shy;lich zu
   Mani&shy;pu&shy;la&shy;tions&shy;zweck&shy;en)
 
-[^5]: <span id="alias">Wir haben uns ~~[mei&shy;ner bescheidenen
+[^6]: <span id="alias">Wir haben uns ~~[mei&shy;ner bescheidenen
   Wahr&shy;neh&shy;mung
   nach](#vor-bedingungen--grundannahmen)[^8],~~
   auf die neuen Alias~~Deck~~&shy;-Na&shy;men
@@ -3775,9 +3784,9 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   sonst deut&shy;lich
   [griesgr&auml;mig](#https://de.wikipedia.org/wiki/Griesgram)er).
   
-[^6]: an den Polen wenig&shy;er :wink:
+[^7]: an den Polen wenig&shy;er :wink:
 
-[^7]: In mei&shy;ner Er&shy;in&shy;ne&shy;rung habe ich die&shy;sen Satz
+[^8]: In mei&shy;ner Er&shy;in&shy;ne&shy;rung habe ich die&shy;sen Satz
   vor lan&shy;ger Zeit ein&shy;mal an einer Kirchen&shy;t&uuml;r
   (in Leip&shy;zig?)
   ge&shy;le&shy;sen:  
@@ -3795,13 +3804,13 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   Die Gegenleistung ist unser(-e) Leiden(-schaft).  
   Die gro&szlig;e Chance die Liebe.
 
-[^8]: Soll&shy;te ich mich in mei&shy;ner Wahr&shy;neh&shy;mung
+[^9]: Soll&shy;te ich mich in mei&shy;ner Wahr&shy;neh&shy;mung
   aus&shy;nahms&shy;wei&shy;se doch ge&shy;täuscht ha&shy;ben,
   kann die be&shy;trof&shy;fe&shy;ne Per&shy;son sich gern bei mir
   mel&shy;den,
   so dass ich un&shy;ver&shy;züg&shy;lich berich&shy;ti&shy;gen kann.
 
-[^9]: Selbst&shy;ver&shy;ständ&shy;lich ste&shy;hen
+[^10]: Selbst&shy;ver&shy;ständ&shy;lich ste&shy;hen
   <nobr>einer/</nobr>&shy;einem jeden, <nobr>die/</nobr><wbr>der
   <nobr>ihre/</nobr><wbr>sei&shy;ne
   Per&shy;sön&shy;lich&shy;keits&shy;rech&shy;te ver&shy;letzt
@@ -3809,7 +3818,7 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
   auch die In&shy;stru&shy;men&shy;te der
   Straf&shy;ver&shy;fol&shy;gung[^10] zur Ver&shy;fü&shy;gung.
 
-[^10]: Die [für mich zu&shy;stän&shy;di&shy;ge
+[^11]: Die [für mich zu&shy;stän&shy;di&shy;ge
   Poli&shy;zei&shy;dienst&shy;stel&shy;le (Direktion 4: Abschnitt
   44)](https://www.berlin.de/polizei/dienststellen/landespolizeidirektion/direktion-4/abschnitt-44/)
   befän&shy;de sich in der Götz&shy;<nobr>str. 6</nobr> im
