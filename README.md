@@ -32,7 +32,7 @@ version: di., 15. oct. 2024
 > die mich manch&shy;mal 24/7 aus Ne&shy;ben&shy;woh&shy;nun&shy;gen \&&#8239;c.
 > voll&shy;s&uuml;l&shy;<nobr>zen/</nobr><wbr />br&uuml;l&shy;len,
 > **ich r&auml;um hier** ei&shy;gent&shy;lich **"nur" auf**.
-> Die werden das nicht tun
+> Die wer&shy;den das nicht tun
 > (auch wenn sie mitt&shy;ler&shy;wei&shy;le seit knapp 17k Std. jede Gren&shy;ze
 > &uuml;ber&shy;schrei&shy;ten,
 > die sie so fin&shy;den k&ouml;n&shy;nen).
@@ -46,7 +46,7 @@ version: di., 15. oct. 2024
 > **Ge&shy;fahr** f&uuml;r Drit&shy;te bin ich lei&shy;der ge&shy;zwun&shy;gen,
 > zu rea&shy;gie&shy;ren.
 > Ich w&uuml;r&shy;de mein Le&shy;ben nicht mehr froh,
-> unter&shy;lie&szlig;e ich es und diese Krea&shy;tu&shy;ren w&uuml;r&shy;den
+> unter&shy;lie&szlig;e ich es und die&shy;se Krea&shy;tu&shy;ren w&uuml;r&shy;den
 > wir&shy;ken.
 
 Die The&shy;men hier sind Iden&shy;ti&shy;t&auml;t,
@@ -80,31 +80,51 @@ Ich den&shy;ke,
 dass hier Men&shy;schen von sadis&shy;ti&shy;schen Trieb&shy;t&auml;tern in
 au&szlig;er&shy;or&shy;dent&shy;liche Ge&shy;fahr ge&shy;bracht wer&shy;den und
 ein pro&shy;fes&shy;sio&shy;nel&shy;ler Hin&shy;ter&shy;grund be&shy;steht.
-
 Spe&shy;ziell in mei&shy;nem Fall ver&shy;mu&shy;te ich aber sehr stark
 per&shy;s&ouml;n&shy;liche Gr&uuml;n&shy;de eines T&auml;ters,
 und dass l&auml;sst mich hof&shy;fen,
 diese Ir&shy;ren zu be&shy;kom&shy;men.
 
 > [!CAUTION]
-> Ganz be&shy;son&shy;ders wich&shy;tig ist die Prio&shy;ri&shy;sie&shy;rung pot.
-> Gefahren
-> 1. so gut wie kein Kom&shy;mu&shy;ni&shy;ka&shy;tions&shy;ka&shy;nal ist
+> Prio&shy;ri&shy;sie&shy;rung po&shy;ten&shy;tiel&shy;ler
+> (aber mglw. "le&shy;dig&shy;lich" sug&shy;ge&shy;rier&shy;ter)
+> Ge&shy;fah&shy;ren
+> 1. so gut wie kein Kom&shy;mu&shy;ni&shy;ka&shy;tions&shy;ka&shy;nal scheint
 >    ver&shy;trau&shy;lich
->    (auch PKI dop&shy;pelt pr&uuml;&shy;fen!)
-> 3. s&auml;mt&shy;liche Tele&shy;fon&shy;kon&shy;tak&shy;te k&ouml;n&shy;nen
->    mani&shy;pu&shy;liert sein,
->    bspw. der Not&shy;ruf der Po&shy;li&shy;zei Ber&shy;lin
-> 5. "die" ha&shy;ben mitt&shy;ler&shy;wei&shy;le ver&shy;mut&shy;lich sehr gute
+>    (auch PKI nicht)
+> 3. s&auml;mt&shy;liche Tele&shy;fon&shy;kon&shy;tak&shy;te wir&shy;ken
+>    mani&shy;pu&shy;lier&shy;bar
+>    (nicht mehr,
+>    aber leider auch nicht weniger,
+>    Bsp.: Not&shy;ruf der Po&shy;li&shy;zei Ber&shy;lin)
+> 5. es wer&shy;den mitt&shy;ler&shy;wei&shy;le sehr gute
 >    Stimm&shy;pro&shy;fi&shy;le
->    (nicht nur von mir),
->    so dass KI-Stim&shy;men ei&shy;ni&shy;ger&shy;ma&szlig;en
+>    (nicht nur von mir)
+>    sug&shy;ge&shy;riert,
+>    so&shy;dass KI-Stim&shy;men ei&shy;ni&shy;ger&shy;ma&szlig;en
 >    &uuml;ber&shy;zeu&shy;gend wir&shy;ken m&uuml;ss&shy;ten
 
 > [!CAUTION]
 > Das Droppen einer Schizophrenie heißt nicht, dass diese bekloppten Storys alle wahr sind (wahrscheinlich keine einzige).
 > Das sind erstmal alles "nur" Einreden aufdringlicher Sadisten,
 > die ich &uuml;berhaupt nicht kenne.
+
+
+[Di., **15.10., 10:12**]
+Mir wird
+(ge&shy;ra&shy;de in die&shy;sem Mo&shy;ment)
+der Selbst&shy;mord ei&shy;ner Frau sug&shy;ge&shy;riert,
+die ich ei&shy;gent&shy;lich &uuml;ber&shy;haupt nicht ken&shy;ne.  
+Da aber ein T&auml;ter per&shy;s&ouml;n&shy;lich mit seinem Opfer ver&shy;bun&shy;den ist,
+soll&shy;te diese Frau sicher sein,
+wenn seine ekel&shy;haf&shy;te
+(und ich ver&shy;mu&shy;te lei&shy;der in&shy;zwi&shy;schen gr&ouml;&szlig;e&shy;re)
+Crew hier mit&shy;<nobr>h&ouml;rt/-</nobr><wbr />liest.  
+Durch Nen&shy;nung des Na&shy;mens "Ste&shy;<nobr>fan/</nobr><wbr />Stephan Mai/y"[^1]
+ei&shy;ner weib&shy;lichen Stim&shy;me,
+soll mir ge&shy;ra&shy;de ein Haupt&shy;t&auml;ter sug&shy;ge&shy;riert wer&shy;&shy;den,
+was ich f&uuml;r schwach&shy;sin&shy;nig hal&shy;te,
+aber das m&uuml;s&shy;sen die wis&shy;sen.
 
 ## Ende einer Schizophrenie
 
