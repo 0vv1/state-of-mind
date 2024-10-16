@@ -200,7 +200,8 @@ Jedes!
 > [**15.10.**]
 > Von mir wer&shy;den sehr gute KI-Ver&shy;sio&shy;nen
 > ein&shy;ge&shy;setzt.
-> Das bin nicht ich! Ich has&shy;se nie&shy;man&shy;den. :grimacing:
+> Das bin nicht ich! Auch kein Teil von mir! Dieser Idiot.
+> Ich has&shy;se nie&shy;man&shy;den. :grimacing:
 > Und schon gar nicht so.
 >
 > [**09.10.**]
@@ -215,14 +216,6 @@ Jedes!
 > [**Anm.** 09.10., **12:20**]
 > Wie&shy;der da.
 > Sicher nur Zu&shy;fall.. :wink:
->
-> [!CAUTION]
-> Ich ge&shy;he da&shy;von aus,
-> dass nicht nur mei&shy;n
-> (**evtl. auch** nie&shy;drig&shy;schwel&shy;lig
-> (nahe Wahr&shy;neh&shy;mungs&shy;gren&shy;ze!)
-> **be&shy;schallt**)
-> **wird**!
 
 **Alternativ-Titel 1. Story**, spawning in Reinickendorf:  
 Benötigt man Trigger von außen,
