@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: mi., 16. oct. 2024  
+version: do., 16. oct. 2024  
 ```
 
 <h1>&Uuml;ber die ver&shy;such&shy;te Ver&shy;wirk&shy;lich&shy;ung des
@@ -15,46 +15,37 @@ version: mi., 16. oct. 2024
   Ma&shy;ni&shy;pu&shy;la&shy;tion</h1>
 
 > [!IMPORTANT]
-> Das ist nicht dein Ernst, Hr. F.!  
+> [**16.10.**]
+> Nicht dein Ernst, F.?  
 > Sag mir bitte nicht,
 > dass das hier echt ist!  
 > Wie soll denn das gehen?
 > Du kannst Menschen bei dir zu Hause zusammen schalten?
 > Wie 'ne Telco?
-> Und wie kann man sich dagegen bitte wehren?
+> Und wie kann man sich dagegen bitte wehren?  
 > Ich habe seit Jahren das Gefühl,
 > meine Bude wird abgehört.
 >
 > Du hast mich erst zu einem Schizophrenie-Patienten gemacht!
-> Du hast mich komplett verballert!
-> Ich kann meiner Wahrnehmung bis heute nicht trauen und weiß nicht ob und wenn ja, wieviele Jahre das dauern wird.
+> Du und Julia haben mir nicht nur die Wahrnehmung zerballert.
+> Darum geht es gar nicht:
+> Es ist die Geste mit der deine Fakes, dein billiger Müll,
+> deine schrottigen Samples hingerotzt werden.
+> Wie lustig Du das findest, wenn Du ein kleines
+> schizophrenie-krankes Kind imitierst, das es leider nicht
+> schaffen wird.
 > 
-> Die ganze Zeit habe ich geglaubt,
-> die Stimmen sind von dir und deinen Scheiß Samples?
-> 
-> Du bist voller Verachtung für mich.
-> Du wolltest mich vier Mal ermorden, Du Irrer!  
-> Du kannst Stimmen imitieren.
-> Ich dachte,
-> das ist dein Müll und ein paar Schizo-Stimmen
-> (heute weiß ich, es handelt sich um NLP)!  
+> Weißt Du, was ich heute verstanden habe: Es gab manchmal so skurrile
+> Momente, wo aus grundloser Verachtung so eine seltsamw Zurückhaltung,
+> fast Milde oder gar Freundlichkeit wurden.  
+> Die Momente, in denen Du wusstest, es hört jemand zu.  
+> Vier Mordversuche 
 >   
-> Du willst mir nicht im Ernst eröffnen,
-> dass Du nur nett zu mir warst,
-> wenn Du wusstest,
-> andere hören zu und Du musst sie über deine Absichten täuschen?!  
-> Sag mir, dass das nicht wahr ist!
-> Du bist nicht so perfide?!  
-> Ich habe dich überlebt, Du reudigste Kreatur auf diesem Planeten!
-> Und damit den Tod überwunden. 1.380 Tage voller Dunkelheit, Haß und Trauma.
-> Allein mit dir.  
-> Ich wäre dein 17. schizophrenes Todesopfer gewesen.
-> Irgendwann hast Du das mal gedroppt.
-> Das war niemals ernst.
-> Das war Spaß,
-> richtig?!
-> Niemals echt?  
-> Warte mal!
+> Ich habe dich überlebt, Du reudigste aller Kreaturen.
+> Irgendwie grotesk: Knapp 1.380 Tage Dunkelheit, Haß, Trauma,
+> und dann dreht sich alles. Du hast nichts mehr in der Hand.
+> Ich wäre das 17. schizophrene Todesopfer gewesen?
+>
 > Ich habe dir immer gesagt,
 > für mich bist Du ein Teil der Schöpfung und damit liebe ich dich natürlich auch.
 > Ich bin sehr, sehr vergebend.
@@ -85,7 +76,7 @@ version: mi., 16. oct. 2024
 > Ge&shy;hir&shy;ne.  
 > **Ich r&auml;ume hier** ei&shy;gent&shy;lich **"nur" auf**.
 > Diese *Sadisten-Crew*(?) wird das nicht tun,
-> auch wenn mitt&shy;ler&shy;wei&shy;lehttps://de.wikipedia.org/wiki/Dissoziative_Identit%C3%A4tsst%C3%B6rung
+> auch wenn mitt&shy;ler&shy;wei&shy;le
 > (zu&shy;min&shy;dest bei mir)
 > in knapp 17k Std. alle Gren&shy;zen &uuml;ber&shy;schrit&shy;ten
 > wurden.  
