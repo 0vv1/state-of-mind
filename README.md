@@ -25,7 +25,7 @@ version: mi., 16. oct. 2024
 > (und dann auch noch KI-ge&shy;st&uuml;tz&shy;ter)
 > Ge&shy;hir&shy;ne.  
 > **Ich r&auml;ume hier** ei&shy;gent&shy;lich **"nur" auf**.
-> Diese reudige Sadisten-Crew wird das nicht tun,
+> Diese *Sadisten-Crew*(?) wird das nicht tun,
 > auch wenn mitt&shy;ler&shy;wei&shy;le
 > (zu&shy;min&shy;dest bei mir)
 > in knapp 17k Std. alle Gren&shy;zen &uuml;ber&shy;schrit&shy;ten
@@ -51,19 +51,20 @@ version: mi., 16. oct. 2024
 > Die Be&shy;sch&auml;f&shy;ti&shy;gung mit die&shy;sen Ir&shy;ren wird
 > meine **Re&shy;pu&shy;ta&shy;<nobr>tion**/</nobr><wbr />Ruf auf **0**
 > sin&shy;ken las&shy;sen
-> (und die&shy;se Sa&shy;dis&shy;ten wis&shy;sen das),
+> (und die Täter wis&shy;sen das),
 > aber hoher emotionaler Druck und
 > (**sug&shy;ge&shy;rier&shy;te**)
 > **Ge&shy;fahr** f&uuml;r Drit&shy;te zwin&shy;gen im&shy;mer
-> wie&shy;der zur Ein&shy;wil&shy;li&shy;gung.
+> wie&shy;der zur Ein&shy;wil&shy;li&shy;gung
+> (aber auffällig individualisiert).
 > Ich w&uuml;r&shy;de mein Le&shy;ben nicht mehr froh,
 > unter&shy;lie&szlig;e ich es und die&shy;se Krea&shy;tu&shy;ren
 > w&uuml;r&shy;den wir&shy;ken.
 
 Ich den&shy;ke,
-dass hier Men&shy;schen von sadis&shy;ti&shy;schen Trieb&shy;t&auml;tern
+dass hier ~~Men&shy;schen von sadis&shy;ti&shy;schen Trieb&shy;t&auml;tern
 in au&szlig;er&shy;or&shy;dent&shy;liche Ge&shy;fahr ge&shy;bracht
-wer&shy;den und ein
+wer&shy;den und~~ ein
 orga&shy;ni&shy;sier&shy;<nobr>ter/</nobr><wbr
 />pro&shy;fes&shy;sio&shy;nel&shy;ler
 Hin&shy;ter&shy;grund be&shy;steht.
@@ -73,25 +74,20 @@ per&shy;s&ouml;n&shy;liche Gr&uuml;n&shy;de eines T&auml;ters stark,
 diese Ir&shy;ren zu
 be&shy;kom&shy;men.~~<sup>:white_check_mark:DONE</sup>
 
-Es geht hier im We&shy;sent&shy;lich&shy;en um Iden&shy;ti&shy;t&auml;t
+Es geht hier im We&shy;sent&shy;lich&shy;en (für mich) um Iden&shy;ti&shy;t&auml;t
 und
 (all&shy;um&shy;fas&shy;sen&shy;des)
 Ver&shy;trau&shy;en,
 bei&shy;des be&shy;lie&shy;big und v.&#8239;a. durch
-sa&shy;dis&shy;tisch "ma&shy;ni&shy;pu&shy;lier&shy;te"
+sa&shy;dis&shy;tisch
+(mglw. aber "nur" Mittel zum Zweck?) "ma&shy;ni&shy;pu&shy;lier&shy;te"
 "Kom&shy;mu&shy;ni&shy;ka&shy;tion" un&shy;ter&shy;mi&shy;niert.
-Ich w&uuml;r&shy;de be&shy;haup&shy;ten,
-das Ziel der T&auml;ter liegt im  
+Das Ziel der T&auml;ter wirkt wie  
 **Ver&shy;har&shy;ren&shy;las&shy;sen
 des je&shy;wei&shy;li&shy;gen In&shy;di&shy;vi&shy;du&shy;ums in seiner
 schreck&shy;lichst-vor&shy;stell&shy;ba&shy;ren
 emo&shy;tio&shy;na&shy;len H&ouml;l&shy;le.**  
-Das ist lei&shy;der w&ouml;rt&shy;lich zu ver&shy;ste&shy;hen:
-Ich gehe da&shy;von aus,
-dass je&shy;des evtl. trau&shy;ma&shy;ti&shy;sche Er&shy;le&shy;ben
-vor&shy;her rec&shy;her&shy;chiert wur&shy;de und mit
-maxi&shy;ma&shy;lem Ef&shy;fekt aus&shy;ge&shy;nutzt wird.
-Jedes!
+Aber wofür? Oder nur für mich?  
 
 > [!IMPORTANT]
 > F&uuml;r **je&shy;man&shy;d**en,
@@ -384,6 +380,17 @@ eben&shy;falls
 (ver&shy;lei&shy;te&shy;tes)
 Opfer sein.
 
+Ich meine, ich habe damit "meinen" Haupttäter, zwar nicht initial,
+aber vielleicht hat er irgendwann ma die Party gessprengt?!  
+Der andere 'nen reudigen Deal, vielleicht sogar die Braut veräußert,
+wer weiß das schon. Irgendwie alles möglich bei dieser Crew.
+
+Ach so, die suggerieren mir übrigens, dass sie sogar meine Gedanken lesen können,
+wäre cool, wenn sich die Strafverfolgung da ma zeitnah kümmert,
+is einfach nich so geil, bei Dudes, die dir nach dem Leben trachten.. :smirk:
+
+Ach so, ich hätte 'ne Idee wegen der Misshandlungsgeschichte..
+
 > [!NOTE]
 > [**08.10.**]
 > Es wird im&shy;mer deut&shy;licher:
@@ -493,8 +500,9 @@ Und es inte&shy;res&shy;siert mich auch &uuml;ber&shy;haupt nicht,
 > P.P.P.S.: I'm fuckin' great, Dude! :wink:
 
 > [!CAUTION]
-> Der Typ scheint Teil einer Sadistengang zu sein (3+ Typen plus eine Frau)! Details nicht hier, aber ich bin abgesichert.  
-> Alle anderen "Tatbeteiligten" sind perfide get&auml;uschte Opfer.
+> Der Typ ~~scheint~~ suggeriert, Teil einer Sadistengang zu sein (Anzahl ganz schwer, mind. 5 Typen plus eine Frau + KI-Stimmen).
+> Dieser Sadisten-Tourismus ist eher das Ding von dem urspr. Dude aus Reinickendorf.  
+> Alle anderen "Tatbeteiligten" sollten perfide get&auml;uschte Opfer sein.
  
 > [**Anm.**] Die *Julia*-"Entit&auml;t" hat mglw. gar nicht
 > "auf&shy;ge&shy;h&ouml;rt",
@@ -917,27 +925,6 @@ und **un&shy;be&shy;stä&shy;tigte**
 > **sug&shy;ge&shy;riert**.
 -->
 
-> [!TIP]
-> Eine,
-> in der Ver&shy;gan&shy;gen&shy;heit von mut&shy;maß&shy;lich
-> einer Täte&shy;rin und einem Täter ge&shy;stell&shy;te,
-> Forde&shy;rung zum Aus&shy;gleich f&uuml;r die
-> Ein&shy;stel&shy;lung jeg&shy;lich&shy;er For&shy;men von
-> Bel&auml;s&shy;ti&shy;gung i.&#8239;H.&#8239;v. **7.000,- EUR**
-> (via QR-Code BC)
-> wur&shy;de zu&shy;rück&shy;ge&shy;zo&shy;gen.  
->   
-> Die T&auml;ter inte&shy;res&shy;sie&shy;ren mich nicht,
-> **aber**:
-> Die glei&shy;che Summe **zah&shy;le ich**
-> (~~außer <nobr>der/</nobr>dem Täter<nobr>/-in</nobr> selbst,~~
-> via be&shy;lie&shy;bi&shy;gem Zah&shy;lungs&shy;weg)
-> <nobr>**der-/</nobr><wbr>dem&shy;jeni&shy;gen**,
-> <nobr>**die/</nobr><wbr>der hier beschrie&shy;be&shy;ne
-> Beob&shy;ach&shy;tun&shy;gen** als erste(-r)
-> glaub&shy;wür&shy;di&shy;g(!)
-> **be&shy;zeu&shy;gen** kann.
-  
 <!-- eigene person -->
 ### Ei&shy;ge&shy;ne Per&shy;son
 
@@ -2435,47 +2422,46 @@ eini&shy;ger&shy;maßen be&shy;son&shy;de&shy;ren Geis&shy;tes
 
 > [!CAUTION]
 > [**Anm.** 04.10.]  
-> Heute hat sich die dunkle,
+> ~~Heute hat sich die dunkle,
 > und immer nicht wahr gehabt werden wollende,
 > Vermutung verfestigt,
 > dass es sich bei den T&auml;tern um gew&ouml;hnlichen Faschismus bzw.
-> aktive Nazi-Strukturen mit weitgehend degenerierten Protagonisten
-> handelt.
+> aktive~~ Nazi-Strukturen mit weitgehend degenerierten Protagonisten
+> ~~handelt.
 > Soweit,
-> so eindeutig,
+> so eindeutig,~~
 > mit immer gleichem und bekannten Muster,
-> aber ab jetzt
+> ~~aber ab jetzt
 > (und wie immer zu sp&auml;t)
-> gilt besondere Vorsicht.
+> gilt besondere Vorsicht.~~
+> Mag ja alles sein,
+> aber 'ne halbe Seite Nazi-Hate ist der Glaubwürdigkeit jetzt vielleicht
+> auch nicht so zuträglich und ich meine,
+> dann doch eher nebensächlich. :smirk:
+> Ich muss aber sagen, einige (der für die Presse zuständigen Täter)
+> machen das wirklich gut: Sie provozieren durch leichtes Pushen über
+> viel Zeit, eine Überreaktion
+> (eine Idee, die ich schon öfter hatte:
+> Mglw. psychologisch/psychiatrischer Hintergrund?)
 
-<img alt="GeStaPo-Nazi-Pig of the Year"
-    src="./gspnzpoty.jpg"
-    width="300px">
-
-~~Ich kann lei&shy;der über&shy;haupt nichts sicher zu Zie&shy;len
-even&shy;tuel&shy;ler Täter, in&shy;ten&shy;dier&shy;ten Effek&shy;ten
-oder Ab&shy;sich&shy;ten irgend&shy;wel&shy;cher
-Inte&shy;ress&shy;en&shy;grup&shy;pen sagen und nehme die Sache am
-besten auch nicht zu ernst. :sunglasses:~~ 
-
-* sug&shy;ge&shy;riert wurd&shy;e mehr&shy;mals, dass einer der
+* ~~sug&shy;ge&shy;riert wurd&shy;e mehr&shy;mals, dass einer der
   Haupt&shy;tä&shy;ter sexu&shy;el&shy;le Erre&shy;gung durch das
   Indu&shy;zie&shy;ren und an&shy;schlie&szlig;en&shy;de
   Beob&shy;ach&shy;ten von Leid bei ande&shy;ren Men&shy;sch&shy;en
-  er&shy;fährt
+  er&shy;fährt~~
 
-* sug&shy;ge&shy;riert wurd&shy;e mehr&shy;fach ein hoher
+* ~~sug&shy;ge&shy;riert wurd&shy;e mehr&shy;fach ein hoher
   Lust&shy;ge&shy;winn bei min&shy;des&shy;tens einem der
   Haupt&shy;tä&shy;ter,
   der ihm wohl durch das Aus&uuml;ben von "Kon&shy;trolle"(?) &uuml;ber
   ande&shy;re Men&shy;sch&shy;en ent&shy;st&uuml;n&shy;de
-  (wenn es so&shy;was gibt?)
-</img>
+  (wenn es so&shy;was gibt?)~~
 
 ~~Ich meine,
 recht schwache Moti&shy;ve für die&shy;sen Wahn&shy;sinn,
 die viel&shy;leicht echte Be&shy;weggr&uuml;nde obfus&shy;kie&shy;ren
-sol&shy;len.~~
+sol&shy;len.~~ <sup>:warning:irrelevant</sup>
+Vielleicht dieser Sadismus(?!).
   
 <details>
   <summary>
@@ -2924,16 +2910,6 @@ GeStaPo-Nazi-Schwein + lfd. Nr. ab Auf&shy;tre&shy;ten[^5]
     > bei einem Sui&shy;zid-Ver&shy;such das Ge&shy;nick an&shy;bricht.  
     > (und das meine ich **leider** ernst - NO SHIT! :joy:)
 
-* ich hal&shy;te es eben&shy;so für mög&shy;lich, dass die gesam&shy;te
-  (fast aus&shy;schließ&shy;lich akus&shy;ti&shy;sche) Fas&shy;sa&shy;de
-  im  Grun&shy;de ledig&shy;lich die Ober&shy;flä&shy;che einer
-  voll&shy;stän&shy;dig aus&shy;ge&shy;dach&shy;ten, an ein
-  [Buch](#buchempfehlung-eines-täters) an&shy;ge&shy;lehn&shy;te,
-  Fan&shy;ta&shy;sie&shy;welt eines ein&shy;zel&shy;nen Geis&shy;tes ist
-  
-<details>
-  <summary><h4>Per&shy;sön&shy;lich&shy;keit dieses
-    mög&shy;lich&shy;en Haupt&shy;tä&shy;ters</h4></summary>
 
 Sämt&shy;li&shy;che Hin&shy;wei&shy;se auf **Iden&shy;ti&shy;tät** waren
 und sind im bes&shy;ten Fall wirr.
@@ -3607,10 +3583,25 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
   <img alt="E-Mails, neuer PubKey"
     src="./2024-10-16_github_new-ssh-keys.jpg"
   width="300px">
-  Einer der (*Sado*?-)Dudes,
+  Einer der ~~(*Sado*?-)~~ Dudes,
   der sich heute um die Sichtung der Readme kümmert,
-war ob des Inhaltes bzgl. Straftaten einer der Täter (ich glaub, Hr. Fehler: 16 schizophrene Mordopfer sind dir dann doch zu viel?) unzufrieden, das zuständige Ministerium entschloss also kurzerhand, den SSH-PubKey aus meinem, mit einem 24-stelligen Random-PW + 2FA abgesicherten Account zu löschen.  
-Gerade dwr Dude hat noch Brain-Washing-Leistungen zu erbringen, um das Gehirn der jungen Frau zu zerstören (angebl. seine Spezialität, neben Schizos killen). Aber dafür muss er sich halt zunächst Vertrauen erschleichen, um es für seine Injections missbrauchen zu können.
+  war ob des Inhaltes bzgl. Straftaten einer der Täter
+  (ich glaub, Hr. Fehler:
+  16 schizophrene Mordopfer sind dir dann doch zu viel?)
+  unzufrieden,
+  das zuständige Ministerium entschloss also kurzerhand,
+  den SSH-PubKey aus meinem,
+  mit einem 24-stelligen Random-PW + 2FA abgesicherten
+  Account zu löschen. :joy:
+  Ach ja, und die nächsten 34 SSH-Keys auch gleich,
+  mglw. hat er ästhetische Ansprüche,
+  da zeigt der Trend bei PubKey grade hin. :star_struck:
+  Gerade der Irre Brain-Doc hat noch Brain-Washing-Leistungen
+  zu erbringen,
+  um das Gehirn der jungen Frau zu zerstören
+  (angebl. seine Spezialität, neben Schizos killen).
+  Aber dafür muss er sich halt zunächst Vertrauen erschleichen,
+  um es für seine Injections missbrauchen zu können.
 </img>
 
 <details>
@@ -3672,7 +3663,7 @@ wach ver&shy;brach&shy;ten Näch&shy;ten vol&shy;ler
 Ver&shy;wir&shy;rung, Des&shy;in&shy;for&shy;ma&shy;tion, einer
 Viel&shy;zahl alter&shy;na&shy;ti&shy;ver Reali&shy;tä&shy;ten und bis
 zu einem Dut&shy;zend gleich&shy;zei&shy;ti&shy;ger Stim&shy;men,
-füh&shy;le ich mich nicht ge&shy;schä&shy;digt. Oder
+füstar_struckstar_struckh&shy;le ich mich nicht ge&shy;schä&shy;digt. Oder
 trau&shy;ma&shy;ti&shy;siert. Nichts von dem, aber ich habe 
 
 1. eine extre&shy;me Er&shy;fah&shy;rung ge&shy;macht,
