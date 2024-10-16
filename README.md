@@ -224,7 +224,7 @@ Jedes!
 > **be&shy;schallt**)
 > **wird**!
 
-Alternativ-Titel 1. Story, spawning in Reinickendorf:  
+**Alternativ-Titel 1. Story**, spawning in Reinickendorf:  
 Von der ge&shy;walt&shy;sa&shy;men Tren&shy;nung zwei&shy;er
   Men&shy;schen,
   bei gleich&shy;zei&shy;tig
@@ -232,7 +232,7 @@ Von der ge&shy;walt&shy;sa&shy;men Tren&shy;nung zwei&shy;er
   emo&shy;tio&shy;na&shy;len Lei&shy;den,
   um den einen ge&shy;f&uuml;&shy;gig zu machen und
   dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t zu
-  neh&shy;men<sup>:warning:Suggestion</sup>
+  neh&shy;men.<sup>:warning:Suggestion</sup>
 
 ## Ende einer Schizophrenie
 
