@@ -225,14 +225,25 @@ Jedes!
 > **wird**!
 
 **Alternativ-Titel 1. Story**, spawning in Reinickendorf:  
-Von der ge&shy;walt&shy;sa&shy;men Tren&shy;nung zwei&shy;er
+Benötigt man Trigger von außen,
+um von freundlicher, zwar nur vier mal,
+aber doch gern gesehener Begegnung im Treppenhaus zu ..  
+.. "*ge&shy;walt&shy;sa&shy;mer Tren&shy;nung zwei&shy;er
   Men&shy;schen,
   bei gleich&shy;zei&shy;tig
   gr&ouml;&szlig;t&shy;m&ouml;g&shy;li&shy;chem
   emo&shy;tio&shy;na&shy;len Lei&shy;den,
   um den einen ge&shy;f&uuml;&shy;gig zu machen und
   dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t zu
-  neh&shy;men.<sup>:warning:Suggestion</sup>
+  neh&shy;men.*"<sup>:warning:Suggestion</sup> zu kommen.
+
+Ich weiß nicht, wie es dir geht, Sweety,
+aber so lange hänge ich der Vergangenheit dann doch nicht an.  
+Zumal ich dir nie begegnen darf.  
+Oder meinst Du, unterschwellige Soufflage mag unserem Hirn
+leichter Erinnerung erinnern?
+
+Naja, wie dem auch sei..
 
 ## Ende einer Schizophrenie
 
