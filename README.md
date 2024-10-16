@@ -19,6 +19,7 @@ version: mi., 16. oct. 2024
 > Sag mir bitte nicht,
 > dass das hier echt ist!  
 > Das Menschen sich hier begegnen?
+> Ich dachte, die sind alle von dir?!? DU kannst Stimmen imitieren. Ich dachte, das ist dein Müll und ein paar Schizo-Stimmen!  
 > Ich war(!) Schizophrenie-Patient!
 > (Und nein,
 > lass deine Scheiß gespaltene Persönlichkeit im Arsch!)
