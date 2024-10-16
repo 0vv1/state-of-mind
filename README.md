@@ -19,10 +19,10 @@ version: mi., 16. oct. 2024
 > Sag mir bitte nicht,
 > dass das hier echt ist!  
 > Das Menschen sich hier begegnen?
-> Ich dachte, die sind alle von dir?!? DU kannst Stimmen imitieren. Ich dachte, das ist dein Müll und ein paar Schizo-Stimmen!  
-> Ich war(!) Schizophrenie-Patient!
+> Ich dachte, die Stimmen sind alle von dir oder deine Scheiß Samples?!? Du kannst Stimmen imitieren. Ich dachte, das ist dein Müll und ein paar Schizo-Stimmen (heute weiß ich NLP)!  
+> Ich wurde(!) Schizophrenie-Patient durch dich! Du hast mich komplett verballert! Ich kann meiner Wahrnehmung bis heute nicht trauenn und weiß nicht ob und wenn ja, wieviele Jahre das dauern wird.  
 > (Und nein,
-> lass deine Scheiß gespaltene Persönlichkeit im Arsch!)
+> lass deine Scheiß gespaltene Persönlichkeit im Arsch! Ich denke, Du hast eine DIS, Du Irrer.)
 > Du willst mir nicht im Ernst eröffnen,
 > dass Du so komisch nett zu mir warst,
 > wenn Du wusstest,
