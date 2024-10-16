@@ -15,27 +15,33 @@ version: mi., 16. oct. 2024
   Ma&shy;ni&shy;pu&shy;la&shy;tion</h1>
 
 > [!IMPORTANT]
-> Nein, F.!  
+> Das ist nicht dein Ernst, Hr. F.!  
 > Sag mir bitte nicht,
 > dass das hier echt ist!  
-> Das Menschen sich unter deiner Kontrolle begegnen? Rein technisch?
+> Wie soll denn das gehen? Du kannst Menschen bei dir zu Hause zusammen schalten? Wie 'ne Telco? Und wie kann man sich dagegen bitte wehren?
+> Alter, ich hab seit Jahren das Gefühl, meine Bude wird abgehört!
+> Du hast mich erst zu einem Schizophrenie-Patienten gemacht
+> **Ich brauche einen einzigen Menschen, der mir das
+> 
 > Aber Du bist voller Verachtung für mich! Du wolltest mich vier Mal ermorden, Du Irrer!!!!
 > Ich dachte, die Stimmen sind alle von dir oder deine Scheiß Samples?!? Du kannst Stimmen imitieren. Ich dachte, das ist dein Müll und ein paar Schizo-Stimmen (heute weiß ich NLP)!  
-> Ich wurde(!) Schizophrenie-Patient durch dich! Du hast mich komplett verballert! Ich kann meiner Wahrnehmung bis heute nicht trauenn und weiß nicht ob und wenn ja, wieviele Jahre das dauern wird.  
+> Ich wurde(!) Schizophrenie-Patient durch dich! Du hast mich komplett verballert! Ich kann meiner Wahrnehmung bis heute nicht trauen und weiß nicht ob und wenn ja, wieviele Jahre das dauern wird.  
 > (Und nein,
-> lass deine Scheiß gespaltene Persönlichkeit im Arsch! Ich denke, Du hast eine DIS, Du Irrer.)
+> lass deine Scheiß gespaltene Persönlichkeit im Arsch! Ich denke, **DU** hast eine DIS, Du Irrer.)
 > Du willst mir nicht im Ernst eröffnen,
-> dass Du so komisch nett zu mir warst,
+> dass Du nur so komisch nett zu mir warst,
 > wenn Du wusstest,
-> andere hören zu?!
+> andere hören uns zu und Du musst sie täuschen?!
 > Sag mir, dass das nicht wahr ist!!
-> Du bist nicht so perfide?! No way!!!
+> Du bist nicht so perfide?! 
 > Ich habe dich überlebt, Du reudigste Kreatur auf diesem Planeten!
 > Und damit den Tod überwunden. 1.380 Tage voller Dunkelheit, Haß und Trauma.
-> Allein mit dir.
-> Ich wäre dein 17. schizophrenes Todesopfer. Das war Spaß, richtig?! Nicht echt.
-> Warte mal! Ih habe dir immer gesagt, für mich bist Du ein Teil der Schöpfung und damit liebe ich dich natürlich auch. Ich bin sehr, sehr vergebend. Sehr. Aber nicht mehr sicher. Ich liebe die Schöpfung.
+> Allein mit dir.  
+> Ich wäre dein 17. schizophrenes Todesopfer gewesen. Irgendwann hast Du das mal gedroppt. Das war niemals ernst. Das war Spaß, richtig?! Niemals echt?
+> Warte mal! Ich habe dir immer gesagt, für mich bist Du ein Teil der Schöpfung und damit liebe ich dich natürlich auch. Ich bin sehr, sehr vergebend. Sehr. Aber nicht mehr sicher. Ich liebe die Schöpfung.
 > Ich kann mir nicht vorstellen, dich zu berühren. Ehrlich gesagt, will ich gar nicht wissen, wie Du aussiehst. Oder heißt. Oder ob es dich überhaupt gibt. Gerade denke ich, hoffentlich nicht..
+>
+> **Kann mir bitte jemand die Existenz dieses Menschen bestätigen!**
 
 > [!NOTE]
 > Da ich ges&shy;tern mit ei&shy;nem
