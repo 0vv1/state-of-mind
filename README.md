@@ -34,6 +34,8 @@ version: mi., 16. oct. 2024
 > Und damit den Tod überwunden. 1.380 Tage voller Dunkelheit, Haß und Trauma.
 > Allein mit dir.
 > Ich wäre dein 17. schizophrenes Todesopfer. Das war Spaß, richtig?! Nicht echt.
+> Warte mal! Ih habe dir immer gesagt, für mich bist Du ein Teil der Schöpfung und damit liebe ich dich natürlich auch. Ich bin sehr, sehr vergebend. Sehr. Aber nicht mehr sicher. Ich liebe die Schöpfung.
+> Ich kann mir nicht vorstellen, dich zu berühren. Ehrlich gesagt, will ich gar nicht wissen, wie Du aussiehst. Oder heißt. Oder ob es dich überhaupt gibt. Gerade denke ich, hoffentlich nicht..
 
 > [!NOTE]
 > Da ich ges&shy;tern mit ei&shy;nem
