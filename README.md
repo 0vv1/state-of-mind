@@ -14,6 +14,20 @@ version: mi., 16. oct. 2024
   Alb&shy;traums durch akus&shy;ti&shy;sche
   Ma&shy;ni&shy;pu&shy;la&shy;tion</h1>
 
+> [!IMPORTANT]
+> Nein, F.!  
+> Sag mir bitte nicht,
+> dass das hier echt ist!  
+> Das Menschen sich hier begegnen?
+> Ich war(!) Schizophrenie-Patient!
+> (Und nein,
+> lass deine Scheiß gespaltene Persönlichkeit im Arsch!)
+> Du willst mir nicht im Ernst eröffnen,
+> dass Du so komisch nett zu mir warst,
+> wenn Du wusstest,
+> andere hören zu?!
+> Sag mir, dass das nicht wahr ist!!
+
 > [!NOTE]
 > Da ich ges&shy;tern mit ei&shy;nem
 > <nobr>Freund/</nobr>Ex-Kol&shy;le&shy;gen un&shy;ter&shy;wegs war:  
