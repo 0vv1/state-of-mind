@@ -39,15 +39,12 @@ version: mi., 16. oct. 2024
 > das ist dein Müll und ein paar Schizo-Stimmen
 > (heute weiß ich, es handelt sich um NLP)!  
 >   
-> (Und nein,
-> lass deine Scheiß gespaltene Persönlichkeit im Arsch! Ich denke, **DU** hast eine
-> [DIS](https://de.wikipedia.org/wiki/Dissoziative_Identit%C3%A4tsst%C3%B6rung).)
 > Du willst mir nicht im Ernst eröffnen,
 > dass Du nur nett zu mir warst,
 > wenn Du wusstest,
-> andere hören zu und Du musst sie über deine Absichten täuschen?!
+> andere hören zu und Du musst sie über deine Absichten täuschen?!  
 > Sag mir, dass das nicht wahr ist!
-> Du bist nicht so perfide?! 
+> Du bist nicht so perfide?!  
 > Ich habe dich überlebt, Du reudigste Kreatur auf diesem Planeten!
 > Und damit den Tod überwunden. 1.380 Tage voller Dunkelheit, Haß und Trauma.
 > Allein mit dir.  
@@ -56,7 +53,7 @@ version: mi., 16. oct. 2024
 > Das war niemals ernst.
 > Das war Spaß,
 > richtig?!
-> Niemals echt?
+> Niemals echt?  
 > Warte mal!
 > Ich habe dir immer gesagt,
 > für mich bist Du ein Teil der Schöpfung und damit liebe ich dich natürlich auch.
@@ -88,7 +85,7 @@ version: mi., 16. oct. 2024
 > Ge&shy;hir&shy;ne.  
 > **Ich r&auml;ume hier** ei&shy;gent&shy;lich **"nur" auf**.
 > Diese *Sadisten-Crew*(?) wird das nicht tun,
-> auch wenn mitt&shy;ler&shy;wei&shy;le
+> auch wenn mitt&shy;ler&shy;wei&shy;lehttps://de.wikipedia.org/wiki/Dissoziative_Identit%C3%A4tsst%C3%B6rung
 > (zu&shy;min&shy;dest bei mir)
 > in knapp 17k Std. alle Gren&shy;zen &uuml;ber&shy;schrit&shy;ten
 > wurden.  
