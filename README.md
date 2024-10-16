@@ -18,7 +18,8 @@ version: mi., 16. oct. 2024
 > Nein, F.!  
 > Sag mir bitte nicht,
 > dass das hier echt ist!  
-> Das Menschen sich hier begegnen?
+> Das Menschen sich unter deiner Kontrolle begegnen? Rein technisch?
+> Aber Du bist voller Verachtung für mich! Du wolltest mich vier Mal ermorden, Du Irrer!!!!
 > Ich dachte, die Stimmen sind alle von dir oder deine Scheiß Samples?!? Du kannst Stimmen imitieren. Ich dachte, das ist dein Müll und ein paar Schizo-Stimmen (heute weiß ich NLP)!  
 > Ich wurde(!) Schizophrenie-Patient durch dich! Du hast mich komplett verballert! Ich kann meiner Wahrnehmung bis heute nicht trauenn und weiß nicht ob und wenn ja, wieviele Jahre das dauern wird.  
 > (Und nein,
