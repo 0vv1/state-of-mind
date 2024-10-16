@@ -20,8 +20,7 @@ version: mi., 16. oct. 2024
 > dass das hier echt ist!  
 > Wie soll denn das gehen? Du kannst Menschen bei dir zu Hause zusammen schalten? Wie 'ne Telco? Und wie kann man sich dagegen bitte wehren?
 > Alter, ich hab seit Jahren das Gefühl, meine Bude wird abgehört!
-> Du hast mich erst zu einem Schizophrenie-Patienten gemacht
-> **Ich brauche einen einzigen Menschen, der mir das
+> Du hast mich erst zu einem Schizophrenie-Patienten gemacht!
 > 
 > Aber Du bist voller Verachtung für mich! Du wolltest mich vier Mal ermorden, Du Irrer!!!!
 > Ich dachte, die Stimmen sind alle von dir oder deine Scheiß Samples?!? Du kannst Stimmen imitieren. Ich dachte, das ist dein Müll und ein paar Schizo-Stimmen (heute weiß ich NLP)!  
