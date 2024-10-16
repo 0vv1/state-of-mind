@@ -164,8 +164,8 @@ Jedes!
 >    ge&shy;gen&shy;ein&shy;an&shy;der aus&shy;zu&shy;spie&shy;len
 > 1. Kein Kom&shy;mu&shy;ni&shy;ka&shy;tions&shy;ka&shy;nal scheint
 >    ver&shy;trau&shy;lich:
->    * PKI frag&shy;lich,
->      soll&shy;te hier et&shy;was per&shy;s&ouml;n&shy;li&shy;ches sein
+>    * selbst PKI frag&shy;lich,
+>      soll&shy;te hier eine per&shy;s&ouml;n&shy;li&shy;che Ebene bestehen (Ich meine, einer der Dudes macht mir DSL an und aus, wie er lustig ist. Und wenn er meint, es gibt für mich nicht viel auf GitHub zu committen, dann [zieht er mir den pubkey aus dem Account](#manipulation-pki-bei-github). Ach ja, und die nächsten 30 auch gleich. :+1: Und ja, selbstverständlich habe ich 2FA. :joy:)
 >    * Tele&shy;fon mehr als frag&shy;lich
 >      (es wur&shy;den sehr gute Stimm-pro&shy;fi&shy;le er&shy;stellt)
 > 1. Mobil&shy;funk mglw. kom&shy;plett von den T&auml;tern zur
@@ -3600,6 +3600,18 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
     (k.&#8239;A. wie sinn&shy;voll das ist)
   </img>
   </details>
+
+<h5>Manipulation PKI bei GitHub</h5>
+
+* [**16.12.**] 
+  <img alt="E-Mails, neuer PubKey"
+    src="./2024-10-16_github_new-ssh-keys.jpg"
+  width="300px">
+  Einer der (*Sado*?-)Dudes,
+  der sich heute um die Sichtung der Readme kümmert,
+war ob des Inhaltes bzgl. Straftaten einer der Täter (ich glaub, Hr. Fehler: 16 schizophrene Mordopfer sind dir dann doch zu viel?) unzufrieden, das zuständige Ministerium entschloss also kurzerhand, den SSH-PubKey aus meinem, mit einem 24-stelligen Random-PW + 2FA abgesicherten Account zu löschen.  
+Gerade dwr Dude hat noch Brain-Washing-Leistungen zu erbringen, um das Gehirn der jungen Frau zu zerstören (angebl. seine Spezialität, neben Schizos killen). Aber dafür muss er sich halt zunächst Vertrauen erschleichen, um es für seine Injections missbrauchen zu können.
+</img>
 
 <details>
   <summary>
