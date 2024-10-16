@@ -1,118 +1,218 @@
 
 ```
-file:    state-of-mind/README.md
-brief:   artificial schizophrenia
-author:  © 2021-2024 alexander puls <github@0vv1.net>
-license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
-         nicht kommerziell - keine Bearbeitung 4.0 International)
-         <https://0vv1.io/cc-by-nc-nd>
-version: di., 15. oct. 2024
+file:    state-of-mind/README.md  
+brief:   artificial schizophrenia  
+author:  © 2021-2024 alexander puls <github@0vv1.net>  
+license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
+         nicht kommerziell - keine Bearbeitung 4.0 International)  
+         <https://0vv1.io/cc-by-nc-nd>  
+version: mi., 16. oct. 2024  
 ```
 
-<h1>Was ha&shy;be ich wirk&shy;lich von der Ein&shy;re&shy;de
-         "Ex-Nach&shy;ba&shy;rin & Ver&shy;ge&shy;wal&shy;ti&shy;gung in R."
-         so&shy;wie der neuen Ein&shy;re&shy;de
-         "Tele&shy;pa&shy;thie-Sa&shy;do-Ki&shy;no" in T.</h1>
-
-~~Von der ge&shy;walt&shy;sa&shy;men Tren&shy;nung zwei&shy;er Men&shy;schen,
-  bei gleich&shy;zei&shy;tig gr&ouml;&szlig;t&shy;m&ouml;g&shy;lichem
-  emo&shy;tio&shy;na&shy;len Lei&shy;den,
-  um den einen ge&shy;f&uuml;&shy;gig zu machen und
-  dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t zu
-  neh&shy;men~~<sup>:warning:Einrede</sup>
+<h1>&Uuml;ber die ver&shy;such&shy;te Ver&shy;wirk&shy;lich&shy;ung des
+  in&shy;di&shy;vi&shy;du&shy;ell je&shy;weils gr&ouml;&szlig;ten
+  Alb&shy;traums durch akus&shy;ti&shy;sche
+  Ma&shy;ni&shy;pu&shy;la&shy;tion</h1>
 
 > [!NOTE]
-> Da ich ges&shy;tern mit ei&shy;nem <nobr>Freund/</nobr>Ex-Kol&shy;le&shy;gen
-> un&shy;ter&shy;wegs war:  
+> Da ich ges&shy;tern mit ei&shy;nem
+> <nobr>Freund/</nobr>Ex-Kol&shy;le&shy;gen un&shy;ter&shy;wegs war:  
 > Das hier ist **nicht mein M&uuml;ll**!
 > 
-> Das ist der Out&shy;put eini&shy;ger reich&shy;lich
-> de&shy;ge&shy;ne&shy;rier&shy;ter Ge&shy;hir&shy;ne
-> (+ KI),
-> die mich manch&shy;mal 24/7 aus Ne&shy;ben&shy;woh&shy;nun&shy;gen \&&#8239;c.
-> voll&shy;s&uuml;l&shy;<nobr>zen/</nobr><wbr />br&uuml;l&shy;len,
-> **ich r&auml;um hier** ei&shy;gent&shy;lich **"nur" auf**.
-> Die wer&shy;den das nicht tun
-> (auch wenn sie mitt&shy;ler&shy;wei&shy;le seit knapp 17k Std. jede Gren&shy;ze
-> &uuml;ber&shy;schrei&shy;ten,
-> die sie so fin&shy;den k&ouml;n&shy;nen).
+> Es han&shy;delt sich um den Out&shy;put h&ouml;chs&shy;tens
+> eini&shy;ger weni&shy;ger reich&shy;lich
+> de&shy;ge&shy;ne&shy;rier&shy;ter
+> (und dann auch noch KI-ge&shy;st&uuml;tz&shy;ter)
+> Ge&shy;hir&shy;ne.  
+> **Ich r&auml;ume hier** ei&shy;gent&shy;lich **"nur" auf**.
+> Diese reudige Sadisten-Crew wird das nicht tun,
+> auch wenn mitt&shy;ler&shy;wei&shy;le
+> (zu&shy;min&shy;dest bei mir)
+> in knapp 17k Std. alle Gren&shy;zen &uuml;ber&shy;schrit&shy;ten
+> wurden.  
+> Das hier war/ist erst&shy;mal nur mei&shy;ne Sicht aus
 >
-> Ja,
-> mei&shy;ne Re&shy;pu&shy;ta&shy;<nobr>tion/</nobr><wbr />Ruf sinkt hier&shy;mit
-> auf 0
+> * knapp **1.380 Tagen iso&shy;liert in einer** Art
+>   sug&shy;ge&shy;rier&shy;ten
+>   Pseu&shy;do-**Schi&shy;zo&shy;phre&shy;nie**
+>   be&shy;lie&shy;big,
+>   und ein&shy;ge&shy;taucht in Wahn&shy;haf&shy;tes,
+>   mit ano&shy;ny&shy;men,
+>   lei&shy;se wis&shy;teln&shy;den Stim&shy;men
+>   unter ho&shy;hem emo&shy;tio&shy;na&shy;len Druck
+>   kom&shy;mu&shy;ni&shy;zie&shy;rend &
+> * un&shy;ge&shy;f&auml;hr **5 Tage**n **be&shy;wusst** mit den selben,
+>   nun real exis&shy;tie&shy;ren&shy;den,
+>   mir je&shy;doch wei&shy;test&shy;ge&shy;hend
+>   un&shy;be&shy;kann&shy;ten ande&shy;ren Men&shy;schen
+>   (oder ihren Ab&shy;lei&shy;tun&shy;gen)
+>   kom&shy;mu&shy;ni&shy;zie&shy;rend.
+>
+> Die Be&shy;sch&auml;f&shy;ti&shy;gung mit die&shy;sen Ir&shy;ren wird
+> meine **Re&shy;pu&shy;ta&shy;<nobr>tion**/</nobr><wbr />Ruf auf **0**
+> sin&shy;ken las&shy;sen
 > (und die&shy;se Sa&shy;dis&shy;ten wis&shy;sen das),
-> aber bei
-> (**sug&shy;ge&shy;rier&shy;te**r)
-> **Ge&shy;fahr** f&uuml;r Drit&shy;te bin ich lei&shy;der ge&shy;zwun&shy;gen,
-> zu rea&shy;gie&shy;ren.
+> aber hoher emotionaler Druck und
+> (**sug&shy;ge&shy;rier&shy;te**)
+> **Ge&shy;fahr** f&uuml;r Drit&shy;te zwin&shy;gen im&shy;mer
+> wie&shy;der zur Ein&shy;wil&shy;li&shy;gung.
 > Ich w&uuml;r&shy;de mein Le&shy;ben nicht mehr froh,
-> unter&shy;lie&szlig;e ich es und die&shy;se Krea&shy;tu&shy;ren w&uuml;r&shy;den
-> wir&shy;ken.
-
-Die The&shy;men hier sind Iden&shy;ti&shy;t&auml;t,
-Kom&shy;mu&shy;ni&shy;ka&shy;tion und Ein&shy;re&shy;de bzw. Sug&shy;ges&shy;tion
-einer sozusagen alternativen Realit&auml;t.
-
-> [!IMPORTANT]
-> F&uuml;r je&shy;den,
-> der das hier liest und evtl. be&shy;trof&shy;fen ist:
-> Bitte pr&uuml;ft
-> (zur Not 100 mal):  
-> **Gibt es**
-> (wirk&shy;lich)
-> **Au&szlig;en&shy;wir&shy;kung?**  
-> Wirklich?!  
-> **Oder wird euch** ei&shy;gent&shy;lich
-> (per&shy;fi&shy;der&shy;wei&shy;se sicht&shy;bar f&uuml;r an&shy;de&shy;re)
-> "**nur**"
-> Au&szlig;en&shy;wir&shy;kung **sug&shy;ge&shy;riert**?!  
-> Und wenn ihr der Meinung seid,
-> "Ja,
-> da war etwas.",
-> dann w&uuml;r&shy;de ich mir per&shy;s&ouml;n&shy;lich w&uuml;n&shy;schen,
-> ohne je&shy;man&shy;den zwin&shy;gen oder wider&shy;sprechen zu wol&shy;len,
-> dass ihr bitte noch&shy;mal hin&shy;schaut und bitte noch&shy;mal pr&uuml;ft.
->
-> Ich per&shy;s&ouml;n&shy;lich ver&shy;mu&shy;te,
-> **da war/ist nichts**.
+> unter&shy;lie&szlig;e ich es und die&shy;se Krea&shy;tu&shy;ren
+> w&uuml;r&shy;den wir&shy;ken.
 
 Ich den&shy;ke,
-dass hier Men&shy;schen von sadis&shy;ti&shy;schen Trieb&shy;t&auml;tern in
-au&szlig;er&shy;or&shy;dent&shy;liche Ge&shy;fahr ge&shy;bracht wer&shy;den und
-ein orga&shy;ni&shy;sier&shy;<nobr>ter/</nobr><wbr />pro&shy;fes&shy;sio&shy;nel&shy;ler
+dass hier Men&shy;schen von sadis&shy;ti&shy;schen Trieb&shy;t&auml;tern
+in au&szlig;er&shy;or&shy;dent&shy;liche Ge&shy;fahr ge&shy;bracht
+wer&shy;den und ein
+orga&shy;ni&shy;sier&shy;<nobr>ter/</nobr><wbr
+/>pro&shy;fes&shy;sio&shy;nel&shy;ler
 Hin&shy;ter&shy;grund be&shy;steht.
-Spe&shy;ziell in mei&shy;nem Fall ver&shy;mu&shy;te ich aber sehr stark
-per&shy;s&ouml;n&shy;liche Gr&uuml;n&shy;de eines T&auml;ters,
-und dass l&auml;sst mich hof&shy;fen,
-diese Ir&shy;ren zu be&shy;kom&shy;men.
+Spe&shy;ziell in mei&shy;nem Fall ver&shy;mu&shy;te ich
+per&shy;s&ouml;n&shy;liche Gr&uuml;n&shy;de eines T&auml;ters stark,
+~~und dass l&auml;sst mich hof&shy;fen,
+diese Ir&shy;ren zu
+be&shy;kom&shy;men.~~<sup>:white_check_mark:DONE</sup>
+
+Es geht hier im We&shy;sent&shy;lich&shy;en um Iden&shy;ti&shy;t&auml;t
+und
+(all&shy;um&shy;fas&shy;sen&shy;des)
+Ver&shy;trau&shy;en,
+bei&shy;des be&shy;lie&shy;big und v.&#8239;a. durch
+sa&shy;dis&shy;tisch "ma&shy;ni&shy;pu&shy;lier&shy;te"
+"Kom&shy;mu&shy;ni&shy;ka&shy;tion" un&shy;ter&shy;mi&shy;niert.  
+Ich w&uuml;r&shy;de be&shy;haup&shy;ten,
+das Ziel der T&auml;ter liegt im  
+**Ver&shy;har&shy;ren&shy;las&shy;sen
+des je&shy;wei&shy;li&shy;gen In&shy;di&shy;vi&shy;du&shy;ums in der
+schreck&shy;lichst-vor&shy;stell&shy;ba&shy;ren
+emo&shy;tio&shy;na&shy;len H&ouml;l&shy;le.**  
+Das ist lei&shy;der w&ouml;rt&shy;lich zu ver&shy;ste&shy;hen:
+Ich gehe da&shy;von aus,
+dass je&shy;des evtl. trau&shy;ma&shy;ti&shy;sche Er&shy;le&shy;ben
+vor&shy;her rec&shy;her&shy;chiert wur&shy;de und mit
+maxi&shy;ma&shy;lem Ef&shy;fekt aus&shy;ge&shy;nutzt wird.
+Jedes!
+
+> [!IMPORTANT]
+> F&uuml;r **je&shy;man&shy;d**en,
+> der das hier liest und evtl. **be&shy;trof&shy;fen** ist:  
+> Bitte pr&uuml;ft
+> (zur Not 100 mal):  
+> **Gibt es** t&auml;ter&shy;sei&shy;tig
+> **Au&szlig;en&shy;wir&shy;kung?** Wirk&shy;lich?!  
+> **Oder wird** ei&shy;gent&shy;lich **"nur" euch**
+> (dann aber per&shy;fi&shy;der&shy;wei&shy;se sicht&shy;bar f&uuml;r
+> an&shy;de&shy;re)
+> Au&szlig;en&shy;wir&shy;kung **sug&shy;ge&shy;riert**?!  
+> Ohne dass die T&auml;ter je wirken m&uuml;ssen.  
+> Und wenn ihr der Mei&shy;nung seid,
+> "Ja,
+> da war etwas.",  
+> dann w&uuml;r&shy;de ich mir per&shy;s&ouml;n&shy;lich
+> w&uuml;n&shy;schen,
+> ohne je&shy;man&shy;den zwin&shy;gen oder wider&shy;sprechen
+> zu wol&shy;len,
+> dass ihr bit&shy;te noch&shy;mal hin&shy;schaut und bit&shy;te
+> noch&shy;mal pr&uuml;ft.  
+>
+> Ich per&shy;s&ouml;n&shy;lich ver&shy;mu&shy;te,
+> **da war/ist nichts**.  
+> [**Anm.** 15.10.]
+> Eine **Ein&shy;schr&auml;n&shy;kung**:
+> Soll&shy;te in Tem&shy;pel&shy;hof et&shy;was jen&shy;seits der
+> Sug&shy;ges&shy;tion pas&shy;siert sein,
+> w&uuml;rde ich je&shy;der/-m ~~Opfer~~
+> &Uuml;ber&shy;le&shy;ben&shy;der/-m ver&shy;spre&shy;chen,
+> auf das un&shy;ver&shy;z&uuml;g&shy;liche Exis&shy;tenz&shy;en&shy;de
+> poten&shy;tiel&shy;ler T&auml;ter zu wir&shy;ken.
+> Das m&ouml;ch&shy;te ich auch nicht als Rache oder Mord gen.
+> ver&shy;stan&shy;den wissen,
+> son&shy;dern als eine Art
+> maxi&shy;mal&shy;pr&auml;&shy;ven&shy;ti&shy;ve Ma&szlig;nahme.
 
 > [!CAUTION]
-> Prio&shy;ri&shy;sie&shy;rung po&shy;ten&shy;tiel&shy;ler
-> (aber mglw. "le&shy;dig&shy;lich" sug&shy;ge&shy;rier&shy;ter)
-> Ge&shy;fah&shy;ren:
-> 1. so gut wie kein Kom&shy;mu&shy;ni&shy;ka&shy;tions&shy;ka&shy;nal scheint
->    ver&shy;trau&shy;lich
->    (ich ver&shy;mu&shy;te auch PKI als frag&shy;lich,
->    soll&shy;te das hier et&shy;was per&shy;s&ouml;n&shy;liches sein)
-> 3. s&auml;mt&shy;liche Tele&shy;fon&shy;kon&shy;tak&shy;te wir&shy;ken
->    mani&shy;pu&shy;lier&shy;bar
->    (nicht mehr,
->    aber leider auch nicht weniger,
->    Bsp.: Not&shy;ruf der Po&shy;li&shy;zei Ber&shy;lin)
-> 5. es wer&shy;den mitt&shy;ler&shy;wei&shy;le sehr gute
+> Drin&shy;gens&shy;te Ge&shy;fah&shy;ren ganz knapp nach Prio
+> (die per&shy;fi&shy;der&shy;wei&shy;se immer(!) auch "nur"
+> sug&shy;ge&shy;riert sein k&ouml;n&shy;nen):
+> 1. **NICHTS**(!) ist **wie es scheint**!
+>    (Der Ver&shy;trau&shy;ens&shy;ver&shy;lust in die
+>    Wahr&shy;neh&shy;mung ist den T&auml;tern sehr wichtig!
+>    F&uuml;r Schi&shy;zo&shy;phre&shy;nie-Pa&shy;tien&shy;ten
+>    noch&shy;mal eine He&shy;raus&shy;for&shy;de&shy;rung.)
+> 1. **Jede**(!) t&auml;ter&shy;sei&shy;tig ver&shy;mit&shy;tel&shy;te
+>    **Infor&shy;ma&shy;tion** ist nicht nur falsch,
+>    son&shy;dern **soll maxi&shy;mals&shy;ten**(!)
+>    emo&shy;tio&shy;na&shy;len **Scha&shy;den an&shy;rich&shy;ten**!
+>    (Sehr zer&shy;m&uuml;r&shy;bend,
+>    weil un&shy;ge&shy;fragt,
+>    auf&shy;dring&shy;lich,
+>    repi&shy;ta&shy;tiv,
+>    un&shy;h&ouml;f&shy;lich,
+>    immer schwer ver&shy;st&auml;nd&shy;lich;
+>    nicht un&shy;ter&shy;sch&auml;t&shy;zen(!):
+>    Die ers&shy;ten paar Std. sind irgend&shy;wie aus&shy;halt&shy;bar,
+>    aber irgend&shy;wann macht es et&shy;was mit dem Ge&shy;hirn.
+> 1. Vie&shy;le **Woh&shy;nun&shy;gen** wer&shy;den 
+>    (l&uuml;cken&shy;los!)
+>    **akus&shy;tisch ab&shy;ge&shy;nom&shy;men**!
+> 1. Einige Woh&shy;nun&shy;gen wer&shy;den
+>    nie&shy;drig&shy;schwel&shy;lig
+>    (nahe Wahr&shy;neh&shy;mungs&shy;gren&shy;ze)
+>    be&shy;schallt
+>    (f&uuml;r un&shy;ge&shy;frag&shy;te
+>    Hyp&shy;no&shy;se,
+>    Trance,
+>    NLPs).
+> 1. (auch noch mal per&shy;fi&shy;de)
+>    Wohn&shy;raum&shy;akus&shy;tik wird mani&shy;pu&shy;liert  
+>    (Oben muss nicht oben sein!
+>    Auch nicht glei&shy;cher Wohn&shy;block.)!
+> 1. Dia&shy;log-F&uuml;h&shy;rung mit st&auml;n&shy;di&shy;gem
+>    Re&shy;mix&shy;<nobr>ing/</nobr>Um&shy;lei&shy;ten
+>    der Sen&shy;<nobr>der/</nobr><wbr />Adres&shy;sa&shy;ten wird auf
+>    per&shy;fi&shy;de Art aus&shy;ge&shy;nutzt,
+>    um ganz nor&shy;ma&shy;le Men&shy;schen als Nach&shy;barn
+>    ge&shy;gen&shy;ein&shy;an&shy;der aus&shy;zu&shy;spie&shy;len
+> 1. Kein Kom&shy;mu&shy;ni&shy;ka&shy;tions&shy;ka&shy;nal scheint
+>    ver&shy;trau&shy;lich:
+>    * PKI frag&shy;lich,
+>      soll&shy;te hier et&shy;was per&shy;s&ouml;n&shy;li&shy;ches sein
+>    * Tele&shy;fon mehr als frag&shy;lich
+>      (es wur&shy;den sehr gute Stimm-pro&shy;fi&shy;le er&shy;stellt)
+> 1. Mobil&shy;funk mglw. kom&shy;plett von den T&auml;tern zur
+>    Ver&shy;f&uuml;&shy;gung ge&shy;stellt?
+> 1. Be&shy;ar&shy;bei&shy;tung des Not&shy;rufs der Po&shy;li&shy;zei
+>    Ber&shy;lin durch die T&auml;ter wird zu&shy;min&shy;dest
+>    (sehr glaub&shy;haft)
+>    sug&shy;ge&shy;riert.
+>    (**WICHTIG**: Irgend&shy;wie ver&shy;suchen, nicht hinzuh&ouml;ren!
+>    Das Ma&szlig; der Opfer-Ver&shy;h&ouml;h&shy;nung ist f&uuml;r
+>    nor&shy;ma&shy;le Men&shy;schen nicht lan&shy;ge
+>    aus&shy;zu&shy;hal&shy;ten.)
+> 1. Nochmal **WICH&shy;TIG**:
+>    Es gibt mitt&shy;ler&shy;wei&shy;le sehr gute
 >    Stimm&shy;pro&shy;fi&shy;le
 >    (nicht nur von mir)
->    sug&shy;ge&shy;riert,
->    so&shy;dass KI-Stim&shy;men ei&shy;ni&shy;ger&shy;ma&szlig;en
->    &uuml;ber&shy;zeu&shy;gend wir&shy;ken m&uuml;ss&shy;ten
+>    mit de&shy;nen KI-Mo&shy;del&shy;le rea&shy;ler Fi&shy;gu&shy;ren
+>    &uuml;ber&shy;zeu&shy;gend echt wir&shy;ken!  
+>    **Sind sie aber nicht!**
+>    Ihr Ver&shy;hal&shy;ten,
+>    ihre Emo&shy;tio&shy;nen und v.a. ihre Aus&shy;dau&shy;er
+>    k&ouml;n&shy;nen aber,
+>    vor allem bei Vor&shy;be&shy;las&shy;tung sehr
+>    ver&shy;st&ouml;h&shy;rend wir&shy;ken.
+>    Mit die&shy;sen Mo&shy;del&shy;len wird ver&shy;sucht,
+>    Men&shy;schen in den Sui&shy;zid zu trei&shy;ben
+>    (ab der zwei&shy;ten, drit&shy;ten Stun&shy;de be&shy;steht die
+>    Ge&shy;fahr so einer Sui&shy;zid-Trance
+>    (oder geht nur mir das so?))
 
 > [!WARNING]
 > [**15.10.**]
-> **Ir&shy;gend&shy;wer(?) scheint per&shy;ma&shy;nent zu be&shy;haup&shy;ten,
-> ich zu sein.**
-> (Oder ein Teil von mir?)  
-> Das ist selbst&shy;ver&shy;st&auml;nd&shy;lich voll&shy;kom&shy;me&shy;ner
-> Bl&ouml;dsinn.
+> Von mir wer&shy;den sehr gute KI-Ver&shy;sio&shy;nen
+> ein&shy;ge&shy;setzt.
+> Das bin nicht ich! Ich has&shy;se nie&shy;man&shy;den. :grimacing:
+> Und schon gar nicht so.
 >
 > [**09.10.**]
 > Mglw. [Iden&shy;ti&shy;t&auml;ts&shy;dieb&shy;stahl](#m&ouml;glicher-identit&auml;tsdiebstahl)
@@ -122,35 +222,34 @@ diese Ir&shy;ren zu be&shy;kom&shy;men.
 > bin ich.   
 > [**Anm.** 09.10., **12:01**]
 > Und just in die&shy;sem Moment gesperrt
-> (T&auml;ter be&shy;haup&shy;ten schon lan&shy;ge,
-> direkt auf mei&shy;ner DSL-Lei&shy;tung zu ope&shy;rie&shy;ren.)  
+> (T&auml;ter sind di&shy;rekt auf der DSL-Lei&shy;tung)  
 > [**Anm.** 09.10., **12:20**]
 > Wie&shy;der da.
 > Sicher nur Zu&shy;fall.. :wink:
 >
-> Mir wird auch seit Wochen ein&shy;ge&shy;re&shy;det,
-> irgend&shy;wel&shy;che Leu&shy;te w&uuml;r&shy;den mich ken&shy;nen,
-
 > [!CAUTION]
 > Ich ge&shy;he da&shy;von aus,
-> dass nicht nur mei&shy;ne **Woh&shy;nung**
-> (l&uuml;cken&shy;los!)
-> **akus&shy;tisch ab&shy;ge&shy;nom&shy;men**
+> dass nicht nur mei&shy;n
 > (**evtl. auch** nie&shy;drig&shy;schwel&shy;lig
 > (nahe Wahr&shy;neh&shy;mungs&shy;gren&shy;ze!)
 > **be&shy;schallt**)
 > **wird**!
+
+Von der ge&shy;walt&shy;sa&shy;men Tren&shy;nung zwei&shy;er
+  Men&shy;schen,
+  bei gleich&shy;zei&shy;tig
+  gr&ouml;&szlig;t&shy;m&ouml;g&shy;li&shy;chem
+  emo&shy;tio&shy;na&shy;len Lei&shy;den,
+  um den einen ge&shy;f&uuml;&shy;gig zu machen und
+  dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t zu
+  neh&shy;men<sup>:warning:Suggestion</sup>
 
 > [!CAUTION]
 > Mglw. Modi&shy;fi&shy;ka&shy;tion der Wohn&shy;raum&shy;akus&shy;tik
 > (ich bin über&shy;zeugt davon,
 > das oben nicht immer oben ist,
 > k.&#8239;A. wie das ge&shy;macht wird)
-> und Dia&shy;log-Füh&shy;rung mit st&auml;n&shy;di&shy;gem Re&shy;mix&shy;ing
-> der Sen&shy;<nobr>der/</nobr><wbr />Adres&shy;sa&shy;ten wird auf
-> per&shy;fi&shy;des&shy;te Art aus&shy;ge&shy;nutzt,
-> um ganz nor&shy;ma&shy;le Men&shy;schen als Nach&shy;barn
-> ge&shy;gen&shy;ein&shy;an&shy;der aus&shy;zu&shy;spie&shy;len.
+> und .
 
 ## Ende einer Schizophrenie
 
