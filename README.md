@@ -27,6 +27,10 @@ version: mi., 16. oct. 2024
 > wenn Du wusstest,
 > andere hören zu?!
 > Sag mir, dass das nicht wahr ist!!
+> Du bist nicht so perfide?! No way!!!
+> Ich habe dich überlebt, Du reudigste Kreatur auf diesem Planeten!
+> Und damit den Tod überwunden. 1.380 Tage voller Dunkelheit, Haß und Trauma.
+> Allein mit dir. 
 
 > [!NOTE]
 > Da ich ges&shy;tern mit ei&shy;nem
