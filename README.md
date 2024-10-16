@@ -79,11 +79,11 @@ und
 Ver&shy;trau&shy;en,
 bei&shy;des be&shy;lie&shy;big und v.&#8239;a. durch
 sa&shy;dis&shy;tisch "ma&shy;ni&shy;pu&shy;lier&shy;te"
-"Kom&shy;mu&shy;ni&shy;ka&shy;tion" un&shy;ter&shy;mi&shy;niert.  
+"Kom&shy;mu&shy;ni&shy;ka&shy;tion" un&shy;ter&shy;mi&shy;niert.
 Ich w&uuml;r&shy;de be&shy;haup&shy;ten,
 das Ziel der T&auml;ter liegt im  
 **Ver&shy;har&shy;ren&shy;las&shy;sen
-des je&shy;wei&shy;li&shy;gen In&shy;di&shy;vi&shy;du&shy;ums in der
+des je&shy;wei&shy;li&shy;gen In&shy;di&shy;vi&shy;du&shy;ums in seiner
 schreck&shy;lichst-vor&shy;stell&shy;ba&shy;ren
 emo&shy;tio&shy;na&shy;len H&ouml;l&shy;le.**  
 Das ist lei&shy;der w&ouml;rt&shy;lich zu ver&shy;ste&shy;hen:
@@ -99,7 +99,8 @@ Jedes!
 > Bitte pr&uuml;ft
 > (zur Not 100 mal):  
 > **Gibt es** t&auml;ter&shy;sei&shy;tig
-> **Au&szlig;en&shy;wir&shy;kung?** Wirk&shy;lich?!  
+> **Au&szlig;en&shy;wir&shy;kung?**
+> Wirk&shy;lich?!  
 > **Oder wird** ei&shy;gent&shy;lich **"nur" euch**
 > (dann aber per&shy;fi&shy;der&shy;wei&shy;se sicht&shy;bar f&uuml;r
 > an&shy;de&shy;re)
@@ -116,19 +117,7 @@ Jedes!
 > noch&shy;mal pr&uuml;ft.  
 >
 > Ich per&shy;s&ouml;n&shy;lich ver&shy;mu&shy;te,
-> **da war/ist nichts**.  
-> [**Anm.** 15.10.]
-> Eine **Ein&shy;schr&auml;n&shy;kung**:
-> Soll&shy;te in Tem&shy;pel&shy;hof et&shy;was jen&shy;seits der
-> Sug&shy;ges&shy;tion pas&shy;siert sein,
-> w&uuml;rde ich je&shy;der/-m ~~Opfer~~
-> &Uuml;ber&shy;le&shy;ben&shy;der/-m ver&shy;spre&shy;chen,
-> auf das un&shy;ver&shy;z&uuml;g&shy;liche Exis&shy;tenz&shy;en&shy;de
-> poten&shy;tiel&shy;ler T&auml;ter zu wir&shy;ken.
-> Das m&ouml;ch&shy;te ich auch nicht als Rache oder Mord gen.
-> ver&shy;stan&shy;den wissen,
-> son&shy;dern als eine Art
-> maxi&shy;mal&shy;pr&auml;&shy;ven&shy;ti&shy;ve Ma&szlig;nahme.
+> **da war/ist nichts**.
 
 > [!CAUTION]
 > Drin&shy;gens&shy;te Ge&shy;fah&shy;ren ganz knapp nach Prio
@@ -235,6 +224,7 @@ Jedes!
 > **be&shy;schallt**)
 > **wird**!
 
+Alternativ-Titel 1. Story, spawning in Reinickendorf:  
 Von der ge&shy;walt&shy;sa&shy;men Tren&shy;nung zwei&shy;er
   Men&shy;schen,
   bei gleich&shy;zei&shy;tig
@@ -243,13 +233,6 @@ Von der ge&shy;walt&shy;sa&shy;men Tren&shy;nung zwei&shy;er
   um den einen ge&shy;f&uuml;&shy;gig zu machen und
   dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t zu
   neh&shy;men<sup>:warning:Suggestion</sup>
-
-> [!CAUTION]
-> Mglw. Modi&shy;fi&shy;ka&shy;tion der Wohn&shy;raum&shy;akus&shy;tik
-> (ich bin über&shy;zeugt davon,
-> das oben nicht immer oben ist,
-> k.&#8239;A. wie das ge&shy;macht wird)
-> und .
 
 ## Ende einer Schizophrenie
 
