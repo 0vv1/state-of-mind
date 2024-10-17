@@ -10,6 +10,7 @@ version: do., 17. oct. 2024
 ```
 
 <h1>&Uuml;ber die Ver&shy;lei&shy;tung des In&shy;di&shy;vi&shy;duums
+         mit irgendwelchem Pimmelshit</h1>
          
 > [!IMPORTANT]
 > [**16.10.**]
