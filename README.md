@@ -6,14 +6,11 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: do., 16. oct. 2024  
+version: do., 17. oct. 2024  
 ```
 
-<h1>&Uuml;ber die ver&shy;such&shy;te Ver&shy;wirk&shy;lich&shy;ung des
-  in&shy;di&shy;vi&shy;du&shy;ell je&shy;weils gr&ouml;&szlig;ten
-  Alb&shy;traums durch akus&shy;ti&shy;sche
-  Ma&shy;ni&shy;pu&shy;la&shy;tion</h1>
-
+<h1>&Uuml;ber die Ver&shy;lei&shy;tung des In&shy;di&shy;vi&shy;duums
+         
 > [!IMPORTANT]
 > [**16.10.**]
 > Nicht dein Ernst, F.?  
