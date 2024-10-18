@@ -110,6 +110,17 @@ Ich sage ihm, dass ich auch vom Notruf der Polizei Berlin verarscht werde (seit 
 
 [14:40] Der Sicherheitsdienst des LKA weist mich ab und behauptet, heute sei kein Beamter mehr Haus (am Hauptstandort Tempelhofer Damm!).  
 
+[**18.10.** 16:30] Ich laufe ein bisschen durch Berlin und denke nach: Seit ein paar Tagen bin ich der Meinung, Hr. F. war echt und ich hatte nie eine Schizophrenie. Ich habe gar nicht gemerkt, dass ich zu Hause immer noch (selten) Stimmen höre.  
+Was wäre, wenn auch die "echt" wären?  
+Dann wären nämlich dutzende von Menschen in Gefahr, stünden unter extremen psychischen Druck, würden teilweise ihren echten Namen nicht mehr kennen und regelmäßig misshandelt werden.  
+Und nein: Auch die könnten nicht den Notruf der Polizei erreichen.  
+**Oder**: Ein riesengroßes Arschloch täuscht permanent schwerste Straftaten vor. Ich hab das angezeigt, schauen wir mal..  
+Ich finde es übrigens auffällig, wie viele extrem gutaussehende Frauen in meiner Gegend wohnen, die aber so gut wie nie zu sehen sind. Überhaupt wirkt alles isoliert, künstlich, plastic. Nie kommt Besuch bei irgendwem (außer in der Whg. über meiner).   
+Wenn ich Besuch habe, werde ich danach "aus der Wand" bepöbelt, dass wir doch allein sein wollen.  
+Will der mich verarschen oder was? Also ich nicht. Dieser Irre redet unablässig über andere Bewohner, die er alle zu kennen glaubt. Ich glaube, er gibt ihnen eigene Namen. Samira und Kira z.B. Kein' Plan, wer die sein sollen. Hoffentlich denkt dieser Bekloppte sich das alles blos aus.)  
+Irgendwie trau ich mich nicht recht nach Hause.. :joy:
+
+
 > [!IMPORTANT]
 > [**16.10.**]
 > Nicht dein Ernst, F.?  
