@@ -48,15 +48,15 @@ version: fr., 18. oct. 2024
 > Mglw. mag ich mich
 > (auch wenn ich mich absolut fit f&uuml;hle)
 > und aus was f&uuml;r Gr&uuml;nden auch immer,
-> nicht im Vollbesitz meiner geistigen Kr&auml;fte befinden.  
+> nicht im Vollbesitz meiner geistigen Kr&auml;fte befinden.
 > Kann alles sein,
 > aber m.&#8239;M.&#8239;n.(!) habe ich gestern vier Stunden gebraucht,
-> um eine Anzeige bei der Polizei Berlin aufzugeben.  
-> &Uuml;ber f&uuml;nf verschiedene WLAN-Netze in Tempelhof,
-> schlussendlich im WLAN-Netz der BVG in der N&auml;he der Haltestelle U Kaiserin-Augusta-Str. abzusenden.
->Alles mag vollst&auml;ndig imaginiert sein,
+> um eine Anzeige bei der Polizei Berlin aufzugeben,  
+> was mir nach Nutzung von f&uuml;nf verschiedenen &ouml;ffentlichen WLAN-Netzen in Tempelhof,
+> schlussendlich im WLAN-Netz der BVG in der N&auml;he der Haltestelle U Kaiserin-Augusta-Str. (hoffentlch) gelang.  
+>Alles mag vollst&auml;ndig imaginiert sein, und ja,
 > ich habe vor einiger Zeit eine
-> m.&#8239;M.&#8239;n. unzutreffende (Verdachts-)Diagnose einer Schizophrenie erhalten,
+> (m.&#8239;M.&#8239;n. aber unzutreffende) (Verdachts-)Diagnose einer Schizophrenie erhalten,
 > meine Wahrnehmung mag erodiert sein u.&#8239;s.&#8239;w.,
 > aber ich lasse mich
 > 1. ungern verarschen,
@@ -67,22 +67,24 @@ version: fr., 18. oct. 2024
 
 > [!CAUTION]
 > Das hier mag sich vollst&auml;ndig absurd(!) bis gef&auml;hrlich geisteskrank anh&ouml;ren,
-> aber u.&#8239;a.  
-> **an Mitglieder der Strafverfolgung**:
+> aber u.&#8239;a. auch  
+> **an Mitglieder der Strafverfolgung**:  
 > Ich halte es
-> (mglw. aus vollst&auml;ndig degeneriertem Geisteszustand heraus) f&uuml;r eine sehr gute Idee,
+> (mglw. aus vollst&auml;ndig degeneriertem Geisteszustand heraus)
+> aus verschiedenen Gr&uuml;nden aktuell f&uuml;r eine sehr gute Idee,
 >
 > **DIESE OHRST&Ouml;PSEL** zumindest kurz
-> **AUS DEN OHREN** ZU **NEHMEN**!
+> **AUS DEN OHREN** zu **NEHMEN**!
 > 
 > Einfach nur,
 > um mal zu schauen.
-> Nichts weiter.  
-> (Mglw. vollst&auml;ndig imaginierte T&auml;ter, mglw. nur um mir eine VT zu unterstellen,
-> schienen(!)/taten vor einiger Zeit
+> Nichts weiter.
+> 
+> (Mglw. vollst&auml;ndig imaginierte T&auml;ter, und mglw. auch nur um mir eine VT unterzuschieben,
+> schienen(!) vor einiger Zeit
 > (in einem anderen Kontext)
 > sehr &uuml;berrascht &uuml;ber den Umstand zu sein,
-> dass ich seit Jahrzehnten keinen Fernseher habe.<sup>:warning:VT</sup>
+> dass ich seit Jahrzehnten keinen Fernseher habe.<sup>:warning:VT</sup> :shrug:)
 
 > [!IMPORTANT]
 > [**16.10.**]
