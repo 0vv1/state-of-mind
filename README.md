@@ -17,14 +17,16 @@ version: fr., 18. oct. 2024
 > [!IMPORTANT]
 > [**18.10.**]
 > Akt. **Zusammenfassung** ohne egozentr. Details:  
-> Mir scheint es(!) als ist es offenbar einer Gruppe von Individuen gelungen,
+> Mir scheint es(!), als ist es offenbar einer Gruppe von Individuen gelungen,
 > mind. Teile (mind. der digitalen) Kommunikation zu &uuml;bernehmen und beliebig,
 > auch mit Mitteln sog. Künstlicher Intelligenz (als Oberbegriff),
 > zu manipulieren.
 > Das betrifft m.&#8239;M.&#8239;n. leider auch mind. Teile des digitalen Beh&ouml;rdenfunks,
 > mit Sicherheit aber den Notruf der Polizei Berlin mind. f&uuml;r eine (hoffentlich eng) begrenzte Gruppe von Zivilpersonen.
 >
-> Die selbe Gruppe suggeriert(!) (hoffentlich nur mir) Manipulation und endlich Kontrolle über Denken und F&uuml;hlen einer Gruppe von Menschen (damit auch Mitglieder von Exekutivbeh&ouml;rden) via vielf&auml;ltiger v.&#8239;a. akustischer Mittel (auch unter Nutzung zuvor "&uuml;bernommener" Kommunikationsmittel).<sup>:warning:VT</sup>
+> Die selbe Gruppe suggeriert(!) Manipulation und endlich Kontrolle über Denken und F&uuml;hlen einer Gruppe von Menschen
+> (damit auch Mitgliedern von Exekutivbeh&ouml;rden)
+> via vielf&auml;ltiger v.&#8239;a. akustischer Mittel (auch unter Nutzung zuvor "&uuml;bernommener" Kommunikationsmittel).<sup>:warning:VT</sup>
 > (Auch sehr unterschwellig, sehr knapp oberhalb Wahrnehmungsschwelle, auch bei Mitgliedern der Strafverfolgung!<sup>:warning:Suggestion</sup>) 
 >
 > [**wichtig**] Ich halte die Korrumpierbarkeit bspw. einer gesamten Polizeiwache hier in Dtl. für eigentlich unmöglich, warum aber nicht gezielte (und begrenzte) Manipulation bspw. eines einzelnen Beamten,
@@ -48,15 +50,18 @@ version: fr., 18. oct. 2024
 > Mglw. mag ich mich
 > (auch wenn ich mich absolut fit f&uuml;hle)
 > und aus was f&uuml;r Gr&uuml;nden auch immer,
-> nicht im Vollbesitz meiner geistigen Kr&auml;fte befinden.
+> nicht im Vollbesitz meiner geistigen Kr&auml;fte befinden.  
 > Kann alles sein,
 > aber m.&#8239;M.&#8239;n.(!) habe ich gestern vier Stunden gebraucht,
 > um eine Anzeige bei der Polizei Berlin aufzugeben,  
 > was mir nach Nutzung von f&uuml;nf verschiedenen &ouml;ffentlichen WLAN-Netzen in Tempelhof,
 > schlussendlich im WLAN-Netz der BVG in der N&auml;he der Haltestelle U Kaiserin-Augusta-Str. (hoffentlch) gelang.  
->Alles mag vollst&auml;ndig imaginiert sein, und ja,
+>
+> Alles mag vollst&auml;ndig imaginiert sein, und ja,
 > ich habe vor einiger Zeit eine
-> (m.&#8239;M.&#8239;n. aber unzutreffende) (Verdachts-)Diagnose einer Schizophrenie erhalten,
+> (m.&#8239;M.&#8239;n. aber unzutreffende),
+> in exakt **DIESEM** erweiterten Kontext,
+> (Verdachts-)Diagnose einer Schizophrenie erhalten,
 > meine Wahrnehmung mag erodiert sein u.&#8239;s.&#8239;w.,
 > aber ich lasse mich
 > 1. ungern verarschen,
