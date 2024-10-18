@@ -54,8 +54,11 @@ version: fr., 18. oct. 2024
 > m.&#8239;M.&#8239;n. unzutreffende (Verdachts-)Diagnose einer Schizophrenie erhalten,
 > meine Wahrnehmung mag erodiert sein u.&#8239;s.&#8239;w.,
 > aber ich lasse mich
-> 1. ungern verarschen
-> 2. f&uuml;r bl&ouml;d gehalten werden.
+> 1. ungern verarschen,
+> 2. f&uuml;r bl&ouml;d gehalten werden &
+> 3. (am wichtigsten) verachte ich diesen reudigen, menschenverachtenden, stumpfen, die Sch&ouml;pfung verneinenden Duktus in der Kommunikation mglw. vollst&auml;ndig imaginierter potentieller T&auml;ter.
+> 
+> Solltet "ihr" echt sein: Ich bekomme Kotzkr&auml;mpfe, bemerke ich auch nur eine Idee eurer ekelhaften, immer schlecht gelaunten Hetzer-Stimmen!
 
 > [!IMPORTANT]
 > [**16.10.**]
