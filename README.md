@@ -18,25 +18,44 @@ version: fr., 18. oct. 2024
 > [**18.10.**]
 > Akt. **Zusammenfassung** ohne egozentr. Details:  
 > Mir scheint es(!) als ist es offenbar einer Gruppe von Individuen gelungen,
-> mind. Teile (mind. der digitalen) Kommunikation zu Übernehmen und beliebig,
+> mind. Teile (mind. der digitalen) Kommunikation zu &uuml;bernehmen und beliebig,
 > auch mit Mitteln sog. Künstlicher Intelligenz (als Oberbegriff),
 > zu manipulieren.
 > Das betrifft m.&#8239;M.&#8239;n. leider auch mind. Teile des digitalen Beh&ouml;rdenfunks,
 > mit Sicherheit aber den Notruf der Polizei Berlin mind. f&uuml;r eine (hoffentlich eng) begrenzte Gruppe von Zivilpersonen.
 >
-> Die selbe Gruppe suggeriert(!) (hoffentlich nur mir) Manipulation und endlich Kontrolle über Denken und F&uuml;hlen einer Gruppe von Menschen via vielf&auml;ltiger v.&#8239;a. akustischer Mittel (auch unter Nutzung zuvor "&uuml;bernommener" Kommunikationsmittel).<sup>:warning:VT</sup>
-> Details erspare ich hier mal. Das ist so schon absurd genug..
+> Die selbe Gruppe suggeriert(!) (hoffentlich nur mir) Manipulation und endlich Kontrolle über Denken und F&uuml;hlen einer Gruppe von Menschen (damit auch Mitglieder von Exekutivbeh&ouml;rden) via vielf&auml;ltiger v.&#8239;a. akustischer Mittel (auch unter Nutzung zuvor "&uuml;bernommener" Kommunikationsmittel).<sup>:warning:VT</sup>  
+>
+> [**wichtig**] Ich halte die Korrumpierbarkeit bspw. einer gesamten Polizeiwache hier in Dtl. für eigentlich unmöglich, warum aber nicht gezielte (und begrenzte) Manipulation bspw. eines einzelnen Beamten,
+> ohne dass es diesem wirklich bewusst ist.
 > 
-[!TIP]
-[**18.10.**]
+> Details erspare ich hier mal. Das ist so schon absurd genug,  
+> "die" streuen zum Zwecke der Diskreditierung beliebig VT rein und sind dabei psychologisch sehr geschickt.  
+
+> [!TIP]
+> [**18.10.**]
 > Die beiden letzten Records sind die Gegensprechanlage der Wache 44 in der G&ouml;tzstr. 6 der Polizei Berlin.
 > M.&#8239;M.&#8239;n.(!) ist das der selbe Mensch, der oft beim Notruf rangeht, so auch gestern Nacht (0:01).
 > Während des letzten Notrufs, hatte er mich an die nächstgelegene Wache verwiesen,
-> nimmt m.&#8239;M.&#8239;n.(!) bei genau dieser Wache die Klingel derT&uuml;r entgegen und verweist mich an die Internet-Wache der Polizei Berlin,
+> nimmt m.&#8239;M.&#8239;n.(!) bei genau dieser Wache die Klingel der T&uuml;r entgegen und verweist mich an die Internet-Wache der Polizei Berlin,
 > von der ich annehme(!), dass sie zumindest bei mir, zumindest über bestimmte Kommunikationskan&auml;le mind. unzuverl&auml;ssig Daten &uuml;bermittelt.
 >
-> Details erspare ich mal,
-> "die" streuen zum Zwecke der Diskreditierung beliebig VT rein und sind dabei psychologisch sehr geschickt.  
+> Für Mitglieder von Strafverfolgungsbeh&ouml;rden ist eine Anzeige mit der Vorgangsnr. `0253-i00012` hochgeladen,
+> sollte diese nicht "angekommen" sein,
+> mglw. mag ich mich (auch wenn ich mich absolut fit f&uuml;hle) und aus was f&uuml;r Gr&uuml;nden auch immer, nicht im Vollbesitz meiner geistigen Kr&auml;fte befinden.
+> Kann alles sein,
+> aber m.&#8239;M.&#8239;n.(!) habe ich gestern vier Stunden gebraucht,
+> diese Anzeige &uuml;ber f&uuml;nf verschiedene WLAN-Netze in Tempelhof,
+> schlussendlich im WLAN-Netz der BVG in der N&auml;he der Haltestelle U Kaiserin-Augusta-Str. abzusenden.
+>
+> [**Disclaimer**]
+> Alles mag vollst&auml;ndig imaginiert sein,
+> ich habe vor einiger Zeit eine
+> m.&#8239;M.&#8239;n. unzutreffende (Verdachts-)Diagnose einer Schizophrenie erhalten,
+> meine Wahrnehmung mag erodiert sein u.&#8239;s.&#8239;w.,
+> aber ich lasse mich
+> 1. ungern verarschen
+> 2. f&uuml;r bl&ouml;d gehalten werden.
 
 > [!IMPORTANT]
 > [**16.10.**]
