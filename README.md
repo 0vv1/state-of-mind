@@ -24,7 +24,8 @@ version: fr., 18. oct. 2024
 > Das betrifft m.&#8239;M.&#8239;n. leider auch mind. Teile des digitalen Beh&ouml;rdenfunks,
 > mit Sicherheit aber den Notruf der Polizei Berlin mind. f&uuml;r eine (hoffentlich eng) begrenzte Gruppe von Zivilpersonen.
 >
-> Die selbe Gruppe suggeriert(!) (hoffentlich nur mir) Manipulation und endlich Kontrolle über Denken und F&uuml;hlen einer Gruppe von Menschen (damit auch Mitglieder von Exekutivbeh&ouml;rden) via vielf&auml;ltiger v.&#8239;a. akustischer Mittel (auch unter Nutzung zuvor "&uuml;bernommener" Kommunikationsmittel).<sup>:warning:VT</sup>  
+> Die selbe Gruppe suggeriert(!) (hoffentlich nur mir) Manipulation und endlich Kontrolle über Denken und F&uuml;hlen einer Gruppe von Menschen (damit auch Mitglieder von Exekutivbeh&ouml;rden) via vielf&auml;ltiger v.&#8239;a. akustischer Mittel (auch unter Nutzung zuvor "&uuml;bernommener" Kommunikationsmittel).<sup>:warning:VT</sup>
+> (Auch sehr unterschwellig, sehr knapp oberhalb Wahrnehmungsschwelle, auch bei Mitgliedern der Strafverfolgung!<sup>:warning:Suggestion</sup>) 
 >
 > [**wichtig**] Ich halte die Korrumpierbarkeit bspw. einer gesamten Polizeiwache hier in Dtl. für eigentlich unmöglich, warum aber nicht gezielte (und begrenzte) Manipulation bspw. eines einzelnen Beamten,
 > ohne dass es diesem wirklich bewusst ist.
@@ -41,15 +42,19 @@ version: fr., 18. oct. 2024
 > von der ich annehme(!), dass sie zumindest bei mir, zumindest über bestimmte Kommunikationskan&auml;le mind. unzuverl&auml;ssig Daten &uuml;bermittelt.
 >
 > Für Mitglieder von Strafverfolgungsbeh&ouml;rden ist eine Anzeige mit der Vorgangsnr. `0253-i00012` hochgeladen,
-> sollte diese nicht "angekommen" sein,
-> mglw. mag ich mich (auch wenn ich mich absolut fit f&uuml;hle) und aus was f&uuml;r Gr&uuml;nden auch immer, nicht im Vollbesitz meiner geistigen Kr&auml;fte befinden.
+> sollte diese nicht "angekommen" sein.  
+> 
+> [**Disclaimer**]
+> Mglw. mag ich mich
+> (auch wenn ich mich absolut fit f&uuml;hle)
+> und aus was f&uuml;r Gr&uuml;nden auch immer,
+> nicht im Vollbesitz meiner geistigen Kr&auml;fte befinden.  
 > Kann alles sein,
 > aber m.&#8239;M.&#8239;n.(!) habe ich gestern vier Stunden gebraucht,
-> diese Anzeige &uuml;ber f&uuml;nf verschiedene WLAN-Netze in Tempelhof,
+> um eine Anzeige bei der Polizei Berlin aufzugeben.  
+> &Uuml;ber f&uuml;nf verschiedene WLAN-Netze in Tempelhof,
 > schlussendlich im WLAN-Netz der BVG in der N&auml;he der Haltestelle U Kaiserin-Augusta-Str. abzusenden.
->
-> [**Disclaimer**]
-> Alles mag vollst&auml;ndig imaginiert sein,
+>Alles mag vollst&auml;ndig imaginiert sein,
 > ich habe vor einiger Zeit eine
 > m.&#8239;M.&#8239;n. unzutreffende (Verdachts-)Diagnose einer Schizophrenie erhalten,
 > meine Wahrnehmung mag erodiert sein u.&#8239;s.&#8239;w.,
@@ -59,6 +64,25 @@ version: fr., 18. oct. 2024
 > 3. (am wichtigsten) verachte ich diesen reudigen, menschenverachtenden, stumpfen, die Sch&ouml;pfung verneinenden Duktus in der Kommunikation mglw. vollst&auml;ndig imaginierter potentieller T&auml;ter.
 > 
 > Solltet "ihr" echt sein: Ich bekomme Kotzkr&auml;mpfe, bemerke ich auch nur eine Idee eurer ekelhaften, immer schlecht gelaunten Hetzer-Stimmen!
+
+> [!CAUTION]
+> Das hier mag sich vollst&auml;ndig absurd(!) bis gef&auml;hrlich geisteskrank anh&ouml;ren,
+> aber u.&#8239;a.  
+> **an Mitglieder der Strafverfolgung**:
+> Ich halte es
+> (mglw. aus vollst&auml;ndig degeneriertem Geisteszustand heraus) f&uuml;r eine sehr gute Idee,
+>
+> **DIESE OHRST&Ouml;PSEL** zumindest kurz
+> **AUS DEN OHREN** ZU **NEHMEN**!
+> 
+> Einfach nur,
+> um mal zu schauen.
+> Nichts weiter.  
+> (Mglw. vollst&auml;ndig imaginierte T&auml;ter, mglw. nur um mir eine VT zu unterstellen,
+> schienen(!)/taten vor einiger Zeit
+> (in einem anderen Kontext)
+> sehr &uuml;berrascht &uuml;ber den Umstand zu sein,
+> dass ich seit Jahrzehnten keinen Fernseher habe.<sup>:warning:VT</sup>
 
 > [!IMPORTANT]
 > [**16.10.**]
