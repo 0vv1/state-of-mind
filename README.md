@@ -6,12 +6,38 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: do., 17. oct. 2024  
+version: fr., 18. oct. 2024  
 ```
 
-<h1>&Uuml;ber die Ver&shy;lei&shy;tung des In&shy;di&shy;vi&shy;duums
-         mit irgendwelchem Pimmelshit</h1>
-         
+<h1>Über eine Gruppe von Bekloppten,
+         die in einem (hoffentlich) begrenzten geografischen Gebiet,
+         Kontrolle über mind. Teile der digitalen Kommunikation übernimmt,
+         um damit Dinge&trade; umzusetzen</h1>
+
+> [!IMPORTANT]
+> [**18.10.**]
+> Akt. **Zusammenfassung** ohne egozentr. Details:  
+> Mir scheint es(!) als ist es offenbar einer Gruppe von Individuen gelungen,
+> mind. Teile (mind. der digitalen) Kommunikation zu Übernehmen und beliebig,
+> auch mit Mitteln sog. Künstlicher Intelligenz (als Oberbegriff),
+> zu manipulieren.
+> Das betrifft m.&#8239;M.&#8239;n. leider auch mind. Teile des digitalen Beh&ouml;rdenfunks,
+> mit Sicherheit aber den Notruf der Polizei Berlin mind. f&uuml;r eine (hoffentlich eng) begrenzte Gruppe von Zivilpersonen.
+>
+> Die selbe Gruppe suggeriert(!) (hoffentlich nur mir) Manipulation und endlich Kontrolle über Denken und F&uuml;hlen einer Gruppe von Menschen via vielf&auml;ltiger v.&#8239;a. akustischer Mittel (auch unter Nutzung zuvor "&uuml;bernommener" Kommunikationsmittel).<sup>:warning:VT</sup>
+> Details erspare ich hier mal. Das ist so schon absurd genug..
+> 
+[!TIP]
+[**18.10.**]
+> Die beiden letzten Records sind die Gegensprechanlage der Wache 44 in der G&ouml;tzstr. 6 der Polizei Berlin.
+> M.&#8239;M.&#8239;n.(!) ist das der selbe Mensch, der oft beim Notruf rangeht, so auch gestern Nacht (0:01).
+> Während des letzten Notrufs, hatte er mich an die nächstgelegene Wache verwiesen,
+> nimmt m.&#8239;M.&#8239;n.(!) bei genau dieser Wache die Klingel derT&uuml;r entgegen und verweist mich an die Internet-Wache der Polizei Berlin,
+> von der ich annehme(!), dass sie zumindest bei mir, zumindest über bestimmte Kommunikationskan&auml;le mind. unzuverl&auml;ssig Daten &uuml;bermittelt.
+>
+> Details erspare ich mal,
+> "die" streuen zum Zwecke der Diskreditierung beliebig VT rein und sind dabei psychologisch sehr geschickt.  
+
 > [!IMPORTANT]
 > [**16.10.**]
 > Nicht dein Ernst, F.?  
