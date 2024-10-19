@@ -59,18 +59,7 @@ version: fr., 18. oct. 2024
 > von der ich annehme(!), dass sie zumindest bei mir, zumindest über bestimmte Kommunikationskan&auml;le mind. unzuverl&auml;ssig Daten &uuml;bermittelt.
 >
 > Für Mitglieder von Strafverfolgungsbeh&ouml;rden ist eine Anzeige mit der Vorgangsnr. `0253-i00012` hochgeladen,
-> sollte diese nicht "angekommen" sein.  
-> 
-> [**Disclaimer**]
-> Mglw. mag ich mich
-> (auch wenn ich mich absolut fit f&uuml;hle)
-> und aus was f&uuml;r Gr&uuml;nden auch immer,
-> nicht im Vollbesitz meiner geistigen Kr&auml;fte befinden.  
-> Kann alles sein,
-> aber m.&#8239;M.&#8239;n.(!) habe ich gestern vier Stunden gebraucht,
-> um eine Anzeige bei der Polizei Berlin aufzugeben,  
-> was mir nach Nutzung von f&uuml;nf verschiedenen &ouml;ffentlichen WLAN-Netzen in Tempelhof,
-> schlussendlich im WLAN-Netz der BVG in der N&auml;he der Haltestelle U Kaiserin-Augusta-Str. (hoffentlch) gelang.  
+> sollte diese nicht "angekommen" sein.
 >
 > Alles mag vollst&auml;ndig imaginiert sein, und ja,
 > ich habe vor einiger Zeit eine
@@ -87,7 +76,7 @@ version: fr., 18. oct. 2024
 
 > [!CAUTION]
 > Das hier mag sich vollst&auml;ndig absurd(!) anh&ouml;ren,
-> aber ich bin aus verschiedenen Gr&uuml;nden aktuell etwas verunsichert bzgl. der M&oumkl;glichkkeiten,
+> aber ich bin aus verschiedenen Gr&uuml;nden aktuell etwas verunsichert bzgl. der M&ouml;glichkkeiten,
 > welche sich durch rein akustische Manipulation einzelner Individuen
 > (mglw. bis hin zu "Schwarmeffekten") ergeben sollen.
 > Es geht hierbei immer um Einreden bzw. geschickte Suggestionen einzelner Individuen einer Gruppe von Menschen,
@@ -98,6 +87,10 @@ version: fr., 18. oct. 2024
 > was soetwas sollte.. :shrug:
 
 ## Log
+
+[**19.10.** 18:40] 
+Irgendwie scheint die entspr. Wohnung heute das erste Mal seit Monaten nicht wirklich frequentiert.
+Wirklich angenehm leise.
 
 [**15.10.** 09:43] Mein neuer Wanzendetektor (da ich inzwischen befürchte, dass die Akustik gar nicht von meinem Nachbarn stammt, sondern mglw. aus der Decke :wink:) kommt bei Puls an.  
 Also bei mir nicht. Vielleicht beim anderen Alexander Puls  
