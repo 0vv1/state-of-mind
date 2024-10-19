@@ -92,24 +92,8 @@ version: fr., 18. oct. 2024
 Irgendwie scheint die entspr. Wohnung heute das erste Mal seit Monaten nicht wirklich frequentiert.
 Wirklich angenehm leise.
 
-[**15.10.** 09:43] Mein neuer Wanzendetektor (da ich inzwischen befürchte, dass die Akustik gar nicht von meinem Nachbarn stammt, sondern mglw. aus der Decke :wink:) kommt bei Puls an.  
-Also bei mir nicht. Vielleicht beim anderen Alexander Puls  
-
-[**15.10.** 12:00] Mein neuer Wanzendetektor kommt **nochmal** an. Ich lass ihn mal lieber eingepackt.
-
-[**18.10.** 14:00] Der Upload der beiden Mitschnitte des kurzen Gespr. an der Gegensprechanl. der Wache 44 mag auch beim 4. Mal nicht gelingen. Sie sind immer gleich kaputt.  
-(Dieser eine Typ pimmelt schon wieder bei GitHub rum und meint, er hätte mein Passwort geknackt. Ich sag ihm: "Eher nicht", weil gestern geändert mit 32 Stellen RNG + 2FA. Ich werf mal was ganz weirdes rein: Der manipuliert einzelne Individuen akustisch remote, aber dort(!) vor Ort. Ich hör den ständig irgendwas brabbeln und behaupten, er sei ich. Der ist doch durch, der Typ.)  
-Zeitgleich werde ich massiv bedroht.
-
-[14:10] Die SSH-Verbindung zu meinem Server ist überlastet. Der scheint ausgerechnet jetzt stark nachgefragt.
-Der psychische Druck steigt, jemand meint, ich müsse noch viel lernen.
-
-[14:20] Ein Beamter (den ich nicht kenne und der mich ziemlich sicher nicht zuordnen kann) in der Wache Götzstr. fragt mich, ob ich nicht gestern schon wegen "so einem Nachbarschaftsstreit" da war und es könne dauern.
-Ich sage ihm, dass ich auch vom Notruf der Polizei Berlin verarscht werde (seit zwei Monaten schicken sie nicht einen(!) einzigen Streifenwagen) und sage ihm, dass ich zum LKA gehe, wenn sie mich nicht dran nehmen. Darauf er: "Dann machen sie das."
-
-[14:40] Der Sicherheitsdienst des LKA weist mich ab und behauptet, heute sei kein Beamter mehr Haus (am Hauptstandort Tempelhofer Damm!).  
-
-[**18.10.** 16:30] Ich laufe ein bisschen durch Berlin und denke nach: Seit ein paar Tagen bin ich der Meinung, Hr. F. war echt und ich hatte nie eine Schizophrenie. Ich habe gar nicht gemerkt, dass ich zu Hause immer noch (selten) Stimmen höre.  
+[**18.10.** 16:30]
+Ich laufe ein bisschen durch Berlin und denke nach: Seit ein paar Tagen bin ich der Meinung, Hr. F. war echt und ich hatte nie eine Schizophrenie. Ich habe gar nicht gemerkt, dass ich zu Hause immer noch (selten) Stimmen höre.  
 Was wäre, wenn auch die "echt" wären?  
 Dann wären nämlich dutzende von Menschen in Gefahr, stünden unter extremen psychischen Druck, würden teilweise ihren echten Namen nicht mehr kennen und regelmäßig misshandelt werden.  
 Und nein: Auch die könnten nicht den Notruf der Polizei erreichen.  
@@ -119,6 +103,28 @@ Wenn ich Besuch habe, werde ich danach "aus der Wand" bepöbelt, dass wir doch a
 Will der mich verarschen oder was? Also ich nicht. Dieser Irre redet unablässig über andere Bewohner, die er alle zu kennen glaubt. Ich glaube, er gibt ihnen eigene Namen. Samira und Kira z.B. Kein' Plan, wer die sein sollen. Hoffentlich denkt dieser Bekloppte sich das alles blos aus.)  
 Irgendwie trau ich mich nicht recht nach Hause.. :joy:
 
+[**18.10.** 14:40]
+Der Sicherheitsdienst des LKA weist mich ab und behauptet, heute sei kein Beamter mehr Haus (am Hauptstandort Tempelhofer Damm!).  
+
+[**18.10.** 14:20]
+Ein Beamter (den ich nicht kenne und der mich ziemlich sicher nicht zuordnen kann) in der Wache Götzstr. fragt mich, ob ich nicht gestern schon wegen "so einem Nachbarschaftsstreit" da war und es könne dauern.
+Ich sage ihm, dass ich auch vom Notruf der Polizei Berlin verarscht werde (seit zwei Monaten schicken sie nicht einen(!) einzigen Streifenwagen) und sage ihm, dass ich zum LKA gehe, wenn sie mich nicht dran nehmen. Darauf er: "Dann machen sie das."
+
+[**18.10.** 14:10]
+Die SSH-Verbindung zu meinem Server ist überlastet. Der scheint ausgerechnet jetzt stark nachgefragt.
+Der psychische Druck steigt, jemand meint, ich müsse noch viel lernen.
+
+[**18.10.** 14:00]
+Der Upload der beiden Mitschnitte des kurzen Gespr. an der Gegensprechanl. der Wache 44 mag auch beim 4. Mal nicht gelingen. Sie sind immer gleich kaputt.  
+(Dieser eine Typ pimmelt schon wieder bei GitHub rum und meint, er hätte mein Passwort geknackt. Ich sag ihm: "Eher nicht", weil gestern geändert mit 32 Stellen RNG + 2FA. Ich werf mal was ganz weirdes rein: Der manipuliert einzelne Individuen akustisch remote, aber dort(!) vor Ort. Ich hör den ständig irgendwas brabbeln und behaupten, er sei ich. Der ist doch durch, der Typ.)  
+Zeitgleich werde ich massiv bedroht.
+
+[**15.10.** 12:00]
+Mein neuer Wanzendetektor kommt **nochmal** an. Ich lass ihn mal lieber eingepackt.
+
+[**15.10.** 09:43]
+Mein neuer Wanzendetektor (da ich inzwischen befürchte, dass die Akustik gar nicht von meinem Nachbarn stammt, sondern mglw. aus der Decke :wink:) kommt bei Puls an.  
+Also bei mir nicht. Vielleicht beim anderen Alexander Puls  
 
 > [!IMPORTANT]
 > [**16.10.**]
