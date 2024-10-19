@@ -9,9 +9,8 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: sa., 19. oct. 2024  
 ```
 
-<h1>&Uuml;ber eine Gruppe,
-         die in einem begrenzten geografischen Gebiet,
-         Kontrolle über mind. Teile der digitalen Kommunikation &uuml;bernimmt,
+<h1>Irgendeine komische (Sado-)Psy-Gruppe &uuml;bernimnt, in einem begrenzten geografischen Gebiet,
+         die Kontrolle über Teile der digitalen Kommunikation
          um mittels akustischer(?) Manipulation von Individuen,
          Dinge&trade; umzusetzen</h1>
 
@@ -19,12 +18,12 @@ version: sa., 19. oct. 2024
 > [**18.10.**]
 > Akt. **Zusammenfassung** ohne egozentr. Details:  
 > Mir scheint es(!), als ist es offenbar einer Gruppe von Individuen gelungen,
-> mind. Teile (mind. der digitalen) Kommunikation zu &uuml;bernehmen und ~~beliebig,
+> Teile (mind. der digitalen) Kommunikation zu &uuml;bernehmen und ~~beliebig,
 > auch mit Mitteln sog. Künstlicher Intelligenz (als Oberbegriff),~~
 > zu manipulieren.
-> Eingeredet auch die Manipulation von Teilen des digitalen Beh&ouml;rdenfunks,
-> z.B. aufgeschl&uuml;elten Poilzeifunks
-> (wo man sich fragt, wo die bitte die Schlüssel herhaben wollen)
+> T&auml;terseitig eingeredet wird auch die Manipulation von Teilen des digitalen Beh&ouml;rdenfunks,
+> z.B. des entschl&uuml;sselten Polizeifunks
+> (wirkt tats&auml;chlich t&auml;uschend echt, wobei man sich fragt, wo die bitte die Schlüssel herhaben wollen, BOS sollte Bund sein)
 > sowie des Notrufs der Polizei Berlin
 > f&uuml;r eine (hoffentlich sehr eng) begrenzte Gruppe von Zivilpersonen,
 > der in der Whg. &uuml;ber meiner angenommen wird?!
