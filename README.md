@@ -6,13 +6,14 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: fr., 18. oct. 2024  
+version: sa., 19. oct. 2024  
 ```
 
-<h1>Über eine Gruppe,
+<h1>&Uuml;ber eine Gruppe,
          die in einem begrenzten geografischen Gebiet,
-         Kontrolle über mind. Teile der digitalen Kommunikation übernimmt,
-         um damit Dinge&trade; umzusetzen</h1>
+         Kontrolle über mind. Teile der digitalen Kommunikation &uuml;bernimmt,
+         um mittels akustischer(?) Manipulation von Individuen,
+         Dinge&trade; umzusetzen</h1>
 
 > [!IMPORTANT]
 > [**18.10.**]
@@ -124,7 +125,7 @@ Mein neuer Wanzendetektor kommt **nochmal** an. Ich lass ihn mal lieber eingepac
 
 [**15.10.** 09:43]
 Mein neuer Wanzendetektor (da ich inzwischen befürchte, dass die Akustik gar nicht von meinem Nachbarn stammt, sondern mglw. aus der Decke :wink:) kommt bei Puls an.  
-Also bei mir nicht. Vielleicht beim anderen Alexander Puls  
+Also bei mir nicht. Vielleicht [beim anderen Alexander Puls](#m&ouml;glicher-identit&auml;tsdiebstahl).  
 
 > [!IMPORTANT]
 > [**16.10.**]
