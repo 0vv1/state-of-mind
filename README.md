@@ -107,7 +107,8 @@ version: sa., 19. oct. 2024
 ## Log
 
 [**20.10.** 00:00]
-Da trauen sich wieder ein paar in die Wohnung und dieser bekloppte Psy-Häuptling beginnt mal gleich wieder, meine Bluetooth-Audio-Devices nachzujustieren bis er die gewünschte Atmosphäre hat.
+Da trauen sich wieder ein paar in die Wohnung und dieser bekloppte Psy-Häuptling beginnt mal gleich wieder, meine Bluetooth-Audio-Devices nachzujustieren bis er die gewünschte Atmosphäre hat. :+1:
+Meistens iat er aber mit dem Vorbrabbeln von Text besch&auml;ftigt, den er seinen zahlreichen Adressaten remote auf die Ohren gibt, wenn er z.B. irgendwo was braucht. :joy:
 
 [**19.10.** 18:40] 
 Irgendwie scheint die entspr. Wohnung heute das erste Mal seit Monaten nicht wirklich frequentiert.
