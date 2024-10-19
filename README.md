@@ -9,8 +9,8 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: fr., 18. oct. 2024  
 ```
 
-<h1>Über eine Gruppe von Bekloppten,
-         die in einem (hoffentlich) begrenzten geografischen Gebiet,
+<h1>Über eine Gruppe,
+         die in einem begrenzten geografischen Gebiet,
          Kontrolle über mind. Teile der digitalen Kommunikation übernimmt,
          um damit Dinge&trade; umzusetzen</h1>
 
@@ -18,29 +18,44 @@ version: fr., 18. oct. 2024
 > [**18.10.**]
 > Akt. **Zusammenfassung** ohne egozentr. Details:  
 > Mir scheint es(!), als ist es offenbar einer Gruppe von Individuen gelungen,
-> mind. Teile (mind. der digitalen) Kommunikation zu &uuml;bernehmen und beliebig,
-> auch mit Mitteln sog. Künstlicher Intelligenz (als Oberbegriff),
+> mind. Teile (mind. der digitalen) Kommunikation zu &uuml;bernehmen und ~~beliebig,
+> auch mit Mitteln sog. Künstlicher Intelligenz (als Oberbegriff),~~
 > zu manipulieren.
-> Das betrifft m.&#8239;M.&#8239;n. leider auch mind. Teile des digitalen Beh&ouml;rdenfunks,
-> mit Sicherheit aber den Notruf der Polizei Berlin mind. f&uuml;r eine (hoffentlich eng) begrenzte Gruppe von Zivilpersonen.
+> Eingeredet auch die Manipulation von Teilen des digitalen Beh&ouml;rdenfunks,
+> z.B. aufgeschl&uuml;elten Poilzeifunks
+> (wo man sich fragt, wo die bitte die Schlüssel herhaben wollen)
+> sowie des Notrufs der Polizei Berlin
+> f&uuml;r eine (hoffentlich sehr eng) begrenzte Gruppe von Zivilpersonen,
+> der in der Whg. &uuml;ber meiner angenommen wird?!
+> Ausdr&uuml;lich "nur eingeredet, damit sehr glaubhaft vorgespielt,
+> damit mind. perfide Vort&auml;uschung einer schweren Straftat,
+> die geeignet ist zur Vereitlung von Strafverfolgung.
+> Ich habe Anzeige erstattet,
+> weil ich mir drei Meter &uuml;ber meinem Kopf im Schlafzimmer keine sadistischen
+> Gewaltorgien vorspielen lasse, mit Schwerststraft&auml;tern,
+> die die verzweifelten Notrufe von, mittels halluzinogener Substanzen sedierter,
+> Menschen, im Nachbarraum zum Zwecke der Opferverh&ouml;hnung annehmen.
+> Und ja, ich bin sicher, diesen Schei&szlig; genau so geh&ouml;hrt zu haben.
+> Glaubst Du reudige Kreatur, ich schlaf zu sowas in aller Seelenruhe ein?!
 >
 > Die selbe Gruppe suggeriert(!) Manipulation und endlich Kontrolle über Denken und F&uuml;hlen einer Gruppe von Menschen
 > (damit auch Mitgliedern von Exekutivbeh&ouml;rden)
 > via vielf&auml;ltiger v.&#8239;a. akustischer Mittel (auch unter Nutzung zuvor "&uuml;bernommener" Kommunikationsmittel).<sup>:warning:VT</sup>
 > (Auch sehr unterschwellig, sehr knapp oberhalb Wahrnehmungsschwelle, auch bei Mitgliedern der Strafverfolgung!<sup>:warning:Suggestion</sup>) 
 >
-> [**wichtig**] Ich halte die Korrumpierbarkeit bspw. einer gesamten Polizeiwache hier in Dtl. für eigentlich unmöglich, warum aber nicht gezielte (und begrenzte) Manipulation bspw. eines einzelnen Beamten,
-> ohne dass es diesem wirklich bewusst ist.
+> [**Anm.**] Ich halte die Korrumpierbarkeit bspw. einer gesamten Polizeiwache hier in Dtl. für unmöglich,
+> warum aber nicht gezielte (und begrenzte) Manipulation bspw. eines einzelnen Beamten,
+> ohne dass es diesem wirklich bewusst ist?
 > 
-> Details erspare ich hier mal. Das ist so schon absurd genug,  
-> "die" streuen zum Zwecke der Diskreditierung beliebig VT rein und sind dabei psychologisch sehr geschickt.  
+> Details erspare ich hier mal. Das ist so schon absurd genug,
+> "die" streuen zum Zwecke der Diskreditierung beliebig VT rein und sind dabei psychologisch sehr geschickt.
 
 > [!TIP]
 > [**18.10.**]
-> Die beiden letzten Records sind die Gegensprechanlage der Wache 44 in der G&ouml;tzstr. 6 der Polizei Berlin.
-> M.&#8239;M.&#8239;n.(!) ist das der selbe Mensch, der oft beim Notruf rangeht, so auch gestern Nacht (0:01).
-> Während des letzten Notrufs, hatte er mich an die nächstgelegene Wache verwiesen,
-> nimmt m.&#8239;M.&#8239;n.(!) bei genau dieser Wache die Klingel der T&uuml;r entgegen und verweist mich an die Internet-Wache der Polizei Berlin,
+> Zwei Recordings der Gegensprechanlage der Wache 44 in der G&ouml;tzstr. 6 der Polizei Berlin.
+> ~~M.&#8239;M.&#8239;n.(!) ist das der selbe Mensch, der oft beim Notruf rangeht, so auch gestern Nacht (0:01).~~
+> Ein Notruf hatte mich an die nächstgelegene Wache verwiesen,
+> dort nimmt m.&#8239;M.&#8239;n.(!) der selbe Mensch die Klingel der T&uuml;r entgegen und verweist mich an die Internet-Wache der Polizei Berlin,
 > von der ich annehme(!), dass sie zumindest bei mir, zumindest über bestimmte Kommunikationskan&auml;le mind. unzuverl&auml;ssig Daten &uuml;bermittelt.
 >
 > Für Mitglieder von Strafverfolgungsbeh&ouml;rden ist eine Anzeige mit der Vorgangsnr. `0253-i00012` hochgeladen,
@@ -71,25 +86,16 @@ version: fr., 18. oct. 2024
 > Solltet "ihr" echt sein: Ich bekomme Kotzkr&auml;mpfe, bemerke ich auch nur eine Idee eurer ekelhaften, immer schlecht gelaunten Hetzer-Stimmen!
 
 > [!CAUTION]
-> Das hier mag sich vollst&auml;ndig absurd(!) bis gef&auml;hrlich geisteskrank anh&ouml;ren,
-> aber u.&#8239;a. auch  
-> **an Mitglieder der Strafverfolgung**:  
-> Ich halte es
-> (mglw. aus vollst&auml;ndig degeneriertem Geisteszustand heraus)
-> aus verschiedenen Gr&uuml;nden aktuell f&uuml;r eine sehr gute Idee,
->
-> **DIESE OHRST&Ouml;PSEL** zumindest kurz
-> **AUS DEN OHREN** zu **NEHMEN**!
-> 
-> Einfach nur,
-> um mal zu schauen.
-> Nichts weiter.
-> 
-> (Mglw. vollst&auml;ndig imaginierte T&auml;ter, und mglw. auch nur um mir eine VT unterzuschieben,
-> schienen(!) vor einiger Zeit
-> (in einem anderen Kontext)
-> sehr &uuml;berrascht &uuml;ber den Umstand zu sein,
-> dass ich seit Jahrzehnten keinen Fernseher habe.<sup>:warning:VT</sup> :shrug:)
+> Das hier mag sich vollst&auml;ndig absurd(!) anh&ouml;ren,
+> aber ich bin aus verschiedenen Gr&uuml;nden aktuell etwas verunsichert bzgl. der M&oumkl;glichkkeiten,
+> welche sich durch rein akustische Manipulation einzelner Individuen
+> (mglw. bis hin zu "Schwarmeffekten") ergeben sollen.
+> Es geht hierbei immer um Einreden bzw. geschickte Suggestionen einzelner Individuen einer Gruppe von Menschen,
+> zu deren Motiv ich
+> (ob der Effekte)
+> reinen Sadismus annahm.
+> In Wahrheit h&auml;tte ich keine Ahnung,
+> was soetwas sollte.. :shrug:
 
 ## Log
 
