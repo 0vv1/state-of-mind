@@ -86,6 +86,24 @@ version: sa., 19. oct. 2024
 > reinen Sadismus annahm.
 > In Wahrheit h&auml;tte ich keine Ahnung,
 > was soetwas sollte.. :shrug:
+>
+> [**Anm.**]
+> Eines kann ich
+> (nur f&uuml;r mich, und leider, und auch wenn es mir bis zum Ende meines Lebens niemals jemand glauben wird)
+> sagen: [Neuro-linguistisches
+> Programmieren](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
+> (das bisher angebl. jeden Nachweis einer Wirksamkeit schuldig geblieben ist) funktioniert (bei mir) nicht nur
+> ausgeprochen hervorragend, das jeweilige Programm wirkt
+> (selbt mit Traum-Elementen!) t&auml;uschend echt!
+> Das ist der Grund meiner Unsicherheit bzgl. anderer akustischer "Manipulationstechniken" und meiner Vorsicht.
+> Nicht irgendein Eso-Quatsch oder das ich "verr&uuml;ckt" w&auml;re. &Uuml;berhaupt nicht!
+> Nein. Aber ein nachts in das Gehirn gegebenes "Programm", das einen tags&uuml;ber in Todesangst pseudo-reale Dialoge f&uuml;hren l&auml;sst,
+> beeindruckt mich nunmal und f&uuml;hrt dazu,
+> dass ich nichts i.d.Z. untersch&auml;tzen werde.  
+> Auch dieses **Gedanken-Soufflieren**: Die sind doch nicht ganz dicht! Man fragt sich, warum einem bestimmte Namen und Themen jahrelang erhalten bleiben!
+> (M.M.n. kein Wunder, wenn das Unterbewusstsein vor dem Fr&uuml;hst&uuml;ck das Thema des Tages via grade so h&ouml;rbares Stichwort im Stakkato bekommt.
+> Was &uuml;brigens mal ganz nebenbei eklatant bedeutsame Komplexe wie die sog. freie Willensbildung ehrlich gesagt nicht nur streift).
+> Aber jo: Bilde ich mir sicher alles nur ein.. :smirk:
 
 ## Log
 
