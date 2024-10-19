@@ -106,6 +106,9 @@ version: sa., 19. oct. 2024
 
 ## Log
 
+[**20.10.** 00:00]
+Da trauen sich wieder ein paar in die Wohnung und dieser bekloppte Psy-Häuptling beginnt mal gleich wieder, meine Bluetooth-Audio-Devices nachzujustieren bis er die gewünschte Atmosphäre hat.
+
 [**19.10.** 18:40] 
 Irgendwie scheint die entspr. Wohnung heute das erste Mal seit Monaten nicht wirklich frequentiert.
 Wirklich angenehm leise.
