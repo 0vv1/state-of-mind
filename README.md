@@ -6,13 +6,15 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: sa., 20. oct. 2024  
+version: so., 21. oct. 2024  
 ```
 
-<h1>Irgendeine komische (Sado-)Psy-Gruppe &uuml;bernimnt, in einem begrenzten geografischen Gebiet,
-         die Kontrolle über Teile der digitalen Kommunikation
-         um mittels akustischer(?) Manipulation von Individuen,
-         Dinge&trade; umzusetzen</h1>
+<h1>Sammlung von Hinweisen auf Stalking und akustische Manipulation vollkommen gewöhnlicher Nachbarn durch besonders arglistige Täuschung, selbst geeignet, schwerste emotionale Schäden m.M.n. bis hin zum Suizid zu verursachen</h1>
+
+**Seid ihr beiden noch ganz dicht?  
+Das ist reine KI?** 
+
++ + + Ab hier bitte streichen. + + + Ich schau nachher noch mal durch, aber bestimmt ganz viel fremder Müll. + + +  
 
 > [!IMPORTANT]
 > [Ernsthaft](#2024-10-18-19-00)?
