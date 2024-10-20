@@ -1,12 +1,12 @@
 
 ```
 file:    state-of-mind/README.md  
-brief:   artificial schizophrenia  
+brief:   psy group log  
 author:  © 2021-2024 alexander puls <github@0vv1.net>  
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: sa., 19. oct. 2024  
+version: sa., 20. oct. 2024  
 ```
 
 <h1>Irgendeine komische (Sado-)Psy-Gruppe &uuml;bernimnt, in einem begrenzten geografischen Gebiet,
@@ -29,7 +29,9 @@ version: sa., 19. oct. 2024
 > (wirkt tats&auml;chlich t&auml;uschend echt, wobei man sich fragt, wo die bitte die Schlüssel herhaben wollen, BOS sollte Bund sein)
 > sowie des Notrufs der Polizei Berlin
 > f&uuml;r eine (hoffentlich sehr eng) begrenzte Gruppe von Zivilpersonen,
-> der in der Whg. &uuml;ber meiner angenommen wird?!
+> der in der Whg. &uuml;ber meiner angenommen wird?!  
+> Zusätzlich scheint unser Psy-Häuptling in der Lage zu sein, zumindest den Einsatzführer via Anruf und per Suggestion umzuleiten.
+> Als Show of Force und Demütigung zeigte er mir in der Nacht von Do. auf Fr. gegen 0:15 wie er einen Einsatz Ri. Tempelhofer Hafen auslösen könne.  
 > Ausdr&uuml;lich "nur eingeredet, damit sehr glaubhaft vorgespielt,
 > damit mind. perfide Vort&auml;uschung einer schweren Straftat,
 > die geeignet ist zur Vereitlung von Strafverfolgung.
