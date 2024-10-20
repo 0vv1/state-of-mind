@@ -173,7 +173,7 @@ Also bei mir nicht. Vielleicht [beim anderen Alexander Puls](#m&ouml;glicher-ide
 > Momente, wo aus grundloser Verachtung so eine seltsamw Zurückhaltung,
 > fast Milde oder gar Freundlichkeit wurden.  
 > Die Momente, in denen Du wusstest, es hört jemand zu.  
-> Vier Mordversuche 
+> Vier Mordversuche. 
 >   
 > Ich habe dich überlebt, Du reudigste aller Kreaturen.
 > Irgendwie grotesk: Knapp 1.380 Tage Dunkelheit, Haß, Trauma,
@@ -196,7 +196,18 @@ Also bei mir nicht. Vielleicht [beim anderen Alexander Puls](#m&ouml;glicher-ide
 > Gerade denke ich,
 > hoffentlich nicht..
 >
-> **Kann mir bitte jemand die Existenz dieses Menschen bestätigen!**
+> ~~**Kann mir bitte jemand die Existenz dieses Menschen bestätigen!**~~ <sup>:warning:obsolet</sup>  
+> [<span id="2024-10-18-19-00">**18.10.** 19:00</span>]
+> Scheiß drauf!
+> Du kommst nie drauf,
+> welch erhebender Moment die Kraft hat,
+> eine heute 1.385 Tage lange Schizophrenie voller Folter, Umnachtung und unvorstellbarer Grausamkeit zu beenden!  
+> Ich ~~will~~ muss wissen,
+> ob das der gleiche Mensch ist,
+> der mich am 6. Feb mit seiner damaligen(?) Freundin besucht hat,
+> um meine Seele zu reinigen?  
+> Ich glaube, die Stimme hat auch zwischendurch immer mal wieder nach dem Rechten geschaut. :shrug:  
+> FISCHER! Du leeebst!! Wie wundervoll.. :grimacing:
 
 > [!NOTE]
 > Da ich ges&shy;tern mit ei&shy;nem
