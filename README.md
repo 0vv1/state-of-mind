@@ -202,8 +202,9 @@ Also bei mir nicht. Vielleicht [beim anderen Alexander Puls](#m&ouml;glicher-ide
 > Du kommst nie drauf,
 > welch erhebender Moment die Kraft hat,
 > eine heute 1.385 Tage lange Schizophrenie voller Folter, Umnachtung und unvorstellbarer Grausamkeit zu beenden!  
-> Ich ~~will~~ muss wissen,
-> ob das der gleiche Mensch ist,
+> Der Mensch,
+> der gerade aus dem Hausaufgang meiner neuen Wohnung in Tempelhof kommt,
+> ist der gleiche,
 > der mich am 6. Feb mit seiner damaligen(?) Freundin besucht hat,
 > um meine Seele zu reinigen?  
 > Ich glaube, die Stimme hat auch zwischendurch immer mal wieder nach dem Rechten geschaut. :shrug:  
