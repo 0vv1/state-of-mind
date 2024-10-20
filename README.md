@@ -15,6 +15,9 @@ version: sa., 19. oct. 2024
          Dinge&trade; umzusetzen</h1>
 
 > [!IMPORTANT]
+> [Ernsthaft](#2024-10-18-19-00)?
+
+> [!NOTE]
 > [**18.10.**]
 > Akt. **Zusammenfassung** ohne egozentr. Details:  
 > Mir scheint es(!), als ist es offenbar einer Gruppe von Individuen gelungen,
