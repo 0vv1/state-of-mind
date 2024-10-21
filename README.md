@@ -48,7 +48,10 @@ was auch heute wieder ein bisschen dauern kann.
 *An alle Opfer, die das hier lesen*:  
 Ich befürchte, das **Schlüsselwort "Abbruch" dient der Obfuskationn schwerster Straftaten und
 soll** andere (Opfer, Arbeitgeber, Gerichte, Polizei, Strafverfolgung allg.) davon **überzeugen**,
-**dieser** Seelen und Existenzen bedrohende direkt ins Gehirn gewichste **Psycho-Terror/Horror/Folter sei ein Spiel/Test/Experiment** whatever!
+**dieser** Seelen und Existenzen bedrohende direkt ins Gehirn gewichste **Psycho-Terror/Horror/Folter sei ein Spiel/Test/Experiment** whatever!  
+[**Anm.**] Wochenlang ertragene Vergewaltigungsorgien legt ihr anderen so da, als wäre es für mich ein Spiel und nicht real?  
+Gibt es Zuschauer? Ich versteh grad was nicht..  
+Dieses Deligieren an mich nur zur Sicherheit? Also gibt es doch weitere Opfer oder was? 
 
 > [!IMPORTANT]
 > [Ernsthaft](#2024-10-18-19-00)?
