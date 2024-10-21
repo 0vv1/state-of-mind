@@ -18,7 +18,7 @@ Es spart eine Unmenge an Zeit für das Erkennen grundlegender
 Persönllichkeitsstrukturen.
 Und damit wären wir schon beim Thema:
 
-Guten Morgen Herr Fisher, Herr(-en) May, 
+Guten Morgen (vermutlich und für heute) Herr Fischer, Herr(-en) May, 
 der abstoßende "Das ist doch alles nur ein Spiel"-
 Abbruch-"Anwalt" oder was immer Du (oder eure Hoheit) da tut/tun,
 NLP-Julia und der Rest der reudigen Sado-Crew an den Turn-Tables des Grauens!
