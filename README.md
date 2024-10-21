@@ -54,9 +54,10 @@ Wochenlang ertragene Vergewaltigungsorgien legt ihr anderen so da, als wäre es 
 Gibt es Zuschauer? Ich versteh grad was nicht..  
 Dieses Deligieren an mich nur zur Sicherheit? Also gibt es doch weitere Opfer oder was?  
 [**Weitere Anm.**]
-Der Trigger "**Ich hab kein' Bock mehr.**" soll was machen?
+Der Trigger "**Ich hab kein' Bock mehr.**" (von Herrn "Müller"?) soll was machen?
 Zur Selbstt&ouml;tung verleitung?  
-Wieviel Varianten habt ihr denn noch?  
+Wieviel Varianten habt ihr denn noch?
+Ist das alles eine Crew oder (wie bei Sadisten üblich :joy:) gestackt, d.h. quasi die nächste, diese unterjochende, Crew?  
 Hier bleibt mal bitte jeder schön am Leben,
 allein schon für die anderen,
 die dringend Zeugen/-innen brauchen! :pray:
