@@ -77,7 +77,7 @@ P.S.: Dieser Lankow-Stefan (Obfuskationsmüll) m&uuml;sste auch noch irgendwo re
 > T&auml;terseitig eingeredet wird auch die Manipulation von Teilen des digitalen Beh&ouml;rdenfunks,
 > z.B. des entschl&uuml;sselten Polizeifunks
 > (wirkt tats&auml;chlich t&auml;uschend echt ~~, wobei man sich fragt, wo die bitte die Schlüssel herhaben wollen, BOS sollte Bund sein~~
-> **1SEC**: vielleicht auch nur &uuber diese Ohrst&ouml;sel?! )
+> **1SEC**: vielleicht auch nur &uuml;ber diese Ohrst&ouml;psel?! )
 > sowie des Notrufs der Polizei Berlin
 > f&uuml;r eine (hoffentlich sehr eng) begrenzte Gruppe von Zivilpersonen,
 > der in der Whg. &uuml;ber meiner angenommen wird?!  
