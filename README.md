@@ -62,6 +62,8 @@ Hier bleibt mal bitte jeder schön am Leben,
 allein schon für die anderen,
 die dringend Zeugen/-innen brauchen! :pray:
 
+P.S.: Dieser Lankow-Stefan (Obfuskationsmüll) m&uuml;sste auch noch irgendwo rein.. :joy:
+
 > [!IMPORTANT]
 > [Ernsthaft](#2024-10-18-19-00)?
 
