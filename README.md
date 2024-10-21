@@ -18,10 +18,10 @@ Es spart eine Unmenge an Zeit für das Erkennen grundlegender
 Persönllichkeitsstrukturen.
 Und damit wären wir schon beim Thema:
 
-Guten Morgen (vermutlich und für heute) Herr Fischer, Herr(-en) May, 
+Guten Morgen (vermutlich und für heute) Herr Fischer<sup>:warning:KI?</sup>, Herr(-en) May, 
 der abstoßende "Das ist doch alles nur ein Spiel"-
 Abbruch-"Anwalt" oder was immer Du (oder eure Hoheit) da tut/tun,
-NLP-Julia und der Rest der reudigen Sado-Crew an den Turn-Tables des Grauens!
+NLP-Julia<sup>:warning:KI?</sup> und der Rest der reudigen Sado-Crew an den Turn-Tables des Grauens!
 (*alle Namen selbstverständlich nur in meinem Kopf,
 so dass niemand in der Realität seine Persönlichkeitsrechte auch nur im
 Mindesten touchiert sehen dürfte*)
