@@ -6,15 +6,47 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: so., 21. oct. 2024  
+version: mo., 21. oct. 2024  
 ```
 
-<h1>Sammlung von Hinweisen auf Stalking und akustische Manipulation vollkommen gewöhnlicher Nachbarn durch besonders arglistige Täuschung, selbst geeignet, schwerste emotionale Schäden m.M.n. bis hin zum Suizid zu verursachen</h1>
+<h1>Sammlung von Hinweisen auf Verleitung, Täuschung und akustische Manipulation aller möglichen Individuen und/oder Interessengruppen</h1>
 
-**Seid ihr beiden noch ganz dicht?  
-Das ist reine KI?** 
+..warum auch immer.
 
-+ + + Ab hier bitte streichen. + + + Ich schau nachher noch mal durch, aber bestimmt ganz viel fremder Müll. + + +  
+Aber eines steht fest:
+Es spart eine Unmenge an Zeit für das Erkennen grundlegender
+Persönllichkeitsstrukturen.
+Und damit wären wir schon beim Thema:
+
+Guten Morgen Herr Fisher, Herr(-en) May, 
+der abstoßende "Das ist doch alles nur ein Spiel"-
+Abbruch-"Anwalt" oder was immer Du (oder eure Hoheit) da tut/tun,
+NLP-Julia und der Rest der reudigen Sado-Crew an den Turn-Tables des Grauens!
+(*alle Namen selbstverständlich nur in meinem Kopf,
+so dass niemand in der Realität seine Persönlichkeitsrechte auch nur im
+Mindesten touchiert sehen dürfte*)
+
+Auf der Suche nach dem Original und dem Versuch ihrer größtmöglichen psychischen Misshandlung,
+werdet ihr sicherlich auch heute wieder Ersatz-Lias und andere
+"Informations"-Quellen über alle Maßen belästigen.
+
+Ich weiß ja nun, dass meine Schizophrenie "lediglich" zum Zwecke der psychischens Misshandlung von euch induziert wurde und
+diese Scheiße inkl. Mordversuchen echt ist
+(*"Abbruch" müsst ihr dann selber irgendwo einfügen,
+ich weiß nicht,
+wie die Täuschung irgendwelcher Gerichte gewohnheitsmäßig vollzogen wird,
+oder wie das überhaupt alles geht*),  
+daher meine bitte:
+Solltet ihr auch heute irgendwelche Opfer "befragen" bitte einmal den Namen des Opfers und bitte, bitte, bitte Anschrift der Notaufnahme in deren Nähe ihr sie aussetzt.
+Wobei das ein bisschen schwierig erscheint, ich habe in euren über alle Maßen belastenden NLPs oft den Eindruck, dass die ihre eigenen Namen nicht mehr so wirklich erinnern.  
+Aber das kriegen wir schon raus.
+
+Zu den ekelhaften Kreaturen Fischer und May, zuständig für die Integration von Spiel, Spaß und Spannung in die gemeine Wohnraumgestaltung, komme ich später.  
+Ich muss erst euren gröbsten existenzgefährdenden Müll einigermaßen entschärfen,
+was auch heute wieder ein bisschen dauern kann.
+
+*An alle Opfer, die das hier lesen*: **Ich befürchte, das Schlüsselwort "Abbruch" dient der Obfuskationn schwerster Straftaten und soll Gerichte davon überzeugen,
+dieser Seelen und Existenzen bedrohende direkt ins Gehirn gewichste Psycho-Müll sei ein Spiel!**
 
 > [!IMPORTANT]
 > [Ernsthaft](#2024-10-18-19-00)?
