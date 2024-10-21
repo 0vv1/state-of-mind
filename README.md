@@ -45,7 +45,7 @@ Zu den ekelhaften Kreaturen Fischer und May, zuständig für die Integration von
 Ich muss erst euren gröbsten existenzgefährdenden Müll einigermaßen entschärfen,
 was auch heute wieder ein bisschen dauern kann.
 
-*An alle Opfer, die das hier lesen*:  
+*An alle (potentiellen) späteren Opfer, die das hier lesen*:  
 Ich befürchte, das **Schlüsselwort "Abbruch" dient der Obfuskationn schwerster Straftaten und
 soll** andere (Opfer, Arbeitgeber, Gerichte, Polizei, Strafverfolgung allg.) davon **überzeugen**,
 **dieser** Seelen und Existenzen bedrohende direkt ins Gehirn gewichste **Psycho-Terror/Horror/Folter sei ein Spiel/Test/Experiment** whatever!  
