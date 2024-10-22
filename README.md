@@ -18,7 +18,8 @@ Es spart eine Unmenge an Zeit für das Erkennen grundlegender
 Persönllichkeitsstrukturen.
 Und damit wären wir schon beim Thema:
 
-Guten Morgen (vermutlich und für heute) Herr Fischer<sup>:warning:KI?</sup>, Herr(-en) May, 
+[**21.10.**: Eingeredete M&uuml;story des Tages]
+Guten Morgen (vermutlich und für heute) Herr F.<sup>:warning:KI?</sup> aus M., Herr(-en) M. aus m., 
 der abstoßende "Das ist doch alles nur ein Spiel"-
 Abbruch-"Anwalt" oder was immer Du (oder eure Hoheit) da tut/tun,
 NLP-Julia<sup>:warning:KI?</sup> und der Rest der reudigen Sado-Crew an den Turn-Tables des Grauens!
@@ -41,7 +42,7 @@ Solltet ihr auch heute irgendwelche Opfer "befragen" bitte einmal den Namen des 
 Wobei das ein bisschen schwierig erscheint, ich habe in euren über alle Maßen belastenden NLPs oft den Eindruck, dass die ihre eigenen Namen nicht mehr so wirklich erinnern.  
 Aber das kriegen wir schon raus.
 
-Zu den ekelhaften Kreaturen Fischer und May, zuständig für die Integration von Spiel, Spaß und Spannung in die gemeine Wohnraumgestaltung, komme ich später.  
+Zu den ekelhaften Kreaturen F. & M., zuständig für die Integration von Spiel, Spaß und Spannung in die gemeine Wohnraumgestaltung, komme ich später.  
 Ich muss erst euren gröbsten existenzgefährdenden Müll einigermaßen entschärfen,
 was auch heute wieder ein bisschen dauern kann.
 
@@ -62,7 +63,7 @@ Hier bleibt mal bitte jeder schön am Leben,
 allein schon für die anderen,
 die dringend Zeugen/-innen brauchen! :pray:
 
-P.S.: Dieser Lankow-Stefan (Obfuskationsmüll) m&uuml;sste auch noch irgendwo rein.. :joy:
+P.S.: Dieser Lankow-Stefan (Obfuskationsmüll?!) m&uuml;sste auch noch irgendwo rein.. :joy:
 
 > [!IMPORTANT]
 > [Ernsthaft](#2024-10-18-19-00)?
