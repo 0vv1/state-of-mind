@@ -13,7 +13,8 @@ version: mo., 21. oct. 2024
 
 ..warum auch immer. I.&#8239;d.&#8239;Z. eine bescheidene Frage (da ich keine Statistiken kenne):  
 **Wieviele Diagnosen Schizophrenie u.&#8239;&auml; sind falsch positiv?**
-(Ich denke da vor allem an den Typus "Attent&auml;ter, dem Stimmen etwas befohlen haben".)
+(Ich denke da vor allem an den Typus "Attent&auml;ter, dem Stimmen etwas befohlen haben", weil ich sowas noch nie gehabt habe.
+Nur eben reale Arschl&ouml;cher, die einen wie doof zuspammen.)
 
 [**21.10.: Eingeredete M&uuml;llstory des Tages**]
 Guten Morgen (vermutlich und für heute) Herr F.<sup>:warning:KI?</sup> aus R., Herr(-en) M. aus M., 
