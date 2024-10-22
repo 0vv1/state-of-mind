@@ -269,7 +269,6 @@ Also bei mir nicht. Vielleicht [beim anderen Alexander Puls](#m&ouml;glicher-ide
 > der mich am 6. Feb mit seiner damaligen(?) Freundin besucht hat,
 > um meine Seele zu reinigen?  
 > Ich glaube, die Stimme hat auch zwischendurch immer mal wieder nach dem Rechten geschaut. :shrug:  
-> FISCHER! Du leeebst!! Wie wundervoll.. :grimacing:
 
 > [!NOTE]
 > Da ich ges&shy;tern mit ei&shy;nem
