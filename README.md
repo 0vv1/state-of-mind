@@ -18,8 +18,8 @@ Es spart eine Unmenge an Zeit für das Erkennen grundlegender
 Persönllichkeitsstrukturen.
 Und damit wären wir schon beim Thema:
 
-[**21.10.**: Eingeredete M&uuml;story des Tages]
-Guten Morgen (vermutlich und für heute) Herr F.<sup>:warning:KI?</sup> aus M., Herr(-en) M. aus m., 
+[**21.10.: Eingeredete M&uuml;llstory des Tages**]
+Guten Morgen (vermutlich und für heute) Herr F.<sup>:warning:KI?</sup> aus R., Herr(-en) M. aus M., 
 der abstoßende "Das ist doch alles nur ein Spiel"-
 Abbruch-"Anwalt" oder was immer Du (oder eure Hoheit) da tut/tun,
 NLP-Julia<sup>:warning:KI?</sup> und der Rest der reudigen Sado-Crew an den Turn-Tables des Grauens!
