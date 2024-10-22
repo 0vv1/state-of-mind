@@ -11,12 +11,9 @@ version: mo., 21. oct. 2024
 
 <h1>Sammlung von Hinweisen auf Verleitung, Täuschung und akustische Manipulation aller möglichen Individuen und/oder Interessengruppen</h1>
 
-..warum auch immer.
-
-Aber eines steht fest:
-Es spart eine Unmenge an Zeit für das Erkennen grundlegender
-Persönllichkeitsstrukturen.
-Und damit wären wir schon beim Thema:
+..warum auch immer. I.&#8239;d.&#8239;Z. eine bescheidene Frage (da ich keine Statistiken kenne):  
+**Wieviele Diagnosen Schizophrenie u.&#8239;&auml; sind falsch positiv?**
+(Ich denke da vor allem an den Typus "Attent&auml;ter, dem Stimmen etwas befohlen haben".)
 
 [**21.10.: Eingeredete M&uuml;llstory des Tages**]
 Guten Morgen (vermutlich und für heute) Herr F.<sup>:warning:KI?</sup> aus R., Herr(-en) M. aus M., 
@@ -65,8 +62,31 @@ die dringend Zeugen/-innen brauchen! :pray:
 
 P.S.: Dieser Lankow-Stefan (Obfuskationsmüll?!) m&uuml;sste auch noch irgendwo rein.. :joy:
 
-> [!IMPORTANT]
-> [Ernsthaft](#2024-10-18-19-00)?
+[**21.10.** morgens]
+Von wegen Hypno funktioniert bei mir nicht: :smirk:  
+Ich werde weit vor der Zeit wach,
+mit dem dringenden Bedürfnis,
+Wasser zu lassen.  
+Geh an meinem Bad vorbei,
+weil ich zu sehr muss(?),
+was dann ja dort nicht geht
+(darf ich fragen, warum nicht?!),
+verlasse die Wohnung in einer Unterhose,
+lasse den Schl&uuml;ssel drinnen stecken,
+ziehe drau&szlig;en ran,
+so dass ich nicht mehr rein komme,
+was (wohlgemerkt) f&uuml;r mich vollst&auml;ndig Sinn ergibt(?) und
+gehe zur Packstation 257, um dort ins Geb&uuml;sch zu pissen.  
+Und dann schau ich langsam bl&ouml;d,
+was ich eigentlich gerade tue.
+N&uuml;chtern und ausgeruht.  
+Gl&uuml;cklicherweise ist mein Fenster im Schlafzimmer offen,
+so dass ich mit etwas Aufwand zur&uuml;ck in meine Wohnung klettern kann. :joy:  
+Darf ich mal fragen,
+was das soll?
+Braucht "ihr" wieder Bildmaterial?
+
+[Ernsthaft](#2024-10-18-19-00)?
 
 > [!NOTE]
 > [**18.10.**]
