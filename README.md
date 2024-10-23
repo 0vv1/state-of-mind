@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: mo., 21. oct. 2024  
+version: mi., 23. oct. 2024  
 ```
 
 <h1>Sammlung von Hinweisen auf Verleitung, Täuschung und akustische Manipulation aller möglichen Individuen und/oder Interessengruppen</h1>
@@ -96,8 +96,8 @@ N&uuml;chtern und ausgeruht.
 Gl&uuml;cklicherweise ist mein Fenster im Schlafzimmer offen,
 so dass ich mit etwas Aufwand zur&uuml;ck in meine Wohnung klettern kann. :joy:  
 Darf ich mal fragen,
-was das soll?
-Braucht "ihr" wieder Bildmaterial?
+was das soll?  
+Braucht "ihr" wieder Bildmaterial? (Ach Du Kacke, das wird jetzt aber kein Möchtegern-Vergewaltiger, der in der Unterhose(!) in "fremde" Schlafzimmer steigt? Das ist mein eigenes, ihr Eimer. Ihr habt mich rausgehypnot!)
 
 [Ernsthaft](#2024-10-18-19-00)?
 
