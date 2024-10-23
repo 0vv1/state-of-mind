@@ -3504,6 +3504,18 @@ ihrer Opfer.
     aber mit Sicher&shy;heit nicht im &ouml;ffent&shy;lichen
     Up&shy;load-Be&shy;reich. :wink:
     </img>
+  * [**Erg.** 14.10.]
+    <img align="right" alt="Einschreiben vom 14.10." width="500px"
+      src="2024-10-16_Post_rr290939664de.jpg"
+    Eine letzte Warnung vor einigen Personen, die sich
+    m&ouml;glicherweise ausreichend Vertrauen erschlichen haben k&ouml;nnten,
+    um einigen Schaden anzurichten,
+    ging als Einschreiben
+    (mit R&uuml;ckschein),
+    vorgesehen zur eigenh&auml;ndigen &Uuml;bergabe,
+    noch kurz vor Schlie&szlig;ung am Mo. Abend auf den Postweg,
+    erreichte sie aber (bisher!) nicht.
+    </img>
 
 <!-- suizidversuch -->
 <details>
