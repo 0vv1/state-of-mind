@@ -17,8 +17,14 @@ version: mo., 21. oct. 2024
 Nur eben reale Arschl&ouml;cher, die einen wie doof zuspammen.)
 
 [**23.10.**]
-Heute mal einen "Wanzendetektor" ausprobiert. Soviel kann ich sagen:  
-Der schl&auml;gt in genau in der Mitte des Schlafzimmers, etwas mehr als 1 m &uuml;ber dem Boden aus.
+Heu&shy;te mal einen "Wan&shy;zen&shy;**de&shy;tek&shy;tor**" **aus&shy;pro&shy;biert**.
+So&shy;viel kann ich sa&shy;gen:  
+Der schl&auml;gt ge&shy;nau in der **Mit&shy;te des** Schlaf&shy;**zim&shy;mers**,
+et&shy;was mehr als 1 m &uuml;ber dem Boden, aus,
+so&shy;wie an den End&shy;punk&shy;ten zweier er&shy;dach&shy;ter Strecken,
+die sich dort in der Mitte zu einem Kreuz schneiden,
+jeweils also an den vier W&auml;nden des Raumes,
+ziemlich genau in der Mitte.
 
 [**21.10.: Eingeredete M&uuml;llstory des Tages**]
 Guten Morgen (vermutlich und für heute) Herr F.<sup>:warning:KI?</sup> aus R., Herr(-en) M. aus M., 
