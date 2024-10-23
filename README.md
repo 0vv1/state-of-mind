@@ -97,7 +97,7 @@ Gl&uuml;cklicherweise ist mein Fenster im Schlafzimmer offen,
 so dass ich mit etwas Aufwand zur&uuml;ck in meine Wohnung klettern kann. :joy:  
 Darf ich mal fragen,
 was das soll?  
-Braucht "ihr" wieder Bildmaterial? (Ach Du Kacke, das wird jetzt aber kein Möchtegern-Vergewaltiger, der in der Unterhose(!) in "fremde" Schlafzimmer steigt? Das ist mein eigenes, ihr Eimer. Ihr habt mich rausgehypnot!)
+Braucht "ihr" wieder Bildmaterial? (Ach Du Kacke, das wird jetzt aber kein Möchtegern-Vergewaltiger, der in der Unterhose(!) in "fremde" Schlafzimmer steigt? Das ist mein eigenes, ihr Eimer. Ihr habt mich da raushypnotisiert!)
 
 [Ernsthaft](#2024-10-18-19-00)?
 
