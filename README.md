@@ -3506,7 +3506,7 @@ ihrer Opfer.
     </img>
   * [**Erg.** 14.10.]
     <img align="right" alt="Einschreiben vom 14.10." width="500px"
-      src="2024-10-16_Post_rr290939664de.jpg"
+      src="./2024-10-16_Post_rr290939664de.jpg">
     Eine letzte Warnung vor einigen Personen, die sich
     m&ouml;glicherweise ausreichend Vertrauen erschlichen haben k&ouml;nnten,
     um einigen Schaden anzurichten,
