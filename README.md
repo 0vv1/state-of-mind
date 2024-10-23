@@ -16,6 +16,10 @@ version: mo., 21. oct. 2024
 (Ich denke da vor allem an den Typus "Attent&auml;ter, dem Stimmen etwas befohlen haben", weil ich sowas noch nie gehabt habe.
 Nur eben reale Arschl&ouml;cher, die einen wie doof zuspammen.)
 
+[**23.10.**]
+Heute mal einen "Wanzendetektor" ausprobiert. Soviel kann ich sagen:  
+Der schl&auml;gt in genau in der Mitte des Schlafzimmers, etwas mehr als 1 m &uuml;ber dem Boden aus.
+
 [**21.10.: Eingeredete M&uuml;llstory des Tages**]
 Guten Morgen (vermutlich und für heute) Herr F.<sup>:warning:KI?</sup> aus R., Herr(-en) M. aus M., 
 der abstoßende "Das ist doch alles nur ein Spiel"-
