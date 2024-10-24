@@ -17,8 +17,10 @@ version: mi., 23. oct. 2024
 Nur eben reale Arschl&ouml;cher, die einen wie doof zuspammen.)
 
 [**24.10.**]
-Darauf habe ich lange gewartet: Ein [kurzes Sample], das zeigt, wie perfide und orchestriert der Psychoterror zur Ausf&uuml;hrung kommt.
+Darauf habe ich lange gewartet: Ein [kurzes Sample](./2024-10-24_05-06_psy-terror-pr.mp3),
+das zeigt, wie perfide und orchestriert der Psychoterror zur Ausf&uuml;hrung kommt.
 Und dass das hier kein einsames Erleben innerhalb einer Schizophrenie ist, sondern der REALE TERROR REALER Menschen.  
+
 **Kontext**
 (Achtung! Das ist wirklich, wirklich weird!):
 
@@ -61,20 +63,34 @@ Und dass das hier kein einsames Erleben innerhalb einer Schizophrenie ist, sonde
   weil Du mich so qu&auml;st)
 * die wimmernde ganz leise Stimme dar&uuml;ber bin nicht ich,
   das ist eine KI-Version von mir
-* Min 3:22 bemerkt jemand,
+* Min. 3:22 bemerkt jemand,
   der die Schei&szlig;e steuert,
   dass ich etwas sagen will,
   passt perfekt den Moment ab,
   l&auml;sst mich auflaufen und
-  das Gesagte sofort in den Track ein
+  baut das Gesagte sofort in den Track ein
 * **nebenbei**: Suggestion,
   das eben behauptete bekommt das Gegen&uuml;er im aktuell stattfindenden Ringen mit sich selbst bzgl. einer Selbstt&ouml;tung,
 * zeitgleich nehmen andere T&auml;ter die E-Mail-Server deines Hauptanbieters offline
 * zeitgleich suggeriert der hauptverantwortl. T&auml;ter,
-  dass eine E-Mail sie retten k&ouml;nnte
+  dass eine E-Mail sie retten k&ouml;nnte (man hat etwa 1 min Zeit)
 * **ganz wichtige Anm.**: I.d.R. stimmt davon nichts!
 * **auch wichtig**: Nat&uuml;rlich wei&szlig; man das zu fast 100%.
-* die restlichen 2% lassen [solche E-Mails](./2024-10-24_Lia-Mosch_quatsch.eml) von improvisierten Absendern entstehen  
+* die restlichen 2% lassen [solche E-Mails](./2024-10-24_L_quatsch.eml) von improvisierten Absendern entstehen  
+
+Ja, Fischer! Ihr habt mich nochmal bekommen. Und?!
+
+Das Ding machst Du nicht allein.  
+Du brauchst Profiling, Pychologen, Sound Engineers, vielleicht 'nen
+KI-Dude, sicher Leute, die noch eben irgendwelche Systeme/Devices aufmachen.
+
+Solltest Du einen Rest Menschlichkeit in dir tragen, Du weißt,
+ich verachte dich,
+Du weißt auch,
+ich kann dich nicht hassen:
+Ihr habt ihr NICHT mein Sample von eben vorgespielt!
+
+**Sie LEBT!**
 
 [**23.10.**]
 Heu&shy;te mal einen RF-"Wan&shy;zen&shy;"**de&shy;tek&shy;tor**" **aus&shy;pro&shy;biert**.
