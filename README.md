@@ -40,7 +40,7 @@ Trotzdem der **Kontext**
   weil ein T&auml;ter, an meiner statt, meine Rolle (ein neuer Alex) einnahm,
   meine Pers&ouml;nlichkeit verkehrte,
   diese mit dem bodenlosen Hass des sadistischen T&auml;ters auff&uuml;llte,
-  das Gegen&uuml;ber (immer nur akustisch!) psychisch qu&auml;te und extrem schlecht behandelte,
+  das Gegen&uuml;ber (immer nur akustisch!) psychisch qu&auml;lte und extrem schlecht behandelte,
   w&auml;hrend dieses den (unlogischen) Hass &uuml;berhaupt nicht begreifen kann
   * der indirekte rein akustische Kontakt wird glaubhafter,
     wenn man sich vorstellt,
