@@ -85,19 +85,22 @@ Trotzdem der **Kontext**
 * aber eben nicht komplett
 * die restlichen 2% lassen E-Mails von geistig Verwirrten und improvisierten Absendern entstehen  
 
-Ja, Fischer! Ihr habt mich nochmal bekommen. Und?!
+Jo, Fischer! Ihr habt mich nochmal bekommen. Und?!  
+Ich wei&szlig; eine Sache:
+Ich w&uuml;rde immer wieder genau so entscheiden. Weil ich es muss.  
+Ich wei&szlig; noch eine Sache:
+Du wirst irgendwann aufh&ouml;ren, zu lachen.
 
-Das Ding machst Du nicht allein.  
-Du brauchst Profiling, Pychologen, Sound Engineers, vielleicht 'nen
-KI-Dude, sicher Leute, die noch eben irgendwelche Systeme/Devices aufmachen.
-
-Solltest Du einen Rest Menschlichkeit in dir tragen, Du weißt,
-ich verachte dich,
-Du weißt auch,
-ich kann dich nicht hassen:
-Ihr habt ihr NICHT mein Sample von eben vorgespielt!
+Das Ding machst Du au&szlig;erdem nicht allein.  
+Du brauchst Profiling, Psychologen, Sound Engineers, vielleicht 'nen
+KI-Dude und sicher Leute, die noch eben irgendwelche Systeme/Devices aufmachen/hacken.  
+Krasse Leistung, Du reudigste aller,
+das Antlitz meines Lieblingsplaneten beschmutzenden,
+Kreaturen!
 
 **Sie LEBT!**
+
+**Ich bekomme dich!**
 
 [**23.10.**]
 Heu&shy;te mal einen RF-"Wan&shy;zen&shy;"**de&shy;tek&shy;tor**" **aus&shy;pro&shy;biert**.
