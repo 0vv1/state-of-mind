@@ -19,7 +19,9 @@ Nur eben reale Arschl&ouml;cher, die einen wie doof zuspammen.)
 [**24.10.**]
 Darauf habe ich lange gewartet: Ein [kurzes Sample], das zeigt, wie perfide und orchestriert der Psychoterror zur Ausf&uuml;hrung kommt.
 Und dass das hier kein einsames Erleben innerhalb einer Schizophrenie ist, sondern der REALE TERROR REALER Menschen.  
-**Kontext** (Achtung! Das ist wirklich, wirklich weird!):
+**Kontext**
+(Achtung! Das ist wirklich, wirklich weird!):
+
 * das ist zun&auml;chst einmal der Titel "Touch von Daft Punk"
 * zu h&ouml;ren (eigentlich) die Schleife "If Love is the Answer, you're Home. Hold on." immer wiederholt
 * **aus dem Chor** machen die T&auml;ter in der Trance des H&ouml;hrenden (ich weiß nicht wie) **die Stimme einer bekannten** ehemaligen Nachbarin,
@@ -31,17 +33,48 @@ Und dass das hier kein einsames Erleben innerhalb einer Schizophrenie ist, sonde
 * von der mir aber seit Monaten(!) ungefragt(!) oszilierend(!) eingeredet wird,
   sie wurde entweder grausam ermordet oder beging Selbstmord (und jetzt wird es spannend),
   weil ein T&auml;ter, an meiner statt, meine Rolle (ein neuer Alex) einnahm,
-  sie (nur akustisch!) psychisch qu&auml;te und extrem schlecht behandelte
-* der indirekte rein akustische Kontakt wird glaubhafter,
-  wenn man sich vorstellt,
-  dass die T&auml;ter uns und anderen seit Jahren einreden,
-  Gedanken&uuml;bertragung sei m&ouml;glich
-  (das geht zwar nicht,
-  aber durch geschickte NLPs, Suggestionen und akustische Schaltungen wird es trotzdem gemacht,
-  was dem Gehirn wohl genug Raum gibt,
-  abzudrehen o.&auml;.)
+  meine Pers&ouml;nlichkeit verkehrte,
+  diese mit dem bodenlosen Hass des sadistischen T&auml;ters auff&uuml;llte,
+  das Gegen&uuml;ber (immer nur akustisch!) psychisch qu&auml;te und extrem schlecht behandelte,
+  w&auml;hrend dieses den (unlogischen) Hass &uuml;berhaupt nicht begreifen kann
+  * der indirekte rein akustische Kontakt wird glaubhafter,
+    wenn man sich vorstellt,
+    dass die T&auml;ter vielen Opfern seit Jahren einreden,
+    Gedanken&uuml;bertragung sei m&ouml;glich
+  * das geht zwar nicht,
+    aber durch geschickte NLPs,
+    Suggestionen und akustische Schaltungen wird es scheinbar eben trotzdem gemacht,
+    was dem Gehirn wohl genug Raum gibt,
+    abzudrehen o.&auml;.
+  * es kostet sehr viel Kraft, sich gegen die Vielzahl an Suggestionen zu wehren
+
 * der zur Stimme der ehemaligen Bekannten gewordene CHor f&auml;ngt (ich wei&szlig; nicht wie) an,
-  die Liedzeile zum Text ""
+  die Liedzeile von oben zum Text "Du bist die erste Nummer", suggerierend:
+  "Alex" ganz oben im Telefonbuch,
+  in einer gl&uuml;cklichen Beziehung,
+  die ich nie hatte,
+  sondern ein sadistischer T&auml;ter "telepathisch" f&uuml;r mich
+* dann wird die Stimme trauriger,
+* der Text &auml;ndert sich zu "Du bist die letzte Nummer"
+  (die ich anrufe,
+  bevor ich mich umbringe,
+  weil Du mich so qu&auml;st)
+* die wimmernde ganz leise Stimme dar&uuml;ber bin nicht ich,
+  das ist eine KI-Version von mir
+* Min 3:22 bemerkt jemand,
+  der die Schei&szlig;e steuert,
+  dass ich etwas sagen will,
+  passt perfekt den Moment ab,
+  l&auml;sst mich auflaufen und
+  das Gesagte sofort in den Track ein
+* **nebenbei**: Suggestion,
+  das eben behauptete bekommt das Gegen&uuml;er im aktuell stattfindenden Ringen mit sich selbst bzgl. einer Selbstt&ouml;tung,
+* zeitgleich nehmen andere T&auml;ter die E-Mail-Server deines Hauptanbieters offline
+* zeitgleich suggeriert der hauptverantwortl. T&auml;ter,
+  dass eine E-Mail sie retten k&ouml;nnte
+* **ganz wichtige Anm.**: I.d.R. stimmt davon nichts!
+* **auch wichtig**: Nat&uuml;rlich wei&szlig; man das zu fast 100%.
+* die restlichen 2% lassen [solche E-Mails](./2024-10-24_Lia-Mosch_quatsch.eml) von improvisierten Absendern entstehen  
 
 [**23.10.**]
 Heu&shy;te mal einen RF-"Wan&shy;zen&shy;"**de&shy;tek&shy;tor**" **aus&shy;pro&shy;biert**.
