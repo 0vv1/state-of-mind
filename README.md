@@ -6,27 +6,30 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: mi., 23. oct. 2024  
+version: do., 23. oct. 2024  
 ```
 
 <h1>Sammlung von Hinweisen auf Verleitung, Täuschung und akustische Manipulation aller möglichen Individuen und/oder Interessengruppen</h1>
 
-..warum auch immer. I.&#8239;d.&#8239;Z. eine bescheidene Frage (da ich keine Statistiken kenne):  
+I.&#8239;d.&#8239;Z. eine bescheidene Frage (da ich keine Statistiken kenne):  
 **Wieviele Diagnosen Schizophrenie u.&#8239;&auml; sind falsch positiv?**
 (Ich denke da vor allem an den Typus "Attent&auml;ter, dem Stimmen etwas befohlen haben", weil ich sowas noch nie gehabt habe.
 Nur eben reale Arschl&ouml;cher, die einen wie doof zuspammen.)
 
 [**24.10.**]
-Darauf habe ich lange gewartet: Ein [kurzes Sample](./2024-10-24_05-06_psy-terror-pr.mp3),
-das zeigt, wie perfide und orchestriert der Psychoterror zur Ausf&uuml;hrung kommt.
-Und dass das hier kein einsames Erleben innerhalb einer Schizophrenie ist, sondern der REALE TERROR REALER Menschen.  
+~~Darauf habe ich lange gewartet:~~ <sup>Jo!</sup> Oder auch nicht.
+Es bleibt ein wohl modifiziertes [kurzes Sample](./2024-10-24_05-06_psy-terror-pr.mp3),
+~~das zeigt, wie perfide und orchestriert der Psychoterror zur Ausf&uuml;hrung kommt.~~
+das nix zeigt.
 
-**Kontext**
+Wait a sec! OK, wenigstens der Grundbau ist dann doch ein variabler Text.
+
+Trotzdem der **Kontext**
 (Achtung! Das ist wirklich, wirklich weird!):
 
 * das ist zun&auml;chst einmal der Titel "Touch von Daft Punk"
 * zu h&ouml;ren (eigentlich) die Schleife "If Love is the Answer, you're Home. Hold on." immer wiederholt
-* **aus dem Chor** machen die T&auml;ter in der Trance des H&ouml;hrenden (ich weiß nicht wie) **die Stimme einer bekannten** ehemaligen Nachbarin,
+* ~~**aus dem Chor** machen die~~ T&auml;ter (ich weiß nicht wie) **die Stimme einer bekannten** ehemaligen Nachbarin,
   die ich vor langer Zeit nett fand und mir h&auml;tte vorstellen k&ouml;nnen,
   sie kennenzulernen,
   was aber lange her ist
@@ -50,17 +53,17 @@ Und dass das hier kein einsames Erleben innerhalb einer Schizophrenie ist, sonde
     abzudrehen o.&auml;.
   * es kostet sehr viel Kraft, sich gegen die Vielzahl an Suggestionen zu wehren
 
-* der zur Stimme der ehemaligen Bekannten gewordene CHor f&auml;ngt (ich wei&szlig; nicht wie) an,
-  die Liedzeile von oben zum Text "Du bist die erste Nummer", suggerierend:
+* der zur Stimme der ehemaligen Bekannten gewordene Chor f&auml;ngt (ich wei&szlig; nicht wie) an,
+  die Liedzeile von oben ~~zum Text "Du bist die erste Nummer", suggerierend:
   "Alex" ganz oben im Telefonbuch,
   in einer gl&uuml;cklichen Beziehung,
-  die ich nie hatte,
+  die ich nie hatte,~~ mal wieder zu nix zu machen,
   sondern ein sadistischer T&auml;ter "telepathisch" f&uuml;r mich
 * dann wird die Stimme trauriger,
-* der Text &auml;ndert sich zu "Du bist die letzte Nummer"
-  (die ich anrufe,
+* der Text &auml;ndert sich zu ~~"Du bist die letzte Nummer"~~ n&uuml;scht
+  ~~(die ich anrufe,
   bevor ich mich umbringe,
-  weil Du mich so qu&auml;st)
+  weil Du mich so qu&auml;st)~~
 * die wimmernde ganz leise Stimme dar&uuml;ber bin nicht ich,
   das ist eine KI-Version von mir
 * Min. 3:22 bemerkt jemand,
@@ -68,15 +71,19 @@ Und dass das hier kein einsames Erleben innerhalb einer Schizophrenie ist, sonde
   dass ich etwas sagen will,
   passt perfekt den Moment ab,
   l&auml;sst mich auflaufen und
-  baut das Gesagte sofort in den Track ein
+  baut ~~das Gesagte~~ sonstwas sofort in den Track ein
 * **nebenbei**: Suggestion,
   das eben behauptete bekommt das Gegen&uuml;er im aktuell stattfindenden Ringen mit sich selbst bzgl. einer Selbstt&ouml;tung,
 * zeitgleich nehmen andere T&auml;ter die E-Mail-Server deines Hauptanbieters offline
+  (von 2:00 bis 9:00, Danke sehr! Das frag ich dann doch noch mal an.)
 * zeitgleich suggeriert der hauptverantwortl. T&auml;ter,
-  dass eine E-Mail sie retten k&ouml;nnte (man hat etwa 1 min Zeit)
-* **ganz wichtige Anm.**: I.d.R. stimmt davon nichts!
-* **auch wichtig**: Nat&uuml;rlich wei&szlig; man das zu fast 100%.
-* die restlichen 2% lassen [solche E-Mails](./2024-10-24_L_quatsch.eml) von improvisierten Absendern entstehen  
+  dass eine E-Mail sie retten k&ouml;nnte,
+  die man in eimer Min. bei einem Adrenalinpegel zusammenfrickelt,
+  der den IQ kurz vor die geistige Behinderung dr&uuml;ckt)
+* **ganz wichtige Anm.**: I.d.R. stimmt von den Horrorstorys nichts!
+* **auch wichtig**: Nat&uuml;rlich wei&szlig; man das zu (fast) 100%.
+* aber eben nicht komplett
+* die restlichen 2% lassen E-Mails von geistig Verwirrten und improvisierten Absendern entstehen  
 
 Ja, Fischer! Ihr habt mich nochmal bekommen. Und?!
 
