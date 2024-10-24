@@ -6,29 +6,42 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: do., 24. oct. 2024  
+version: fr., 25. oct. 2024  
 ```
 
-<h1>Sammlung von Hinweisen auf Verleitung, Täuschung und akustische Manipulation aller möglichen Individuen und/oder Interessengruppen</h1>
+<h1>Sammlung von Hinweisen auf Stalking, Verleitung, Täuschung und
+  (weiterer) akustischer Manipulation aller möglichen Individuen
+  und/oder Interessengruppen</h1>
 
-> [!TIP]
-> I.&#8239;d.&#8239;Z. eine bescheidene Frage (da ich keine Statistiken kenne):  
-> **Wieviele Diagnosen Schizophrenie o.&#8239;&auml;. sind falsch positiv?**
-> (Ich denke da vor allem an den Typus "Attent&auml;ter, dem Stimmen etwas befohlen haben", weil ich sowas noch nie gehabt habe.
-> Nur eben reale Arschl&ouml;cher, die einen wie doof zuspammen.)
+> [!CAUTION]
+> Gut, wenn Recor&shy;dings nach(!) Up&shy;load noch mal
+> be&shy;rei&shy;nigt wer&shy;den,
+> soll&shy;ten sich &Uuml;ber&shy;ra&shy;schun&shy;gen in en&shy;gen
+> Gren&shy;zen hal&shy;ten.  
+> Viel&shy;leicht wegen Jugend&shy;schutz.. :smirk:
+> 
+> Hier ein paar Up&shy;loads inkl.
+> [Pr&uuml;f&shy;sum&shy;men](./prufsummen.audio-recs.sha256).
+> Schau&shy;en wir mal..
+
+> [!NOTE]
+> Ich werde hier vor&shy;erst nie&shy;man&shy;den(!) mehr
+> be&shy;lei&shy;di&shy;gen.  
+> Wie es aus&shy;sieht,
+> seid ihr alle Men&shy;schen und ich mglw. weni&shy;ger
+> schizo&shy;phren als ge&shy;dacht.
+> In dem Fall h&auml;tte ich hier
+> dra&shy;ma&shy;ti&shy;scher&shy;wei&shy;se Dinge
+> unter&shy;sch&auml;tzt.  
+> Oder ist das 'nen weirder Spa&szlig;?!
 
 [**24.10.**]
 ~~Darauf habe ich lange gewartet:~~ <sup>Jo!</sup> ~~Oder auch nicht.~~ DOCH!
-Jetze! ~~Es bleibt~~ ein ~~wohl modifiziertes~~ [kurzes Sample](./2024-10-24_05-06_psy-terror-pr.mp3),
+Jetze! ~~Es bleibt~~ ein ~~wohl modifiziertes~~ [kurzes Sample](./2024-10-24_05-06_psy-terror-probe.mp3),
 das hoffentlich zeigt, wie perfide und orchestriert dieser Terror zur Ausf&uuml;hrung kommt.
 ~~Wait a sec! OK, wenigstens der Grundbau ist dann doch ein variabler Text.~~
 
-> [!WARNING]
-> Die haben jetzt fünf Mal entweder den Upload verhindert oder die File nachträglich manipuliert!
-> Zus&auml;tzlich heute Nacht von 2:10 bis heute morgen etwa 9:00 sämtliche meiner Mail-Server bei hetzner.com down genommen.
-> Interessant.
-> Fast bin ich geneigt, Wahnsinn zu murmeln.
-
+<!--
 ~~Trotzdem der~~ **Kontext**
 (Achtung! Das ist wirklich, wirklich weird!):
 
@@ -97,23 +110,24 @@ das hoffentlich zeigt, wie perfide und orchestriert dieser Terror zur Ausf&uuml;
 * **ganz wichtige Anm.**: I.d.R. stimmt von den Horrorstorys nichts!
 * **auch wichtig**: Nat&uuml;rlich wei&szlig; man das zu (fast) 100%.
 * aber eben nicht komplett
-* die restlichen 2% lassen E-Mails von geistig Verwirrten und improvisierten Absendern entstehen  
+* die restlichen 2% lassen E-Mails von geistig Verwirrten und improvisierten Absendern entstehen  -->
 
-Jo, Fischer! Ihr habt mich nochmal bekommen. Und?!  
+Ihr habt mich nochmal bekommen?!  
 Ich wei&szlig; eine Sache:
 Ich w&uuml;rde immer wieder genau so entscheiden. Weil ich es muss.  
 Ich wei&szlig; noch eine Sache:
-Du wirst irgendwann aufh&ouml;ren, zu lachen.
+Irgendwann ist es f&uuml;r euch nicht mehr lustig.
 
-Das Ding machst Du au&szlig;erdem nicht allein.  
+Das Ding machst man au&szlig;erdem nicht allein.  
 Du brauchst Profiling, Psychologen, Sound Engineers, vielleicht 'nen
-KI-Dude und sicher Leute, die noch eben irgendwelche Systeme/Devices aufmachen/hacken.  
-Krasse Leistung, Du reudigste aller,
-das Antlitz meines Lieblingsplaneten beschmutzenden,
-Kreaturen!  
-**Ich bekomme dich!**
+KI-Dude und sicher Leute, die noch eben irgendwelche Systeme/Devices
+aufmachen/hacken.  
 
-**Sie LEBT!**
+> [!TIP]
+> I.&#8239;d.&#8239;Z. eine bescheidene Frage (da ich keine Statistiken kenne):  
+> **Wieviele Diagnosen Schizophrenie o.&#8239;&auml;. sind falsch positiv?**
+> (Ich denke da vor allem an den Typus "Attent&auml;ter, dem Stimmen etwas befohlen haben", weil ich sowas noch nie gehabt habe.
+> Nur eben reale Arschl&ouml;cher, die einen wie doof zuspammen.)
 
 [**23.10.**]
 Heu&shy;te mal einen RF-"Wan&shy;zen&shy;"**de&shy;tek&shy;tor**" **aus&shy;pro&shy;biert**.
