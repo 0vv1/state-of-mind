@@ -16,8 +16,35 @@ version: mi., 23. oct. 2024
 (Ich denke da vor allem an den Typus "Attent&auml;ter, dem Stimmen etwas befohlen haben", weil ich sowas noch nie gehabt habe.
 Nur eben reale Arschl&ouml;cher, die einen wie doof zuspammen.)
 
+[**24.10.**]
+Darauf habe ich lange gewartet: Ein [kurzes Sample], das zeigt, wie perfide und orchestriert der Psychoterror zur Ausf&uuml;hrung kommt.
+Und dass das hier kein einsames Erleben innerhalb einer Schizophrenie ist, sondern der REALE TERROR REALER Menschen.  
+**Kontext** (Achtung! Das ist wirklich, wirklich weird!):
+* das ist zun&auml;chst einmal der Titel "Touch von Daft Punk"
+* zu h&ouml;ren (eigentlich) die Schleife "If Love is the Answer, you're Home. Hold on." immer wiederholt
+* **aus dem Chor** machen die T&auml;ter in der Trance des H&ouml;hrenden (ich weiß nicht wie) **die Stimme einer bekannten** ehemaligen Nachbarin,
+  die ich vor langer Zeit nett fand und mir h&auml;tte vorstellen k&ouml;nnen,
+  sie kennenzulernen,
+  was aber lange her ist
+* aufgefrischt wird die Erinnerung an diese Frau regelm&auml;&szlig;ig,
+  so dass sie nicht vergessen wird
+* von der mir aber seit Monaten(!) ungefragt(!) oszilierend(!) eingeredet wird,
+  sie wurde entweder grausam ermordet oder beging Selbstmord (und jetzt wird es spannend),
+  weil ein T&auml;ter, an meiner statt, meine Rolle (ein neuer Alex) einnahm,
+  sie (nur akustisch!) psychisch qu&auml;te und extrem schlecht behandelte
+* der indirekte rein akustische Kontakt wird glaubhafter,
+  wenn man sich vorstellt,
+  dass die T&auml;ter uns und anderen seit Jahren einreden,
+  Gedanken&uuml;bertragung sei m&ouml;glich
+  (das geht zwar nicht,
+  aber durch geschickte NLPs, Suggestionen und akustische Schaltungen wird es trotzdem gemacht,
+  was dem Gehirn wohl genug Raum gibt,
+  abzudrehen o.&auml;.)
+* der zur Stimme der ehemaligen Bekannten gewordene CHor f&auml;ngt (ich wei&szlig; nicht wie) an,
+  die Liedzeile zum Text ""
+
 [**23.10.**]
-Heu&shy;te mal einen "Wan&shy;zen&shy;**de&shy;tek&shy;tor**" **aus&shy;pro&shy;biert**.
+Heu&shy;te mal einen RF-"Wan&shy;zen&shy;"**de&shy;tek&shy;tor**" **aus&shy;pro&shy;biert**.
 So&shy;viel kann ich sa&shy;gen:  
 Der **schl&auml;gt** ge&shy;nau **in der Mit&shy;te des** Schlaf&shy;**zim&shy;mers**,
 et&shy;was mehr als 1 m &uuml;ber dem Boden **aus**,
@@ -27,6 +54,34 @@ jeweils also **an den vier W&auml;nden** des Raumes,
 ziemlich genau in der Mitte.  
 Also der geht an den Anschlag.  
 Kann damit irgendjemand was anfangen?!
+
+[**Erg. 23.10.** abends]
+Sch&ouml;nes Video mit kleinerem Disput mit einem der T&auml;ter,
+der nicht das geringste Einsehen zeigt,
+irgendeines "seiner" Devices auszuschalten.
+Auch nachdem sie quasi "auf frischer Tat ertappt" wurden,
+ist ihnen vollkommen egal,
+was passiert.
+
+> [!CAUTION]
+> Und hier eine interessante Beobachtung:
+> Ich nehme diese Sadisten als unfassbar feige wahr.
+> So feige wie grausam.
+> Diese hier f&uuml;hlen sich aber vollkommen sicher.
+> Und dass kann nur eines bedeuten:
+> Die Strafverfolgung kann ihnen nichts!  
+> Aber warum nicht?
+> Vielleicht weil sie die Strafverfolgung sind?!  
+>
+> Und das deckt sich leider mit Beobachtungen:
+> * warum k&ouml;nnen die bei MS wen fragen,
+>   'nen pubkey rauszuziehen?
+> * eines der Opfer meinte ich mal "eure Polizisten" sagen hören
+> * der Einfluss sollte zumindest so hoch sein,
+>   dass man bei einer Dienststelle der Polizei Berlin anrufen und sagen kann:
+>   "Der da nicht." oder die Wache beim LKA sagen lassen kann,
+>   es sei kein Beamter mehr im Haus.  
+>   Das w&uuml;rde einiges erklären..
 
 [**21.10.: Eingeredete M&uuml;llstory des Tages**]
 Guten Morgen (vermutlich und für heute) Herr F.<sup>:warning:KI?</sup> aus R., Herr(-en) M. aus M., 
