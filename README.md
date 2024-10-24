@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: do., 23. oct. 2024  
+version: do., 24. oct. 2024  
 ```
 
 <h1>Sammlung von Hinweisen auf Verleitung, Täuschung und akustische Manipulation aller möglichen Individuen und/oder Interessengruppen</h1>
@@ -17,27 +17,33 @@ I.&#8239;d.&#8239;Z. eine bescheidene Frage (da ich keine Statistiken kenne):
 Nur eben reale Arschl&ouml;cher, die einen wie doof zuspammen.)
 
 [**24.10.**]
-~~Darauf habe ich lange gewartet:~~ <sup>Jo!</sup> Oder auch nicht.
-Es bleibt ein wohl modifiziertes [kurzes Sample](./2024-10-24_05-06_psy-terror-pr.mp3),
-~~das zeigt, wie perfide und orchestriert der Psychoterror zur Ausf&uuml;hrung kommt.~~
-das nix zeigt.
+~~Darauf habe ich lange gewartet:~~ <sup>Jo!</sup> ~~Oder auch nicht.~~ DOCH!
+Jetze! ~~Es bleibt~~ ein ~~wohl modifiziertes~~ [kurzes Sample](./2024-10-24_05-06_psy-terror-pr.mp3),
+das hoffentlich zeigt, wie perfide und orchestriert dieser Terror zur Ausf&uuml;hrung kommt.
+~~Wait a sec! OK, wenigstens der Grundbau ist dann doch ein variabler Text.~~
 
-Wait a sec! OK, wenigstens der Grundbau ist dann doch ein variabler Text.
-
-Trotzdem der **Kontext**
+~~Trotzdem der~~ **Kontext**
 (Achtung! Das ist wirklich, wirklich weird!):
 
 * das ist zun&auml;chst einmal der Titel "Touch von Daft Punk"
 * zu h&ouml;ren (eigentlich) die Schleife "If Love is the Answer, you're Home. Hold on." immer wiederholt
-* ~~**aus dem Chor** machen die~~ T&auml;ter (ich weiß nicht wie) **die Stimme einer bekannten** ehemaligen Nachbarin,
+* **aus dem Chor** machen die T&auml;ter (ich weiß nicht wie) **die Stimme einer bekannten** ehemaligen Nachbarin,
   die ich vor langer Zeit nett fand und mir h&auml;tte vorstellen k&ouml;nnen,
   sie kennenzulernen,
   was aber lange her ist
 * aufgefrischt wird die Erinnerung an diese Frau regelm&auml;&szlig;ig,
   so dass sie nicht vergessen wird
-* von der mir aber seit Monaten(!) ungefragt(!) oszilierend(!) eingeredet wird,
+* ansonsten gestaltet der Hauptt&auml;ter bei viel Zeit sozusagen gemeinsames Erleben einsam:
+  * die Menschen werden isoliert und direkter Kontakt nach Kr&auml;ften verhindert
+  * die akustische Gestaltung des Gegen&uuml;bers liegt komplett beim T&auml;ter
+    (im Sinne eines Man in the Middle)
+* d.h.: Auch wenn beide glauben, sich (akustisch) gegenseitig zu erleben, erleben beide vollst&auml;ndig differente
+  Geschichten (auch mit Stimmimitation/KI),
+  das ganze leider auch optimiert auf gr&ouml;&szlig;tm&ouml;glichen emotionalen Schaden und
+  [**EXTREM gef&auml;hrlich**](#iso)
+* von der Frau wird mir seit Monaten(!) ungefragt(!) oszilierend(!) eingeredet,
   sie wurde entweder grausam ermordet oder beging Selbstmord (und jetzt wird es spannend),
-  weil ein T&auml;ter, an meiner statt, meine Rolle (ein neuer Alex) einnahm,
+  weil ein T&auml;ter, an meiner statt, meine Rolle (als neuer Alex) einnahm,
   meine Pers&ouml;nlichkeit verkehrte,
   diese mit dem bodenlosen Hass des sadistischen T&auml;ters auff&uuml;llte,
   das Gegen&uuml;ber (immer nur akustisch!) psychisch qu&auml;lte und extrem schlecht behandelte,
@@ -51,27 +57,27 @@ Trotzdem der **Kontext**
     Suggestionen und akustische Schaltungen wird es scheinbar eben trotzdem gemacht,
     was dem Gehirn wohl genug Raum gibt,
     abzudrehen o.&auml;.
-  * es kostet sehr viel Kraft, sich gegen die Vielzahl an Suggestionen zu wehren
+  * es kostet leider auch sehr viel Kraft, sich gegen die Vielzahl an Suggestionen zu wehren
+    oder Desinformation (jede Information ist falsch, die L&ouml;schung extrem hersusfordernd)
 
 * der zur Stimme der ehemaligen Bekannten gewordene Chor f&auml;ngt (ich wei&szlig; nicht wie) an,
-  die Liedzeile von oben ~~zum Text "Du bist die erste Nummer", suggerierend:
+  die Liedzeile von oben zum Text "Du bist die erste Nummer"(?), suggerierend:
   "Alex" ganz oben im Telefonbuch,
   in einer gl&uuml;cklichen Beziehung,
-  die ich nie hatte,~~ mal wieder zu nix zu machen,
+  die ich (wir!) nie hatte(-n),
   sondern ein sadistischer T&auml;ter "telepathisch" f&uuml;r mich
 * dann wird die Stimme trauriger,
-* der Text &auml;ndert sich zu ~~"Du bist die letzte Nummer"~~ n&uuml;scht
-  ~~(die ich anrufe,
+* der Text &auml;ndert sich zu "Du bist die letzte Nummer"
+  (die ich anrufe,
   bevor ich mich umbringe,
-  weil Du mich so qu&auml;st)~~
+  weil Du mich so qu&auml;st)
 * die wimmernde ganz leise Stimme dar&uuml;ber bin nicht ich,
   das ist eine KI-Version von mir
-* Min. 3:22 bemerkt jemand,
-  der die Schei&szlig;e steuert,
+* Min. 3:22 bemerkt jemand an den Turn-Tables,
   dass ich etwas sagen will,
   passt perfekt den Moment ab,
   l&auml;sst mich auflaufen und
-  baut ~~das Gesagte~~ sonstwas sofort in den Track ein
+  baut das Gesagte sofort in den Track ein
 * **nebenbei**: Suggestion,
   das eben behauptete bekommt das Gegen&uuml;er im aktuell stattfindenden Ringen mit sich selbst bzgl. einer Selbstt&ouml;tung,
 * zeitgleich nehmen andere T&auml;ter die E-Mail-Server deines Hauptanbieters offline
@@ -96,11 +102,10 @@ Du brauchst Profiling, Psychologen, Sound Engineers, vielleicht 'nen
 KI-Dude und sicher Leute, die noch eben irgendwelche Systeme/Devices aufmachen/hacken.  
 Krasse Leistung, Du reudigste aller,
 das Antlitz meines Lieblingsplaneten beschmutzenden,
-Kreaturen!
+Kreaturen!  
+**Ich bekomme dich!**
 
 **Sie LEBT!**
-
-**Ich bekomme dich!**
 
 [**23.10.**]
 Heu&shy;te mal einen RF-"Wan&shy;zen&shy;"**de&shy;tek&shy;tor**" **aus&shy;pro&shy;biert**.
