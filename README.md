@@ -11,10 +11,11 @@ version: do., 24. oct. 2024
 
 <h1>Sammlung von Hinweisen auf Verleitung, Täuschung und akustische Manipulation aller möglichen Individuen und/oder Interessengruppen</h1>
 
-I.&#8239;d.&#8239;Z. eine bescheidene Frage (da ich keine Statistiken kenne):  
-**Wieviele Diagnosen Schizophrenie u.&#8239;&auml; sind falsch positiv?**
-(Ich denke da vor allem an den Typus "Attent&auml;ter, dem Stimmen etwas befohlen haben", weil ich sowas noch nie gehabt habe.
-Nur eben reale Arschl&ouml;cher, die einen wie doof zuspammen.)
+> [!TIP]
+> I.&#8239;d.&#8239;Z. eine bescheidene Frage (da ich keine Statistiken kenne):  
+> **Wieviele Diagnosen Schizophrenie o.&#8239;&auml;. sind falsch positiv?**
+> (Ich denke da vor allem an den Typus "Attent&auml;ter, dem Stimmen etwas befohlen haben", weil ich sowas noch nie gehabt habe.
+> Nur eben reale Arschl&ouml;cher, die einen wie doof zuspammen.)
 
 [**24.10.**]
 ~~Darauf habe ich lange gewartet:~~ <sup>Jo!</sup> ~~Oder auch nicht.~~ DOCH!
@@ -22,10 +23,16 @@ Jetze! ~~Es bleibt~~ ein ~~wohl modifiziertes~~ [kurzes Sample](./2024-10-24_05-
 das hoffentlich zeigt, wie perfide und orchestriert dieser Terror zur Ausf&uuml;hrung kommt.
 ~~Wait a sec! OK, wenigstens der Grundbau ist dann doch ein variabler Text.~~
 
+> [!WARNING]
+> Die haben jetzt fünf Mal entweder den Upload verhindert oder die File nachträglich manipuliert!
+> Zus&auml;tzlich heute Nacht von 2:10 bis heute morgen etwa 9:00 sämtliche meiner Mail-Server bei hetzner.com down genommen.
+> Interessant.
+> Fast bin ich geneigt, Wahnsinn zu murmeln.
+
 ~~Trotzdem der~~ **Kontext**
 (Achtung! Das ist wirklich, wirklich weird!):
 
-* das ist zun&auml;chst einmal der Titel "Touch von Daft Punk"
+* das ist zun&auml;chst einmal der Titel "Touch" von Daft Punk
 * zu h&ouml;ren (eigentlich) die Schleife "If Love is the Answer, you're Home. Hold on." immer wiederholt
 * **aus dem Chor** machen die T&auml;ter (ich weiß nicht wie) **die Stimme einer bekannten** ehemaligen Nachbarin,
   die ich vor langer Zeit nett fand und mir h&auml;tte vorstellen k&ouml;nnen,
@@ -70,7 +77,8 @@ das hoffentlich zeigt, wie perfide und orchestriert dieser Terror zur Ausf&uuml;
 * der Text &auml;ndert sich zu "Du bist die letzte Nummer"
   (die ich anrufe,
   bevor ich mich umbringe,
-  weil Du mich so qu&auml;st)
+  weil Du mich so qu&auml;lst,
+  in Wahrheit ein sadistischer Triebtäter)
 * die wimmernde ganz leise Stimme dar&uuml;ber bin nicht ich,
   das ist eine KI-Version von mir
 * Min. 3:22 bemerkt jemand an den Turn-Tables,
@@ -84,7 +92,7 @@ das hoffentlich zeigt, wie perfide und orchestriert dieser Terror zur Ausf&uuml;
   (von 2:00 bis 9:00, Danke sehr! Das frag ich dann doch noch mal an.)
 * zeitgleich suggeriert der hauptverantwortl. T&auml;ter,
   dass eine E-Mail sie retten k&ouml;nnte,
-  die man in eimer Min. bei einem Adrenalinpegel zusammenfrickelt,
+  die man in einer Min. bei einem Adrenalinpegel zusammenfrickelt,
   der den IQ kurz vor die geistige Behinderung dr&uuml;ckt)
 * **ganz wichtige Anm.**: I.d.R. stimmt von den Horrorstorys nichts!
 * **auch wichtig**: Nat&uuml;rlich wei&szlig; man das zu (fast) 100%.
@@ -120,7 +128,8 @@ Also der geht an den Anschlag.
 Kann damit irgendjemand was anfangen?!
 
 [**Erg. 23.10.** abends]
-Sch&ouml;nes Video mit kleinerem Disput mit einem der T&auml;ter,
+Sch&ouml;nes [Video](./2024-10-23_detektor-dialog.10m.mp4)
+mit kleinerem Disput mit einem der T&auml;ter,
 der nicht das geringste Einsehen zeigt,
 irgendeines "seiner" Devices auszuschalten.
 Auch nachdem sie quasi "auf frischer Tat ertappt" wurden,
