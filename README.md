@@ -48,7 +48,9 @@ version: fr., 25. oct. 2024
 > Gren&shy;zen hal&shy;ten.  
 > Viel&shy;leicht Jugend&shy;schutz.. :smirk:
 > 
-> Hier ein paar Up&shy;loads inkl.
+> Audio-Up&shy;loads (Bsp.
+> [Psycho-Terror-Probe](./2024-10-24_05-06_psy-terror-probe.mp3))
+> nur noch mit
 > [Pr&uuml;f&shy;sum&shy;men](./prufsummen.audio-recs.sha256).
 > Schau&shy;en wir mal..
 
