@@ -40,7 +40,7 @@ version: fr., 25. oct. 2024
 > Das scheint (leider) eine gr&ouml;&szlig;ere "Psy"-Sadisten-Crew zu sein (mglw. 100+ Leute).  
 > Auch "h&ouml;here Kreise", also mglw. Leute, die bei einer Dienststelle der Polizei Berlin anrufen und sagen k&ouml;nnen: " Der da nicht."  
 > (ohne jemanden zu belasten, ich werd jetzt auch mal Namen hier raus nehmen, das' ja fahrl&auml;ssig)  
-> Mir folgt bspw. seit Wochen mind. eine gr&ouml;&szlig;ere Drohne durch die Stadt. Jetzt auch grad (vorm Hbf.), knapp 100 m H&ouml;he.. :wink:
+> Mir folgt bspw. auch seit Wochen mind. eine gr&ouml;&szlig;ere Drohne durch die Stadt. Jetzt auch grad (vorm Hbf.), knapp 100 m H&ouml;he.. :wave: [NO SHIT!]
 
 [**24.10.**]
 ~~Darauf habe ich lange gewartet:~~ <sup>Jo!</sup> ~~Oder auch nicht.~~ DOCH!
