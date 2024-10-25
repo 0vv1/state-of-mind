@@ -70,6 +70,16 @@ wie per&shy;fi&shy;de und orches&shy;triert die&shy;ser Ter&shy;ror zur Aus&shy;
 > Die allermeisten Menschen kennen von mir einen Nachnamen und maximal noch ein Gesicht.
 > Alles andere resultierte aus Nachrede (und diese h&auml;tte &uuml;brigens zwangsl&auml;ufig(!) immer(!) eine Intention).
 
+> [!TIP]
+> Nur(!) wegen 1.000-facher Suggestion:  
+> **NEIN** man kann seine Nachbarn **nicht** durch einen Meter dicke
+> W&auml;nde autosexuell wirken h&ouml;ren,
+> jedenfalls **nicht** masturbieren!  
+> Wenn man das dennoch tut,
+> dann handelt es sich  
+> a) (sehr wahrscheinlich) um einsames Erleben (wie bei mir, im Sinne einer schizophrenen Idee) oder
+> b) (moralisch unwahrscheinlich und m.M.n. techn. unmöglich) jemand hätte nachgeholfen.
+
 Ich habe mich krass ge&auml;r&shy;gert,
 dass die mich noch mal so hooken konn&shy;ten.  
 Des&shy;we&shy;gen war ich heute so mies drauf.
