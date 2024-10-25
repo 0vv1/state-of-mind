@@ -63,7 +63,8 @@ wie per&shy;fi&shy;de und orches&shy;triert die&shy;ser Ter&shy;ror zur Aus&shy;
 > Und lasst den nervigen Kontext weg?!  
 > Das w&auml;re
 > 1. verboten und
-> 2. würde aber (leider) einiges erkl&auml;ren..
+> 2. würde aber (leider) einiges erkl&auml;ren und
+> 3. (f&auml;llt mir gerade ein) bin ich das noch nicht mal?
 > 
 > Ich sag das noch mal und ganz deutlich:
 > Die allermeisten Menschen kennen von mir einen Nachnamen und maximal noch ein Gesicht.
