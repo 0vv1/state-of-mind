@@ -67,6 +67,11 @@ mache nicht ich(!),
 das macht eine lie&shy;be Fee,
 alles gut ab&shy;ge&shy;stimmt.
 
+Das Ding macht man au&szlig;erdem nicht allein.  
+Das braucht m.&#8239;M.&#8239;n. Profiling, Psychologen, Sound Engineers, vielleicht 'nen
+KI-Dude und sicher Leute, die noch eben irgendwelche Systeme/Devices
+aufmachen/hacken.  
+
 > [!IMPORTANT]
 > [**25.10.**]
 > Vielleicht auch nicht?
@@ -168,11 +173,6 @@ alles gut ab&shy;ge&shy;stimmt.
 * **auch wichtig**: Nat&uuml;rlich wei&szlig; man das zu (fast) 100%.
 * aber eben nicht komplett
 * die restlichen 2% lassen E-Mails von geistig Verwirrten und improvisierten Absendern entstehen  -->
-
-Das Ding macht man au&szlig;erdem nicht allein.  
-Das braucht m.&#8239;M.&#8239;n. Profiling, Psychologen, Sound Engineers, vielleicht 'nen
-KI-Dude und sicher Leute, die noch eben irgendwelche Systeme/Devices
-aufmachen/hacken.  
 
 > [!TIP]
 > I.&#8239;d.&#8239;Z. eine bescheidene Frage (da ich keine Statistiken kenne):  
