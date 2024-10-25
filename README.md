@@ -77,7 +77,7 @@ wie per&shy;fi&shy;de und orches&shy;triert die&shy;ser Ter&shy;ror zur Aus&shy;
 > jedenfalls **nicht** masturbieren!  
 > Wenn man das dennoch tut,
 > dann handelt es sich  
-> a) (sehr wahrscheinlich) um einsames Erleben (wie bei mir, im Sinne einer schizophrenen Idee) oder
+> a) (sehr wahrscheinlich) um einsames Erleben (wie bei mir, im Sinne einer schizophrenen Idee) oder  
 > b) (moralisch unwahrscheinlich und m.M.n. techn. unmöglich) jemand hätte nachgeholfen.
 
 Ich habe mich krass ge&auml;r&shy;gert,
