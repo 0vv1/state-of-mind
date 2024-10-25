@@ -64,9 +64,10 @@ wie per&shy;fi&shy;de und orches&shy;triert die&shy;ser Ter&shy;ror zur Aus&shy;
 > Das w&auml;re
 > 1. verboten und
 > 2. würde aber (leider) einiges erkl&auml;ren..
+> 
 > Ich sag das noch mal und ganz deutlich:
 > Die allermeisten Menschen kennen von mir einen Nachnamen und maximal noch ein Gesicht.
-> Alles andere w&auml;re Nachrede (und diese &uuml;brigens zwangsl&auml;ufig immer(!) intendiert).
+> Alles andere resultierte aus Nachrede (und diese h&auml;tte &uuml;brigens zwangsl&auml;ufig(!) immer(!) eine Intention).
 
 Ich habe mich krass ge&auml;r&shy;gert,
 dass die mich noch mal so hooken konn&shy;ten.  
