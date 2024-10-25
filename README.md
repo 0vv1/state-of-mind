@@ -56,7 +56,7 @@ wie per&shy;fi&shy;de und orches&shy;triert die&shy;ser Ter&shy;ror zur Aus&shy;
 > Was ist, wenn die Akustik zwar "besonders" ist,  
 > das "H&ouml;rerlebnis" aber Kontext-sensitiv und  
 > stimmungsabh&auml;ngig und  
-> die Reaktion des H&ouml;renden damit f&uuml;r Au&szlig;enstehende im besten Fall l&auml;cherlich bis maximal bedrohlich erscheint.  
+> die Reaktion des H&ouml;renden damit f&uuml;r Au&szlig;enstehende im besten Fall l&auml;cherlich bis maximal bedrohlich.  
 > (Vielleicht deshalb das stundenlange emotionale Triggern?)  
 > 
 > Bitte sagt mir nicht, ihr zeigt das anderen Leuten!  
@@ -64,6 +64,9 @@ wie per&shy;fi&shy;de und orches&shy;triert die&shy;ser Ter&shy;ror zur Aus&shy;
 > Das w&auml;re
 > 1. verboten und
 > 2. würde aber (leider) einiges erkl&auml;ren..
+> Ich sag das noch mal und ganz deutlich:
+> Die allermeisten Menschen kennen von mir einen Nachnamen und maximal noch ein Gesicht.
+> Alles andere w&auml;re Nachrede (und diese &uuml;brigens zwangsl&auml;ufig immer(!) intendiert).
 
 Ich habe mich krass ge&auml;r&shy;gert,
 dass die mich noch mal so hooken konn&shy;ten.  
