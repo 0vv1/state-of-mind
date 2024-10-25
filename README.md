@@ -49,6 +49,24 @@ das hoff&shy;ent&shy;lich zeigt,
 wie per&shy;fi&shy;de und orches&shy;triert die&shy;ser Ter&shy;ror zur Aus&shy;f&uuml;h&shy;rung kommt.
 ~~Wait a sec! OK, wenigstens der Grundbau ist dann doch ein variabler Text.~~
 
+Ich habe mich krass ge&auml;r&shy;gert,
+dass die mich noch mal so hooken konn&shy;ten.  
+Des&shy;we&shy;gen war ich heute so mies drauf.
+
+Das wurde lei&shy;der eine heftige Num&shy;mer,
+die dann nat&uuml;r&shy;lich l&auml;n&shy;ger dauert als der kurze Aus&shy;schnitt hier,
+am ehesten mit einer Art Trance ver&shy;gleich&shy;bar.  
+Eigentlich handelt es sich um einen beliebigen Track (hier Daft Punk "Touch" auf YouTube.com),
+der dann in den eigenen Lautsprechern zu Hause mutiert.
+Man h&ouml;rt ein biss&shy;chen was von dem,
+was ich Ge&shy;dan&shy;ken-Souff&shy;lie&shy;ren nenne,
+dieses Vor&shy;ge&shy;brab&shy;bel grade noch ober&shy;halb Wahr&shy;neh&shy;mungs&shy;schwelle.  
+Diese kurze kreative L&uuml;cke bei 2:23,
+damit ich auch mal "zu Wort komme",
+mache nicht ich(!),
+das macht eine lie&shy;be Fee,
+alles gut ab&shy;ge&shy;stimmt.
+
 > [!IMPORTANT]
 > [**25.10.**]
 > Vielleicht auch nicht?
@@ -79,24 +97,6 @@ wie per&shy;fi&shy;de und orches&shy;triert die&shy;ser Ter&shy;ror zur Aus&shy;
 > dann handelt es sich  
 > a) (sehr wahrscheinlich) um einsames Erleben (wie bei mir, im Sinne einer schizophrenen Idee) oder  
 > b) (moralisch unwahrscheinlich und m.M.n. techn. unmöglich) jemand hätte nachgeholfen.
-
-Ich habe mich krass ge&auml;r&shy;gert,
-dass die mich noch mal so hooken konn&shy;ten.  
-Des&shy;we&shy;gen war ich heute so mies drauf.
-
-Das wurde lei&shy;der eine heftige Num&shy;mer,
-die dann nat&uuml;r&shy;lich l&auml;n&shy;ger dauert als der kurze Aus&shy;schnitt hier,
-am ehesten mit einer Art Trance ver&shy;gleich&shy;bar.  
-Eigentlich handelt es sich um einen beliebigen Track (hier Daft Punk "Touch" auf YouTube.com),
-der dann in den eigenen Lautsprechern zu Hause mutiert.
-Man h&ouml;rt ein biss&shy;chen was von dem,
-was ich Ge&shy;dan&shy;ken-Souff&shy;lie&shy;ren nenne,
-dieses Vor&shy;ge&shy;brab&shy;bel grade noch ober&shy;halb Wahr&shy;neh&shy;mungs&shy;schwelle.  
-Diese kurze kreative L&uuml;cke bei 2:23,
-damit ich auch mal "zu Wort komme",
-mache nicht ich(!),
-das macht eine lie&shy;be Fee,
-alles gut ab&shy;ge&shy;stimmt.
 
 <!--
 ~~Trotzdem der~~ **Kontext**
