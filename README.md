@@ -9,16 +9,44 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: fr., 25. oct. 2024  
 ```
 
-<h1>Sammlung von Hinweisen auf Stalking, Verleitung, Täuschung und
-  (weiterer) akustischer Manipulation aller möglichen Individuen
-  und/oder Interessengruppen</h1>
+<h1>Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king,
+         Ver&shy;lei&shy;tung,
+         Täu&shy;schung und
+         (wei&shy;te&shy;rer) akus&shy;ti&shy;scher Mani&shy;pu&shy;la&shy;tion
+         aller mög&shy;li&shy;chen Indi&shy;vi&shy;duen
+         und/oder Inte&shy;res&shy;sen&shy;grup&shy;pen</h1>
+
+> [!NOTE]
+> [**Motivation**]
+> Ich werde vier Meter &uuml;ber mei&shy;nem Kopf kei&shy;ne
+> Ge&shy;walt&shy;ver&shy;bre&shy;chen,
+> und dann auch noch in Kom&shy;bi&shy;na&shy;tion mit die&shy;sem stumpfen und
+> res&shy;pekt&shy;lo&shy;sen <nobr>(Nazi-)</nobr><wbr>Duk&shy;tus,
+> ak&shy;zep&shy;tie&shy;ren.
+> Nie.  
+> Egal ob ein&shy;ge&shy;bil&shy;det
+> (das kann man kl&auml;&shy;ren),
+> doch wo&shy;an&shy;ders,
+> "nur" vor&shy;ge&shy;spielt,
+> "nur" ein&shy;ge&shy;re&shy;det/ins&shy;ze&shy;niert.
+> What&shy;ever.  
+> F&uuml;r einen Zeugen ist es im &Uuml;brigen das gleiche,
+> ob echt oder nicht
+> (und ebenso strafbewehrt).
+> Ich schla&shy;fe nicht in einem Haus,
+> in dem mir be&shy;wuss&shy;te
+> Grenz&shy;&uuml;ber&shy;schrei&shy;tun&shy;gen,
+> ge&shy;schwei&shy;ge denn Aus&shy;&uuml;bung von Zwang,
+> an&shy;ge&shy;zeigt wer&shy;den.
+> Ich ver&shy;stehe die&shy;se Pro&shy;vo&shy;ka&shy;tion auch nicht,
+> das kann doch un&shy;m&ouml;g&shy;lich ernst ge&shy;meint sein?
 
 > [!CAUTION]
 > Gut, wenn Recor&shy;dings nach(!) Up&shy;load noch mal
 > be&shy;rei&shy;nigt wer&shy;den,
 > soll&shy;ten sich &Uuml;ber&shy;ra&shy;schun&shy;gen in en&shy;gen
 > Gren&shy;zen hal&shy;ten.  
-> Viel&shy;leicht wegen Jugend&shy;schutz.. :smirk:
+> Viel&shy;leicht Jugend&shy;schutz.. :smirk:
 > 
 > Hier ein paar Up&shy;loads inkl.
 > [Pr&uuml;f&shy;sum&shy;men](./prufsummen.audio-recs.sha256).
@@ -26,7 +54,7 @@ version: fr., 25. oct. 2024
 
 > [!NOTE]
 > Ich werde hier vor&shy;erst nie&shy;man&shy;den(!) mehr
-> be&shy;lei&shy;di&shy;gen.  
+> be&shy;lei&shy;di&shy;gen.
 > Wie es aus&shy;sieht,
 > seid ihr alle Men&shy;schen und ich mglw. weni&shy;ger
 > schizo&shy;phren als ge&shy;dacht.
@@ -36,11 +64,52 @@ version: fr., 25. oct. 2024
 > Oder ist das 'nen weir&shy;der Spa&szlig;?!
 
 > [!WARNING]
-> [Gefahrenabsch&auml;tzung]
+> [**Gefahrenabsch&auml;tzung**]
 > Das scheint (leider) eine gr&ouml;&szlig;ere "Psy"-Sadisten-Crew zu sein (mglw. 100+ Leute).  
 > Auch "h&ouml;here Kreise", also mglw. Leute, die bei einer Dienststelle der Polizei Berlin anrufen und sagen k&ouml;nnen: " Der da nicht."  
 > (ohne jemanden zu belasten, ich werd jetzt auch mal Namen hier raus nehmen, das' ja fahrl&auml;ssig)  
-> Mir folgt bspw. auch seit Wochen mind. eine gr&ouml;&szlig;ere Drohne durch die Stadt. Jetzt auch grad (vorm Hbf.), knapp 100 m H&ouml;he.. :wave: [NO SHIT!]
+> Mir folgt bspw. auch seit Wochen mind. eine gr&ouml;&szlig;ere Drohne durch die Stadt.
+> Jetzt auch grad (überm Hbf.), knapp ~~100~~ (sie sagt) 200 m H&ouml;he.. :wave: [NO SHIT!]
+> Die werde ich nur ohne Mobilfunk (und zwei, drei Verkehrsmitteln) los. :joy:
+>
+> [**Diffamierung**]
+> "Die" fahren m.&#8239;M.&#8239;n. monstr&ouml;se Diffamierungskampagnen und sind auch psychologisch wahnsinnig geschickt.
+> Das dauert zwei Wochen und kein Nachbar schaut dich noch an.
+> Ein Dutzend Freunde geben sich unabh&auml;ngig(!) voneinander die Klinke in die Hand,
+> um,
+> teilweise in Tr&auml;nen aufgel&ouml;st,
+> deine Einweisung in eine geschlossene psychiatrische Einrichtung zu erflehen
+> (was immer ich da soll).
+> Therapeuten machen sich solche Sorgen,
+> dass sie anfangen,
+> irgendwelche Medikamentierungen seitens der Psychiatrien zu erhoffen,
+> dass man endlich erl&ouml;st ist und es einem besser geht.
+> Die k&ouml;nnen Leute bei dir vorladen,
+> exakt in deinem beschissensten Moment der Woche.  
+> Und Du gehst durch die Sonne und denkst so: H&auml;?!
+> Wie zur H&ouml;lle machen die das?  
+> Die T&auml;ter selbst labern einen w&auml;hrend des Verfassens solcher Zeilen von der Seite voll,
+> sufflieren so wahnsinnig geschickt stumpfe Verschw&ouml;rungstheorien,
+> dass davon immer was im Text bleibt,
+> so sehr man auch aufpasst.  
+> Aber das krasseste nenne ich *Crunch-Mail*:
+> Stundenlanger emotionaler Druck,
+> nur um unter suggeriertem Zeitdruck,
+> einen m&ouml;glichst komplexen Zussammenhang au&szlig;erhalb Kontext in einer E-Mail rauszuhauen.
+> Das klappt jedes Mal! Ich hab hier E-Mails liegen.. :joy:
+> <details>
+>        <summary>[aufklappen f&uuml;r] Letzte Crunch-Mail: 60 Sek. Zeit
+>                 einen Selbstmord zu verhindern (ich gehe davon aus, dass das die einzige Mail ist, die die Adressatin erreichen wird)..</summary>
+> 
+>        Ich weiß nicht, was er aus mir gemacht hat. ***, er dreht Persönlichkeiten um.
+>        Aber ich hasse dich nicht, ich bin auch kein Stalker!
+>        Ich würde dir nie etwas tun, vielleicht kennst Du mich auch gar nicht.
+> 
+>        Entschuldige bitte alles, was ich nie getan hab.
+>        Ich habe keine gespaltene Persönlichkeit! Sowas gibt es nicht.
+> 
+>        Alex
+> </details>
 
 [**24.10.**]
 ~~Darauf habe ich lange gewartet:~~ <sup>Jo!</sup> ~~Oder auch nicht.~~ DOCH!
@@ -56,11 +125,14 @@ Des&shy;we&shy;gen war ich heute so mies drauf.
 Das wurde lei&shy;der eine heftige Num&shy;mer,
 die dann nat&uuml;r&shy;lich l&auml;n&shy;ger dauert als der kurze Aus&shy;schnitt hier,
 am ehesten mit einer Art Trance ver&shy;gleich&shy;bar.  
-Eigentlich handelt es sich um einen beliebigen Track (hier Daft Punk "Touch" auf YouTube.com),
-der dann in den eigenen Lautsprechern zu Hause mutiert.
-Man h&ouml;rt ein biss&shy;chen was von dem,
+Eigentlich handelt es sich um einen beliebigen Track (hier Daft Punk "Touch" auf YouTube),
+wenn man nicht aufpasst,
+ger&auml;t man in einen Loop/Trance,
+dann mutiert der Track im Lautsprecher(?) oder online(?).
+Man h&ouml;rt hier auch endlich mal ein biss&shy;chen was von dem,
 was ich Ge&shy;dan&shy;ken-Souff&shy;lie&shy;ren nenne,
-dieses Vor&shy;ge&shy;brab&shy;bel grade noch ober&shy;halb Wahr&shy;neh&shy;mungs&shy;schwelle.  
+dieses Vor&shy;ge&shy;brab&shy;bel gerade noch ober&shy;halb Wahr&shy;neh&shy;mungs&shy;schwelle.
+Am besten mal Kopfh&ouml;rer mit betonten Mitten.
 Diese kurze kreative L&uuml;cke bei 2:23,
 damit ich auch mal "zu Wort komme",
 mache nicht ich(!),
@@ -82,6 +154,7 @@ aufmachen/hacken.
 > die Reaktion des H&ouml;renden damit f&uuml;r Au&szlig;enstehende im besten Fall l&auml;cherlich bis maximal bedrohlich.  
 > (Vielleicht deshalb das stundenlange emotionale Triggern?)  
 > 
+> [**Anm.**]
 > Bitte sagt mir nicht, ihr zeigt das anderen Leuten!  
 > Und lasst den nervigen Kontext weg?!  
 > Das w&auml;re
@@ -95,13 +168,13 @@ aufmachen/hacken.
 
 > [!TIP]
 > Nur(!) wegen 1.000-facher Suggestion:  
-> **NEIN** man kann seine Nachbarn **nicht** durch einen Meter dicke
+> **NEIN**, man kann seine Nachbarn **nicht** durch einen Meter dicke
 > W&auml;nde autosexuell wirken h&ouml;ren,
 > jedenfalls **nicht** masturbieren!  
 > Wenn man das dennoch tut,
 > dann handelt es sich  
 > a) (sehr wahrscheinlich) um einsames Erleben (wie bei mir, im Sinne einer schizophrenen Idee) oder  
-> b) (moralisch unwahrscheinlich und m.M.n. techn. unmöglich) jemand hätte nachgeholfen.
+> b) (moralisch unwahrscheinlich und m.&#8239;M.&#8239;n. techn. unmöglich) jemand w&uuml;rde nachhelfen.
 
 <!--
 ~~Trotzdem der~~ **Kontext**
