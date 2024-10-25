@@ -99,7 +99,7 @@ version: fr., 25. oct. 2024
 > Das klappt jedes Mal! Ich hab hier E-Mails liegen.. :joy:
 > <details>
 >        <summary>[aufklappen f&uuml;r] Letzte Crunch-Mail: 60 Sek. Zeit
->                 einen Selbstmord zu verhindern (ich gehe davon aus, dass das die einzige Mail ist, die die Adressatin erreichen wird)..</summary>
+>                 einen "Selbstmord" zu verhindern (ich gehe davon aus, dass dieser Diamant die einzige Mail sein wird, die die Adressatin erreichen wird)..</summary>
 > 
 >        Ich weiß nicht, was er aus mir gemacht hat. ***, er dreht Persönlichkeiten um.
 >        Aber ich hasse dich nicht, ich bin auch kein Stalker!
