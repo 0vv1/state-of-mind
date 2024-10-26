@@ -50,10 +50,14 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 <h2><a href="https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit">Datenintegrit&auml;t</a> bei GitHub nicht gegeben</h2>
 
 > [!CAUTION]
-> **Ernsthaft**?!
-> Ich habe mich schon oft gefragt,
-> wie weit ihr eigentlich geht.
-> Eure Skrupellosigkeit hat mich immer wieder &uuml;berrascht.
+> Wie weit w&uuml;rdet ihr noch gehen?
+> Ohne Skrupel.
+> Das Wort kennt ihr gar nicht.
+> 
+> Dieser reudige, menschenverachtende, stumpfe, die Sch&ouml;pfung verneinende Duktus in der Kommunikation.  
+> Ihr missachtet die W&uuml;rde des einzelnen.
+> Auch eure eigene.  
+> In eurer N&auml;he ist alles egal.
 > 
 > **GitHub Inc. kann die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten**?!
 > Warum sollten sie das nicht k&ouml;nnen?
@@ -88,7 +92,7 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 >   `sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d`
 >   sein!
 > * Was ist das denn?
-> * **nicht in&shy;te&shy;ger?!**
+> * nicht in&shy;te&shy;ger?!**
 > * H&auml;?
 > * er&shy;neu&shy;ter **Upload**
 > * **er&shy;neu&shy;te Mani&shy;pu&shy;la&shy;tion**(?)
@@ -99,12 +103,13 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 >   `sha256 7474c95a8d885ec748895f3fbfd78d520f3d92f86a44245210aea32fb28cd9bc`,  
 >   `sha256 8a312d6db6d8db709e5da3e37962293443413440feb90371cc467a7666980cd7`,  
 >   `sha256 b47d907ec8da5feda5d6e5dfdf006232cff4f0bd4985d53ab86b0e24aed64e01`)
+>   
 > * **Integrit&auml;t von Daten bei GitHub**(?) Inc.
 >   (vorerst) **nicht gegeben**!
 >   (Nicht euer Ernst oder?!
 >   Ich glaube,
 >   das war kein so geiler Move.)
-> * betr. Dateien werden (erstmal) von einer VM bei hetzner.com bereitgestellt
+> * betr. Dateien werden (erstmal) von einer VM bei [hetzner.com] bereitgestellt
 >   (auch dort gab's Probleme mit dem Wirken der Crew,
 >   aber ich hab jetzt erst mal nichts anderes) (https://0vv1.io/stlk)
 >   bis Abkl&auml;rung erfolgt
@@ -482,9 +487,8 @@ Braucht "ihr" wieder Bildmaterial? (Ach Du Kacke, das wird jetzt aber kein Möch
 > (Verdachts-)Diagnose einer Schizophrenie erhalten,
 > meine Wahrnehmung mag erodiert sein u.&#8239;s.&#8239;w.,
 > aber ich lasse mich
-> 1. ungern verarschen,
-> 2. f&uuml;r bl&ouml;d gehalten werden &
-> 3. (am wichtigsten) verachte ich diesen reudigen, menschenverachtenden, stumpfen, die Sch&ouml;pfung verneinenden Duktus in der Kommunikation mglw. vollst&auml;ndig imaginierter potentieller T&auml;ter.
+> 1. ungern verarschen und
+> 2. f&uuml;r bl&ouml;d gehalten werden
 > 
 > Solltet "ihr" echt sein: Ich bekomme Kotzkr&auml;mpfe, bemerke ich auch nur eine Idee eurer ekelhaften, immer schlecht gelaunten Hetzer-Stimmen!
 
