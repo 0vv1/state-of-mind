@@ -47,22 +47,23 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > Ich ver&shy;stehe die&shy;se Pro&shy;vo&shy;ka&shy;tion auch nicht,
 > das kann doch un&shy;m&ouml;g&shy;lich ernst ge&shy;meint sein? -->
 
-<h2><a href="https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit">Datenintegrit&auml;t</a> bei GitHub Inc. nicht gegeben</h2>
+<h2><a href="https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit">Datenintegrit&auml;t</a> bei GitHub nicht gegeben</h2>
 
 > [!CAUTION]
 > **Ernsthaft**?!
 > Ich habe mich schon oft gefragt,
 > wie weit ihr eigentlich geht.
 > Eure Skrupellosigkeit hat mich immer wieder &uuml;berrascht.
-> Die **Datenintegrit&auml;t bei GitHub ist nicht gegeben**?!
+> **GitHub Inc. kann die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten**?!
+> Warum sollten sie das nicht k&ouml;nnen?
 > Hochgeladene Dateien, abgelegt auf (internen) Servern,
 > &auml;ndern alle f&uuml;nf Minuten ihre Pr&uuml;fsumme?  
 > Warum wei&szlig; ich,
 > so genau wie die letzten vier Jahre nicht,
-> dass es so ist?
+> dass das genau so wahr ist?
 > Dass eine liebe,
 > von euch geschickte,
-> Fee sich hier um den Kinder- & Jugendschutz k&uuml;mmert.
+> Fee sich hier um den Kinder- & Jugendschutz k&uuml;mmert.  
 > **Das erste Mal W&uuml;rde!**
 > Was ist das denn f&uuml;r ein geiles M&auml;rchen?
 > Warum passt das denn sooo gut..
