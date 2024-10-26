@@ -16,7 +16,7 @@ version: sa, 26. oct. 2024
 
 <h2>Oder: Über das verborgene Wirken einer "Psy"-Sadisten-Crew und ihrer einflussreichen Mitglieder</h2>
 
-.. deren **Sebastian Fischer** dem Autor dieser Zeilen vor knapp 1.390 Tagen eine **k&uuml;nstliche Schizophrenie** induziert,
+.. deren Experte für Schizophrenie-Patienten dem Autor dieser Zeilen vor knapp 1.390 Tagen eine **k&uuml;nstliche Schizophrenie** induziert,
 um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten Tod zu qu&auml;len.
 
 <h3>Warum hier trotzdem einer schreibt und eine recht komplexe wendungsreiche Geschichte (leider!) im Schreiben immer realer wird:</h3>
@@ -47,19 +47,19 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > Ich ver&shy;stehe die&shy;se Pro&shy;vo&shy;ka&shy;tion auch nicht,
 > das kann doch un&shy;m&ouml;g&shy;lich ernst ge&shy;meint sein? -->
 
-<h2><a href="https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit">Datenintegrit&auml;t</a> bei GitHub nicht gegeben</h2>
+<!-- h2><a href="https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit">Datenintegrit&auml;t</a> bei GitHub nicht gegeben</h2 -->
 
 > [!CAUTION]
 > Wie weit w&uuml;rdet ihr noch gehen?
 > Ohne Skrupel.
 > Das Wort kennt ihr gar nicht.
 > 
-> Dieser reudige, menschenverachtende, stumpfe, die Sch&ouml;pfung verneinende Duktus in der Kommunikation.  
+<!-- > Dieser reudige, menschenverachtende, stumpfe, die Sch&ouml;pfung verneinende Duktus in der Kommunikation.  
 > Ihr missachtet die W&uuml;rde des einzelnen.
 > Auch eure eigene.  
 > In eurer N&auml;he ist alles egal.
-> 
-> **GitHub Inc. kann die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten**?!
+--> 
+> **GitHub Inc. kann die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten**?
 > Warum sollten sie das nicht k&ouml;nnen?
 > Hochgeladene Dateien, abgelegt auf (internen) Servern,
 > &auml;ndern alle f&uuml;nf Minuten ihre Pr&uuml;fsumme?  
@@ -70,7 +70,7 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > Dass eine liebe,
 > von euch geschickte,
 > Fee sich hier um den Kinder- & Jugendschutz k&uuml;mmert.  
-> **Das erste Mal W&uuml;rde!**
+<!-- > **Das erste Mal W&uuml;rde!**
 > Was ist das denn f&uuml;r ein geiles M&auml;rchen?
 > Warum passt das denn sooo gut..
 > 
@@ -107,7 +107,7 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 >   (vorerst) **nicht gegeben**!  
 >   (Nicht euer Ernst oder?!
 >   Ich glaube,
->   das war kein so geiler Move.)
+>   das war kein so geiler Move.) -->
 > * betr. Dateien werden (erstmal) von einer VM bei hetzner.com bereitgestellt
 >   (auch dort gab's Probleme mit dem Wirken der Crew,
 >   aber ich hab jetzt erst mal nichts anderes): https://0vv1.io/stlk
