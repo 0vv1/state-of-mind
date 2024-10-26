@@ -6,15 +6,13 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: fr., 25. oct. 2024  
+version: sa, 26. oct. 2024  
 ```
 
-<h1>Samm&shy;lung von Hin&shy;wei&shy;sen auf Stal&shy;king,
-         Ver&shy;lei&shy;tung,
-         Täu&shy;schung und
-         (wei&shy;te&shy;rer) akus&shy;ti&shy;scher Mani&shy;pu&shy;la&shy;tion
-         aller mög&shy;li&shy;chen Indi&shy;vi&shy;duen
-         und/oder Inte&shy;res&shy;sen&shy;grup&shy;pen</h1>
+<h1>Wie man die In&shy;duk&shy;tion einer k&uuml;nst&shy;lich&shy;en
+         Schi&shy;zo&shy;phre&shy;nie &uuml;ber&shy;lebt und
+         sich zum Dank den Un&shy;mut einer durch&shy;ge&shy;knall&shy;ten
+         Sa&shy;dis&shy;ten-Gang ran&shy;zieht</h1>
 
 > [!NOTE]
 > [**Motivation**]
@@ -78,6 +76,7 @@ version: fr., 25. oct. 2024
 >   das war kein so geiler Move.)
 > * betr. Dateien bitte (erstmal) von meinem Server ziehen (https://0vv1.io/stlk)
 >   bis Abkl&auml;rung erfolgt
+>   (siehe [Support-Ticket](https://support.github.com/ticket/personal/0/3067960))
 
 > [!NOTE]
 > Ich werde hier vor&shy;erst nie&shy;man&shy;den(!) mehr
