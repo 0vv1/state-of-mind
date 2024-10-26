@@ -9,9 +9,17 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: sa, 26. oct. 2024  
 ```
 
+> \+ \+ \+ fremder Müll, den ich "nur" wegdokumentiere ODER eine (hoffentlich) spannende Geschichte + + +  
+> \+ \+ \+ Alles cool! + + +
+
 <h1>Beobachtungen zum Gegensatzpaar <b>Kommunikation</b>/<b>Isolation</b> und der Wirkmächtigkeit <b>akustische</b>r <b>Manipulation</b> von (wohl auch Massen-)Wahrnehmung (und darüber hinaus)</h1>
 
-### + + + Leute, das ist entweder fremder Müll, den ich "nur" wegdokumentiere ODER eine (hoffentlich) spannende Geschichte + + + Alles cool! + + +
+<h2>Oder: Über das verborgene Wirken einer "Psy"-Sadisten-Crew und ihrer einflussreichen Mitglieder</h2>
+
+.. deren **Sebastian Fischer** dem Autor dieser Zeilen vor knapp 1.390 Tagen eine **k&uuml;nstliche Schizophrenie** induziert,
+um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten Tod zu qu&auml;len.
+
+<h3>Warum hier trotzdem einer schreibt und eine recht komplexe wendungsreiche Geschichte (leider!) im Schreiben immer realer wird:</h3>
 
 <!--
 > [!NOTE]
