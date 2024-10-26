@@ -62,7 +62,13 @@ version: fr., 25. oct. 2024
 >   (m&uuml;ss&shy;te eigent&shy;lich
 >   sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d)
 > * **Daten-Integrit&auml;t nicht sicher!**
-> * erneuter Upload
+> * erneuter **Upload**
+> * **erneute Manipulation** (2 Mal)
+    sha256 0a76b85ff7767f9c2dcdab72890854f1ebea45359564a6bcdbae5aea295d6c5a und
+    sha256 5505523390453fedb16a1ccd124ef9c7b857ff608e43d62d6b3d8a1fe97d22ff)
+> * Daten-Integrit&auml;t bei GitHub vorerst nicht sichergestellt!
+> * betr. Dateien bitte (erstmal) von meinem Server ziehen (https://0vv1.io/stlk)
+>   bis Abkl&auml;rung erfolgt
 
 > [!NOTE]
 > Ich werde hier vor&shy;erst nie&shy;man&shy;den(!) mehr
