@@ -54,10 +54,12 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > Ich habe mich schon oft gefragt,
 > wie weit ihr eigentlich geht.
 > Eure Skrupellosigkeit hat mich immer wieder &uuml;berrascht.
+> 
 > **GitHub Inc. kann die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten**?!
 > Warum sollten sie das nicht k&ouml;nnen?
 > Hochgeladene Dateien, abgelegt auf (internen) Servern,
 > &auml;ndern alle f&uuml;nf Minuten ihre Pr&uuml;fsumme?  
+>
 > Warum wei&szlig; ich,
 > so genau wie die letzten vier Jahre nicht,
 > dass das genau so wahr ist?
@@ -69,7 +71,8 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > Warum passt das denn sooo gut..
 > 
 > Nach Monaten des (erneuten) Zweifelns an meiner Wahrnehmung:
-> Ich meine, was soll es sonst sein?
+> Ich meine, was soll es sonst sein,
+> wenn nicht meine kaputte Wahrnehmung?
 > Dass sich Dateien auf Servern in Microsofts eigenen Rechenzentren ver&auml;ndern?
 > Ganz bestimmt!
 > Und n&auml;chster Halt dann die Geschlossene. :zany_face:
@@ -79,14 +82,16 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > [**Anm.** 26.10. 01:50]
 > * die ent&shy;spr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2 Mal
 >   in&shy;tern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
-> * jetzi&shy;ger Down&shy;load  mit Pr&uuml;f&shy;sum&shy;me  
->   `sha256 5b056140d0b43de09fbb8905f8295c8dd89fb450624df51500f1c695fbbf3155`
->   (m&uuml;ss&shy;te eigent&shy;lich  
+> * Down&shy;load  mit Pr&uuml;f&shy;sum&shy;me  
+>   `sha256 5b056140d0b43de09fbb8905f8295c8dd89fb450624df51500f1c695fbbf3155`,
+>   m&uuml;ss&shy;te aber eigent&shy;lich  
 >   `sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d`
->   sein)
-> * **Da&shy;ten-In&shy;te&shy;gri&shy;t&auml;t nicht ge&shy;ge&shy;ben!**
+>   sein!
+> * Was ist das denn?
+> * **nicht in&shy;te&shy;ger?!**
+> * H&auml;?
 > * er&shy;neu&shy;ter **Upload**
-> * **er&shy;neu&shy;te Mani&shy;pu&shy;la&shy;tion**
+> * **er&shy;neu&shy;te Mani&shy;pu&shy;la&shy;tion**(?)
 >   (un&shy;z&auml;li&shy;ge Ma&shy;le, ein paar Pr&uuml;f&shy;sum&shy;men:  
 >   `sha256 0a76b85ff7767f9c2dcdab72890854f1ebea45359564a6bcdbae5aea295d6c5a`,  
 >   `sha256 5505523390453fedb16a1ccd124ef9c7b857ff608e43d62d6b3d8a1fe97d22ff`,  
