@@ -57,16 +57,25 @@ version: fr., 25. oct. 2024
 > [**Anm.** 26.10. 01:50]
 > * die entspr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2 Mal
 >   intern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
-> * Download von etwa 01:40 mit Pr&uuml;summe
->   sha256 5b056140d0b43de09fbb8905f8295c8dd89fb450624df51500f1c695fbbf3155
->   (m&uuml;ss&shy;te eigent&shy;lich
->   sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d)
+> * Download von etwa 01:40 mit Pr&uuml;summe  
+>   `sha256 5b056140d0b43de09fbb8905f8295c8dd89fb450624df51500f1c695fbbf3155`
+>   (m&uuml;ss&shy;te eigent&shy;lich  
+>   `sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d`
+>   sein)
 > * **Daten-Integrit&auml;t nicht sicher!**
 > * erneuter **Upload**
-> * **erneute Manipulation** (2 Mal)
-    sha256 0a76b85ff7767f9c2dcdab72890854f1ebea45359564a6bcdbae5aea295d6c5a und
-    sha256 5505523390453fedb16a1ccd124ef9c7b857ff608e43d62d6b3d8a1fe97d22ff)
-> * Daten-Integrit&auml;t bei GitHub vorerst nicht sichergestellt!
+> * **erneute Manipulation** (unz&auml;lige Male,
+>   ein paar Pr&uuml;fsummen:  
+    `sha256 0a76b85ff7767f9c2dcdab72890854f1ebea45359564a6bcdbae5aea295d6c5a`,  
+    `sha256 5505523390453fedb16a1ccd124ef9c7b857ff608e43d62d6b3d8a1fe97d22ff`,  
+>   `sha256 e678f56c2b0634ce95010fab688a77bb51a2d7a151f56685e4c8447a7044eb0e`,  
+>   `sha256 7474c95a8d885ec748895f3fbfd78d520f3d92f86a44245210aea32fb28cd9bc`,  
+>   `sha256 8a312d6db6d8db709e5da3e37962293443413440feb90371cc467a7666980cd7`,  
+>   `sha256 b47d907ec8da5feda5d6e5dfdf006232cff4f0bd4985d53ab86b0e24aed64e01`)
+> * Daten-**Integrit&auml;t bei GitHub**(?) Inc. vorerst **nicht sicher**gestellt!
+>   (Nicht euer Ernst oder?!
+>   Ich glaube,
+>   das war kein so geiler Move.)
 > * betr. Dateien bitte (erstmal) von meinem Server ziehen (https://0vv1.io/stlk)
 >   bis Abkl&auml;rung erfolgt
 
