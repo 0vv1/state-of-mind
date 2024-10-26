@@ -53,12 +53,10 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > Wie weit w&uuml;rdet ihr noch gehen?
 > Ohne Skrupel.
 > Das Wort kennt ihr gar nicht.
-> 
-<!-- > Dieser reudige, menschenverachtende, stumpfe, die Sch&ouml;pfung verneinende Duktus in der Kommunikation.  
+> <!-- > Dieser reudige, menschenverachtende, stumpfe, die Sch&ouml;pfung verneinende Duktus in der Kommunikation.  
 > Ihr missachtet die W&uuml;rde des einzelnen.
 > Auch eure eigene.  
-> In eurer N&auml;he ist alles egal.
---> 
+> In eurer N&auml;he ist alles egal. --> 
 > **GitHub Inc. kann die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten**?
 > Warum sollten sie das nicht k&ouml;nnen?
 > Hochgeladene Dateien, abgelegt auf (internen) Servern,
@@ -70,6 +68,7 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > Dass eine liebe,
 > von euch geschickte,
 > Fee sich hier um den Kinder- & Jugendschutz k&uuml;mmert.  
+> 
 <!-- > **Das erste Mal W&uuml;rde!**
 > Was ist das denn f&uuml;r ein geiles M&auml;rchen?
 > Warum passt das denn sooo gut..
@@ -81,8 +80,7 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > Ganz bestimmt!
 > Und n&auml;chster Halt dann die Geschlossene. :zany_face:
 > Naja, zur sog. Sicherheit, zumindest bei den Audio-Up&shy;loads dann halt
-> [Pr&uuml;f&shy;sum&shy;men](./prufsummen.audio-recs.sha256).
-> 
+> [Pr&uuml;f&shy;sum&shy;men](./prufsummen.audio-recs.sha256). -->
 > [**Anm.** 26.10. 01:50]
 > * die ent&shy;spr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2 Mal
 >   in&shy;tern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
@@ -102,8 +100,7 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 >   `sha256 7474c95a8d885ec748895f3fbfd78d520f3d92f86a44245210aea32fb28cd9bc`,  
 >   `sha256 8a312d6db6d8db709e5da3e37962293443413440feb90371cc467a7666980cd7`,  
 >   `sha256 b47d907ec8da5feda5d6e5dfdf006232cff4f0bd4985d53ab86b0e24aed64e01`)
->   
-> * **Integrit&auml;t von Daten bei GitHub**(?) Inc.
+>   <!-- > * **Integrit&auml;t von Daten bei GitHub**(?) Inc.
 >   (vorerst) **nicht gegeben**!  
 >   (Nicht euer Ernst oder?!
 >   Ich glaube,
