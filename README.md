@@ -9,10 +9,7 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: sa, 26. oct. 2024  
 ```
 
-<h1>Wie man die In&shy;duk&shy;tion einer k&uuml;nst&shy;lich&shy;en
-         Schi&shy;zo&shy;phre&shy;nie &uuml;ber&shy;lebt und
-         sich zum Dank den Un&shy;mut einer durch&shy;ge&shy;knall&shy;ten
-         Sa&shy;dis&shy;ten-Gang ran&shy;zieht</h1>
+<h1>Notizen über <em>Manipulation</em> allgemein, vor allem aber via (digitaler) <em>Kommunikation</em> und geschickte, jedoch leider immer skrupelloser werdender <em>akustische</em>r <em>Beinflussung</em> von (wohl auch Massen-)<em>Wahrnehmung</em></h1>
 
 > [!NOTE]
 > [**Motivation**]
