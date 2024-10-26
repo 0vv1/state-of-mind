@@ -93,10 +93,9 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 >   sein!
 > * Ist es aber nicht. 
 > * Was ist das denn?!
-> * H&auml;?
 > * er&shy;neu&shy;ter **Upload**
 > * **er&shy;neu&shy;te Mani&shy;pu&shy;la&shy;tion**(?)
->   (un&shy;z&auml;li&shy;ge Ma&shy;le, ein paar Pr&uuml;f&shy;sum&shy;men:  
+>   (un&shy;z&auml;hli&shy;ge Ma&shy;le, ein paar Pr&uuml;f&shy;sum&shy;men:  
 >   `sha256 0a76b85ff7767f9c2dcdab72890854f1ebea45359564a6bcdbae5aea295d6c5a`,  
 >   `sha256 5505523390453fedb16a1ccd124ef9c7b857ff608e43d62d6b3d8a1fe97d22ff`,  
 >   `sha256 e678f56c2b0634ce95010fab688a77bb51a2d7a151f56685e4c8447a7044eb0e`,  
@@ -105,16 +104,66 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 >   `sha256 b47d907ec8da5feda5d6e5dfdf006232cff4f0bd4985d53ab86b0e24aed64e01`)
 >   
 > * **Integrit&auml;t von Daten bei GitHub**(?) Inc.
->   (vorerst) **nicht gegeben**!
+>   (vorerst) **nicht gegeben**!  
 >   (Nicht euer Ernst oder?!
 >   Ich glaube,
 >   das war kein so geiler Move.)
-> * betr. Dateien werden (erstmal) von einer VM bei [hetzner.com] bereitgestellt
+> * betr. Dateien werden (erstmal) von einer VM bei hetzner.com bereitgestellt
 >   (auch dort gab's Probleme mit dem Wirken der Crew,
->   aber ich hab jetzt erst mal nichts anderes) (https://0vv1.io/stlk)
->   bis Abkl&auml;rung erfolgt
->   (siehe [Support-Ticket](https://support.github.com/ticket/personal/0/3067960))
+>   aber ich hab jetzt erst mal nichts anderes): https://0vv1.io/stlk
+> * Abkl&auml;rung via
+>   [Support-Ticket #3067960](https://support.github.com/ticket/personal/0/3067960)
+> * und die betreffende erste Datei (eigentlich Daft Punks)
+>   "[Touch](https://0vv1.io/stlk/2024-10-24_05-06_psy-terror-probe.mp3)",
+>   aber im Chill-Out-Mix
+> * nicht lachen, der Gem&uuml;tszustand d&uuml;rfte f&uuml;r Leute, die diese Trance
+>   noch nie f&uuml;r ein paar Std. gemacht haben, einigerma&szlig;en skurril wirken 
 
+<!--
+~~Darauf habe ich lange gewartet:~~ <sup>Jo!</sup> ~~Oder auch nicht.~~ DOCH!
+Jetze! ~~Es bleibt~~ ein ~~wohl modifiziertes~~ [kurzes Sample](./2024-10-24_05-06_psy-terror-probe.mp3),
+das hoff&shy;ent&shy;lich zeigt,
+wie per&shy;fi&shy;de und orches&shy;triert die&shy;ser Ter&shy;ror zur Aus&shy;f&uuml;h&shy;rung kommt.
+~~Wait a sec! OK, wenigstens der Grundbau ist dann doch ein variabler Text.~~ -->
+
+[**24.10.**]
+Ich habe mich krass ge&auml;r&shy;gert,
+dass die mich noch mal so hooken konn&shy;ten.  
+Des&shy;we&shy;gen war ich heute so mies drauf.
+
+Das wurde lei&shy;der eine heftige Num&shy;mer,
+die dann nat&uuml;r&shy;lich l&auml;n&shy;ger dauert als der kurze Aus&shy;schnitt hier,
+Eigentlich handelt es sich um einen beliebigen Track (hier Daft Punk "Touch" auf YouTube),
+wenn man nicht aufpasst,
+ger&auml;t man in einen Loop/Trance,
+dann mutiert der Track im Lautsprecher(?) oder online(?).
+Man h&ouml;rt hier auch endlich mal ein biss&shy;chen was von dem,
+was ich Ge&shy;dan&shy;ken-Souff&shy;lie&shy;ren nenne,
+dieses Vor&shy;ge&shy;brab&shy;bel gerade noch ober&shy;halb Wahr&shy;neh&shy;mungs&shy;schwelle.
+Am besten mal Kopfh&ouml;rer mit betonten Mitten.
+Diese kurze kreative L&uuml;cke bei 2:23,
+damit ich auch mal "zu Wort komme",
+mache nicht ich(!),
+das macht eine lie&shy;be Fee,
+alles gut ab&shy;ge&shy;stimmt.
+
+Das Ding macht man au&szlig;erdem nicht allein.  
+Das braucht m.&#8239;M.&#8239;n. Profiling, Psychologen, Sound Engineers, vielleicht 'nen
+KI-Dude und sicher Leute, die noch eben irgendwelche Systeme/Devices
+aufmachen/hacken.  
+
+> [!IMPORTANT]
+> [**25.10.**]
+> Und noch mehr zum Thema:  
+> Die Akustik mag "besonders" sein,  
+> das gesamte "H&ouml;rerlebnis" aber ist Kontext-sensitiv und  
+> stimmungsabh&auml;ngig.
+> Das kann man selber ausprobieren.
+> Dann ergeben sich verschiedenste deutsche Texte.   
+> Aer die Reaktion des H&ouml;renden ist damit f&uuml;r Au&szlig;enstehende mind. unverst&auml;ndlich, im besten Fall l&auml;cherlich bis maximal bedrohlich.  
+> (Deshalb wird man stundenlang emotional getriggert und gepusht)
+
+<!--
 > [!NOTE]
 > Ich werde hier vor&shy;erst nie&shy;man&shy;den(!) mehr
 > be&shy;lei&shy;di&shy;gen.
@@ -124,7 +173,7 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > In dem Fall h&auml;tte ich hier
 > dra&shy;ma&shy;ti&shy;scher&shy;wei&shy;se Dinge
 > unter&shy;sch&auml;tzt.  
-> Oder ist das 'nen weir&shy;der Spa&szlig;?!
+> Oder ist das 'nen weir&shy;der Spa&szlig;?! -->
 
 > [!WARNING]
 > [**Gefahrenabsch&auml;tzung**]
@@ -174,49 +223,6 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 >        Alex
 > </details>
 
-[**24.10.**]
-~~Darauf habe ich lange gewartet:~~ <sup>Jo!</sup> ~~Oder auch nicht.~~ DOCH!
-Jetze! ~~Es bleibt~~ ein ~~wohl modifiziertes~~ [kurzes Sample](./2024-10-24_05-06_psy-terror-probe.mp3),
-das hoff&shy;ent&shy;lich zeigt,
-wie per&shy;fi&shy;de und orches&shy;triert die&shy;ser Ter&shy;ror zur Aus&shy;f&uuml;h&shy;rung kommt.
-~~Wait a sec! OK, wenigstens der Grundbau ist dann doch ein variabler Text.~~
-
-Ich habe mich krass ge&auml;r&shy;gert,
-dass die mich noch mal so hooken konn&shy;ten.  
-Des&shy;we&shy;gen war ich heute so mies drauf.
-
-Das wurde lei&shy;der eine heftige Num&shy;mer,
-die dann nat&uuml;r&shy;lich l&auml;n&shy;ger dauert als der kurze Aus&shy;schnitt hier,
-am ehesten mit einer Art Trance ver&shy;gleich&shy;bar.  
-Eigentlich handelt es sich um einen beliebigen Track (hier Daft Punk "Touch" auf YouTube),
-wenn man nicht aufpasst,
-ger&auml;t man in einen Loop/Trance,
-dann mutiert der Track im Lautsprecher(?) oder online(?).
-Man h&ouml;rt hier auch endlich mal ein biss&shy;chen was von dem,
-was ich Ge&shy;dan&shy;ken-Souff&shy;lie&shy;ren nenne,
-dieses Vor&shy;ge&shy;brab&shy;bel gerade noch ober&shy;halb Wahr&shy;neh&shy;mungs&shy;schwelle.
-Am besten mal Kopfh&ouml;rer mit betonten Mitten.
-Diese kurze kreative L&uuml;cke bei 2:23,
-damit ich auch mal "zu Wort komme",
-mache nicht ich(!),
-das macht eine lie&shy;be Fee,
-alles gut ab&shy;ge&shy;stimmt.
-
-Das Ding macht man au&szlig;erdem nicht allein.  
-Das braucht m.&#8239;M.&#8239;n. Profiling, Psychologen, Sound Engineers, vielleicht 'nen
-KI-Dude und sicher Leute, die noch eben irgendwelche Systeme/Devices
-aufmachen/hacken.  
-
-> [!IMPORTANT]
-> [**25.10.**]
-> Vielleicht auch nicht?
-> 
-> Was ist, wenn die Akustik zwar "besonders" ist,  
-> das "H&ouml;rerlebnis" aber Kontext-sensitiv und  
-> stimmungsabh&auml;ngig und  
-> die Reaktion des H&ouml;renden damit f&uuml;r Au&szlig;enstehende im besten Fall l&auml;cherlich bis maximal bedrohlich.  
-> (Vielleicht deshalb das stundenlange emotionale Triggern?)  
-> 
 > [**Anm.**]
 > Bitte sagt mir nicht, ihr zeigt das anderen Leuten!  
 > Und lasst den nervigen Kontext weg?!  
