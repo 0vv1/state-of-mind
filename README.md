@@ -9,8 +9,11 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: sa, 26. oct. 2024  
 ```
 
-<h1>Notizen über <em>Manipulation</em> allgemein, vor allem aber via (digitaler) <em>Kommunikation</em> und geschickte, jedoch leider immer skrupelloser werdender <em>akustische</em>r <em>Beinflussung</em> von (wohl auch Massen-)<em>Wahrnehmung</em></h1>
+<h1>Beobachtungen zum Gegensatzpaar Kommunikation/Isolation und der Wirkmächtigkeit akustischer Manipulation von (wohl auch Massen-)Wahrnehmung (und darüber hinaus)</h1>
 
+## + + + Leute, das ist entweder fremder Müll, den ich "nur" wegdokumentiere ODER eine ausgedachte Geschichte + + + Alles cool! + + +
+
+<!--
 > [!NOTE]
 > [**Motivation**]
 > Ich werde vier Meter &uuml;ber mei&shy;nem Kopf kei&shy;ne
@@ -34,7 +37,7 @@ version: sa, 26. oct. 2024
 > ge&shy;schwei&shy;ge denn Aus&shy;&uuml;bung von Zwang,
 > an&shy;ge&shy;zeigt wer&shy;den.
 > Ich ver&shy;stehe die&shy;se Pro&shy;vo&shy;ka&shy;tion auch nicht,
-> das kann doch un&shy;m&ouml;g&shy;lich ernst ge&shy;meint sein?
+> das kann doch un&shy;m&ouml;g&shy;lich ernst ge&shy;meint sein? -->
 
 > [!CAUTION]
 > Gut, wenn Recor&shy;dings nach(!) Up&shy;load noch mal
