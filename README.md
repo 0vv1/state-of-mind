@@ -91,8 +91,8 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 >   m&uuml;ss&shy;te aber eigent&shy;lich  
 >   `sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d`
 >   sein!
-> * Was ist das denn?
-> * nicht in&shy;te&shy;ger?!**
+> * Ist es aber nicht. 
+> * Was ist das denn?!
 > * H&auml;?
 > * er&shy;neu&shy;ter **Upload**
 > * **er&shy;neu&shy;te Mani&shy;pu&shy;la&shy;tion**(?)
