@@ -11,7 +11,7 @@ version: sa, 26. oct. 2024
 
 <h1>Beobachtungen zum Gegensatzpaar Kommunikation/Isolation und der Wirkmächtigkeit akustischer Manipulation von (wohl auch Massen-)Wahrnehmung (und darüber hinaus)</h1>
 
-## + + + Leute, das ist entweder fremder Müll, den ich "nur" wegdokumentiere ODER eine ausgedachte Geschichte + + + Alles cool! + + +
+## + + + Leute, das ist entweder fremder Müll, den ich "nur" wegdokumentiere ODER eine (hoffentlich) spannende Geschichte + + + Alles cool! + + +
 
 <!--
 > [!NOTE]
