@@ -9,9 +9,9 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: sa, 26. oct. 2024  
 ```
 
-<h1>Beobachtungen zum Gegensatzpaar Kommunikation/Isolation und der Wirkmächtigkeit akustischer Manipulation von (wohl auch Massen-)Wahrnehmung (und darüber hinaus)</h1>
+<h1>Beobachtungen zum Gegensatzpaar <b>Kommunikation</b>/<b>Isolation</b> und der Wirkmächtigkeit <b>akustische</b>r <b>Manipulation</b> von (wohl auch Massen-)Wahrnehmung (und darüber hinaus)</h1>
 
-## + + + Leute, das ist entweder fremder Müll, den ich "nur" wegdokumentiere ODER eine (hoffentlich) spannende Geschichte + + + Alles cool! + + +
+### + + + Leute, das ist entweder fremder Müll, den ich "nur" wegdokumentiere ODER eine (hoffentlich) spannende Geschichte + + + Alles cool! + + +
 
 <!--
 > [!NOTE]
@@ -39,42 +39,60 @@ version: sa, 26. oct. 2024
 > Ich ver&shy;stehe die&shy;se Pro&shy;vo&shy;ka&shy;tion auch nicht,
 > das kann doch un&shy;m&ouml;g&shy;lich ernst ge&shy;meint sein? -->
 
+<h2><a href="https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit">Datenintegrit&auml;t</a> bei GitHub Inc. nicht gegeben</h2>
+
 > [!CAUTION]
-> Gut, wenn Recor&shy;dings nach(!) Up&shy;load noch mal
-> be&shy;rei&shy;nigt wer&shy;den,
-> soll&shy;ten sich &Uuml;ber&shy;ra&shy;schun&shy;gen in en&shy;gen
-> Gren&shy;zen hal&shy;ten.  
-> Viel&shy;leicht Jugend&shy;schutz.. :smirk:
+> **Ernsthaft**?!
+> Ich habe mich schon oft gefragt,
+> wie weit ihr eigentlich geht.
+> Eure Skrupellosigkeit hat mich immer wieder &uuml;berrascht.
+> Die **Datenintegrit&auml;t bei GitHub ist nicht gegeben**?!
+> Hochgeladene Dateien, abgelegt auf (internen) Servern,
+> &auml;ndern alle f&uuml;nf Minuten ihre Pr&uuml;fsumme?  
+> Warum wei&szlig; ich,
+> so genau wie die letzten vier Jahre nicht,
+> dass es so ist?
+> Dass eine liebe,
+> von euch geschickte,
+> Fee sich hier um den Kinder- & Jugendschutz k&uuml;mmert.
+> **Das erste Mal W&uuml;rde!**
+> Was ist das denn f&uuml;r ein geiles M&auml;rchen?
+> Warum passt das denn sooo gut..
 > 
-> Audio-Up&shy;loads (Bsp.
-> [Psycho-Terror-Probe](./2024-10-24_05-06_psy-terror-probe.mp3))
-> nur noch mit
+> Nach Monaten des (erneuten) Zweifelns an meiner Wahrnehmung:
+> Ich meine, was soll es sonst sein?
+> Dass sich Dateien auf Servern in Microsofts eigenen Rechenzentren ver&auml;ndern?
+> Ganz bestimmt!
+> Und n&auml;chster Halt dann die Geschlossene. :zany_face:
+> Naja, zur sog. Sicherheit, zumindest bei den Audio-Up&shy;loads dann halt
 > [Pr&uuml;f&shy;sum&shy;men](./prufsummen.audio-recs.sha256).
-> Schau&shy;en wir mal..
->
+> 
 > [**Anm.** 26.10. 01:50]
-> * die entspr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2 Mal
->   intern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
-> * Download von etwa 01:40 mit Pr&uuml;summe  
+> * die ent&shy;spr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2 Mal
+>   in&shy;tern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
+> * jetzi&shy;ger Down&shy;load  mit Pr&uuml;f&shy;sum&shy;me  
 >   `sha256 5b056140d0b43de09fbb8905f8295c8dd89fb450624df51500f1c695fbbf3155`
 >   (m&uuml;ss&shy;te eigent&shy;lich  
 >   `sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d`
 >   sein)
-> * **Daten-Integrit&auml;t nicht sicher!**
-> * erneuter **Upload**
-> * **erneute Manipulation** (unz&auml;lige Male,
->   ein paar Pr&uuml;fsummen:  
-    `sha256 0a76b85ff7767f9c2dcdab72890854f1ebea45359564a6bcdbae5aea295d6c5a`,  
-    `sha256 5505523390453fedb16a1ccd124ef9c7b857ff608e43d62d6b3d8a1fe97d22ff`,  
+> * **Da&shy;ten-In&shy;te&shy;gri&shy;t&auml;t nicht ge&shy;ge&shy;ben!**
+> * er&shy;neu&shy;ter **Upload**
+> * **er&shy;neu&shy;te Mani&shy;pu&shy;la&shy;tion**
+>   (un&shy;z&auml;li&shy;ge Ma&shy;le, ein paar Pr&uuml;f&shy;sum&shy;men:  
+>   `sha256 0a76b85ff7767f9c2dcdab72890854f1ebea45359564a6bcdbae5aea295d6c5a`,  
+>   `sha256 5505523390453fedb16a1ccd124ef9c7b857ff608e43d62d6b3d8a1fe97d22ff`,  
 >   `sha256 e678f56c2b0634ce95010fab688a77bb51a2d7a151f56685e4c8447a7044eb0e`,  
 >   `sha256 7474c95a8d885ec748895f3fbfd78d520f3d92f86a44245210aea32fb28cd9bc`,  
 >   `sha256 8a312d6db6d8db709e5da3e37962293443413440feb90371cc467a7666980cd7`,  
 >   `sha256 b47d907ec8da5feda5d6e5dfdf006232cff4f0bd4985d53ab86b0e24aed64e01`)
-> * Daten-**Integrit&auml;t bei GitHub**(?) Inc. vorerst **nicht sicher**gestellt!
+> * **Integrit&auml;t von Daten bei GitHub**(?) Inc.
+>   (vorerst) **nicht gegeben**!
 >   (Nicht euer Ernst oder?!
 >   Ich glaube,
 >   das war kein so geiler Move.)
-> * betr. Dateien bitte (erstmal) von meinem Server ziehen (https://0vv1.io/stlk)
+> * betr. Dateien werden (erstmal) von einer VM bei hetzner.com bereitgestellt
+>   (auch dort gab's Probleme mit dem Wirken der Crew,
+>   aber ich hab jetzt erst mal nichts anderes) (https://0vv1.io/stlk)
 >   bis Abkl&auml;rung erfolgt
 >   (siehe [Support-Ticket](https://support.github.com/ticket/personal/0/3067960))
 
