@@ -53,6 +53,16 @@ version: fr., 25. oct. 2024
 > nur noch mit
 > [Pr&uuml;f&shy;sum&shy;men](./prufsummen.audio-recs.sha256).
 > Schau&shy;en wir mal..
+>
+> [**Anm.** 26.10. 01:50]
+> * die entspr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2 Mal
+>   intern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
+> * Download von etwa 01:40 mit Pr&uuml;summe
+>   sha256 5b056140d0b43de09fbb8905f8295c8dd89fb450624df51500f1c695fbbf3155
+>   (m&uuml;ss&shy;te eigent&shy;lich
+>   sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d)
+> * **Daten-Integrit&auml;t nicht sicher!**
+> * erneuter Upload
 
 > [!NOTE]
 > Ich werde hier vor&shy;erst nie&shy;man&shy;den(!) mehr
