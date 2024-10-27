@@ -25,7 +25,7 @@ version: so, 27. oct. 2024
     der Wirkmächtigkeit <b>akustische</b>r <b>Manipulation</b> von
     (wohl auch Massen-)Wahrnehmung<br />
     <sub><sup>oder: Über das verborgene Wirken einer imaginierten
-	"Psy"-Sadisten-Crew und ihrer einflussreichen Mitglieder</sup></sub></h1>
+"Psy"-Sadisten-Crew und ihrer einflussreichen Mitglieder</sup></sub></h1>
 
 .. deren Herr F. aus Reinickendorf, Spezialist f&uuml;r die qualvollste Ermordung von Schizophrenie-Patienten, dem Autor dieser Zeilen vor knapp 1.390 Tagen eine **k&uuml;nstliche Schizophrenie** induzierte,
 	um ihn als sein Todes-Opfer Nr. 17 mit Schizophrenie-Diagnose so langsam wie nur m&ouml;glich in den quasi sicheren Tod zu foltern.  
@@ -33,7 +33,7 @@ version: so, 27. oct. 2024
     die (leider!) mit jeder Zeile realer wird?
 	
 Er hat es nicht geschafft.
-Stattdessen habe ich Ende August mit dem Schreiben dieser zwar **zeitaufw&auml;ndige**n,
+	Stattdessen habe ich Ende August mit dem Schreiben dieser zwar **zeitaufw&auml;ndige**n,
 	aber (wie sich bald herausstellte) sehr notwendigen **Dokumentation** angefangen.
 
 Neben ihrer lebensversichernden Funktion tut mir ihre sorgf&auml;ltige Anfertigung au&szlig;erdem gut
