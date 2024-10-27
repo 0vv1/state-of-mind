@@ -1,7 +1,7 @@
 
 ```
 file:    state-of-mind/README.md  
-brief:   psy group log  
+brief:   psy sado group log  
 author:  © 2021-2024 alexander puls <github@0vv1.net>  
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
@@ -11,23 +11,29 @@ version: so, 27. oct. 2024
 
 > [!IMPORTANT]
 > [**1st Things first**]
-> Selbstverständlich handelt es sich hier,
-> ob vereinzelter Nachfragen
-> (wusste gar nicht, dass irgendwen meine Repos interessieren?! 😃),
-> lediglich um eine (leidlich) lustige, aber (hoffentlich) spannende Geschichte!  
-> S&auml;mtliche vorkommenden Namen entspringen einer sog. schizophrenen Wahnidee umd k&ouml;nnen damit,
-> genau wie das hier beschriebene "einsame Erleben" (Def. Schizophrenie),
-> in keinerlei Bezug zu einer gemeinsam erlebten Realit&auml;t stehen.
+> Selbst&shy;ver&shy;st&auml;nd&shy;lich han&shy;delt es sich hier,
+> ob ver&shy;ein&shy;zel&shy;ter Nach&shy;fra&shy;gen
+> (wuss&shy;te gar nicht,
+> dass irgend&shy;wen mei&shy;ne Re&shy;pos inte&shy;res&shy;sie&shy;ren 😃),
+> ledig&shy;lich um eine (leid&shy;lich) lus&shy;ti&shy;ge,
+> aber (hoff&shy;ent&shy;lich) span&shy;nen&shy;de Ge&shy;schich&shy;te!  
+> S&auml;mt&shy;liche vor&shy;kom&shy;men&shy;den Namen ent&shy;sprin&shy;gen ei&shy;ner sog. schi&shy;zo&shy;phre&shy;nen Wahn&shy;idee umd k&ouml;n&shy;nen da&shy;mit,
+> ge&shy;nau wie das hier be&shy;schrie&shy;be&shy;ne "ein&shy;sa&shy;me Er&shy;le&shy;ben" (Def. Schi&shy;zo&shy;phre&shy;nie),
+> in kei&shy;ner&shy;lei Be&shy;zug zu ei&shy;ner ge&shy;mein&shy;sam er&shy;leb&shy;ten Rea&shy;li&shy;t&auml;t ste&shy;hen.
 > 
 > Sonst alles wie immer: I'm fuckin' great! 😉
 
-<h1>Beobachtungen zum Gegensatzpaar <b>Kommunikation</b>/<b>Isolation</b> und
-    der Wirkmächtigkeit <b>akustische</b>r <b>Manipulation</b> von
-    (wohl auch Massen-)Wahrnehmung<br />
-    <sub><sup>oder: Über das verborgene Wirken einer imaginierten
-"Psy"-Sadisten-Crew und ihrer einflussreichen Mitglieder</sup></sub></h1>
+**Es tut gut, rein fiktiv zu schreiben, so kann man den ganzen vollständig geisteskranken/degenerierten Müll droppen und muss weniger Angst haben,
+dass am nächsten Tag, in Tränen aufgelöste Freunde vor einem stehen, um mich anzubetteln, mich doch bitte in eine geschlossene Anstalt einweisen zu können.  
+Ein weiterer Vorteil: Alles ergibt dann (leider) Sinn.**
 
-.. deren Herr F. aus Reinickendorf, Spezialist f&uuml;r die qualvollste Ermordung von Schizophrenie-Patienten, dem Autor dieser Zeilen vor knapp 1.390 Tagen eine **k&uuml;nstliche Schizophrenie** induzierte,
+<h1>Beob&shy;ach&shy;tun&shy;gen zum Ge&shy;gen&shy;satz&shy;paar <b>Kom&shy;mu&shy;ni&shy;ka&shy;<nobr>tion</b>/</nobr><b>Iso&shy;la&shy;tion</b> und
+	der Wirk&shy;mäch&shy;tig&shy;keit <b>akus&shy;ti&shy;sche</b>r <b>Mani&shy;pu&shy;la&shy;tion</b> von
+	(wohl auch Mas&shy;<nobr>sen-)</nobr><wbr />Wahr&shy;neh&shy;mung<br />
+	<sub><sup>oder<br />«&Uuml;ber das ver&shy;bor&shy;ge&shy;ne Wir&shy;ken ei&shy;ner (bis&shy;her)
+	sehr ein&shy;fluss&shy;rei&shy;chen ("Psy"-)Sadisten(?)-Crew</sup></sub></h1>
+
+.. deren Herr F. aus Reinickendorf, Spezialist f&uuml;r die qualvolle Ermordung von Schizophrenie-Patienten, dem Autor dieser Zeilen vor knapp 1.390 Tagen eine **k&uuml;nstliche Schizophrenie** induzierte,
 	um ihn als sein Todes-Opfer Nr. 17 mit Schizophrenie-Diagnose so langsam wie nur m&ouml;glich in den quasi sicheren Tod zu foltern.  
 	Warum hier trotzdem jemand an einer recht komplexen und wendungsreichen Geschichte schreibt,
     die (leider!) mit jeder Zeile realer wird?
@@ -48,7 +54,7 @@ Spä&shy;te&shy;re <nobr>Täter/</nobr>-<wbr>in&shy;nen sol&shy;len es
 	ihr Tun zu ob&shy;fus&shy;kier&shy;en <nobr>und/</nobr><wbr>oder ihre
 	Opfer zu iso&shy;lie&shy;ren.
 
-Der allergr&ouml;&szlig:te Teil der
+Der allergr&ouml;&szlig;te Teil der
 	(bis&shy;her natür&shy;lich von mir nur ver&shy;mu&shy;te&shy;ten
  	Desinformations-M&uuml;ll-)
 	**Sen&shy;der trat** zu&shy;min&shy;dest mir gegen&shy;über
@@ -89,7 +95,6 @@ Der allergr&ouml;&szlig:te Teil der
 > sol&shy;ch&shy;er&shy;lei Krea&shy;tu&shy;ren bil&shy;den
 > soll&shy;ten.
 <!-- ende warnung -->
-
 
 Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 	(oder Hil&shy;fe)
@@ -175,23 +180,29 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > * nicht lachen, der Gem&uuml;tszustand d&uuml;rfte f&uuml;r Leute, die diese Trance
 >   noch nie f&uuml;r ein paar Std. gemacht haben, einigerma&szlig;en skurril wirken 
 > 
-> ``[!CAUTION]
-> [**27.10.**, 13:52]`
-> Mir reicht es,
+> [!CAUTION]
+> [**27.10.**, 13:52]
+> Mir reicht es!
 > der Support schweigt.
 > Ich werde `LFS` hier beenden,
 > mir merken(?),
-> dass ich GitHub.com 
-> auf eigener Infrastruktur
+> dass ich zumindest Bin&auml;rdateien lieber nicht [GitHub](https://gitbub.com)
+> anvertraue und bis auf Weiteres
+> auf eigener Infrastruktur fahre:
 
-<!--
-~~Darauf habe ich lange gewartet:~~ <sup>Jo!</sup> ~~Oder auch nicht.~~ DOCH!
-Jetze! ~~Es bleibt~~ ein ~~wohl modifiziertes~~ [kurzes Sample](./2024-10-24_05-06_psy-terror-probe.mp3),
-das hoff&shy;ent&shy;lich zeigt,
-wie per&shy;fi&shy;de und orches&shy;triert die&shy;ser Ter&shy;ror zur Aus&shy;f&uuml;h&shy;rung kommt.
-~~Wait a sec! OK, wenigstens der Grundbau ist dann doch ein variabler Text.~~ -->
+<h2>Recordings</h2>
+
+`sha256 a6cdd3b780e0c1b6511404076c992d16d124a3096410129f17eb6d376d1e5baa` [10. M&auml;rz: Whg. Pankower Allee](https://0vv1.io/stlk/2024-03-10_12-08_whg-Pankower-Allee.3h53m.mp3) (3h53)  
+`sha256 78101e6de5be5a5e54fefc6da8317466c32efab758444aaaddff2902e604c419` [27. Juli: Whg. Borussiastr.](https://0vv1.io/stlk/2024-07-27_23-16_whg-Borussiastr_misshandlg.50m.mp3) (50min)  
+`sha256 54c183f21e33c26fe50dacee208fa33c58060bf1f429bfb6b06ff2676fd7632d` [18. Aug.: Whg. Borussiastr.](https://0vv1.io/stlk/2024-08-19_02-11_whg-Borussiastr_nlp-steckdose.7h.mp3) (7h)  
+`sha256 0a10dfa06c091cafcedf1b85d53112095d3b1e4aaa61058e3c704e1e6c78c0d7` [28. Sep.: Einrede nächstlichen Besuchs](https://0vv1.io/stlk/2024-09-28_06-24_einrede-nachtlicher-besuch.20min.mp3) (20min)  
+`sha256 a82acc6892bde774e12de47d95485331aab08ce9aaec117f97f78f57c55be2d9` [18. Okt.: Polizei Wache Abschnitt 44](https://0vv1.io/stlk/2024-10-18_00-47-23_gegensprechanl-wache-44.1.mp3) (wenige Sek., legt auf, als er merkt, dass ich aufnehme)  
+`sha256 0474b09958180d12dc2c8b83274f563d5c41082dc21b46bf7b3dcd2263414146` [18. Okt.: Polizei Wache Abschnitt 44](https://0vv1.io/stlk/2024-10-18_00-47-41_gegensprechanl-wache-44.2.mp3) (47s)  
+`sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d` [24. Okt.: Whg. Borussiastr.](https://0vv1.io/stlk/2024-10-24_05-06_psy-terror.probe.4m16s.mp3) (4m16s)  
+`sha256 5d02296f97a718ef251647cf6f30a7481bde22b4dc29f0ed1912dc8e4c983060` [27. Okt.: Whg. Extended Version](https://0vv1.io/stlk/2024-10-27_Fischä-n-his-AI-Pile-of-Shit_Blooming-Hearts.club-remix.extended.mp3) (40min)
 
 [**24.10.**]
+Zun&auml;chst die letzten beiden.
 Ich habe mich krass ge&auml;r&shy;gert,
 dass die mich noch mal so hooken konn&shy;ten.  
 Des&shy;we&shy;gen war ich heute so mies drauf.
@@ -201,7 +212,9 @@ die dann nat&uuml;r&shy;lich l&auml;n&shy;ger dauert als der kurze Aus&shy;schni
 Eigentlich handelt es sich um einen beliebigen Track (hier Daft Punk "Touch" auf YouTube),
 wenn man nicht aufpasst,
 ger&auml;t man in einen Loop/Trance,
-dann mutiert der Track im Lautsprecher(?) oder online(?).
+dann mutiert der Track lokal,
+es ist v&ouml;llig egal,
+ob man online streamt oder lokal abspielt.
 Man h&ouml;rt hier auch endlich mal ein biss&shy;chen was von dem,
 was ich Ge&shy;dan&shy;ken-Souff&shy;lie&shy;ren nenne,
 dieses Vor&shy;ge&shy;brab&shy;bel gerade noch ober&shy;halb Wahr&shy;neh&shy;mungs&shy;schwelle.
@@ -210,35 +223,29 @@ Diese kurze kreative L&uuml;cke bei 2:23,
 damit ich auch mal "zu Wort komme",
 mache nicht ich(!),
 das macht eine lie&shy;be Fee,
-alles gut ab&shy;ge&shy;stimmt.
+alles ganz hervorragend ab&shy;ge&shy;stimmt.
 
 Das Ding macht man au&szlig;erdem nicht allein.  
 Das braucht m.&#8239;M.&#8239;n. Profiling, Psychologen, Sound Engineers, vielleicht 'nen
 KI-Dude und sicher Leute, die noch eben irgendwelche Systeme/Devices
 aufmachen/hacken.  
 
-> [!IMPORTANT]
-> [**25.10.**]
-> Und noch mehr zum Thema:  
-> Die Akustik mag "besonders" sein,  
-> das gesamte "H&ouml;rerlebnis" aber ist Kontext-sensitiv und  
-> stimmungsabh&auml;ngig.
-> Das kann man selber ausprobieren.
-> Dann ergeben sich verschiedenste deutsche Texte.   
-> Aer die Reaktion des H&ouml;renden ist damit f&uuml;r Au&szlig;enstehende mind. unverst&auml;ndlich, im besten Fall l&auml;cherlich bis maximal bedrohlich.  
-> (Deshalb wird man stundenlang emotional getriggert und gepusht)
-
-<!--
 > [!NOTE]
-> Ich werde hier vor&shy;erst nie&shy;man&shy;den(!) mehr
-> be&shy;lei&shy;di&shy;gen.
-> Wie es aus&shy;sieht,
-> seid ihr alle Men&shy;schen und ich mglw. weni&shy;ger
-> schizo&shy;phren als ge&shy;dacht.
-> In dem Fall h&auml;tte ich hier
-> dra&shy;ma&shy;ti&shy;scher&shy;wei&shy;se Dinge
-> unter&shy;sch&auml;tzt.  
-> Oder ist das 'nen weir&shy;der Spa&szlig;?! -->
+> [**25.10.**]
+> Ich habe keine Ahnung,
+> wie soetwas "produziert" wird,
+> aber bin froh,
+> dass man es mal h&ouml;rt.
+> *Wer ahnt denn bitte,
+> dass "die" die Audio-Dateien nach dem Upload bei GitHub einzeln modifizieren?
+> Wie geht das &uuml;berhaupt?!*  
+> Die Akustik ist wirklich "interesant",  
+> das gesamte "H&ouml;rerlebnis" Kontext-sensitiv und  
+> stimmungsabh&auml;ngig
+> (*Es scheint mir sogar vom Adrenalin-Level abh&auml;ngig,
+> oder geht das nur mir so?*).
+> Jedenfalls kann man es selber ausprobieren,
+> es ergeben sich verschiedenste deutsche Texte.   
 
 > [!WARNING]
 > [**Gefahrenabsch&auml;tzung**]
