@@ -6,15 +6,24 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: sa, 26. oct. 2024  
+version: so, 27. oct. 2024  
 ```
 
-> \+ \+ \+ selbstverständlich nur eine lustige und (hoffentlich) spannende Geschichte + + +  
-> \+ \+ \+ I'm fuckin' great! 😉 + + +
+> [!IMPORTANT]
+> [**1st Things first**]
+> Selbstverständlich handelt es sich hier,
+> ob vereinzelter Nachfragen
+> (wusste gar nicht, dass irgendwen meine Repos interessieren?! 😃),
+> lediglich um eine (leidlich) lustige, aber (hoffentlich) spannende Geschichte!  
+> S&auml;mtliche vorkommenden Namen entspringen einer sog. schizophrenen Wahnidee umd k&ouml;nnen damit,
+> genau wie das hier beschriebene "einsame Erleben" (Def. Schizophrenie),
+> in keinerlei Bezug zu einer gemeinsam erlebten Realit&auml;t stehen.
+> 
+> Sonst alles wie immer: I'm fuckin' great! 😉
 
 <h1>Beobachtungen zum Gegensatzpaar <b>Kommunikation</b>/<b>Isolation</b> und der Wirkmächtigkeit <b>akustische</b>r <b>Manipulation</b> von (wohl auch Massen-)Wahrnehmung (und darüber hinaus)</h1>
 
-<h2>Oder: Über das verborgene Wirken einer "Psy"-Sadisten-Crew und ihrer einflussreichen Mitglieder</h2>
+<h3>Oder: Über das verborgene Wirken einer "Psy"-Sadisten-Crew und ihrer einflussreichen Mitglieder</h3>
 
 .. deren Experte für Schizophrenie-Patienten dem Autor dieser Zeilen vor knapp 1.390 Tagen eine **k&uuml;nstliche Schizophrenie** induziert,
 um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten Tod zu qu&auml;len.
