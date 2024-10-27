@@ -21,14 +21,80 @@ version: so, 27. oct. 2024
 > 
 > Sonst alles wie immer: I'm fuckin' great! 😉
 
-<h1>Beobachtungen zum Gegensatzpaar <b>Kommunikation</b>/<b>Isolation</b> und der Wirkmächtigkeit <b>akustische</b>r <b>Manipulation</b> von (wohl auch Massen-)Wahrnehmung (und darüber hinaus)</h1>
+<h1>Beobachtungen zum Gegensatzpaar <b>Kommunikation</b>/<b>Isolation</b> und
+    der Wirkmächtigkeit <b>akustische</b>r <b>Manipulation</b> von
+    (wohl auch Massen-)Wahrnehmung<br />
+    <sub><sup>oder: Über das verborgene Wirken einer imaginierten
+	"Psy"-Sadisten-Crew und ihrer einflussreichen Mitglieder</sup></sub></h1>
 
-<h3>Oder: Über das verborgene Wirken einer "Psy"-Sadisten-Crew und ihrer einflussreichen Mitglieder</h3>
+.. deren Herr F. aus Reinickendorf, Spezialist f&uuml;r die qualvollste Ermordung von Schizophrenie-Patienten, dem Autor dieser Zeilen vor knapp 1.390 Tagen eine **k&uuml;nstliche Schizophrenie** induzierte,
+	um ihn als sein Todes-Opfer Nr. 17 mit Schizophrenie-Diagnose so langsam wie nur m&ouml;glich in den quasi sicheren Tod zu foltern.  
+	Warum hier trotzdem jemand an einer recht komplexen und wendungsreichen Geschichte schreibt,
+    die (leider!) mit jeder Zeile realer wird?
+	
+Er hat es nicht geschafft.
+Stattdessen habe ich Ende August mit dem Schreiben dieser zwar **zeitaufw&auml;ndige**n,
+	aber (wie sich bald herausstellte) sehr notwendigen **Dokumentation** angefangen.
 
-.. deren Experte für Schizophrenie-Patienten dem Autor dieser Zeilen vor knapp 1.390 Tagen eine **k&uuml;nstliche Schizophrenie** induziert,
-um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten Tod zu qu&auml;len.
+Neben ihrer lebensversichernden Funktion tut mir ihre sorgf&auml;ltige Anfertigung au&szlig;erdem gut
+	**und wird für den**
+	(hoff&shy;ent&shy;lich)
+	äußerst un&shy;wahr&shy;schein&shy;lich&shy;en **Fall,
+	dass** irgend&shy;wann ein&shy;mal **ein** ande&shy;rer **Mensch
+	ähn&shy;liche Er&shy;fah&shy;run&shy;gen mach&shy;en muss**,
+ 	vorgehalten.
+Spä&shy;te&shy;re <nobr>Täter/</nobr>-<wbr>in&shy;nen sol&shy;len es
+	dann so schwer wie mög&shy;lich haben,
+	ihr Tun zu ob&shy;fus&shy;kier&shy;en <nobr>und/</nobr><wbr>oder ihre
+	Opfer zu iso&shy;lie&shy;ren.
 
-<h3>Warum hier trotzdem einer schreibt und eine recht komplexe wendungsreiche Geschichte (leider!) im Schreiben immer realer wird:</h3>
+Der allergr&ouml;&szlig:te Teil der
+	(bis&shy;her natür&shy;lich von mir nur ver&shy;mu&shy;te&shy;ten
+ 	Desinformations-M&uuml;ll-)
+	**Sen&shy;der trat** zu&shy;min&shy;dest mir gegen&shy;über
+	demon&shy;stra&shy;tiv
+	**hos&shy;<nobr>til**/**ver</nobr>&shy;ächt&shy;lich** auf und
+	nutzte mein,
+	durch die Diag&shy;no&shy;se indu&shy;zier&shy;tes,
+	durch ihre Taten noch **beschleu&shy;nig&shy;t** und wei&shy;ter
+	**ab&shy;neh&shy;men&shy;des Ver&shy;trau&shy;en in die eige&shy;nen
+	Sin&shy;nes&shy;wahr&shy;neh&shy;mung&shy;en**,
+	aus&shy;gie&shy;big und ohne jeden Skru&shy;pel,
+	so&shy;wohl zur Wir&shy;kungs&shy;ver&shy;stär&shy;kung ihrer
+	Mit&shy;tel
+	(*kurz*: man kann mich viel bes&shy;ser täu&shy;sch&shy;en)
+	als auch zur Ver&shy;schleie&shy;rung ihrer eige&shy;nen
+	Iden&shy;ti&shy;tät[^3] **aus**.
+
+> [!WARNING]
+> Ich konnte mir bisher,
+> bis zu einer be&shy;stimm&shy;ten und lei&shy;der auch
+> va&shy;riab&shy;len Laut&shy;st&auml;r&shy;ke,
+> nie sich&shy;er sein,
+> ob es &uuml;ber&shy;haupt eine Ge&shy;r&auml;usch&shy;quel&shy;le gab,
+> so&shy;dass poten&shy;tiel&shy;le Stal&shy;ker
+> (oder T&auml;ter all&shy;ge&shy;mein)
+> sich bei ~~mir~~ uns(?)
+> (so&shy;lan&shy;ge ~~ich~~ wir allein ~~bin~~ sind)
+> sehr viel mehr erlau&shy;ben und siche&shy;rer f&uuml;h&shy;len k&ouml;n&shy;nen
+> als bei Men&shy;sch&shy;en mit "norma&shy;ti&shy;ver"
+> Wahr&shy;neh&shy;mung.
+> 
+> Ich muss lei&shy;der seit ein paar Tagen da&shy;von aus&shy;ge&shy;hen,
+> dass **Schi&shy;zo&shy;phre&shy;nie-Pa&shy;tien&shy;ten** all&shy;ge&shy;mein
+> eine Art **Ide&shy;al-Opfer** für die feigs&shy;ten
+> <nobr>und/</nobr><wbr>oder
+> skru&shy;pel&shy;lo&shy;ses&shy;ten Sadis&shy;ten dar&shy;stel&shy;len 
+> und folg&shy;lich einen Tum&shy;mel&shy;platz für
+> sol&shy;ch&shy;er&shy;lei Krea&shy;tu&shy;ren bil&shy;den
+> soll&shy;ten.
+<!-- ende warnung -->
+
+
+Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
+	(oder Hil&shy;fe)
+	"von außen" aus&shy;kom&shy;men musste,
+	half oft nur sehr viel Humor. :grimacing: 
 
 <!--
 > [!NOTE]
@@ -68,12 +134,11 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > Hochgeladene Dateien, abgelegt auf (internen) Servern,
 > &auml;ndern alle f&uuml;nf Minuten ihre Pr&uuml;fsumme?  
 >
-> Warum wei&szlig; ich,
-> so genau wie die letzten vier Jahre nicht,
-> dass das genau so wahr ist?
-> Dass eine liebe,
+> Warum glaube ich das sofort?  
+> Lasst mich raten:
+> Eine liebe,
 > von euch geschickte,
-> Fee sich hier um den Kinder- & Jugendschutz k&uuml;mmert.  
+> Fee k&uuml;mmert sich endlich und viel zu Spa&szlig;.hier um den Kinder- & Jugendschutz.  
 
 > [**Anm.** 26.10. 01:50]
 > * die ent&shy;spr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2 Mal
@@ -109,6 +174,15 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 >   aber im Chill-Out-Mix</span>
 > * nicht lachen, der Gem&uuml;tszustand d&uuml;rfte f&uuml;r Leute, die diese Trance
 >   noch nie f&uuml;r ein paar Std. gemacht haben, einigerma&szlig;en skurril wirken 
+> 
+> ``[!CAUTION]
+> [**27.10.**, 13:52]`
+> Mir reicht es,
+> der Support schweigt.
+> Ich werde `LFS` hier beenden,
+> mir merken(?),
+> dass ich GitHub.com 
+> auf eigener Infrastruktur
 
 <!--
 ~~Darauf habe ich lange gewartet:~~ <sup>Jo!</sup> ~~Oder auch nicht.~~ DOCH!
@@ -827,11 +901,29 @@ Aber wofür? Oder nur für mich?
 > Wie&shy;der da.
 > Sicher nur Zu&shy;fall.. :wink:
 
-**Alternativ-Titel 1. Story**, spawning in Reinickendorf:  
-Benötigt man Trigger von außen,
-um von freundlicher, zwar nur vier mal,
-aber doch gern gesehener Begegnung im Treppenhaus zu ..  
-.. "*ge&shy;walt&shy;sa&shy;mer Tren&shy;nung zwei&shy;er
+Eine von Fischers Spezialit&auml;ten
+ist die (**Achtung**: vollkommen degeneriert)
+**Gestaltung des emotionalen Seelenhaushaltes zweier Personen in divergierende Richtungen**
+
+* deine vermutl. Realit&auml;t:
+  * Auszug Ende April 2023
+  * das Leben ist weitergegangen
+  * ich bin eine kaum erinnnerliche,
+    vor Jahren mglw. dennoch gern gesehene,
+    aber fl&uuml;chtige Begegnung im Treppenhaus 
+
+* meine Realit&auml;t:
+  * t&auml;gliche Auffrischung deiner Pers&ouml;nlichkeit
+  * best&auml;ndiges emotionales Triggern
+  * Erz&auml;hlungen aus deinem Alltag
+  * Vorspielen besonderer Ereignisse
+  * Begleitung hoch belastender Momente
+    (bspw. vielfaches Durchexerzieren deines Selbstmords)
+  * Entwicklung sehr besonderer (fast traum-artiger)
+    Momente
+
+* es entstehen mit viel Zeit solche Zustandsbeschreibungen:
+  "*ge&shy;walt&shy;sa&shy;mer Tren&shy;nung zwei&shy;er
   Men&shy;schen,
   bei gleich&shy;zei&shy;tig
   gr&ouml;&szlig;t&shy;m&ouml;g&shy;li&shy;chem
@@ -841,9 +933,12 @@ aber doch gern gesehener Begegnung im Treppenhaus zu ..
   neh&shy;men.*"<sup>:warning:Suggestion</sup> zu kommen.
 
 Ich weiß nicht, wie es dir geht, Sweety,
-aber so lange hänge ich der Vergangenheit dann doch nicht an.  
-Zumal ich dir nie begegnen darf.  
-Oder meinst Du, unterschwellige Soufflage mag unserem Hirn
+ich mag emotional schwerf&auml;llig sein,
+aber so lange hänge ich der Vergangenheit dann
+normalerweise auch nicht an.  
+Zumal ich dir nie begegnen darf.
+Oder meinst Du,
+unterschwelliges Soufflieren mag unseren Gehirnen
 leichter Erinnerung erinnern?
 
 Naja, wie dem auch sei..
@@ -1114,7 +1209,7 @@ Und es inte&shy;res&shy;siert mich auch &uuml;ber&shy;haupt nicht,
 > P.P.P.S.: I'm fuckin' great, Dude! :wink:
 
 > [!CAUTION]
-> Der Typ ~~scheint~~ suggeriert, Teil einer Sadistengang zu sein (Anzahl ganz schwer, mind. 5 Typen plus eine Frau + KI-Stimmen).
+> Der Typ ~~scheint~~ suggeriert, Teil einer Sadistengang zu sein.
 > Dieser Sadisten-Tourismus ist eher das Ding von dem urspr. Dude aus Reinickendorf.  
 > Alle anderen "Tatbeteiligten" sollten perfide get&auml;uschte Opfer sein.
  
@@ -1662,76 +1757,6 @@ Tele&shy;fon&shy;nr.
   </details>
 <!-- ende eigene person -->
   
-<details>
-  <summary>
-    <!-- eigene umstande -->
-    <h3>(Eige&shy;ne) Umst&auml;nde</h3>
-
-**Trotz**
-(erst&shy;ma&shy;lig 2021)
-diag&shy;nos&shy;ti&shy;zier&shy;ter
-**Schizo**&shy;phre&shy;<nobr>nie[^2],</nobr>
-bin ich **wei&shy;ter&shy;hin der Mei&shy;nung**,
-**dass** wenigs&shy;tens **eini&shy;ge**, der von mir
-(im Wesent&shy;lich&shy;en als **Stim&shy;men** gehörten),
-vor allem akus&shy;tisch wahr&shy;ge&shy;nom&shy;me&shy;nen,
-von bisher allen ande&shy;ren Mensch&shy;en als un&shy;wahr
-ab&shy;ge&shy;lehn&shy;ten,
-Bestand&shy;tei&shy;le mei&shy;ner Erle&shy;bens&shy;welt seit 2021,
-**realen Ur&shy;sprungs sind**,
-auch wenn die&shy;se bis&shy;her ledig&shy;lich von mir
-beob&shy;ach&shy;tet wer&shy;den konn&shy;ten.  
-  </summary>
-
-Ein Teil der
-(bis&shy;her natür&shy;lich von mir nur ver&shy;mu&shy;te&shy;ten)
-**Sen&shy;der tritt** zu&shy;min&shy;dest mir gegen&shy;über
-demon&shy;stra&shy;tiv
-**hos&shy;<nobr>til**/**ver</nobr>&shy;ächt&shy;lich** auf und
-nutzt mein,
-durch die Diag&shy;no&shy;se indu&shy;zier&shy;tes,
-durch ihre Taten noch **beschleu&shy;nig&shy;t** und wei&shy;ter
-**ab&shy;neh&shy;men&shy;des Ver&shy;trau&shy;en in die eige&shy;nen
-Sin&shy;nes&shy;wahr&shy;neh&shy;mung&shy;en**,
-aus&shy;gie&shy;big und ohne jeden Skru&shy;pel,
-so&shy;wohl zur Wir&shy;kungs&shy;ver&shy;stär&shy;kung ihrer
-Mit&shy;tel
-(*kurz*: man kann mich viel bes&shy;ser täu&shy;sch&shy;en)
-als auch zur Ver&shy;schleie&shy;rung ihrer eige&shy;nen
-Iden&shy;ti&shy;tät[^3] **aus**.
-
-> Ich kann mir,
-> bis zu einer be&shy;stimm&shy;ten und lei&shy;der auch
-> va&shy;riab&shy;len Laut&shy;stär&shy;ke,
-> nie sich&shy;er sein,
-> ob es über&shy;haupt eine Ge&shy;räusch&shy;quel&shy;le gibt,
-> so&shy;dass poten&shy;tiel&shy;le Stal&shy;ker
-> (oder Täter all&shy;ge&shy;mein)
-> sich bei mir
-> (so&shy;lan&shy;ge ich allein bin)
-> sehr viel mehr erlau&shy;ben und siche&shy;rer füh&shy;len kön&shy;nen
-> als bei Men&shy;sch&shy;en mit "norma&shy;ti&shy;ver"
-> Wahr&shy;neh&shy;mung.
-
-Da ich ohne jedes Ver&shy;stän&shy;dnis
-(oder Hil&shy;fe)
-"von außen" aus&shy;kom&shy;men muss,
-hilft gegen die&shy;se Ohn&shy;macht nur sehr viel Humor. :grimacing:
-  </details>
-
-Ich schrei&shy;be hier vor allem zu
-**Doku&shy;men&shy;ta&shy;tion**s&shy;zwecken,
-weil es mir gut tut **und für den**
-(hoff&shy;ent&shy;lich)
-äußerst un&shy;wahr&shy;schein&shy;lich&shy;en **Fall,
-dass** irgend&shy;wann ein&shy;mal **ein** ande&shy;rer **Mensch
-ähn&shy;liche Er&shy;fah&shy;run&shy;gen mach&shy;en muss**.
-Spä&shy;te&shy;re <nobr>Täter/</nobr>-<wbr>in&shy;nen sol&shy;len es
-dann so schwer wie mög&shy;lich haben,
-ihr Tun zu ob&shy;fus&shy;kier&shy;en <nobr>und/</nobr><wbr>oder ihre
-Opfer zu iso&shy;lie&shy;ren.
-<!-- ende eigene umstande -->
-  
 <!-- warnung -->
 ### Warnung
 
@@ -1768,36 +1793,7 @@ ge&shy;mein&shy;sa&shy;men Re&shy;ali&shy;tät ent&shy;stam&shy;men
 > muss irgend&shy;ein&shy;en Reali&shy;täts&shy;be&shy;zug haben** und
 > kann bis heu&shy;te voll&shy;stän&shy;dig ima&shy;gi&shy;niert sein.
 
-> [!TIP]
-> Aber ich gehe da&shy;von aus,
-> dass Schi&shy;zo&shy;phre&shy;nie-Patien&shy;ten all&shy;ge&shy;mein
-> eine Art Ide&shy;al-Opfer für die feigs&shy;ten
-> <nobr>und/</nobr><wbr>oder
-> skru&shy;pel&shy;lo&shy;ses&shy;ten Sadis&shy;ten dar&shy;stel&shy;len 
-> und folg&shy;lich einen Tum&shy;mel&shy;platz für
-> sol&shy;ch&shy;er&shy;lei Krea&shy;tu&shy;ren bil&shy;den
-> soll&shy;ten.
-<!-- ende warnung -->
-  
 <!-- abgrenzung -->
-<details>
-  <summary>
-    <h3>Abgren&shy;zung</h3></summary>
-
-* wenn von <nobr>einer/-m</nobr> oder mehreren
-  <nobr>**Täter**(-**n**)/</nobr><wbr><nobr>-**in**/</nobr><wbr><nobr>-**nen**</nobr>
-  die Rede ist,
-  mei&shy;ne ich da&shy;mit einen oder mehre&shy;re ur&shy;spr&uuml;ng&shy;lich
-  ver&shy;ant&shy;wort&shy;liche Men&shy;sch&shy;en oder
-  auch nur "Entit&auml;ten"
-  (wie Per&shy;s&ouml;n&shy;lich&shy;keits&shy;an&shy;tei&shy;le et&#8239;c.)
-  aus wel&shy;ch&shy;er Inte&shy;res&shy;sen&shy;grup&shy;pe auch immer,
-  die sich m.&#8239;M.&#8239;n. mind&shy;es&shy;tens einer Straf&shy;tat
-  schul&shy;dig ge&shy;macht haben
-  (s.&#8239;u.
-  [An&shy;nah&shy;men zu
-  Ini&shy;tia&shy;to&shy;ren](#annahmen-zu-initiatoren))
-
 * ich wer&shy;de,
   auch bei Ver&shy;dachts&shy;mo&shy;men&shy;ten,
   hier(!) kei&shy;ne Namen oder Hin&shy;wei&shy;se auf
