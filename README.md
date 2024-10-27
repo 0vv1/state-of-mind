@@ -189,7 +189,7 @@ Und Du stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 > [**27.10.**, 13:52]
 > <img alt="GitHub Support #3067960 2. Eintrag"
 > 	src="./2024-10-27_github_support-ticket-3067960.2.png"
-> 	width="500px"
+> 	width="500px">
 > Mir reicht es!
 > der Support schweigt.
 > Ich werde `LFS` hier beenden,
@@ -246,7 +246,7 @@ aufmachen/hacken.
 > *Wer ahnt denn bitte,
 > dass "die" die Audio-Dateien nach dem Upload bei GitHub einzeln modifizieren?
 > Wie geht das &uuml;berhaupt?!*  
-> Die Akustik ist wirklich "interesant",  
+> Die Akustik ist wirklich "interessant",  
 > das gesamte "H&ouml;rerlebnis" Kontext-sensitiv und  
 > stimmungsabh&auml;ngig
 > (*Es scheint mir sogar vom Adrenalin-Level abh&auml;ngig,
