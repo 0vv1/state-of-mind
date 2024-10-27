@@ -67,9 +67,7 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > dass das genau so wahr ist?
 > Dass eine liebe,
 > von euch geschickte,
-> Fee sich hier um den Kinder- & Jugendschutz k&uuml;mmert.  
-> 
-<!-- > **Das erste Mal W&uuml;rde!**
+> Fee sich hier um den Kinder- & Jugendschutz k&uuml;mmert.  <!-- > **Das erste Mal W&uuml;rde!**
 > Was ist das denn f&uuml;r ein geiles M&auml;rchen?
 > Warum passt das denn sooo gut..
 > 
@@ -81,7 +79,8 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > Und n&auml;chster Halt dann die Geschlossene. :zany_face:
 > Naja, zur sog. Sicherheit, zumindest bei den Audio-Up&shy;loads dann halt
 > [Pr&uuml;f&shy;sum&shy;men](./prufsummen.audio-recs.sha256). -->
-> [**Anm.** 26.10. 01:50]
+>
+>  [**Anm.** 26.10. 01:50]
 > * die ent&shy;spr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2 Mal
 >   in&shy;tern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
 > * Down&shy;load  mit Pr&uuml;f&shy;sum&shy;me  
