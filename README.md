@@ -187,9 +187,11 @@ Und Du stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 
 > [!CAUTION]
 > [**27.10.**, 13:52]
-> <img alt="GitHub Support #3067960 2. Eintrag"
+> <img
+>   align="right"
+>   alt="GitHub Support #3067960 2. Eintrag"
 > 	src="./2024-10-27_github_support-ticket-3067960.2.png"
-> 	width="500px">
+> 	width="700px">
 > Mir reicht es!
 > der Support schweigt.
 > Ich werde `LFS` hier beenden,
