@@ -9,8 +9,8 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: sa, 26. oct. 2024  
 ```
 
-> \+ \+ \+ fremder Müll, den ich "nur" wegdokumentiere ODER eine (hoffentlich) spannende Geschichte + + +  
-> \+ \+ \+ Alles cool! + + +
+> \+ \+ \+ selbstverständlich nur eine lustige und (hoffentlich) spannende Geschichte + + +  
+> \+ \+ \+ I'm fuckin' great! 😉 + + +
 
 <h1>Beobachtungen zum Gegensatzpaar <b>Kommunikation</b>/<b>Isolation</b> und der Wirkmächtigkeit <b>akustische</b>r <b>Manipulation</b> von (wohl auch Massen-)Wahrnehmung (und darüber hinaus)</h1>
 
