@@ -21,7 +21,7 @@ version: so, 27. oct. 2024
 > ge&shy;nau wie das hier be&shy;schrie&shy;be&shy;ne "ein&shy;sa&shy;me Er&shy;le&shy;ben" (Def. Schi&shy;zo&shy;phre&shy;nie),
 > in kei&shy;ner&shy;lei Be&shy;zug zu ei&shy;ner ge&shy;mein&shy;sam er&shy;leb&shy;ten Rea&shy;li&shy;t&auml;t ste&shy;hen.
 > 
-> Sonst alles wie immer: I'm fuckin' great! 😉
+> Sonst alles wie immer: I'm fuckin' great! :wnk:
 
 **Es tut gut, rein fiktiv zu schreiben, so kann man den ganzen vollständig geisteskranken/degenerierten Müll droppen und muss weniger Angst haben,
 dass am nächsten Tag, in Tränen aufgelöste Freunde vor einem stehen, um mich anzubetteln, mich doch bitte in eine geschlossene Anstalt einweisen zu können.  
@@ -99,7 +99,15 @@ Der allergr&ouml;&szlig;te Teil der
 Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 	(oder Hil&shy;fe)
 	"von außen" aus&shy;kom&shy;men musste,
-	half oft nur sehr viel Humor. :grimacing: 
+	half da oft nur sehr viel Humor. :grimacing:  
+Der sich aber auch von allein einstellt:
+Vor dir stehen,
+in Tr&auml;nen aufgel&ouml;ste,
+enge Freunde,
+die ehrlich von Herzen hoffen,
+dass Du hoffentlich schon bald den Weg in eine geschlossene psychiatrische Anstalt findest,
+dass dein unermessliches Leiden aufh&ouml;rt und deine geschundene Seele Erl&ouml;sung findest. :shrug:  
+Und Du stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 
 <!--
 > [!NOTE]
@@ -128,6 +136,63 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > das kann doch un&shy;m&ouml;g&shy;lich ernst ge&shy;meint sein? -->
 
 <!-- h2><a href="https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit">Datenintegrit&auml;t</a> bei GitHub nicht gegeben</h2 -->
+
+<h2>Recordings</h2>
+
+`sha256 a6cdd3b780e0c1b6511404076c992d16d124a3096410129f17eb6d376d1e5baa` [10. M&auml;rz: Whg. Pankower Allee](https://0vv1.io/stlk/2024-03-10_12-08_whg-Pankower-Allee.3h53m.mp3) (3h53)  
+`sha256 78101e6de5be5a5e54fefc6da8317466c32efab758444aaaddff2902e604c419` [27. Juli: Whg. Borussiastr.](https://0vv1.io/stlk/2024-07-27_23-16_whg-Borussiastr_misshandlg.50m.mp3) (50min)  
+`sha256 54c183f21e33c26fe50dacee208fa33c58060bf1f429bfb6b06ff2676fd7632d` [18. Aug.: Whg. Borussiastr.](https://0vv1.io/stlk/2024-08-19_02-11_whg-Borussiastr_nlp-steckdose.7h.mp3) (7h)  
+`sha256 0a10dfa06c091cafcedf1b85d53112095d3b1e4aaa61058e3c704e1e6c78c0d7` [28. Sep.: Einrede nächstlichen Besuchs](https://0vv1.io/stlk/2024-09-28_06-24_einrede-nachtlicher-besuch.20min.mp3) (20min)  
+`sha256 a82acc6892bde774e12de47d95485331aab08ce9aaec117f97f78f57c55be2d9` [18. Okt.: Polizei Wache Abschnitt 44](https://0vv1.io/stlk/2024-10-18_00-47-23_gegensprechanl-wache-44.1.mp3) (wenige Sek., legt auf, als er merkt, dass ich aufnehme)  
+`sha256 0474b09958180d12dc2c8b83274f563d5c41082dc21b46bf7b3dcd2263414146` [18. Okt.: Polizei Wache Abschnitt 44](https://0vv1.io/stlk/2024-10-18_00-47-41_gegensprechanl-wache-44.2.mp3) (47s)  
+`sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d` [24. Okt.: Whg. Borussiastr.](https://0vv1.io/stlk/2024-10-24_05-06_psy-terror.probe.4m16s.mp3) (4m16s)  
+`sha256 5d02296f97a718ef251647cf6f30a7481bde22b4dc29f0ed1912dc8e4c983060` [27. Okt.: Whg. Extended Version](https://0vv1.io/stlk/2024-10-27_Fischä-n-his-AI-Pile-of-Shit_Blooming-Hearts.club-remix.extended.mp3) (40min)
+
+[**24.10.**]
+Zun&auml;chst die letzten beiden.
+Ich habe mich krass ge&auml;r&shy;gert,
+dass die mich noch mal so hooken konn&shy;ten.  
+Des&shy;we&shy;gen war ich heute so mies drauf.
+
+Das wurde lei&shy;der eine heftige Num&shy;mer,
+die dann nat&uuml;r&shy;lich l&auml;n&shy;ger dauert als der kurze Aus&shy;schnitt hier,
+Eigentlich handelt es sich um einen beliebigen Track (hier Daft Punk "Touch" auf YouTube),
+wenn man nicht aufpasst,
+ger&auml;t man in einen Loop/Trance,
+dann mutiert der Track lokal,
+es ist v&ouml;llig egal,
+ob man online streamt oder lokal abspielt.
+Man h&ouml;rt hier auch endlich mal ein biss&shy;chen was von dem,
+was ich Ge&shy;dan&shy;ken-Souff&shy;lie&shy;ren nenne,
+dieses Vor&shy;ge&shy;brab&shy;bel gerade noch ober&shy;halb Wahr&shy;neh&shy;mungs&shy;schwelle.
+Am besten mal Kopfh&ouml;rer mit betonten Mitten.
+Diese kurze kreative L&uuml;cke bei 2:23,
+damit ich auch mal "zu Wort komme",
+mache nicht ich(!),
+das macht eine lie&shy;be Fee,
+alles ganz hervorragend ab&shy;ge&shy;stimmt.
+
+Das Ding macht man au&szlig;erdem nicht allein.  
+Das braucht m.&#8239;M.&#8239;n. Profiling, Psychologen, Sound Engineers, vielleicht 'nen
+KI-Dude und sicher Leute, die noch eben irgendwelche Systeme/Devices
+aufmachen/hacken.  
+
+> [!NOTE]
+> [**25.10.**]
+> Ich habe keine Ahnung,
+> wie soetwas "produziert" wird,
+> aber bin froh,
+> dass man es mal h&ouml;rt.
+> *Wer ahnt denn bitte,
+> dass "die" die Audio-Dateien nach dem Upload bei GitHub einzeln modifizieren?
+> Wie geht das &uuml;berhaupt?!*  
+> Die Akustik ist wirklich "interesant",  
+> das gesamte "H&ouml;rerlebnis" Kontext-sensitiv und  
+> stimmungsabh&auml;ngig
+> (*Es scheint mir sogar vom Adrenalin-Level abh&auml;ngig,
+> oder geht das nur mir so?*).
+> Jedenfalls kann man es selber ausprobieren,
+> es ergeben sich verschiedenste deutsche Texte.   
 
 > [!CAUTION]
 > <!-- Dieser reudige, menschenverachtende, stumpfe, die Sch&ouml;pfung verneinende Duktus in der Kommunikation.  
@@ -189,63 +254,6 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > dass ich zumindest Bin&auml;rdateien lieber nicht [GitHub](https://gitbub.com)
 > anvertraue und bis auf Weiteres
 > auf eigener Infrastruktur fahre:
-
-<h2>Recordings</h2>
-
-`sha256 a6cdd3b780e0c1b6511404076c992d16d124a3096410129f17eb6d376d1e5baa` [10. M&auml;rz: Whg. Pankower Allee](https://0vv1.io/stlk/2024-03-10_12-08_whg-Pankower-Allee.3h53m.mp3) (3h53)  
-`sha256 78101e6de5be5a5e54fefc6da8317466c32efab758444aaaddff2902e604c419` [27. Juli: Whg. Borussiastr.](https://0vv1.io/stlk/2024-07-27_23-16_whg-Borussiastr_misshandlg.50m.mp3) (50min)  
-`sha256 54c183f21e33c26fe50dacee208fa33c58060bf1f429bfb6b06ff2676fd7632d` [18. Aug.: Whg. Borussiastr.](https://0vv1.io/stlk/2024-08-19_02-11_whg-Borussiastr_nlp-steckdose.7h.mp3) (7h)  
-`sha256 0a10dfa06c091cafcedf1b85d53112095d3b1e4aaa61058e3c704e1e6c78c0d7` [28. Sep.: Einrede nächstlichen Besuchs](https://0vv1.io/stlk/2024-09-28_06-24_einrede-nachtlicher-besuch.20min.mp3) (20min)  
-`sha256 a82acc6892bde774e12de47d95485331aab08ce9aaec117f97f78f57c55be2d9` [18. Okt.: Polizei Wache Abschnitt 44](https://0vv1.io/stlk/2024-10-18_00-47-23_gegensprechanl-wache-44.1.mp3) (wenige Sek., legt auf, als er merkt, dass ich aufnehme)  
-`sha256 0474b09958180d12dc2c8b83274f563d5c41082dc21b46bf7b3dcd2263414146` [18. Okt.: Polizei Wache Abschnitt 44](https://0vv1.io/stlk/2024-10-18_00-47-41_gegensprechanl-wache-44.2.mp3) (47s)  
-`sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d` [24. Okt.: Whg. Borussiastr.](https://0vv1.io/stlk/2024-10-24_05-06_psy-terror.probe.4m16s.mp3) (4m16s)  
-`sha256 5d02296f97a718ef251647cf6f30a7481bde22b4dc29f0ed1912dc8e4c983060` [27. Okt.: Whg. Extended Version](https://0vv1.io/stlk/2024-10-27_Fischä-n-his-AI-Pile-of-Shit_Blooming-Hearts.club-remix.extended.mp3) (40min)
-
-[**24.10.**]
-Zun&auml;chst die letzten beiden.
-Ich habe mich krass ge&auml;r&shy;gert,
-dass die mich noch mal so hooken konn&shy;ten.  
-Des&shy;we&shy;gen war ich heute so mies drauf.
-
-Das wurde lei&shy;der eine heftige Num&shy;mer,
-die dann nat&uuml;r&shy;lich l&auml;n&shy;ger dauert als der kurze Aus&shy;schnitt hier,
-Eigentlich handelt es sich um einen beliebigen Track (hier Daft Punk "Touch" auf YouTube),
-wenn man nicht aufpasst,
-ger&auml;t man in einen Loop/Trance,
-dann mutiert der Track lokal,
-es ist v&ouml;llig egal,
-ob man online streamt oder lokal abspielt.
-Man h&ouml;rt hier auch endlich mal ein biss&shy;chen was von dem,
-was ich Ge&shy;dan&shy;ken-Souff&shy;lie&shy;ren nenne,
-dieses Vor&shy;ge&shy;brab&shy;bel gerade noch ober&shy;halb Wahr&shy;neh&shy;mungs&shy;schwelle.
-Am besten mal Kopfh&ouml;rer mit betonten Mitten.
-Diese kurze kreative L&uuml;cke bei 2:23,
-damit ich auch mal "zu Wort komme",
-mache nicht ich(!),
-das macht eine lie&shy;be Fee,
-alles ganz hervorragend ab&shy;ge&shy;stimmt.
-
-Das Ding macht man au&szlig;erdem nicht allein.  
-Das braucht m.&#8239;M.&#8239;n. Profiling, Psychologen, Sound Engineers, vielleicht 'nen
-KI-Dude und sicher Leute, die noch eben irgendwelche Systeme/Devices
-aufmachen/hacken.  
-
-> [!NOTE]
-> [**25.10.**]
-> Ich habe keine Ahnung,
-> wie soetwas "produziert" wird,
-> aber bin froh,
-> dass man es mal h&ouml;rt.
-> *Wer ahnt denn bitte,
-> dass "die" die Audio-Dateien nach dem Upload bei GitHub einzeln modifizieren?
-> Wie geht das &uuml;berhaupt?!*  
-> Die Akustik ist wirklich "interesant",  
-> das gesamte "H&ouml;rerlebnis" Kontext-sensitiv und  
-> stimmungsabh&auml;ngig
-> (*Es scheint mir sogar vom Adrenalin-Level abh&auml;ngig,
-> oder geht das nur mir so?*).
-> Jedenfalls kann man es selber ausprobieren,
-> es ergeben sich verschiedenste deutsche Texte.   
 
 > [!WARNING]
 > [**Gefahrenabsch&auml;tzung**]
