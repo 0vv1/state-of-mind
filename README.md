@@ -12,16 +12,16 @@ version: so, 27. oct. 2024
 > [!IMPORTANT]
 > [**1st Things first**]
 > Selbst&shy;ver&shy;st&auml;nd&shy;lich han&shy;delt es sich hier,
-> ob ver&shy;ein&shy;zel&shy;ter Nach&shy;fra&shy;gen
+> ob ver&shy;ein&shy;zel&shy;ter Nach&shy;fra&shy;gen  
 > (wuss&shy;te gar nicht,
-> dass irgend&shy;wen mei&shy;ne Re&shy;pos inte&shy;res&shy;sie&shy;ren 😃),
+> dass mei&shy;ne Re&shy;pos irgend&shy;wen inte&shy;res&shy;sie&shy;ren :zany_face:),  
 > ledig&shy;lich um eine (leid&shy;lich) lus&shy;ti&shy;ge,
 > aber (hoff&shy;ent&shy;lich) span&shy;nen&shy;de Ge&shy;schich&shy;te!  
 > S&auml;mt&shy;liche vor&shy;kom&shy;men&shy;den Namen ent&shy;sprin&shy;gen ei&shy;ner sog. schi&shy;zo&shy;phre&shy;nen Wahn&shy;idee umd k&ouml;n&shy;nen da&shy;mit,
 > ge&shy;nau wie das hier be&shy;schrie&shy;be&shy;ne "ein&shy;sa&shy;me Er&shy;le&shy;ben" (Def. Schi&shy;zo&shy;phre&shy;nie),
 > in kei&shy;ner&shy;lei Be&shy;zug zu ei&shy;ner ge&shy;mein&shy;sam er&shy;leb&shy;ten Rea&shy;li&shy;t&auml;t ste&shy;hen.
 > 
-> Sonst alles wie immer: I'm fuckin' great! :wnk:
+> Sonst alles wie immer: I'm fuckin' great! :wink:
 
 **Es tut gut, rein fiktiv zu schreiben, so kann man den ganzen vollständig geisteskranken/degenerierten Müll droppen und muss weniger Angst haben,
 dass am nächsten Tag, in Tränen aufgelöste Freunde vor einem stehen, um mich anzubetteln, mich doch bitte in eine geschlossene Anstalt einweisen zu können.  
@@ -31,7 +31,7 @@ Ein weiterer Vorteil: Alles ergibt dann (leider) Sinn.**
 	der Wirk&shy;mäch&shy;tig&shy;keit <b>akus&shy;ti&shy;sche</b>r <b>Mani&shy;pu&shy;la&shy;tion</b> von
 	(wohl auch Mas&shy;<nobr>sen-)</nobr><wbr />Wahr&shy;neh&shy;mung<br />
 	<sub><sup>oder<br />«&Uuml;ber das ver&shy;bor&shy;ge&shy;ne Wir&shy;ken ei&shy;ner (bis&shy;her)
-	sehr ein&shy;fluss&shy;rei&shy;chen ("Psy"-)Sadisten(?)-Crew</sup></sub></h1>
+	sehr ein&shy;fluss&shy;rei&shy;chen ("Psy"-)Sadisten(?)-Crew.»</sup></sub></h1>
 
 .. deren Herr F. aus Reinickendorf, Spezialist f&uuml;r die qualvolle Ermordung von Schizophrenie-Patienten, dem Autor dieser Zeilen vor knapp 1.390 Tagen eine **k&uuml;nstliche Schizophrenie** induzierte,
 	um ihn als sein Todes-Opfer Nr. 17 mit Schizophrenie-Diagnose so langsam wie nur m&ouml;glich in den quasi sicheren Tod zu foltern.  
@@ -139,6 +139,62 @@ Und Du stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 
 <h2>Recordings</h2>
 
+> [!CAUTION]
+> <!-- Dieser reudige, menschenverachtende, stumpfe, die Sch&ouml;pfung verneinende Duktus in der Kommunikation.  
+> Ihr missachtet die W&uuml;rde des einzelnen.
+> Auch eure eigene.  
+> In eurer N&auml;he ist alles egal. --> 
+> **GitHub Inc. kann die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten**?
+> Warum sollten sie das nicht k&ouml;nnen?
+> Hochgeladene Dateien, abgelegt auf (internen) Servern,
+> &auml;ndern alle f&uuml;nf Minuten ihre Pr&uuml;fsumme?  
+>
+> Warum glaube ich das sofort?  
+> Lasst mich raten:
+> Eine liebe,
+> von euch geschickte,
+> Fee k&uuml;mmert sich endlich um den Kinder- & Jugendschutz.  
+
+> [**Anm. 26.10.** 01:50]
+> * die ent&shy;spr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2 Mal
+>   in&shy;tern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
+> * Down&shy;load  mit Pr&uuml;f&shy;sum&shy;me  
+>   `sha256 5b056140d0b43de09fbb8905f8295c8dd89fb450624df51500f1c695fbbf3155`,
+>   m&uuml;ss&shy;te aber eigent&shy;lich  
+>   `sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d`
+>   sein!
+> * Ist es aber nicht. 
+> * Was ist das denn?!
+> * er&shy;neu&shy;ter **Upload**
+> * **er&shy;neu&shy;te Mani&shy;pu&shy;la&shy;tion**(?)
+>   (un&shy;z&auml;hli&shy;ge Ma&shy;le, ein paar Pr&uuml;f&shy;sum&shy;men:  
+>   `sha256 0a76b85ff7767f9c2dcdab72890854f1ebea45359564a6bcdbae5aea295d6c5a`,  
+>   `sha256 5505523390453fedb16a1ccd124ef9c7b857ff608e43d62d6b3d8a1fe97d22ff`,  
+>   `sha256 e678f56c2b0634ce95010fab688a77bb51a2d7a151f56685e4c8447a7044eb0e`,  
+>   `sha256 7474c95a8d885ec748895f3fbfd78d520f3d92f86a44245210aea32fb28cd9bc`,  
+>   `sha256 8a312d6db6d8db709e5da3e37962293443413440feb90371cc467a7666980cd7`,  
+>   `sha256 b47d907ec8da5feda5d6e5dfdf006232cff4f0bd4985d53ab86b0e24aed64e01`)
+>   <!-- > * **Integrit&auml;t von Daten bei GitHub**(?) Inc.
+>   (vorerst) **nicht gegeben**!  
+>   (Nicht euer Ernst oder?!
+>   Ich glaube,
+>   das war kein so geiler Move.) -->
+> * betr. Dateien werden (erstmal) von einer VM bei hetzner.com bereitgestellt
+>   (auch dort gab's Probleme mit dem Wirken der Crew,
+>   aber ich hab jetzt erst mal nichts anderes): https://0vv1.io/stlk
+> * Abkl&auml;rung via
+>   [Support-Ticket #3067960](https://support.github.com/ticket/personal/0/3067960)
+
+> [!CAUTION]
+> [**27.10.**, 13:52]
+> Mir reicht es!
+> der Support schweigt.
+> Ich werde `LFS` hier beenden,
+> mir merken(?),
+> dass ich zumindest Bin&auml;rdateien lieber nicht [GitHub](https://gitbub.com)
+> anvertraue und bis auf Weiteres
+> **auf eigener Infrastruktur**:zany_face: fahre:
+
 `sha256 a6cdd3b780e0c1b6511404076c992d16d124a3096410129f17eb6d376d1e5baa` [10. M&auml;rz: Whg. Pankower Allee](https://0vv1.io/stlk/2024-03-10_12-08_whg-Pankower-Allee.3h53m.mp3) (3h53)  
 `sha256 78101e6de5be5a5e54fefc6da8317466c32efab758444aaaddff2902e604c419` [27. Juli: Whg. Borussiastr.](https://0vv1.io/stlk/2024-07-27_23-16_whg-Borussiastr_misshandlg.50m.mp3) (50min)  
 `sha256 54c183f21e33c26fe50dacee208fa33c58060bf1f429bfb6b06ff2676fd7632d` [18. Aug.: Whg. Borussiastr.](https://0vv1.io/stlk/2024-08-19_02-11_whg-Borussiastr_nlp-steckdose.7h.mp3) (7h)  
@@ -193,67 +249,6 @@ aufmachen/hacken.
 > oder geht das nur mir so?*).
 > Jedenfalls kann man es selber ausprobieren,
 > es ergeben sich verschiedenste deutsche Texte.   
-
-> [!CAUTION]
-> <!-- Dieser reudige, menschenverachtende, stumpfe, die Sch&ouml;pfung verneinende Duktus in der Kommunikation.  
-> Ihr missachtet die W&uuml;rde des einzelnen.
-> Auch eure eigene.  
-> In eurer N&auml;he ist alles egal. --> 
-> **GitHub Inc. kann die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten**?
-> Warum sollten sie das nicht k&ouml;nnen?
-> Hochgeladene Dateien, abgelegt auf (internen) Servern,
-> &auml;ndern alle f&uuml;nf Minuten ihre Pr&uuml;fsumme?  
->
-> Warum glaube ich das sofort?  
-> Lasst mich raten:
-> Eine liebe,
-> von euch geschickte,
-> Fee k&uuml;mmert sich endlich und viel zu Spa&szlig;.hier um den Kinder- & Jugendschutz.  
-
-> [**Anm.** 26.10. 01:50]
-> * die ent&shy;spr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2 Mal
->   in&shy;tern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
-> * Down&shy;load  mit Pr&uuml;f&shy;sum&shy;me  
->   `sha256 5b056140d0b43de09fbb8905f8295c8dd89fb450624df51500f1c695fbbf3155`,
->   m&uuml;ss&shy;te aber eigent&shy;lich  
->   `sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d`
->   sein!
-> * Ist es aber nicht. 
-> * Was ist das denn?!
-> * er&shy;neu&shy;ter **Upload**
-> * **er&shy;neu&shy;te Mani&shy;pu&shy;la&shy;tion**(?)
->   (un&shy;z&auml;hli&shy;ge Ma&shy;le, ein paar Pr&uuml;f&shy;sum&shy;men:  
->   `sha256 0a76b85ff7767f9c2dcdab72890854f1ebea45359564a6bcdbae5aea295d6c5a`,  
->   `sha256 5505523390453fedb16a1ccd124ef9c7b857ff608e43d62d6b3d8a1fe97d22ff`,  
->   `sha256 e678f56c2b0634ce95010fab688a77bb51a2d7a151f56685e4c8447a7044eb0e`,  
->   `sha256 7474c95a8d885ec748895f3fbfd78d520f3d92f86a44245210aea32fb28cd9bc`,  
->   `sha256 8a312d6db6d8db709e5da3e37962293443413440feb90371cc467a7666980cd7`,  
->   `sha256 b47d907ec8da5feda5d6e5dfdf006232cff4f0bd4985d53ab86b0e24aed64e01`)
->   <!-- > * **Integrit&auml;t von Daten bei GitHub**(?) Inc.
->   (vorerst) **nicht gegeben**!  
->   (Nicht euer Ernst oder?!
->   Ich glaube,
->   das war kein so geiler Move.) -->
-> * betr. Dateien werden (erstmal) von einer VM bei hetzner.com bereitgestellt
->   (auch dort gab's Probleme mit dem Wirken der Crew,
->   aber ich hab jetzt erst mal nichts anderes): https://0vv1.io/stlk
-> * Abkl&auml;rung via
->   [Support-Ticket #3067960](https://support.github.com/ticket/personal/0/3067960)
-> * <span id="touch">und die betreffende erste Datei (eigentlich Daft Punks)
->   "[Touch](https://0vv1.io/stlk/2024-10-24_05-06_psy-terror-probe.mp3)",
->   aber im Chill-Out-Mix</span>
-> * nicht lachen, der Gem&uuml;tszustand d&uuml;rfte f&uuml;r Leute, die diese Trance
->   noch nie f&uuml;r ein paar Std. gemacht haben, einigerma&szlig;en skurril wirken 
-> 
-> [!CAUTION]
-> [**27.10.**, 13:52]
-> Mir reicht es!
-> der Support schweigt.
-> Ich werde `LFS` hier beenden,
-> mir merken(?),
-> dass ich zumindest Bin&auml;rdateien lieber nicht [GitHub](https://gitbub.com)
-> anvertraue und bis auf Weiteres
-> auf eigener Infrastruktur fahre:
 
 > [!WARNING]
 > [**Gefahrenabsch&auml;tzung**]
