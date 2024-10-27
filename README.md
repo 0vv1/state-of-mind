@@ -50,10 +50,7 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 <!-- h2><a href="https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit">Datenintegrit&auml;t</a> bei GitHub nicht gegeben</h2 -->
 
 > [!CAUTION]
-> Wie weit w&uuml;rdet ihr noch gehen?
-> Ohne Skrupel.
-> Das Wort kennt ihr gar nicht.
-> <!-- > Dieser reudige, menschenverachtende, stumpfe, die Sch&ouml;pfung verneinende Duktus in der Kommunikation.  
+> <!-- Dieser reudige, menschenverachtende, stumpfe, die Sch&ouml;pfung verneinende Duktus in der Kommunikation.  
 > Ihr missachtet die W&uuml;rde des einzelnen.
 > Auch eure eigene.  
 > In eurer N&auml;he ist alles egal. --> 
@@ -67,20 +64,9 @@ um ihn als "seinen" 17. Schizophrenie-Patienten langsam in den sicher geglaubten
 > dass das genau so wahr ist?
 > Dass eine liebe,
 > von euch geschickte,
-> Fee sich hier um den Kinder- & Jugendschutz k&uuml;mmert.  <!-- > **Das erste Mal W&uuml;rde!**
-> Was ist das denn f&uuml;r ein geiles M&auml;rchen?
-> Warum passt das denn sooo gut..
-> 
-> Nach Monaten des (erneuten) Zweifelns an meiner Wahrnehmung:
-> Ich meine, was soll es sonst sein,
-> wenn nicht meine kaputte Wahrnehmung?
-> Dass sich Dateien auf Servern in Microsofts eigenen Rechenzentren ver&auml;ndern?
-> Ganz bestimmt!
-> Und n&auml;chster Halt dann die Geschlossene. :zany_face:
-> Naja, zur sog. Sicherheit, zumindest bei den Audio-Up&shy;loads dann halt
-> [Pr&uuml;f&shy;sum&shy;men](./prufsummen.audio-recs.sha256). -->
->
->  [**Anm.** 26.10. 01:50]
+> Fee sich hier um den Kinder- & Jugendschutz k&uuml;mmert.  
+
+> [**Anm.** 26.10. 01:50]
 > * die ent&shy;spr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2 Mal
 >   in&shy;tern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
 > * Down&shy;load  mit Pr&uuml;f&shy;sum&shy;me  
