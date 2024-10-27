@@ -187,12 +187,16 @@ Und Du stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 
 > [!CAUTION]
 > [**27.10.**, 13:52]
+> <img alt="GitHub Support #3067960 2. Eintrag"
+> 	src="./2024-10-27_github_support-ticket-3067960.2.png"
+> 	width="500px"
 > Mir reicht es!
 > der Support schweigt.
 > Ich werde `LFS` hier beenden,
 > mir merken(?),
 > dass ich zumindest Bin&auml;rdateien lieber nicht [GitHub](https://gitbub.com)
 > anvertraue und bis auf Weiteres
+> </img>
 > **auf eigener Infrastruktur**:zany_face: fahre:
 
 `sha256 a6cdd3b780e0c1b6511404076c992d16d124a3096410129f17eb6d376d1e5baa` [10. M&auml;rz: Whg. Pankower Allee](https://0vv1.io/stlk/2024-03-10_12-08_whg-Pankower-Allee.3h53m.mp3) (3h53)  
