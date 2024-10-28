@@ -4313,30 +4313,31 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
 
 <h5>Manipulation PKI bei GitHub</h5>
 
-* [**16.12.**] 
-  <img alt="E-Mails, neuer PubKey"
+* [**16.10.**] 
+  img alt="E-Mails, neuer PubKey"
     src="./2024-10-16_github_new-ssh-keys.jpg"
-  width="300px">
-  Einer der ~~(*Sado*?-)~~ Dudes,
-  der sich heute um die Sichtung der Readme kümmert,
+	width="300px">
+  ~~Einer der *Psy*(?)-Dudes,
+  der sich heute um die Sichtung der README kümmert,
   war ob des Inhaltes bzgl. Straftaten einer der Täter
-  (ich glaub, Hr. Fehler:
+  (ich glaub, Hr. F. aus Reinickendorf:
   16 schizophrene Mordopfer sind dir dann doch zu viel?)
   unzufrieden,
   das zuständige Ministerium entschloss also kurzerhand,
   den SSH-PubKey aus meinem,
   mit einem 24-stelligen Random-PW + 2FA abgesicherten
-  Account zu löschen. :joy:
-  Ach ja, und die nächsten 34 SSH-Keys auch gleich,
+  Account zu löschen.~~ :joy:
+  ~~Ach ja, und die nächsten 34 SSH-Keys auch gleich,
   mglw. hat er ästhetische Ansprüche,
-  da zeigt der Trend bei PubKey grade hin. :star_struck:
+  da zeigt der Trend bei PubKey grade hin.~~  
+  </img>  
   Gerade der Irre Brain-Doc hat noch Brain-Washing-Leistungen
   zu erbringen,
   um das Gehirn der jungen Frau zu zerstören
   (angebl. seine Spezialität, neben Schizos killen).
-  Aber dafür muss er sich halt zunächst Vertrauen erschleichen,
+  Aber dafür muss er sich halt zunächst ihr Vertrauen erschleichen,
   um es für seine Injections missbrauchen zu können.
-</img>
+* [**28.10.**] 
 
 <details>
   <summary>
