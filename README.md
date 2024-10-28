@@ -131,30 +131,34 @@ Und Du stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 > 
 > [**Anm. 28.10.** 06:30]
 > * eine Sadisten-Crew mit
-> 	1. einer gr&ouml;eren Zahl auch einflussreicherer Mitglieder ([Strafverfolgung](#), [Justiz](#), [Psychologische Fakult&auml;ten](#), [Politik](#))
+> 	1. einer gr&ouml;&szlig;eren Zahl auch einflussreicherer Mitglieder ([Strafverfolgung](#), [Justiz](#), [Psychologische Fakult&auml;ten](#), [Politik](#)) und
 >  	2. mglw. auch internationalen [Kontakten](#)
 >
 > * eine unterst&uuml;tzende "Psy"-"Sekte" (k.&#8239;A., wie ich diese Crew besser benennen k&ouml;nnte und TBH bin ich mir bzgl. Hierarchien gar nicht (mehr) so sicher)
 >   * ich habe die anf&auml;nglich f&uuml;r eine beliebige Hacker-Crew gehalten, ganz ehrlich: Die sind an der Kiste nicht soo geil.
 >     **Aber**: Tun so! Und das scheint denen auch wichtig.
 >   * (nochmal, ich schreibe hier *fiktiv*!) die **scheinen**(!) mir ihre "Probleme" anders zu l&ouml;sen und
->   * k&ouml;nnen zumindest mir(!) sehr glaub&shy;haft **suggerieren**(!),
->     zumindest in einem begrenzten Radius von kanpp f&uuml;nf Metern,
->     in gewissen Grenzen und erst nach einiger Zeit des "Eingroovens", unter notwendiger Hinzunahme/Beachtung weiterer Parameter,
->     sozusagen formulierte (und damit sauberere) Gedanken anderer (technisch gel&ouml;st?) soetwas wie mitlesen zu k&ouml;nnen,
->     was einer von ihnen (mir) auch jetzt gerade (durch Gebrabbel) **suggeriert**(!)
+>   * k&ouml;nnen zumindest mir(!) sehr glaub&shy;haft **suggerieren**(!),  
+>     zumindest in einem begrenzten Radius von kanpp f&uuml;nf Metern,  
+>     in gewissen Grenzen und erst nach einiger Zeit des "Eingroovens",
+>     unter notwendiger Hinzunahme/Beachtung weiterer Parameter,  
+>     sozusagen formulierte (und damit sauberere) Gedanken anderer (technisch gel&ouml;st?) soetwas wie mitlesen zu k&ouml;nnen,  
+>     was einer von ihnen (mir) auch jetzt gerade (durch Gebrabbel) **suggeriert**(!)  
 >     (ich glaube,
 >     das ist es,
 >     was diese Geschichte so unglaubw&uuml;rdig macht,
 >     kombiniert mit einer (Verdachts-)Diagnose Schizophrenie,
->     die aber selbst die, mich behandelnde, ambulante Psychiatrie inzwischen bezweifel und:
+>     die aber selbst die, mich behandelnde, ambulante Psychiatrie inzwischen bezweifel und:  
 >     Ich denke, viele Mitlesende &uuml;berlesen das Wort **suggerieren**.)
 >   * nochmal zum Mitmei&szlig;eln: **"Die" tun so glaubhaft als ob,
 >     dass die Opfer der Meinung sind, es ist.**
 >   * damit &uuml;berlassen sie (**fast**) s&auml;mtliche "Au&szlig;enwirkung" ihren zahlreichen Opfern
 >   * um das letzte **fast** geht es mir:
->     * provozieren von "Au&szlig;enwirkung"
->     * Beweis ihrer(!) "Au&szlig;enwirkung"
+>     1. provozieren von "Au&szlig;enwirkung"
+>     2. Beweis ihrer(!) "Au&szlig;enwirkung"
+>     3. Ich lasse mich nicht von euch und eurem reudigen Nazi-Duktus verarschen, ihr Lappen!
+>        Niemand(!) **suggeriert**(!) mir eine virtuelle(!) **Micro**(!)**-Diktatur** per (**suggerierter**?) Gedanken-Soufflage(?),
+>        inkl. (suggeriertem) Menschenhandel, (suggerierter) Zwangsprostitution und (suggerierter) Remote-Steuerung von Mitgliedern der Strafverfolgung ohne dass ich sowas pers&ouml;nlich nehme
 >
 > [**Diffamierung**]
 > "Die" fahren m.&#8239;M.&#8239;n. monstr&ouml;se Diffamierungskampagnen und sind auch psychologisch wahnsinnig geschickt.
