@@ -99,15 +99,8 @@ Der allergr&ouml;&szlig;te Teil der
 
 Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 	(oder Hil&shy;fe)
-	"von außen" aus&shy;kom&shy;men musste,
-	half da oft nur sehr viel Humor. :grimacing:  
-Der sich aber manchmal auch unfreiwillig und tragik-komisch von allein einstellt,
-wenn enge Freunde,
-in Tr&auml;nen aufgel&ouml;st,
-ehrlich und von Herzen hoffen,
-dass Du so schnell wie m&ouml;glich den Weg in eine geschlossene psychiatrische Anstalt findest,
-dein unermessliches Leiden aufh&ouml;rt und deine geschundene Seele Erl&ouml;sung findet. :shrug:  
-Und Du selbst stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
+	"von außen" aus&shy;kom&shy;men muss,
+	hilft da oft nur sehr viel Humor. :grimacing:  
 
 <h2>Gliederung</h2>
 
@@ -132,11 +125,11 @@ Und Du selbst stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 > 
 > [**Anm. 28.10.** 06:30]
 > * eine Sadisten-Crew mit
-> 	1. einer gr&ouml;&szlig;eren Zahl auch einflussreicherer Mitglieder ([Strafverfolgung](#), [Justiz](#), [Psychologische Fakult&auml;ten](#), [Politik](#)) und
->  	2. mglw. auch internationalen [Kontakten](#) (nat&uuml;rlich alles Zufall, aber hier fahren Botschaftsangeh&ouml;rige vor)
+> 	1. einer gr&ouml;&szlig;eren Zahl auch einflussreicherer Mitglieder (Strafverfolgung, Justiz, [Psychologische Fakult&auml;ten](#uni-psych), Politik) und
+>  	2. mglw. auch internationalen Kontakten (nat&uuml;rlich alles Zufall, aber hier fahren Botschaftsangeh&ouml;rige vor)
 >
 > * eine unterst&uuml;tzende "Psy"-"Sekte" (k.&#8239;A., wie ich diese Crew besser benennen k&ouml;nnte und TBH bin ich mir bzgl. Hierarchien gar nicht (mehr) so sicher)
->   * ich habe die anf&auml;nglich f&uuml;r eine beliebige Hacker-Crew gehalten, ganz ehrlich: Die sind an der Kiste nicht soo geil.
+>   * ich habe die anf&auml;nglich f&uuml;r eine beliebige Hacker-Crew gehalten, ganz ehrlich: Die sind an der Kiste nicht soo geil.  
 >     **Aber**: Tun so! Und das scheint denen auch wichtig.
 >   * (nochmal, ich schreibe hier *fiktiv*!) die **scheinen**(!) mir ihre "Probleme" anders zu l&ouml;sen und
 >   * k&ouml;nnen zumindest mir(!) sehr glaub&shy;haft **suggerieren**(!),  
@@ -202,10 +195,12 @@ Und Du selbst stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 > soufflieren so wahnsinnig geschickt stumpfe Verschw&ouml;rungstheorien,
 > dass davon immer was im Text bleibt,
 > so sehr man auch aufpasst.  
-> Aber das krasseste nenne ich *Crunch-Mail*:
+> Es wird anscheinend selektive unidirektionale Kommunikation au&szlig;erhalb ihres urspr&uuml;nglichen Kontexts verwendet
+> (sozusagen ein individuelles und k&uuml;nstlich verst&auml;rktes(!) **Worst-Of**), z.&#8239;B. (ich nenne es)
+> *Crunch-Mail*:  
 > Stundenlanger emotionaler Druck,
 > nur um unter suggeriertem Zeitdruck,
-> einen m&ouml;glichst komplexen Zussammenhang au&szlig;erhalb Kontext in einer E-Mail rauszuhauen.
+> einen m&ouml;glichst komplexen Zussammenhang, (wichtig!) **ohne Kontext**, in einer E-Mail rauszuhauen.  
 > Das klappt jedes Mal! Ich hab hier E-Mails liegen.. :joy:
 > <details>
 >        <summary>[aufklappen f&uuml;r] Letzte Crunch-Mail: 60 Sek. Zeit
@@ -230,6 +225,13 @@ Und Du selbst stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 >   die (erstmal nur f&uuml;r mich, nicht zwangsl&auml;ufig f&uuml;r sie!) in
 >   (nur mir suggerierter?) gro&szlig;ter Gefahr schwebt,
 >   zu erreichen
+> 
+> <span id="uni-psych">Hier nochmal eine **deutliche Warnung**</span>:  
+> Nix Schizo! Hier arbeiten absolute Pros! Und nicht nur einer.
+> Das sind auch nicht irgendwelche Psychologen:  
+> Ich kann mir profundes Wissen und soviel Erfahrung vorstellen,
+> dass so mancher von ihnen mglw. mal den Auftrag erhalten hat,
+> sein Wissen weiterzugeben!
 
 <!--
 > [!NOTE]
