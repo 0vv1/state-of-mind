@@ -126,8 +126,8 @@ Und Du selbst stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 > Das scheint (leider) eine gr&ouml;&szlig;ere "Psy"-Sadisten-Crew zu sein (mglw. 100+ Leute).  
 > Auch "h&ouml;here Kreise", also mglw. Leute, die bei einer Dienststelle der Polizei Berlin anrufen und sagen k&ouml;nnen: " Der da nicht."  
 > (ohne jemanden zu belasten, ich werd jetzt auch mal Namen hier raus nehmen)  
-> Mir folgt bspw. auch seit Wochen mind. eine gr&ouml;&szlig;ere Drohne durch die Stadt.
-> Jetzt auch grad (überm Hbf.), knapp ~~100~~ (sie sagt) 200 m H&ouml;he.. :wave: [NO SHIT!]
+> Mir folgt seit Wochen mind. eine gr&ouml;&szlig;ere Drohne durch die Stadt.
+> Jetzt auch grad (überm Hbf.), knapp ~~100~~ (sie sagt) 200 m H&ouml;he.. :wave: [NO SHIT!]  
 > Die werde ich nur ohne Mobilfunk (und zwei, drei Verkehrsmitteln) los. :joy:
 > 
 > [**Anm. 28.10.** 06:30]
@@ -228,7 +228,7 @@ Und Du selbst stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 > * keine (f&uuml;r mich!) ersichtliche Au&szlig;enwirkung
 > * in der Folge versuche ich, eine mir in der Realit&auml;t nahezu unbekannte Person,
 >   die (erstmal nur f&uuml;r mich, nicht zwangsl&auml;ufig f&uuml;r sie!) in
->   (nur mir suggerierter?) gro&szlig;er Gefahr schwebt,
+>   (nur mir suggerierter?) gro&szlig;ter Gefahr schwebt,
 >   zu erreichen
 
 <!--
@@ -324,13 +324,13 @@ Und Du selbst stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 > Aber gut,
 > ich muss `LFS` hier be&shy;en&shy;den,
 > kei&shy;ne Bi&shy;na&shy;rys mehr com&shy;mit&shy;ten und
-> mir irgend&shy;wie mer&shy;ken(?),  
-> dass auch **Daten&shy;in&shy;te&shy;gri&shy;t&auml;t** nie&shy;man&shy;den mehr wirk&shy;lich in&shy;te&shy;res&shy;siert  
-> (Wo&shy;bei ich mich schon fra&shy;ge: Was denn eigent&shy;lich dann noch? Irgend&shy;wer?!)
+> mir irgend&shy;wie mer&shy;ken(!?),  
+> dass auch [**Daten&shy;in&shy;te&shy;gri&shy;t&auml;t**](https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit))
+> nie&shy;man&shy;den mehr wirk&shy;lich in&shy;te&shy;res&shy;siert  
+> (Wo&shy;bei ich mich schon fra&shy;ge: Was denn eigent&shy;lich dann noch? Irgend&shy;wer?!)  
 > </img>
-> Ich hos&shy;te jetzt **auf ei&shy;ge&shy;ner "Infra&shy;struk&shy;tur:** f&uuml;r 4,58 &euro; und hof&shy;fe,
-> dass sie mir nicht zu Staub zer&shy;bal&shy;lert wird
-> (wobei ich gerade eine interessante [Beobachtung] mache): :zany_face:
+> OK, ich hos&shy;te jetzt **auf "ei&shy;ge&shy;ner" Infra&shy;struk&shy;tur** f&uuml;r 4,58 &euro; und hof&shy;fe,
+> dass sie mir nicht zu Staub zer&shy;bal&shy;lert wird: :zany_face:
 
 `sha256 a6cdd3b780e0c1b6511404076c992d16d124a3096410129f17eb6d376d1e5baa` [10. M&auml;rz: Whg. Pankower Allee](https://0vv1.io/stlk/2024-03-10_12-08_whg-Pankower-Allee.3h53m.mp3) (3h53)  
 `sha256 78101e6de5be5a5e54fefc6da8317466c32efab758444aaaddff2902e604c419` [27. Juli: Whg. Borussiastr.](https://0vv1.io/stlk/2024-07-27_23-16_whg-Borussiastr_misshandlg.50m.mp3) (50min)  
