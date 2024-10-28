@@ -100,14 +100,100 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 	(oder Hil&shy;fe)
 	"von außen" aus&shy;kom&shy;men musste,
 	half da oft nur sehr viel Humor. :grimacing:  
-Der sich aber auch von allein einstellt:
-Vor dir stehen,
-in Tr&auml;nen aufgel&ouml;ste,
-enge Freunde,
-die ehrlich von Herzen hoffen,
-dass Du hoffentlich schon bald den Weg in eine geschlossene psychiatrische Anstalt findest,
-dass dein unermessliches Leiden aufh&ouml;rt und deine geschundene Seele Erl&ouml;sung findest. :shrug:  
+Der sich aber manchmal auch unfreiwillig und tragik-komisch von allein einstellt,
+wenn enge Freunde,
+in Tr&auml;nen aufgel&ouml;st,
+ehrlich und von Herzen hoffen,
+dass Du hoffentlich so schnell wie m&ouml;glich den Weg in eine geschlossene psychiatrische Anstalt findest,
+dass dein unermessliches Leiden aufh&ouml;rt und deine geschundene Seele Erl&ouml;sung findet. :shrug:  
 Und Du stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
+
+<h2>Gliederung</h2>
+
+* Idee/These
+* ein paar Recordings als "Beweis"
+* Beschreibung/Methoden der Sadisten-Crew
+* Beschreibung/Methoden der, sie unterst&uuml;tzenden, (eigenbegriff) Psy-Crew?
+* Nennung/Methoden von mind. vier Einzelt&auml;tern
+* Log / chronologische Abfolge von Ereignissen,
+  so oft wie m&ouml;glich gegen Methoden gelinkt
+  (das ist wahnsinnig viel, ich w&uuml;rde einfach mal machen,
+  solange "die" mich lassen :joy:)
+
+> [!WARNING]
+> [**Gefahrenabsch&auml;tzung**]
+> Das scheint (leider) eine gr&ouml;&szlig;ere "Psy"-Sadisten-Crew zu sein (mglw. 100+ Leute).  
+> Auch "h&ouml;here Kreise", also mglw. Leute, die bei einer Dienststelle der Polizei Berlin anrufen und sagen k&ouml;nnen: " Der da nicht."  
+> (ohne jemanden zu belasten, ich werd jetzt auch mal Namen hier raus nehmen)  
+> Mir folgt bspw. auch seit Wochen mind. eine gr&ouml;&szlig;ere Drohne durch die Stadt.
+> Jetzt auch grad (überm Hbf.), knapp ~~100~~ (sie sagt) 200 m H&ouml;he.. :wave: [NO SHIT!]
+> Die werde ich nur ohne Mobilfunk (und zwei, drei Verkehrsmitteln) los. :joy:
+> 
+> [**Anm. 28.10.** 06:30]
+> * eine Sadisten-Crew mit
+> 	1. einer gr&ouml;eren Zahl auch einflussreicherer Mitglieder ([Strafverfolgung](#), [Justiz](#), [Psychologische Fakult&auml;ten](#), [Politik](#))
+>  	2. mglw. auch internationalen [Kontakten](#)
+>
+> * eine unterst&uuml;tzende "Psy"-"Sekte" (k.&#8239;A., wie ich diese Crew besser benennen k&ouml;nnte und TBH bin ich mir bzgl. Hierarchien gar nicht (mehr) so sicher)
+>   * ich habe die anf&auml;nglich f&uuml;r eine beliebige Hacker-Crew gehalten, ganz ehrlich: Die sind an der Kiste nicht soo geil.
+>     **Aber**: Tun so! Und das scheint denen auch wichtig.
+>   * (nochmal, ich schreibe hier *fiktiv*!) die **scheinen**(!) mir ihre "Probleme" anders zu l&ouml;sen und
+>   * k&ouml;nnen zumindest mir(!) sehr glaub&shy;haft **suggerieren**(!),
+>     zumindest in einem begrenzten Radius von kanpp f&uuml;nf Metern,
+>     in gewissen Grenzen und erst nach einiger Zeit des "Eingroovens", unter notwendiger Hinzunahme/Beachtung weiterer Parameter,
+>     sozusagen formulierte (und damit sauberere) Gedanken anderer (technisch gel&ouml;st?) soetwas wie mitlesen zu k&ouml;nnen,
+>     was einer von ihnen (mir) auch jetzt gerade (durch Gebrabbel) **suggeriert**(!)
+>     (ich glaube,
+>     das ist es,
+>     was diese Geschichte so unglaubw&uuml;rdig macht,
+>     kombiniert mit einer (Verdachts-)Diagnose Schizophrenie,
+>     die aber selbst die, mich behandelnde, ambulante Psychiatrie inzwischen bezweifel und:
+>     Ich denke, viele Mitlesende &uuml;berlesen das Wort **suggerieren**.)
+>   * nochmal zum Mitmei&szlig;eln: **"Die" tun so glaubhaft als ob,
+>     dass die Opfer der Meinung sind, es ist.**
+>   * damit &uuml;berlassen sie (**fast**) s&auml;mtliche "Au&szlig;enwirkung" ihren zahlreichen Opfern
+>   * um das letzte **fast** geht es mir:
+>     * provozieren von "Au&szlig;enwirkung"
+>     * Beweis ihrer(!) "Au&szlig;enwirkung"
+>
+> [**Diffamierung**]
+> "Die" fahren m.&#8239;M.&#8239;n. monstr&ouml;se Diffamierungskampagnen und sind auch psychologisch wahnsinnig geschickt.
+> Das dauert zwei Wochen und kein Nachbar schaut dich noch an.
+> Ein Dutzend Freunde geben sich unabh&auml;ngig(!) voneinander die Klinke in die Hand,
+> um,
+> teilweise in Tr&auml;nen aufgel&ouml;st,
+> deine Einweisung in eine geschlossene psychiatrische Einrichtung zu erflehen
+> (was immer ich da soll).
+> Therapeuten machen sich solche Sorgen,
+> dass sie anfangen,
+> irgendwelche Medikamentierungen seitens der Psychiatrien zu erhoffen,
+> dass man endlich erl&ouml;st ist und es einem besser geht.
+> Die k&ouml;nnen Leute bei dir vorladen,
+> exakt in deinem beschissensten Moment der Woche.  
+> Und Du gehst durch die Sonne und denkst so: H&auml;?!
+> Wie zur H&ouml;lle machen die das?  
+> Die T&auml;ter selbst labern einen w&auml;hrend des Verfassens solcher Zeilen von der Seite voll,
+> sufflieren so wahnsinnig geschickt stumpfe Verschw&ouml;rungstheorien,
+> dass davon immer was im Text bleibt,
+> so sehr man auch aufpasst.  
+> Aber das krasseste nenne ich *Crunch-Mail*:
+> Stundenlanger emotionaler Druck,
+> nur um unter suggeriertem Zeitdruck,
+> einen m&ouml;glichst komplexen Zussammenhang au&szlig;erhalb Kontext in einer E-Mail rauszuhauen.
+> Das klappt jedes Mal! Ich hab hier E-Mails liegen.. :joy:
+> <details>
+>        <summary>[aufklappen f&uuml;r] Letzte Crunch-Mail: 60 Sek. Zeit
+>                 einen "Selbstmord" zu verhindern (ich gehe davon aus, dass dieser Diamant die einzige Mail sein wird, die die Adressatin erreichen wird)..</summary>
+> 
+>        Ich weiß nicht, was er aus mir gemacht hat. ***, er dreht Persönlichkeiten um.
+>        Aber ich hasse dich nicht, ich bin auch kein Stalker!
+>        Ich würde dir nie etwas tun, vielleicht kennst Du mich auch gar nicht.
+> 
+>        Entschuldige bitte alles, was ich nie getan hab.
+>        Ich habe keine gespaltene Persönlichkeit! Sowas gibt es nicht.
+> 
+>        Alex
+> </details>
 
 <!--
 > [!NOTE]
@@ -188,18 +274,27 @@ Und Du stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 > [!CAUTION]
 > [**27.10.**, 13:52]
 > <img
->   align="right"
+> 	align="right"
 >   alt="GitHub Support #3067960 2. Eintrag"
 > 	src="./2024-10-27_github_support-ticket-3067960.2.png"
 > 	width="700px">
-> Mir reicht es!
-> der Support schweigt.
-> Ich werde `LFS` hier beenden,
-> mir merken(?),
-> dass ich zumindest Bin&auml;rdateien lieber nicht [GitHub](https://gitbub.com)
-> anvertraue und bis auf Weiteres
+> K.&#8239;A.,
+> viel&shy;leicht nehme ich mich auch zu wich&shy;tig oder so. :shrug:
+> Ich habe Ende letz&shy;ter Woche dem Sup&shy;port ge&shy;schrie&shy;ben und
+> bin fast da&shy;von aus&shy;ge&shy;gan&shy;gen,
+> dass ich inner&shy;halb von zehn Minu&shy;ten eine In&shy;ves&shy;ti&shy;ga&shy;tion an&shy;ge&shy;sto&szlig;en be&shy;kom&shy;me,
+> wenn ich der welt&shy;weit gr&ouml;&szlig;&shy;ten Platt&shy;form zur Ver&shy;sions&shy;kon&shy;trol&shy;le an&shy;deu&shy;te,
+> dass ich ihre Kern&shy;kom&shy;pe&shy;tenz besch&auml;digt sehe.
+> Aber gut,
+> ich muss `LFS` hier be&shy;en&shy;den,
+> kei&shy;ne Bi&shy;na&shy;rys mehr com&shy;mit&shy;ten und
+> mir irgend&shy;wie mer&shy;ken(?),
+> dass auch **Daten&shy;in&shy;te&shy;gri&shy;t&auml;t** nie&shy;man&shy;den mehr wirk&shy;lich in&shy;te&shy;res&shy;siert
+> (Wo&shy;bei ich mich schon fra&shy;ge: Was denn eigent&shy;lich dann noch? Irgend&shy;wer?!)
 > </img>
-> **auf eigener Infrastruktur**:zany_face: fahre:
+> Ich hos&shy;te jetzt **auf ei&shy;ge&shy;ner "Infra&shy;struk&shy;tur:** f&uuml;r 4,58 &eur; und hof&shy;fe,
+> dass sie mir nicht zu Staub zer&shy;bal&shy;lert wird
+> (wobei ich gerade eine interessante [Beobachtung] mache): :zany_face:
 
 `sha256 a6cdd3b780e0c1b6511404076c992d16d124a3096410129f17eb6d376d1e5baa` [10. M&auml;rz: Whg. Pankower Allee](https://0vv1.io/stlk/2024-03-10_12-08_whg-Pankower-Allee.3h53m.mp3) (3h53)  
 `sha256 78101e6de5be5a5e54fefc6da8317466c32efab758444aaaddff2902e604c419` [27. Juli: Whg. Borussiastr.](https://0vv1.io/stlk/2024-07-27_23-16_whg-Borussiastr_misshandlg.50m.mp3) (50min)  
@@ -255,54 +350,6 @@ aufmachen/hacken.
 > oder geht das nur mir so?*).
 > Jedenfalls kann man es selber ausprobieren,
 > es ergeben sich verschiedenste deutsche Texte.   
-
-> [!WARNING]
-> [**Gefahrenabsch&auml;tzung**]
-> Das scheint (leider) eine gr&ouml;&szlig;ere "Psy"-Sadisten-Crew zu sein (mglw. 100+ Leute).  
-> Auch "h&ouml;here Kreise", also mglw. Leute, die bei einer Dienststelle der Polizei Berlin anrufen und sagen k&ouml;nnen: " Der da nicht."  
-> (ohne jemanden zu belasten, ich werd jetzt auch mal Namen hier raus nehmen, das' ja fahrl&auml;ssig)  
-> Mir folgt bspw. auch seit Wochen mind. eine gr&ouml;&szlig;ere Drohne durch die Stadt.
-> Jetzt auch grad (überm Hbf.), knapp ~~100~~ (sie sagt) 200 m H&ouml;he.. :wave: [NO SHIT!]
-> Die werde ich nur ohne Mobilfunk (und zwei, drei Verkehrsmitteln) los. :joy:
->
-> [**Diffamierung**]
-> "Die" fahren m.&#8239;M.&#8239;n. monstr&ouml;se Diffamierungskampagnen und sind auch psychologisch wahnsinnig geschickt.
-> Das dauert zwei Wochen und kein Nachbar schaut dich noch an.
-> Ein Dutzend Freunde geben sich unabh&auml;ngig(!) voneinander die Klinke in die Hand,
-> um,
-> teilweise in Tr&auml;nen aufgel&ouml;st,
-> deine Einweisung in eine geschlossene psychiatrische Einrichtung zu erflehen
-> (was immer ich da soll).
-> Therapeuten machen sich solche Sorgen,
-> dass sie anfangen,
-> irgendwelche Medikamentierungen seitens der Psychiatrien zu erhoffen,
-> dass man endlich erl&ouml;st ist und es einem besser geht.
-> Die k&ouml;nnen Leute bei dir vorladen,
-> exakt in deinem beschissensten Moment der Woche.  
-> Und Du gehst durch die Sonne und denkst so: H&auml;?!
-> Wie zur H&ouml;lle machen die das?  
-> Die T&auml;ter selbst labern einen w&auml;hrend des Verfassens solcher Zeilen von der Seite voll,
-> sufflieren so wahnsinnig geschickt stumpfe Verschw&ouml;rungstheorien,
-> dass davon immer was im Text bleibt,
-> so sehr man auch aufpasst.  
-> Aber das krasseste nenne ich *Crunch-Mail*:
-> Stundenlanger emotionaler Druck,
-> nur um unter suggeriertem Zeitdruck,
-> einen m&ouml;glichst komplexen Zussammenhang au&szlig;erhalb Kontext in einer E-Mail rauszuhauen.
-> Das klappt jedes Mal! Ich hab hier E-Mails liegen.. :joy:
-> <details>
->        <summary>[aufklappen f&uuml;r] Letzte Crunch-Mail: 60 Sek. Zeit
->                 einen "Selbstmord" zu verhindern (ich gehe davon aus, dass dieser Diamant die einzige Mail sein wird, die die Adressatin erreichen wird)..</summary>
-> 
->        Ich weiß nicht, was er aus mir gemacht hat. ***, er dreht Persönlichkeiten um.
->        Aber ich hasse dich nicht, ich bin auch kein Stalker!
->        Ich würde dir nie etwas tun, vielleicht kennst Du mich auch gar nicht.
-> 
->        Entschuldige bitte alles, was ich nie getan hab.
->        Ich habe keine gespaltene Persönlichkeit! Sowas gibt es nicht.
-> 
->        Alex
-> </details>
 
 > [**Anm.**]
 > Bitte sagt mir nicht, ihr zeigt das anderen Leuten!  
