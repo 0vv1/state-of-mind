@@ -31,8 +31,8 @@ Auf die Idee hat mich ein Freund gebracht, der mir mal ein halbes St&uuml;ndchen
 <h1>Beob&shy;ach&shy;tun&shy;gen zum Ge&shy;gen&shy;satz&shy;paar <b>Kom&shy;mu&shy;ni&shy;ka&shy;<nobr>tion</b>/</nobr><b>Iso&shy;la&shy;tion</b> und
 	der Wirk&shy;mäch&shy;tig&shy;keit <b>akus&shy;ti&shy;sche</b>r <b>Mani&shy;pu&shy;la&shy;tion</b> von
 	(wohl auch Mas&shy;<nobr>sen-)</nobr><wbr />Wahr&shy;neh&shy;mung<br />
-	<sub><sup>oder<br />«&Uuml;ber das ver&shy;bor&shy;ge&shy;ne Wir&shy;ken ei&shy;ner (bis&shy;her)
-	sehr ein&shy;fluss&shy;rei&shy;chen ("Psy"-)Sadisten(?)-Crew.»</sup></sub></h1>
+	<sub><sup>oder<br />«&Uuml;ber das ver&shy;bor&shy;ge&shy;ne Wir&shy;ken ei&shy;ner
+	sehr ein&shy;fluss&shy;rei&shy;chen Psy-Sadisten-Crew»</sup></sub></h1>
 
 .. deren Herr F. aus Reinickendorf, Spezialist f&uuml;r die qualvolle Ermordung von Schizophrenie-Patienten, dem Autor dieser Zeilen vor knapp 1.390 Tagen eine **k&uuml;nstliche Schizophrenie** induzierte,
 	um ihn als sein Todes-Opfer Nr. 17 mit Schizophrenie-Diagnose so langsam wie nur m&ouml;glich in den quasi sicheren Tod zu foltern.  
@@ -40,10 +40,22 @@ Auf die Idee hat mich ein Freund gebracht, der mir mal ein halbes St&uuml;ndchen
     die (leider!) mit jeder Zeile realer wird?
 	
 Er hat es nicht geschafft.
-	Stattdessen habe ich Ende August mit dem Schreiben dieser zwar **zeitaufw&auml;ndige**n,
-	aber (wie sich bald herausstellte) sehr notwendigen **Dokumentation** angefangen.
+	Stattdessen habe ich jetzt seine komplette Crew an den Hacken,
+ 	die aber,
+  	seit ich Ende August mit dem Schreiben dieser zwar **zeitaufw&auml;ndige**n,
+	aber (wie sich bald herausstellte) sehr notwendigen **Dokumentation** angefangen habe,
+ 	auch nichts wirklich ausrichten kann.
+Wir sind alle stuck,
+	so dass ich mir vorstellen kann,
+ 	dass ich in K&uuml;rze wieder auf gew&ouml;hnliche Schizophrenie defaulten soll,
+	wozu ich nur sagen kann:
+Dieses Mal muss es nicht funktionieren.
+Warum nicht?  
+Weil ihr (wie letztes Mal) Au&szlig;enwirkung erzielt habt,
+aber:
+**Dieses Mal beweise ich eure Au&szlig;enwirkung!**
 
-Neben ihrer lebensversichernden Funktion tut mir ihre sorgf&auml;ltige Anfertigung au&szlig;erdem gut
+Neben ihrer lebensversichernden Funktion tut mir die sorgf&auml;ltige Anfertigung einer Dokumentation au&szlig;erdem gut
 	**und wird für den**
 	(hoff&shy;ent&shy;lich)
 	äußerst un&shy;wahr&shy;schein&shy;lich&shy;en **Fall,
@@ -57,8 +69,7 @@ Spä&shy;te&shy;re <nobr>Täter/</nobr>-<wbr>in&shy;nen sol&shy;len es
 
 Der allergr&ouml;&szlig;te Teil der
 	(bis&shy;her natür&shy;lich von mir nur ver&shy;mu&shy;te&shy;ten
- 	Desinformations-M&uuml;ll-)
-	**Sen&shy;der trat** zu&shy;min&shy;dest mir gegen&shy;über
+ 	Desinformations-M&uuml;ll-)**Sen&shy;der trat** zu&shy;min&shy;dest mir gegen&shy;über
 	demon&shy;stra&shy;tiv
 	**hos&shy;<nobr>til**/**ver</nobr>&shy;ächt&shy;lich** auf und
 	nutzte mein,
@@ -81,7 +92,7 @@ Der allergr&ouml;&szlig;te Teil der
 > ob es &uuml;ber&shy;haupt eine Ge&shy;r&auml;usch&shy;quel&shy;le gab,
 > so&shy;dass poten&shy;tiel&shy;le Stal&shy;ker
 > (oder T&auml;ter all&shy;ge&shy;mein)
-> sich bei ~~mir~~ uns(?)
+> sich bei ~~mir~~ uns (Schizophrenie-Patienten)
 > (so&shy;lan&shy;ge ~~ich~~ wir allein ~~bin~~ sind)
 > sehr viel mehr erlau&shy;ben und siche&shy;rer f&uuml;h&shy;len k&ouml;n&shy;nen
 > als bei Men&shy;sch&shy;en mit "norma&shy;ti&shy;ver"
@@ -116,10 +127,10 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 
 > [!WARNING]
 > [**Gefahrenabsch&auml;tzung**]
-> Das scheint (leider) eine gr&ouml;&szlig;ere "Psy"-Sadisten-Crew zu sein (mglw. 100+ Leute).  
+> Das scheinen (leider) gr&ouml;&szlig;ere "Psy"-/"Sado"-Crews zu sein.  
 > Auch "h&ouml;here Kreise", also mglw. Leute, die bei einer Dienststelle der Polizei Berlin anrufen und sagen k&ouml;nnen: " Der da nicht."  
 > (ohne jemanden zu belasten, ich werd jetzt auch mal Namen hier raus nehmen)  
-> Mir folgt seit Wochen mind. eine gr&ouml;&szlig;ere Drohne durch die Stadt.  
+> Mir folgt seit Wochen nachts mind. eine (von bisher 4) gr&ouml;&szlig;ere Drohne durch die Stadt.  
 > Jetzt auch grad (überm Hbf.), knapp ~~100~~ (sie sagt) 200 m H&ouml;he.. :wave: [NO SHIT!]  
 > Die werde ich nur ohne Mobilfunk (und zwei, drei Verkehrsmitteln) los. :joy:
 > 
@@ -138,7 +149,7 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 >     unter notwendiger Hinzunahme/Beachtung weiterer Parameter,  
 >     sozusagen formulierte (und damit sauberere) Gedanken anderer (technisch gel&ouml;st?) soetwas wie mitlesen zu k&ouml;nnen,  
 >     was einer von ihnen (mir) auch jetzt gerade (durch Gebrabbel) **suggeriert**(!)  
->     (ich glaube,
+>     (Ich glaube,
 >     das ist es,
 >     was diese Geschichte so unglaubw&uuml;rdig macht,
 >     kombiniert mit einer (Verdachts-)Diagnose Schizophrenie,
@@ -149,7 +160,7 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 >     * Bsp.: Suggestion einer Schizophrenie,
 >       so glaubhaft,
 >       dass das Opfer *glauben* muss,
->       echte Stimmen seien imaginiert.
+>       echte Stimmen seien imaginiert.  
 >       Damit: Im Grunde eine umgekehrte Schizophrenie
 >       (**Dieses st&auml;ndige Umkehren von Faktischem ist ein ganz wesentliches Element dieser Nummer hier.**
 >       Finde ich.)
@@ -157,36 +168,36 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 >   * um das letzte **fast** geht es mir:
 >     1. provozieren von "Au&szlig;enwirkung"
 >     2. Beweis ihrer(!) "Au&szlig;enwirkung"
->     3. Ich lasse mich nicht von euch und eurem reudigen Nazi-Duktus verarschen, ihr Lappen!  
->        Niemand(!) **suggeriert**(!) mir eine virtuelle(!) **Mikro**(!)**-Diktatur** per (**suggerierter**?) Gedanken-Soufflage(?),
->        inkl. (suggeriertem) Menschenhandel, (suggerierter) Zwangsprostitution und (suggerierter) Remote-Steuerung von Mitgliedern der Strafverfolgung
->        in meiner direkten Umgebung ohne dass ich soetwas pers&ouml;nlich nehme.  
->        (Ihr konntet das nicht wissen, aber ich bin (leider) die echte Antifa.  
->        Ich verachte eure degenerierte Moral,
->        jede(!), auch die kleinste(!), Grenz&uuml;berschreitung
->        (nein, es wird keine(!) Gew&ouml;hnung geben),
->        euren (suggerierten) stumpfen Duktus,
->        euure pervertierte Umdeutung des Begriffs "Liebe"
->        (nein, Besitz und Kontrolle haben mir ihr nichts zu tun und werden es nie).  
->        Niemand &uuml;bt (abgesehen von sich im Dienst befindlichen Mitgliedern von Exekutivbeh&ouml;rden) hier(!), auch im Privaten, irgendeine Form von Zwang aus,
->        ohne dass ich darauf reagiere und    
->        (aber das ist was pers&ouml;nliches) ich reagiere (leider) auch allergisch,
->        wenn irgendwer irgendwas besser zu wissen glaubt als irgendwer sonst,
->        erst recht, wenn sich (wie so oft) auch noch Sendungsbewusstsein dazu gesellt.  
->        Ihr seid so (und von Herzen) Schei&szlig;e, Alter! :love_letter:
+>     3. Ich lasse mich nicht von euch und eurem reu&shy;di&shy;gen Nazi-Duk&shy;tus ver&shy;ar&shy;schen, ihr Lap&shy;pen!  
+>        Nie&shy;mand(!) **sug&shy;ge&shy;riert**(!) mir eine vir&shy;tuel&shy;le(!) **Mikro**(!)**-Dik&shy;ta&shy;tur** per (**sug&shy;ge&shy;rier&shy;ter**?) Ge&shy;dan&shy;ken-Soufflage(?),
+>        inkl. (sug&shy;ge&shy;rier&shy;tem) Men&shy;schen&shy;han&shy;del, (sug&shy;ge&shy;rier&shy;ter) Zwangs&shy;pros&shy;ti&shy;tu&shy;tion und (sug&shy;ge&shy;rier&shy;ter) Re&shy;mote-Steue&shy;rung von Mit&shy;glie&shy;dern der Straf&shy;ver&shy;fol&shy;gung
+>        in mei&shy;ner di&shy;rek&shy;ten Um&shy;ge&shy;bung ohne dass ich so&shy;et&shy;was per&shy;s&ouml;n&shy;lich nehme.  
+>        (Ihr konn&shy;tet das nicht wis&shy;sen, aber ich bin (lei&shy;der) die echte Anti&shy;fa.  
+>        Ich ver&shy;ach&shy;te eure de&shy;ge&shy;ne&shy;rier&shy;te Moral,
+>        jede(!), auch die kleins&shy;te(!), Grenz&shy;&uuml;ber&shy;schrei&shy;tung
+>        (nein, es wird keine(!) Ge&shy;w&ouml;h&shy;nung geben),
+>        euren (sug&shy;ge&shy;rier&shy;ten) stump&shy;fen Duk&shy;tus,
+>        eure per&shy;ver&shy;tier&shy;te Um&shy;deu&shy;tung des Begriffs "Liebe"
+>        (nein, Besitz und Kon&shy;trol&shy;le haben mit ihr nichts zu tun und werden es nie).  
+>        Nie&shy;mand &uuml;bt (ab&shy;ge&shy;se&shy;hen von sich im Dienst be&shy;find&shy;li&shy;chen Mit&shy;glie&shy;dern von Exe&shy;ku&shy;tiv&shy;be&shy;h&ouml;r&shy;den) hier(!), auch im Pri&shy;va&shy;ten, irgend&shy;eine Form von Zwang aus,
+>        ohne dass ich darauf rea&shy;gie&shy;re und    
+>        (aber das ist et&shy;was per&shy;s&ouml;n&shy;li&shy;ches) ich rea&shy;gie&shy;re (lei&shy;der) auch aller&shy;gisch,
+>        wenn irgend&shy;wer irgend&shy;was bes&shy;ser zu wis&shy;sen glaubt als irgend&shy;wer sonst,
+>        erst recht, wenn sich (wie so oft) auch noch Sen&shy;dungs&shy;be&shy;wusst&shy;sein da&shy;zu ge&shy;sellt.  
+>        Ihr seid so (und von Her&shy;zen) Schei&szlig;e, Alter! :love_letter:
 >
 > [**Diffamierung**]
-> "Die" fahren m.&#8239;M.&#8239;n. monstr&ouml;se Diffamierungskampagnen und sind auch psychologisch wahnsinnig geschickt.
-> Das dauert zwei Wochen und kein Nachbar schaut dich noch an.
+> "Die" fahren m.&#8239;M.&#8239;n. monstr&ouml;se Diffamierungskampagnen und sind auch psychologisch wahnsinnig geschickt.  
+> Das dauert zwei Wochen und kein Nachbar schaut dich noch an.  
 > Ein Dutzend Freunde geben sich unabh&auml;ngig(!) voneinander die Klinke in die Hand,
 > um,
 > teilweise in Tr&auml;nen aufgel&ouml;st,
 > deine Einweisung in eine geschlossene psychiatrische Einrichtung zu erflehen
-> (was immer ich da soll).
+> (was immer ich da soll).  
 > Therapeuten machen sich solche Sorgen,
 > dass sie anfangen,
 > irgendwelche Medikamentierungen seitens der Psychiatrien zu erhoffen,
-> dass man endlich erl&ouml;st ist und es einem besser geht.
+> dass man endlich erl&ouml;st ist und es einem besser geht.  
 > Die k&ouml;nnen Leute bei dir vorladen,
 > exakt in deinem beschissensten Moment der Woche.  
 > Und Du gehst durch die Sonne und denkst so: H&auml;?!
@@ -328,10 +339,10 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > kei&shy;ne Bi&shy;na&shy;rys mehr com&shy;mit&shy;ten und
 > mir irgend&shy;wie mer&shy;ken(!?),  
 > dass auch [**Daten&shy;in&shy;te&shy;gri&shy;t&auml;t**](https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit))
-> nie&shy;man&shy;den mehr wirk&shy;lich in&shy;te&shy;res&shy;siert  
-> (Wo&shy;bei ich mich schon fra&shy;ge: Was denn eigent&shy;lich dann noch? Irgend&shy;wer?!)  
+> nie&shy;man&shy;den mehr wirk&shy;lich in&shy;te&shy;res&shy;siert.  
+> (Wo&shy;bei ich mich schon fra&shy;ge: Was eigent&shy;lich dann? Irgend&shy;wer?!)  
 > </img>
-> OK, ich hos&shy;te jetzt **auf "ei&shy;ge&shy;ner" Infra&shy;struk&shy;tur** f&uuml;r 4,58 &euro; und hof&shy;fe,
+> OK, ich hos&shy;te jetzt **auf "ei&shy;ge&shy;ner" Infra&shy;struk&shy;tur** f&uuml;r 4,58 &euro;/Monat und hof&shy;fe,
 > dass sie mir nicht zu Staub zer&shy;bal&shy;lert wird: :zany_face:
 
 `sha256 a6cdd3b780e0c1b6511404076c992d16d124a3096410129f17eb6d376d1e5baa` [10. M&auml;rz: Whg. Pankower Allee](https://0vv1.io/stlk/2024-03-10_12-08_whg-Pankower-Allee.3h53m.mp3) (3h53)  
