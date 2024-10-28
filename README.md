@@ -126,7 +126,7 @@ Und Du selbst stehst in der Sonne und denkst dir einfach nur: H&auml;?! :joy:
 > Das scheint (leider) eine gr&ouml;&szlig;ere "Psy"-Sadisten-Crew zu sein (mglw. 100+ Leute).  
 > Auch "h&ouml;here Kreise", also mglw. Leute, die bei einer Dienststelle der Polizei Berlin anrufen und sagen k&ouml;nnen: " Der da nicht."  
 > (ohne jemanden zu belasten, ich werd jetzt auch mal Namen hier raus nehmen)  
-> Mir folgt seit Wochen mind. eine gr&ouml;&szlig;ere Drohne durch die Stadt.
+> Mir folgt seit Wochen mind. eine gr&ouml;&szlig;ere Drohne durch die Stadt.  
 > Jetzt auch grad (überm Hbf.), knapp ~~100~~ (sie sagt) 200 m H&ouml;he.. :wave: [NO SHIT!]  
 > Die werde ich nur ohne Mobilfunk (und zwei, drei Verkehrsmitteln) los. :joy:
 > 
