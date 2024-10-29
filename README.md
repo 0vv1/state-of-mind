@@ -481,16 +481,16 @@ je reiner, je naiver seine Opfer, destso leichter gelingt ihm das.
 Niemand von euch kann sich auch nur das Geringste vorwerfen, ihr seid schwer traumatisiert, die letzten Monate mit Überleben beschäftigt gewesen:
 Ich schwöre euch: Keine Verantwortung! Null. Ihr könnt das tun, was über ein Jahr ausgeblieben ist: Euch umarmen.
 
-* Loop/Trance,
+* am besten Kopfh&ouml;rer mit betonten Mitten.
+
+* ohne Aufpassen gerät man in einen Loop/Trance (die sind sehr geschickt),
 
 * mutiert lokal,
   (v&ouml;llig egal,
   ob man online streamt oder lokal abspielt)
 
-* Ge&shy;dan&shy;ken-Souff&shy;lie&shy;ren nenne,
+* Ge&shy;dan&shy;ken-Souff&shy;lie&shy;ren
   (Vor&shy;ge&shy;brab&shy;bel gerade noch ober&shy;halb Wahr&shy;neh&shy;mungs&shy;schwelle)
-
-* Kopfh&ouml;rer mit betonten Mitten.
 
 * diese kurze kreative L&uuml;cke bei 2:23,
   damit ich auch mal "zu Wort komme",
@@ -524,7 +524,12 @@ Ich schwöre euch: Keine Verantwortung! Null. Ihr könnt das tun, was über ein 
     Schizophrenie tanzen (man kann nie(!) auch nur das Geringste machen und alles Erleben ist zwingend einsam
   * niemand in diesem Universum ist mit dir!
   * und diese Frau: fast 100 Pro: die wird keine Idee haben, wer Du überhaupt bist (und das ist noch Hoffnung! Zu glauben, ihr geht es gut)
- 
+
+  * der Track ist noch wichtig: das ist nicht irgendeiner
+    * der musste aus einem Grund kaputt (die Geste ist wichtig)
+    * der hatte sich, vor allem auch um "sie" (die längst woanders lebt, sonstwie), völlig verloren, zu finden
+      als eine Art Mantra etabliert, dass es mir etwas leichter machte, weil ich sie manchmal erahnte (und das muss er irgendwie gemerkt haben)
+
   * da fehlt jetzt noch echt viel,
     aber: Das ist das was nach Sadismus kommt. Fischerismus habe ich das genannt.
 
