@@ -468,7 +468,7 @@ So wundervoll verletzend und t&ouml;dlich,
 auf vielen Ebenen,
 dass ich das hier
 (auch wenn er Unterst&uuml;tzung hat)
-einen echten Fischer&trade; nenne!
+einen echten ~~Fischer&trade;~~ nenne!
 (ich weiß, es gibt in meinem alten Wohnhaus einen gleichnamigen Mieter,
 der hier nicht explizit gemeint ist)
 
@@ -477,7 +477,7 @@ Ich muss diese Geschichte komplett erzählen, und das kann dauern
 Und leider nur meine Seite, 
 ihre glaube ich noch schlimmer.  
 
-An Lia: Das hier hat nichts mit dir zu tun (und wenn Du jetzt gerade "doch" (und ich weiß, Du tust das) schreisst,
+<!-- An Lia: Das hier hat nichts mit dir zu tun (und wenn Du jetzt gerade "doch" (und ich weiß, Du tust das) schreisst,
 dann ist die reudigste das Angesicht dieses Planeten und seinen wenn auch nur halbwegs reinen Herzen, beschmutzende Kreatur noch nicht verstanden:
 ER(!) zerstört es, NUR ER(!), er kann nicht vermitteln, nicht einschätzen,
 je reiner, je naiver seine Opfer, destso leichter gelingt ihm das.
@@ -501,7 +501,7 @@ Ich schwöre euch: Keine Verantwortung! Null. Ihr könnt das tun, was über ein 
   das macht eine lie&shy;be Fee,
   alles ganz hervorragend ab&shy;ge&shy;stimmt.
 
-* Vorgeschichte
+<!-- * Vorgeschichte
   * eigentlich unbekannte Frau
   * nur indirekte(!) beliebig manipulierte Kommunikation (Man in the Middle, Gott-gleich)
   * Kontaktverbot (E-Mails werden fast komplett abgefangen,
@@ -563,7 +563,7 @@ Ich denke manchmal, sie kennt mich überhaupt nicht.
 Das Ding macht man au&szlig;erdem nicht allein.  
 Das braucht m.&#8239;M.&#8239;n. Profiling, Psychologen, Sound Engineers, vielleicht 'nen
 KI-Dude und sicher Leute, die noch eben irgendwelche Systeme/Devices
-aufmachen/hacken.  
+aufmachen/hacken.  -->
 
 > [!NOTE]
 > [**25.10.**]
@@ -584,7 +584,7 @@ aufmachen/hacken.
 
 > [**Anm.**]
 > Bitte sagt mir nicht, ihr zeigt das anderen Leuten!  
-> Und lasst den nervigen Kontext weg?!  
+> Und lasst dann den nervigen Kontext weg?!  
 > Das w&auml;re
 > 1. verboten und
 > 2. würde aber (leider) einiges erkl&auml;ren und
