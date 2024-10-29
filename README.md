@@ -528,7 +528,10 @@ Ich schwöre euch: Keine Verantwortung! Null. Ihr könnt das tun, was über ein 
   * niemand in diesem Universum ist mit dir!
   * und diese Frau: fast 100 Pro: die wird keine Idee haben, wer Du überhaupt bist (und das ist noch Hoffnung! Zu glauben, ihr geht es gut)
 
-Ihre Seite um Welten abgefuckter:   ich fürchte Fischer ist Alexander Puls geworden?  
+Ihre Seite mglw. (suggeriert) um Welten abgefuckter:  Ich fürchte, er hat mich irgendwann durch sich ersetzt? Also akustisch/telepathisch.  
+
+Ach so, die Wohnräume werden lückenlos abgehört.
+
 Mit dem blanken Hass eines Sadisten, ich in umgekehrt..  
 Ich denke manchmal, sie kennt mich überhaupt nicht.
 
