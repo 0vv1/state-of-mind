@@ -43,7 +43,7 @@ Auf die Idee hat mich ein Freund ge&shy;bracht,
 der mir mal ein hal&shy;bes St&uuml;nd&shy;chen zu&shy;ge&shy;h&ouml;hrt
 hat (THX S0fatr4sher!).
 
-<h1>Beob&shy;ach&shy;tun&shy;gen zum Ge&shy;gen&shy;satz&shy;paar
+<h1>Beob&shy;ach&shy;tun&shy;gen zum Spektrum
     <b>Kom&shy;mu&shy;ni&shy;ka&shy;<nobr>tion</b>/</nobr><b>Iso&shy;la&shy;tion</b>
     und der Wirk&shy;m&auml;ch&shy;tig&shy;keit
     <b>akus&shy;ti&shy;sche</b>r <b>Mani&shy;pu&shy;la&shy;tion</b> von
