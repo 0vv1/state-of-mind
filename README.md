@@ -4495,7 +4495,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
 <h5>Manipulation PKI bei GitHub</h5>
 
 * [**16.10.**] 
-  img alt="E-Mails, neuer PubKey"
+  <img alt="E-Mails, neuer PubKey"
     src="./assets/2024-10-16_github_new-ssh-keys.jpg"
 	width="300px">
   ~~Einer der *Psy*(?)-Dudes,
