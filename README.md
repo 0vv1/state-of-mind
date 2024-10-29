@@ -208,7 +208,7 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 >     was diese Geschichte so unglaubw&uuml;rdig macht,
 >     kombiniert mit einer (Verdachts-)Diagnose Schizophrenie,
 >     die aber selbst die, mich behandelnde, ambulante Psychiatrie inzwischen bezweifelt und:  
->     Ich denke, viele Mitlesende &uuml;berlesen das Wort **suggerieren**.)
+>     Ich denke, viele Mitlesende &uuml;berlesen das Wort "**suggerieren**".)
 >   * nochmal zum Mitmei&szlig;eln: **"Die" tun so glaubhaft als ob,
 >     dass die Opfer der Meinung sind, es ist.**
 >     * Bsp.: Suggestion einer Schizophrenie,
@@ -218,7 +218,7 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 >       Damit: Im Grunde eine umgekehrte Schizophrenie
 >       (**Dieses st&auml;ndige Umkehren von Faktischem ist ein ganz wesentliches Element dieser Nummer hier.**
 >       Finde ich.)
->   * damit &uuml;berlassen sie (**fast**) s&auml;mtliche "Au&szlig;enwirkung" ihren zahlreichen Opfern
+>   * damit &uuml;berlassen sie **fast**(?) s&auml;mtliche "Au&szlig;enwirkung" ihren zahlreichen Opfern
 >   * um das letzte **fast** geht es mir:
 >     1. provozieren von "Au&szlig;enwirkung"
 >     2. Beweis ihrer(!) "Au&szlig;enwirkung"
@@ -294,9 +294,10 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > <span id="uni-psych">Hier nochmal eine **deutliche Warnung**</span>:  
 > Nix Schizo! Hier arbeiten absolute Pros! Und nicht nur einer.
 > Das sind auch nicht irgendwelche Psychologen:  
-> Ich kann mir profundes Wissen und soviel Erfahrung vorstellen,
-> dass so mancher von ihnen mglw. mal den Auftrag erhalten hat,
-> sein Wissen weiterzugeben!
+> Es f&uuml;hlt sich hier nach profunden F&auml;higkeiten und soviel Erfahrung an,
+> dass man sich bei so manchem hier vorstellen kann,
+> dass die mal den Auftrag erhalten haben,
+> ihr Wissen weiterzugeben!
 
 <!--
 > [!NOTE]
@@ -377,12 +378,14 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > [!CAUTION]
 > [**27.10.**, 13:52]
 > <img
-> 	align="right"
->   alt="GitHub Support #3067960 2. Eintrag"
+>	align="right"
+>   alt="GitHub Support Ticket #3067960 2. Eintrag"
 > 	src="./assets/2024-10-27_github_support-ticket-3067960.2.png"
 > 	width="700px">
+>
 > * k.&#8239;A.,
 >   viel&shy;leicht nehme ich mich auch zu wich&shy;tig oder so. :shrug:
+>
 > * ich habe Ende letz&shy;ter Woche dem Sup&shy;port
 >   ge&shy;schrie&shy;ben und bin fast da&shy;von
 >   aus&shy;ge&shy;gan&shy;gen,
@@ -401,23 +404,26 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 >   (Wo&shy;bei ich mich schon fra&shy;ge:
 >   Was eigent&shy;lich dann? Irgend&shy;wer?!)  
 > </img>
+>
 > * OK, ich hos&shy;te jetzt **auf "ei&shy;ge&shy;ner"
 >   Infra&shy;struk&shy;tur** f&uuml;r 4,58 &euro;/Monat und hof&shy;fe,
 >   dass sie mir nicht zu Staub zer&shy;bal&shy;lert wird. :zany_face:  
 >   **Siehe weiter unten!**
-> **29.10.**, 02:06]
+> 
+> [**29.10.**, 02:06]
 > * der Sup&shy;port hat ge&shy;ant&shy;wor&shy;tet und nimmt mich
 >   &uuml;ber&shy;haupt nicht ernst
 >   (irgend&shy;was mit Account-High&shy;jack&shy;ing und ein paar
 >   `lfs`-Kom&shy;man&shy;dos)
 > * hab [zu&shy;r&uuml;ck&shy;ge&shy;schrie&shy;ben](https://support.github.com/ticket/personal/0/3067960#tc-31657925723924)
->   und die&shy;se bei&shy;den Screen&shy;shots an&shy;ge&shy;h&auml;ngt:
+>   und die&shy;se bei&shy;den Screen&shy;shots an&shy;ge&shy;h&auml;ngt:  
 >   ![Binary Mod at 28th late](./assets/2024-10-29-003237_1237x174_scrot.png)  
->   ![Binary Mod at 29th early](./assets/2024-10-29-0003444_1238x199_scrot.png)  
->   (Die Mo&shy;di&shy;fi&shy;ka&shy;tion auf
->   Datei&shy;sys&shy;tem&shy;ebe&shy;ne zei&shy;gen!)
->   Die lin&shy;ken nach&shy;tr&auml;g&shy;lich ge&shy;gen
->   irgend&shy;ei&shy;nen Medien&shy;ser&shy;ver?
+>   ![Binary Mod at 29th early](./assets/2024-10-29-003444_1238x199_scrot.png)  
+>   (Hier zeigen sich mehrere Mo&shy;di&shy;fi&shy;ka&shy;tio&shy;nen auf
+>   Datei&shy;sys&shy;tem&shy;ebe&shy;ne.
+>   Das kann man nicht anders interpretieren.)  
+>   Die Dateien werden nach&shy;tr&auml;g&shy;lich ge&shy;gen
+>   irgend&shy;ei&shy;nen Medien&shy;ser&shy;ver ge&shy;linkt?
 >   Sorry, aber dann ge&shy;h&ouml;&shy;ren die Dateien nicht
 >   unter&shy;halb einer Ver&shy;sions&shy;ver&shy;wal&shy;tung.
 >   Das habe ich denen auch so ge&shy;schrie&shy;ben und auch mal das
@@ -425,10 +431,11 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 >   aber viel&shy;leicht ist denen das auch alles egal,
 >   mal schauen..)
 
-`sha256 a6cdd3b780e0c1b6511404076c992d16d124a3096410129f17eb6d376d1e5baa` [10. M&auml;rz: Whg. Pankower Allee](https://0vv1.io/stlk/2024-03-10_12-08_whg-Pankower-Allee.3h53m.mp3) (3h53)  
+(die besagten Records auf einer eigenen VM bei hetnzer in Falkenstein, daf&uuml;r mit zusicherbarer Datenintegrit&auml;t)  
+`sha256 a6cdd3b780e0c1b6511404076c992d16d124a3096410129f17eb6d376d1e5baa` [10.03: Hypnose Whg. Pankower Allee](https://0vv1.io/stlk/2024-03-10_12-08_whg-Pankower-Allee.3h53m.mp3) (3h53)  
 `sha256 78101e6de5be5a5e54fefc6da8317466c32efab758444aaaddff2902e604c419` [27. Juli: Whg. Borussiastr.](https://0vv1.io/stlk/2024-07-27_23-16_whg-Borussiastr_misshandlg.50m.mp3) (50min)  
 `sha256 54c183f21e33c26fe50dacee208fa33c58060bf1f429bfb6b06ff2676fd7632d` [18. Aug.: Whg. Borussiastr.](https://0vv1.io/stlk/2024-08-19_02-11_whg-Borussiastr_nlp-steckdose.7h.mp3) (7h)  
-`sha256 0a10dfa06c091cafcedf1b85d53112095d3b1e4aaa61058e3c704e1e6c78c0d7` [28. Sep.: Einrede nächstlichen Besuchs](https://0vv1.io/stlk/2024-09-28_06-24_einrede-nachtlicher-besuch.20min.mp3) (20min)  
+`sha256 0a10dfa06c091cafcedf1b85d53112095d3b1e4aaa61058e3c704e1e6c78c0d7` [28. Sep.: Einrede nächtlichen Besuchs](https://0vv1.io/stlk/2024-09-28_06-24_einrede-nachtlicher-besuch.20min.mp3) (20min)  
 `sha256 a82acc6892bde774e12de47d95485331aab08ce9aaec117f97f78f57c55be2d9` [18. Okt.: Polizei Wache Abschnitt 44](https://0vv1.io/stlk/2024-10-18_00-47-23_gegensprechanl-wache-44.1.mp3) (wenige Sek., legt auf, als er merkt, dass ich aufnehme)  
 `sha256 0474b09958180d12dc2c8b83274f563d5c41082dc21b46bf7b3dcd2263414146` [18. Okt.: Polizei Wache Abschnitt 44](https://0vv1.io/stlk/2024-10-18_00-47-41_gegensprechanl-wache-44.2.mp3) (47s)  
 `sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d` [24. Okt.: Whg. Borussiastr.](https://0vv1.io/stlk/2024-10-24_05-06_psy-terror.probe.4m16s.mp3) (4m16s)  
@@ -438,25 +445,105 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 Zun&auml;chst die letzten beiden.
 Ich habe mich krass ge&auml;r&shy;gert,
 dass die mich noch mal so hooken konn&shy;ten.  
-Des&shy;we&shy;gen war ich heute so mies drauf.
+Des&shy;we&shy;gen war ich heute so mies drauf,  
+aber, und das ist vielleicht f&uuml;r andere Menschen so unverst&auml;ndlich wie f&uuml;r mich wichtiger als alle Reicht&uuml;mer dieser Welt:
 
-Das wurde lei&shy;der eine heftige Num&shy;mer,
+Das wurde wieder (und lei&shy;der) eine heftige Num&shy;mer,
 die dann nat&uuml;r&shy;lich l&auml;n&shy;ger dauert als der kurze Aus&shy;schnitt hier,
-Eigentlich handelt es sich um einen beliebigen Track (hier Daft Punk "Touch" auf YouTube),
-wenn man nicht aufpasst,
-ger&auml;t man in einen Loop/Trance,
-dann mutiert der Track lokal,
-es ist v&ouml;llig egal,
-ob man online streamt oder lokal abspielt.
-Man h&ouml;rt hier auch endlich mal ein biss&shy;chen was von dem,
-was ich Ge&shy;dan&shy;ken-Souff&shy;lie&shy;ren nenne,
-dieses Vor&shy;ge&shy;brab&shy;bel gerade noch ober&shy;halb Wahr&shy;neh&shy;mungs&shy;schwelle.
-Am besten mal Kopfh&ouml;rer mit betonten Mitten.
-Diese kurze kreative L&uuml;cke bei 2:23,
-damit ich auch mal "zu Wort komme",
-mache nicht ich(!),
-das macht eine lie&shy;be Fee,
-alles ganz hervorragend ab&shy;ge&shy;stimmt.
+er hat mich noch mal bekommen.
+Eigentlich handelt es sich um einen beliebigen Track
+(hier Daft Punk "Touch" auf YouTube),
+und isoliert,
+**ohne Kontext**,
+fragt man sich:
+Was will der?!
+Da schreit einer.
+Und?
+
+Das hier ist **nur** dann wirklich besonders,
+wenn man ein Jahr (und mehr) Anlauf nimmt.  
+Dann hat das hier das Potential,
+dass man f&uuml;r den Rest seines hoffentlich kurzen Lebens sprachlos aus dem Fenster starrt und nie wieder ein Wort sagt.  
+So wundervoll verletzend und t&ouml;dlich,
+auf vielen Ebenen,
+dass ich das hier
+(auch wenn er Unterst&uuml;tzung hat)
+einen echten Fischer&trade; nenne!
+(ich weiß, es gibt in meinem alten Wohnhaus einen gleichnamigen Mieter,
+der hier nicht explizit gemeint ist)
+
+Ich muss diese Geschichte komplett erzählen, und das kann dauern
+(schon mal Stichpunkte).
+An Lia: Das hier hat nichts (und wenn Du jetzt gerade "ja" (und ich weiß, Du tust das) schreisst,
+dann ist die reudigste das Angesicht dieses Planeten und seinen wenn auch nur halbwegs reinen Herzen, beschmutzende Kreatur noch nicht verstanden:
+ER(!) zerstört es, NUR ER(!), er kann nicht vermitteln, nicht einschätzen,
+je reiner, je naiver seine Opfer, destso leichter gelingt ihm das.
+Niemand von euch kann sich auch nur das Geringste vorwerfen, ihr seid schwer traumatisiert, die letzten Monate mit Überleben beschäftigt gewesen:
+Ich schwöre euch: Keine Verantwortung! Null. Ihr könnt das tun, was über ein Jahr ausgeblieben ist: Euch umarmen.
+
+* Loop/Trance,
+
+* mutiert lokal,
+  (v&ouml;llig egal,
+  ob man online streamt oder lokal abspielt)
+
+* Ge&shy;dan&shy;ken-Souff&shy;lie&shy;ren nenne,
+  (Vor&shy;ge&shy;brab&shy;bel gerade noch ober&shy;halb Wahr&shy;neh&shy;mungs&shy;schwelle)
+
+* Kopfh&ouml;rer mit betonten Mitten.
+
+* diese kurze kreative L&uuml;cke bei 2:23,
+  damit ich auch mal "zu Wort komme",
+  mache nicht ich(!),
+  das macht eine lie&shy;be Fee,
+  alles ganz hervorragend ab&shy;ge&shy;stimmt.
+
+* Vorgeschichte
+  * eigentlich unbekannte Frau
+  * nur indirekte(!) beliebig manipulierte Kommunikation (Man in the Middle, Gott-gleich)
+  * Kontaktverbot (E-Mails werden fast komplett abgefangen,
+    Briefe vollständig)
+  * tägliche Auffrischung, Pflege einer Beziehungm, die es
+    1. überhaupt nicht gibt
+    2. jeder anders und beliebig den Launen eines Sadisten entsprechned erlebt
+    3. Persönlichkeiten dem jeweils anderen gegenüber beliebig gebaut und selektiv gezeigt werden
+    4. Remixing, Worst-Offs
+  * jahrelange penetrante Einrede, Telepathie wäre möglich
+    * natürlich weiß man, dass das nicht geht
+    * aber es passiert trotzdem
+      (durch geschickte wahnsinnig aufwendige Täuschung)
+    * stellt sich als zwar irgendwo unmöglich,
+      aber als einzige Kommunikationsform dar (wichtig: diese erbärmliche Hoffnung)
+    * spätestens ab diesem Moment einer Art des Einlassens gehen die Pforten der Hölle auf und
+    * ein echter Sadist blüht auf (der sich ein Jahr gefreut und vorbereitet hat)
+  * Persönlichkeiten verkehren sich beliebig: Geisteskrankheiten, Verwahrlosung, Misshandlung, Folter, Vergewaltigung, grausame Ermordung
+    werden 24/7 wochenlang bis zur jeweiligen Gewöhnung zelebriert
+  * dann für ihren grausamen Tod von ihrem Vater (den man nicht kennt!) verantwortlich gemacht zu werden,
+    einem Mann die eigene Erschießung auszureden, wo man sich denkt: Aber er doch Recht! Du würdest genauso handeln. Du würdest dich erschießen. Sofort.   
+  * ganz wichtig und dieses Austarieren gelingt so geschickt, dass viertuelle und mglw. echte noch "Menschen" auf der Wahrnehmungsschwelle
+    Schizophrenie tanzen (man kann nie(!) auch nur das Geringste machen und alles Erleben ist zwingend einsam
+  * niemand in diesem Universum ist mit dir!
+  * und diese Frau: fast 100 Pro: die wird keine Idee haben, wer Du überhaupt bist (und das ist noch Hoffnung! Zu glauben, ihr geht es gut)
+ 
+  * da fehlt jetzt noch echt viel,
+    aber: Das ist das was nach Sadismus kommt. Fischerismus habe ich das genannt.
+
+  * jedenfalls der Track:
+    * entstellt singt sie, Du bist die erste Nummer (Suggestion: "Alex" erster im Tel.-buch in einer glücklichen Beziehung, die ich nie hatte,
+      hoffentlich sie, und dann aber auch wieder nicht. Das erbettelst Du, dass diese Frau dich hoffentlich nicht kennt! Weil Du tödlich bist. Das allerletzte, was irgendwer gebrauchen kann)
+	* dazwischen allerlei Freak-Kram
+    * dann: Du bist die letzte Nr. (Suggestion: die ich anrufe, bevor ich springe)
+    * und dann lässt dich der Man in the Middle ausrasten, stoppt dafür die Musik, dass alles laut und deutlich vernehmbar ist,
+      das erste Mal seit Jahren
+  	* **dann**: Einrede, ihr sprecht gerade das erste Mal direkt miteinander(!) und deine letzten Worte waren entscheidend für ihr Fortleben,
+      besonderes Bonbon: sie wiederholt deine Schimpfworte
+
+  * alles leider abhängig von Stimmung und Adrenalin etc.
+
+  * gibt noch viel mehr
+  * vor allem Vertrauen kann dieser eigentlich ja Mensch so nachhaltig zerstören, dass man in eine beliebige Welt gerät in der alles(!) egal ist
+  * das Spiel mit Schuld, dieses Veritteln von Verantwortung
+  * diese Vergewaltigung 8 Std., die hatte alles
 
 Das Ding macht man au&szlig;erdem nicht allein.  
 Das braucht m.&#8239;M.&#8239;n. Profiling, Psychologen, Sound Engineers, vielleicht 'nen
