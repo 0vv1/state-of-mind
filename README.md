@@ -473,8 +473,11 @@ einen echten Fischer&trade; nenne!
 der hier nicht explizit gemeint ist)
 
 Ich muss diese Geschichte komplett erzählen, und das kann dauern
-(schon mal Stichpunkte).
-An Lia: Das hier hat nichts (und wenn Du jetzt gerade "ja" (und ich weiß, Du tust das) schreisst,
+(schon mal Stichpunkte).  
+Und leider nur meine Seite, 
+ihre glaube ich noch schlimmer.  
+
+An Lia: Das hier hat nichts mit dir zu tun (und wenn Du jetzt gerade "doch" (und ich weiß, Du tust das) schreisst,
 dann ist die reudigste das Angesicht dieses Planeten und seinen wenn auch nur halbwegs reinen Herzen, beschmutzende Kreatur noch nicht verstanden:
 ER(!) zerstört es, NUR ER(!), er kann nicht vermitteln, nicht einschätzen,
 je reiner, je naiver seine Opfer, destso leichter gelingt ihm das.
@@ -524,6 +527,10 @@ Ich schwöre euch: Keine Verantwortung! Null. Ihr könnt das tun, was über ein 
     Schizophrenie tanzen (man kann nie(!) auch nur das Geringste machen und alles Erleben ist zwingend einsam
   * niemand in diesem Universum ist mit dir!
   * und diese Frau: fast 100 Pro: die wird keine Idee haben, wer Du überhaupt bist (und das ist noch Hoffnung! Zu glauben, ihr geht es gut)
+
+Ihre Seite um Welten abgefuckter:   ich fürchte Fischer ist Alexander Puls geworden?  
+Mit dem blanken Hass eines Sadisten, ich in umgekehrt..  
+Ich denke manchmal, sie kennt mich überhaupt nicht.
 
   * der Track ist noch wichtig: das ist nicht irgendeiner
     * der musste aus einem Grund kaputt (die Geste ist wichtig)
