@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: so, 27. oct. 2024  
+version: di., 29. oct. 2024  
 ```
 
 > [!IMPORTANT]
@@ -14,63 +14,102 @@ version: so, 27. oct. 2024
 > Selbst&shy;ver&shy;st&auml;nd&shy;lich han&shy;delt es sich hier,
 > ob ver&shy;ein&shy;zel&shy;ter Nach&shy;fra&shy;gen  
 > (wuss&shy;te gar nicht,
-> dass mei&shy;ne Re&shy;pos irgend&shy;wen inte&shy;res&shy;sie&shy;ren :zany_face:),  
+> dass mei&shy;ne Re&shy;pos irgend&shy;wen
+> inte&shy;res&shy;sie&shy;ren :zany_face:),  
 > ledig&shy;lich um eine (leid&shy;lich) lus&shy;ti&shy;ge,
 > aber (hoff&shy;ent&shy;lich) span&shy;nen&shy;de Ge&shy;schich&shy;te!  
-> S&auml;mt&shy;liche vor&shy;kom&shy;men&shy;den Namen ent&shy;sprin&shy;gen ei&shy;ner sog. schi&shy;zo&shy;phre&shy;nen Wahn&shy;idee umd k&ouml;n&shy;nen da&shy;mit,
-> ge&shy;nau wie das hier be&shy;schrie&shy;be&shy;ne "ein&shy;sa&shy;me Er&shy;le&shy;ben" (Def. Schi&shy;zo&shy;phre&shy;nie),
-> in kei&shy;ner&shy;lei Be&shy;zug zu ei&shy;ner ge&shy;mein&shy;sam er&shy;leb&shy;ten Rea&shy;li&shy;t&auml;t ste&shy;hen.
+> S&auml;mt&shy;liche vor&shy;kom&shy;men&shy;den Namen
+> ent&shy;sprin&shy;gen ei&shy;ner sog. schi&shy;zo&shy;phre&shy;nen
+> Wahn&shy;idee umd k&ouml;n&shy;nen da&shy;mit,
+> ge&shy;nau wie das hier be&shy;schrie&shy;be&shy;ne
+> "ein&shy;sa&shy;me Er&shy;le&shy;ben"
+> (Def. Schi&shy;zo&shy;phre&shy;nie),
+> in kei&shy;ner&shy;lei Be&shy;zug zu ei&shy;ner ge&shy;mein&shy;sam
+> er&shy;leb&shy;ten Rea&shy;li&shy;t&auml;t ste&shy;hen.
 > 
 > Sonst alles wie immer: I'm fuckin' great! :wink:
 
-**Es tut gut, rein fiktiv zu schreiben, so kann man den ganzen vollständig geisteskranken/degenerierten Müll droppen und muss weniger Angst haben,
-dass am nächsten Tag, in Tränen aufgelöste Freunde vor einem stehen, um mich anzubetteln, doch bitte ASAP in eine geschlossene psychiatrische Anstalt einzuziehen.  
-Weiterer Vorteil: Alles ergibt dann (leider) Sinn.**  
-Auf die Idee hat mich ein Freund gebracht, der mir mal ein halbes St&uuml;ndchen zugeh&ouml;hrt hat (THX S0fatr4sher!).
+**Es tut gut, rein fik&shy;tiv zu schrei&shy;ben,
+so kann man den gan&shy;zen voll&shy;st&auml;n&shy;dig
+geis&shy;tes&shy;kran&shy;<nobr>ken/</nobr><wbr />de&shy;gene&shy;rier&shy;ten
+M&uuml;ll drop&shy;pen und muss we&shy;ni&shy;ger Angst haben,
+dass am nächs&shy;ten Tag, in Trä&shy;nen auf&shy;ge&shy;lös&shy;te
+Freunde vor einem stehen, um mich an&shy;zu&shy;bet&shy;teln,
+doch bitte ASAP in eine ge&shy;schlos&shy;se&shy;ne
+psychia&shy;tri&shy;sche An&shy;stalt ein&shy;zu&shy;zie&shy;hen.  
+Wei&shy;te&shy;rer Vor&shy;teil:
+Alles er&shy;gibt dann (lei&shy;der) Sinn.**  
+Auf die Idee hat mich ein Freund ge&shy;bracht,
+der mir mal ein hal&shy;bes St&uuml;nd&shy;chen zu&shy;ge&shy;h&ouml;hrt
+hat (THX S0fatr4sher!).
 
-<h1>Beob&shy;ach&shy;tun&shy;gen zum Ge&shy;gen&shy;satz&shy;paar <b>Kom&shy;mu&shy;ni&shy;ka&shy;<nobr>tion</b>/</nobr><b>Iso&shy;la&shy;tion</b> und
-	der Wirk&shy;mäch&shy;tig&shy;keit <b>akus&shy;ti&shy;sche</b>r <b>Mani&shy;pu&shy;la&shy;tion</b> von
+<h1>Beob&shy;ach&shy;tun&shy;gen zum Ge&shy;gen&shy;satz&shy;paar
+    <b>Kom&shy;mu&shy;ni&shy;ka&shy;<nobr>tion</b>/</nobr><b>Iso&shy;la&shy;tion</b>
+    und der Wirk&shy;m&auml;ch&shy;tig&shy;keit
+    <b>akus&shy;ti&shy;sche</b>r <b>Mani&shy;pu&shy;la&shy;tion</b> von
 	(wohl auch Mas&shy;<nobr>sen-)</nobr><wbr />Wahr&shy;neh&shy;mung<br />
-	<sub><sup>oder<br />«&Uuml;ber das ver&shy;bor&shy;ge&shy;ne Wir&shy;ken ei&shy;ner
-	sehr ein&shy;fluss&shy;rei&shy;chen Psy-Sadisten-Crew»</sup></sub></h1>
+	<sub><sup>oder<br />«&Uuml;ber das "ver&shy;bor&shy;ge&shy;ne"
+    Wir&shy;ken min&shy;des&shy;tens einer
+    ein&shy;fluss&shy;rei&shy;chen
+    <nobr>(Psy-)Sadis&shy;<nobr>ten-<wbr />Crew»</sup></sub></h1>
 
-.. deren Herr F. aus Reinickendorf, Spezialist f&uuml;r die qualvolle Ermordung von Schizophrenie-Patienten, dem Autor dieser Zeilen vor knapp 1.390 Tagen eine **k&uuml;nstliche Schizophrenie** induzierte,
-	um ihn als sein Todes-Opfer Nr. 17 mit Schizophrenie-Diagnose so langsam wie nur m&ouml;glich in den quasi sicheren Tod zu foltern.  
-	Warum hier trotzdem jemand an einer recht komplexen und wendungsreichen Geschichte schreibt,
-    die (leider!) mit jeder Zeile realer wird?
+.. deren Herr F. aus Rei&shy;nicken&shy;dorf,
+    Spe&shy;zia&shy;list f&uuml;r die qual&shy;vol&shy;le
+    Er&shy;mor&shy;dung von 
+    Schi&shy;zo&shy;phre&shy;nie-<wbr />Pa&shy;tien&shy;ten,
+    dem Autor die&shy;ser Zei&shy;len vor knapp 1.390 Tagen eine
+    **k&uuml;nst&shy;li&shy;che Schi&shy;zo&shy;phre&shy;nie**
+    in&shy;du&shy;zier&shy;te,
+	um ihn als sein Todes-<wbr />Opfer Nr. 17 mit 
+    Schi&shy;zo&shy;phre&shy;nie-<wbr />Diag&shy;no&shy;se so
+    lang&shy;sam wie nur m&ouml;g&shy;lich in den quasi siche&shy;ren
+    Tod zu fol&shy;tern.  
+	Warum hier trotz&shy;dem je&shy;mand an einer recht
+    kom&shy;ple&shy;xen und wen&shy;dungs&shy;rei&shy;chen 
+    Ge&shy;schich&shy;te schreibt,
+    die (lei&shy;der!) mit jeder Zei&shy;le rea&shy;ler wird?
 	
-Er hat es nicht geschafft.
-	Stattdessen habe ich jetzt seine komplette Crew an den Hacken,
- 	die aber,
-  	seit ich Ende August mit dem Schreiben dieser zwar **zeitaufw&auml;ndige**n,
-	aber (wie sich bald herausstellte) sehr notwendigen **Dokumentation** angefangen habe,
- 	auch nichts wirklich ausrichten kann.
+Er hat es nicht ge&shy;schafft.
+    Statt&shy;des&shy;sen habe ich jetzt seine kom&shy;plet&shy;te Crew
+    an den Hacken, die aber,
+  	seit ich Ende August mit dem Schrei&shy;ben die&shy;ser zwar
+    **zeitaufw&auml;ndige**n,
+	aber (wie sich bald heraus&shy;stell&shy;te) sehr 
+    not&shy;wen&shy;di&shy;gen **Doku&shy;men&shy;ta&shy;tion** 
+    an&shy;ge&shy;fan&shy;gen habe,
+ 	auch nichts wirk&shy;lich aus&shy;rich&shy;ten kann.
 Wir sind alle stuck,
-	so dass ich mir vorstellen kann,
- 	dass ich in K&uuml;rze wieder auf gew&ouml;hnliche Schizophrenie defaulten soll,
-	wozu ich nur sagen kann:
-Dieses Mal muss es nicht funktionieren.
+	so dass ich mir vor&shy;stel&shy;len kann,
+ 	dass ich in K&uuml;r&shy;ze wie&shy;der auf 
+    ge&shy;w&ouml;hn&shy;li&shy;che Schizophrenie defaulten soll,
+	wo&shy;zu ich nur sagen kann:
+Dieses Mal wird es nicht funk&shy;tio&shy;nie&shy;ren.
 Warum nicht?  
-Weil ihr (wie letztes Mal) Au&szlig;enwirkung erzielt habt,
+Weil ihr (wie letz&shy;tes Mal) Au&szlig;en&shy;wir&shy;kung
+er&shy;zielt habt,
 aber:
-**Dieses Mal beweise ich eure Au&szlig;enwirkung!**
+**Die&shy;ses Mal be&shy;wei&shy;se ich eure 
+Au&szlig;en&shy;wir&shy;kung!**
 
-Neben ihrer lebensversichernden Funktion tut mir die sorgf&auml;ltige Anfertigung einer Dokumentation au&szlig;erdem gut
+Neben ihrer lebens&shy;ver&shy;sichern&shy;den Funk&shy;tion tut mir die
+    sorg&shy;f&auml;l&shy;ti&shy;ge An&shy;fer&shy;ti&shy;gung einer
+    Doku&shy;men&shy;ta&shy;tion au&szlig;er&shy;dem gut
 	**und wird für den**
 	(hoff&shy;ent&shy;lich)
-	äußerst un&shy;wahr&shy;schein&shy;lich&shy;en **Fall,
+	&auml;u&szlig;erst un&shy;wahr&shy;schein&shy;lich&shy;en **Fall,
 	dass** irgend&shy;wann ein&shy;mal **ein** ande&shy;rer **Mensch
 	ähn&shy;liche Er&shy;fah&shy;run&shy;gen mach&shy;en muss**,
- 	vorgehalten.
-Spä&shy;te&shy;re <nobr>Täter/</nobr>-<wbr>in&shy;nen sol&shy;len es
-	dann so schwer wie mög&shy;lich haben,
-	ihr Tun zu ob&shy;fus&shy;kier&shy;en <nobr>und/</nobr><wbr>oder ihre
-	Opfer zu iso&shy;lie&shy;ren.
+ 	vor&shy;ge&shy;hal&shy;ten.
+Sp&auml;&shy;te&shy;re <nobr>T&auml;ter/</nobr>-<wbr />in&shy;nen
+    sol&shy;len es dann so schwer wie mög&shy;lich haben,
+	ihr Tun zu ob&shy;fus&shy;kier&shy;en <nobr>und/</nobr><wbr>oder
+    ihre Opfer zu iso&shy;lie&shy;ren.
 
-Der allergr&ouml;&szlig;te Teil der
-	(bis&shy;her natür&shy;lich von mir nur ver&shy;mu&shy;te&shy;ten
- 	Desinformations-M&uuml;ll-)**Sen&shy;der trat** zu&shy;min&shy;dest mir gegen&shy;über
-	demon&shy;stra&shy;tiv
+Der aller&shy;gr&ouml;&szlig;&shy;te Teil der
+	(bis&shy;her nat&uuml;r&shy;lich von mir nur 
+    ver&shy;mu&shy;te&shy;ten 
+    Des&shy;in&shy;for&shy;ma&shy;tions-M&uuml;ll-)**Sen&shy;der trat** 
+    zu&shy;min&shy;dest mir gegen&shy;über demon&shy;stra&shy;tiv
 	**hos&shy;<nobr>til**/**ver</nobr>&shy;ächt&shy;lich** auf und
 	nutzte mein,
 	durch die Diag&shy;no&shy;se indu&shy;zier&shy;tes,
@@ -85,25 +124,26 @@ Der allergr&ouml;&szlig;te Teil der
 	Iden&shy;ti&shy;tät[^3] **aus**.
 
 > [!WARNING]
-> Ich konnte mir bisher,
+> Ich konn&shy;te mir bis&shy;her,
 > bis zu einer be&shy;stimm&shy;ten und lei&shy;der auch
 > va&shy;riab&shy;len Laut&shy;st&auml;r&shy;ke,
 > nie sich&shy;er sein,
 > ob es &uuml;ber&shy;haupt eine Ge&shy;r&auml;usch&shy;quel&shy;le gab,
 > so&shy;dass poten&shy;tiel&shy;le Stal&shy;ker
 > (oder T&auml;ter all&shy;ge&shy;mein)
-> sich bei ~~mir~~ uns (Schizophrenie-Patienten)
+> sich bei ~~mir~~ uns 
+> (Schi&shy;zo&shy;phre&shy;<nobr>nie-<wbr />Pa</nobr>&shy;tien&shy;ten)
 > (so&shy;lan&shy;ge ~~ich~~ wir allein ~~bin~~ sind)
-> sehr viel mehr erlau&shy;ben und siche&shy;rer f&uuml;h&shy;len k&ouml;n&shy;nen
-> als bei Men&shy;sch&shy;en mit "norma&shy;ti&shy;ver"
+> sehr viel mehr erlau&shy;ben und siche&shy;rer f&uuml;h&shy;len 
+> k&ouml;n&shy;nen als bei Men&shy;sch&shy;en mit "norma&shy;ti&shy;ver"
 > Wahr&shy;neh&shy;mung.
 > 
 > Ich muss lei&shy;der seit ein paar Tagen da&shy;von aus&shy;ge&shy;hen,
-> dass **Schi&shy;zo&shy;phre&shy;nie-Pa&shy;tien&shy;ten** all&shy;ge&shy;mein
-> eine Art **Ide&shy;al-Opfer** für die feigs&shy;ten
-> <nobr>und/</nobr><wbr>oder
+> dass **Schi&shy;zo&shy;phre&shy;nie-Pa&shy;tien&shy;ten** 
+> all&shy;ge&shy;mein eine Art **Ide&shy;al-Opfer** f&uuml;r die 
+> feigs&shy;ten <nobr>und/</nobr><wbr>oder
 > skru&shy;pel&shy;lo&shy;ses&shy;ten Sadis&shy;ten dar&shy;stel&shy;len 
-> und folg&shy;lich einen Tum&shy;mel&shy;platz für
+> und folg&shy;lich einen Tum&shy;mel&shy;platz f&uuml;r
 > sol&shy;ch&shy;er&shy;lei Krea&shy;tu&shy;ren bil&shy;den
 > soll&shy;ten.
 <!-- ende warnung -->
@@ -116,23 +156,37 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 <h2>Gliederung</h2>
 
 * Idee/These
-* ein paar Recordings als "Beweis"
-* Beschreibung/Methoden der Sadisten-Crew
-* Beschreibung/Methoden der, sie unterst&uuml;tzenden, (Eigenbegriff) Psy-Crew?
-* Nennung/Methoden von mind. vier Einzelt&auml;tern
-* Log / chronologische Abfolge von Ereignissen,
-  so oft wie m&ouml;glich gegen Methoden gelinkt
-  (das ist wahnsinnig viel, ich w&uuml;rde einfach mal (und in Ruhe) machen,
-  solange "die" mich lassen :joy:)
+* ein paar Recor&shy;dings als "Beweis"
+* Beschrei&shy;<nobr>bung/</nobr><wbr />Me&shy;tho&shy;den der
+  Sadis&shy;ten-<wbr />Crew
+* Be&shy;schrei&shy;<nobr>bung/</nobr><wbr />Me&shy;tho&shy;den der, 
+  sie unter&shy;st&uuml;t&shy;zen&shy;den, 
+  (Eigen&shy;be&shy;griff) Psy-Crew?
+* Nen&shy;<nobr>nung/</nobr>Me&shy;tho&shy;den von mind. 
+  vier Ein&shy;zel&shy;t&auml;&shy;tern
+* Log / chro&shy;no&shy;lo&shy;gi&shy;sche Ab&shy;fol&shy;ge
+  von Er&shy;eig&shy;nis&shy;sen,
+  so oft wie m&ouml;g&shy;lich ge&shy;gen Me&shy;tho&shy;den 
+  ge&shy;linkt
+  (das ist wahn&shy;sin&shy;nig viel, 
+  ich w&uuml;r&shy;de ein&shy;fach mal (und in Ruhe) machen,
+  so&shy;lan&shy;ge "die" mich las&shy;sen :joy:)
 
 > [!WARNING]
-> [**Gefahrenabsch&auml;tzung**]
-> Das scheinen (leider) gr&ouml;&szlig;ere "Psy"-/"Sado"-Crews zu sein.  
-> Auch "h&ouml;here Kreise", also mglw. Leute, die bei einer Dienststelle der Polizei Berlin anrufen und sagen k&ouml;nnen: " Der da nicht."  
-> (ohne jemanden zu belasten, ich werd jetzt auch mal Namen hier raus nehmen)  
-> Mir folgt seit Wochen nachts mind. eine (von bisher 4) gr&ouml;&szlig;ere Drohne durch die Stadt.  
-> Jetzt auch grad (überm Hbf.), knapp ~~100~~ (sie sagt) 200 m H&ouml;he.. :wave: [NO SHIT!]  
-> Die werde ich nur ohne Mobilfunk (und zwei, drei Verkehrsmitteln) los. :joy:
+> [**Ge&shy;fah&shy;ren&shy;ab&shy;sch&auml;t&shy;zung**]
+> Das schei&shy;nen (lei&shy;der) gr&ouml;&szlig;e&shy;re 
+> <nobr>"Psy"-/</nobr>"Sado"-<wbr />Crews zu sein.  
+> Auch "h&ouml;he&shy;re Krei&shy;se", also mglw. Leu&shy;te, 
+> die bei einer Dienst&shy;stel&shy;le der Poli&shy;zei Ber&shy;lin
+> an&shy;ru&shy;fen und sa&shy;gen k&ouml;n&shy;nen: " Der da nicht."  
+> (ohne je&shy;man&shy;den zu be&shy;las&shy;ten,
+> ich werde jetzt auch mal Namen hier raus neh&shy;men)  
+> Mir folgt seit Wochen nachts mind. eine von bis&shy;her 4
+> gr&ouml;&szlig;e&shy;ren Droh&shy;nen durch die Stadt.  
+> Jetzt auch grad (überm Hbf.), knapp ~~100~~ (sie sagt) 200 m 
+> H&ouml;he.. :wave: [NO SHIT!]  
+> Die wer&shy;de ich nur ohne Mobil&shy;funk 
+> (und zwei, drei Ver&shy;kehrs&shy;mit&shy;teln) los. :joy:
 > 
 > [**Anm. 28.10.** 06:30]
 > * eine Sadisten-Crew mit
@@ -217,7 +271,7 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 >        <summary>[aufklappen f&uuml;r] Letzte Crunch-Mail: 60 Sek. Zeit
 >                 einen "Selbstmord" zu verhindern</summary>
 > 
->        Ich weiß nicht, was er aus mir gemacht hat. ***, er dreht Persönlichkeiten um.
+>        Ich weiß nicht, was er aus mir gemacht hat. \*\*\*, er dreht Persönlichkeiten um.
 >        Aber ich hasse dich nicht, ich bin auch kein Stalker!
 >        Ich würde dir nie etwas tun, vielleicht kennst Du mich auch gar nicht.
 > 
@@ -325,25 +379,51 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > <img
 > 	align="right"
 >   alt="GitHub Support #3067960 2. Eintrag"
-> 	src="./2024-10-27_github_support-ticket-3067960.2.png"
+> 	src="./assets/2024-10-27_github_support-ticket-3067960.2.png"
 > 	width="700px">
-> K.&#8239;A.,
-> viel&shy;leicht nehme ich mich auch zu wich&shy;tig oder so. :shrug:
-> Ich habe Ende letz&shy;ter Woche dem Sup&shy;port ge&shy;schrie&shy;ben und
-> bin fast da&shy;von aus&shy;ge&shy;gan&shy;gen,
-> dass ich inner&shy;halb von zehn Minu&shy;ten eine In&shy;ves&shy;ti&shy;ga&shy;tion an&shy;ge&shy;sto&szlig;en be&shy;kom&shy;me,
-> wenn ich der welt&shy;weit gr&ouml;&szlig;&shy;ten Platt&shy;form zur Ver&shy;sions&shy;kon&shy;trol&shy;le an&shy;deu&shy;te,
-> dass ich ihre Kern&shy;kom&shy;pe&shy;tenz besch&auml;digt sehe.  
-> Aber gut,
-> ich muss `LFS` hier be&shy;en&shy;den,
-> kei&shy;ne Bi&shy;na&shy;rys mehr com&shy;mit&shy;ten und
-> mir irgend&shy;wie mer&shy;ken(!?),  
-> dass auch [**Daten&shy;in&shy;te&shy;gri&shy;t&auml;t**](https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit))
-> nie&shy;man&shy;den mehr wirk&shy;lich in&shy;te&shy;res&shy;siert.  
-> (Wo&shy;bei ich mich schon fra&shy;ge: Was eigent&shy;lich dann? Irgend&shy;wer?!)  
+> * k.&#8239;A.,
+>   viel&shy;leicht nehme ich mich auch zu wich&shy;tig oder so. :shrug:
+> * ich habe Ende letz&shy;ter Woche dem Sup&shy;port
+>   ge&shy;schrie&shy;ben und bin fast da&shy;von
+>   aus&shy;ge&shy;gan&shy;gen,
+>   dass ich inner&shy;halb von zehn Minu&shy;ten eine
+>   In&shy;ves&shy;ti&shy;ga&shy;tion an&shy;ge&shy;sto&szlig;en
+>   be&shy;kom&shy;me,
+>   wenn ich der welt&shy;weit gr&ouml;&szlig;&shy;ten Platt&shy;form
+>   zur Ver&shy;sions&shy;kon&shy;trol&shy;le an&shy;deu&shy;te,
+>   dass ich ihre Kern&shy;kom&shy;pe&shy;tenz besch&auml;digt sehe
+> * aber gut,
+>   ich muss `LFS` hier be&shy;en&shy;den,
+>   kei&shy;ne Bi&shy;na&shy;rys mehr com&shy;mit&shy;ten und
+>   mir irgend&shy;wie mer&shy;ken(!?),  
+>   dass auch [**Daten&shy;in&shy;te&shy;gri&shy;t&auml;t**](https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit))
+>   nie&shy;man&shy;den mehr wirk&shy;lich in&shy;te&shy;res&shy;siert  
+>   (Wo&shy;bei ich mich schon fra&shy;ge:
+>   Was eigent&shy;lich dann? Irgend&shy;wer?!)  
 > </img>
-> OK, ich hos&shy;te jetzt **auf "ei&shy;ge&shy;ner" Infra&shy;struk&shy;tur** f&uuml;r 4,58 &euro;/Monat und hof&shy;fe,
-> dass sie mir nicht zu Staub zer&shy;bal&shy;lert wird: :zany_face:
+> * OK, ich hos&shy;te jetzt **auf "ei&shy;ge&shy;ner"
+>   Infra&shy;struk&shy;tur** f&uuml;r 4,58 &euro;/Monat und hof&shy;fe,
+>   dass sie mir nicht zu Staub zer&shy;bal&shy;lert wird. :zany_face:  
+>   **Siehe weiter unten!**
+> **29.10.**, 02:06]
+> * der Sup&shy;port hat ge&shy;ant&shy;wor&shy;tet und nimmt mich
+>   &uuml;ber&shy;haupt nicht ernst
+>   (irgend&shy;was mit Account-High&shy;jack&shy;ing und ein paar
+>   `lfs`-Kom&shy;man&shy;dos)
+> * hab [zu&shy;r&uuml;ck&shy;ge&shy;schrie&shy;ben](https://support.github.com/ticket/personal/0/3067960#tc-31657925723924)
+>   und die&shy;se bei&shy;den Screen&shy;shots an&shy;ge&shy;h&auml;ngt:
+>   ![Binary Mod at 28th late](./assets/2024-10-29-003237_1237x174_scrot.png)  
+>   ![Binary Mod at 29th early](./assets/2024-10-29-0003444_1238x199_scrot.png)  
+>   (Die Mo&shy;di&shy;fi&shy;ka&shy;tion auf
+>   Datei&shy;sys&shy;tem&shy;ebe&shy;ne zei&shy;gen!)
+>   Die lin&shy;ken nach&shy;tr&auml;g&shy;lich ge&shy;gen
+>   irgend&shy;ei&shy;nen Medien&shy;ser&shy;ver?
+>   Sorry, aber dann ge&shy;h&ouml;&shy;ren die Dateien nicht
+>   unter&shy;halb einer Ver&shy;sions&shy;ver&shy;wal&shy;tung.
+>   Das habe ich denen auch so ge&shy;schrie&shy;ben und auch mal das
+>   Execu&shy;tive Board ver&shy;linkt,
+>   aber viel&shy;leicht ist denen das auch alles egal,
+>   mal schauen..)
 
 `sha256 a6cdd3b780e0c1b6511404076c992d16d124a3096410129f17eb6d376d1e5baa` [10. M&auml;rz: Whg. Pankower Allee](https://0vv1.io/stlk/2024-03-10_12-08_whg-Pankower-Allee.3h53m.mp3) (3h53)  
 `sha256 78101e6de5be5a5e54fefc6da8317466c32efab758444aaaddff2902e604c419` [27. Juli: Whg. Borussiastr.](https://0vv1.io/stlk/2024-07-27_23-16_whg-Borussiastr_misshandlg.50m.mp3) (50min)  
@@ -512,7 +592,7 @@ Also der geht an den Anschlag.
 Kann damit irgendjemand was anfangen?!
 
 [**Erg. 23.10.** abends]
-Sch&ouml;nes [Video](./2024-10-23_detektor-dialog.10m.mp4)
+Sch&ouml;nes [Video](./assets/2024-10-23_detektor-dialog.10m.mp4)
 mit kleinerem Disput mit einem der T&auml;ter,
 der nicht das geringste Einsehen zeigt,
 irgendeines "seiner" Devices auszuschalten.
@@ -3909,7 +3989,7 @@ ihrer Opfer.
   * [fin&shy;gier&shy;te Social-Media-Accounts](#suspendierung-meines-1-facebook-accounts-am-30-sep-2024)
     zum Streuen von Hass und belie&shy;bi&shy;ger Des&shy;infor&shy;ma&shy;tion
     <img align="right" alt="Brief-Einwurf" width="400px"
-      src="./2024-10-02_20-59_einwurf-brief.jpg">
+      src="./assets/2024-10-02_20-59_einwurf-brief.jpg">
     (in diesem Zusam&shy;men&shy;hang mglw.
     [Job-Ver&shy;lust](#job-verlust))
   * Ver&shy;dacht der Unter&shy;dr&uuml;ckung regu&shy;l&auml;ren
@@ -3927,7 +4007,7 @@ ihrer Opfer.
       (m&ouml;g&shy;lich&shy;er&shy;wei&shy;se auch in ande&shy;ren
       Stadt&shy;tei&shy;len?!)
     <img align="right" alt="Brief: Ecke" width="200px"
-      src="./2024-10-02_brief-an-l.ro.jpg">
+      src="./assets/2024-10-02_brief-an-l.ro.jpg">
   * [**Anm.** 07.10.] Ob Sug&shy;ges&shy;tion heu&shy;te:
     Der
     (im&shy;mer freund&shy;li&shy;che :grimacing:)
@@ -3939,7 +4019,7 @@ ihrer Opfer.
     </img>
   * [**Erg.** 14.10.]
     <img align="right" alt="Einschreiben vom 14.10." width="500px"
-      src="./2024-10-16_Post_rr290939664de.jpg">
+      src="./assets/2024-10-16_Post_rr290939664de.jpg">
     Eine letzte Warnung vor einigen Personen, die sich
     m&ouml;glicherweise ausreichend Vertrauen erschlichen haben k&ouml;nnten,
     um einigen Schaden anzurichten,
@@ -4077,7 +4157,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
       Gegen&shy;sei&shy;te
       (keine auto&shy;ma&shy;tische oder Band&shy;an&shy;sa&shy;ge)
   <img align="right" alt="Call-Log: Notruf 16.08. 2:55" width="300px"
-    src="./2024-08-16_emerg-call-Berliner-Polizei.png" />
+    src="./assets/2024-08-16_emerg-call-Berliner-Polizei.png" />
   * keine Frage nach meinem Namen,
     Tel.-nr. oder ob ich evtl. Hilfe ben&ouml;&shy;ti&shy;ge
   * **Anlass**: Ich f&uuml;hl&shy;te mich durch,
@@ -4104,7 +4184,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
   "Not&shy;ru&shy;fe auch via GSM/EDGE" akti&shy;viert war
 
 * **Folgen**:
-  * eine [Nach&shy;frage](./2024-08-22_Polizei-vorgang-16084602.pdf)
+  * eine [Nach&shy;frage](./assets/2024-08-22_Polizei-vorgang-16084602.pdf)
     meiner&shy;seits,
     ob die Ab&shy;wick&shy;lung des Not&shy;rufs der Norm
     ent&shy;spr&auml;che
@@ -4114,7 +4194,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
     da der Ab&shy;lauf des Tele&shy;fo&shy;nats einige
     Auf&shy;f&auml;l&shy;lig&shy;kei&shy;ten offen&shy;ba&shy;ren
     w&uuml;rde
-  * [Beschwerde am 27. Aug](./2024-08-27_Polizei-vorgang-17472005.pdf)
+  * [Beschwerde am 27. Aug](./assets/2024-08-27_Polizei-vorgang-17472005.pdf)
     ein&shy;ge&shy;reicht,
     auf die wie&shy;der "nur" tele&shy;fo&shy;nisch
     (von einer Nr. der Ber&shy;li&shy;ner Poli&shy;zei:
@@ -4162,7 +4242,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
 
   <img align="right"
     alt="Call-Log: Notruf 6.10., ab 0:13"
-    src="./2024-10-06_log_Polizei-notruf.jpg"
+    src="./assets/2024-10-06_log_Polizei-notruf.jpg"
     width="300px">
   * einige Not&shy;rufe er&shy;rei&shy;chen die Po&shy;li&shy;zei
   * drei Not&shy;ru&shy;fe gehen durch,
@@ -4203,7 +4283,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
 
   <img alt="Face&shy;book: Fake-Account als Grund f&uuml;r die
     Suspendierung" align="right" border-left="100px none transparent"
-    src="./2024-09-30_15-00_facebook_suspend-reason-fake-account.png"
+    src="./assets/2024-09-30_15-00_facebook_suspend-reason-fake-account.png"
     width="600px">
   
   * einen(!) Tag nach Er&shy;&ouml;ff&shy;nung,
@@ -4219,9 +4299,9 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
     weil ich ja auch so wich&shy;tig und ber&uuml;hmt bin :joy:
   
   * hier die [Best&auml;ti&shy;gung der
-    Er&ouml;f&shy;fnung](./2024-09-29_03-34_facebook_welcome.eml),  
+    Er&ouml;f&shy;fnung](./assets/2024-09-29_03-34_facebook_welcome.eml),  
     und die
-    [Suspen&shy;dierung](./2024-09-30_13-08_facebook_suspendierung.eml)
+    [Suspen&shy;dierung](./assets/2024-09-30_13-08_facebook_suspendierung.eml)
     einen Tag sp&auml;ter :smirk:
   
   * Grund f&uuml;r die Sus&shy;pen&shy;die&shy;rung ist wohl,
@@ -4229,10 +4309,10 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
     Kon&shy;tos,
     zur soge&shy;nann&shy;ten "Sicher&shy;heit",
     meinen Per&shy;so&shy;nal&shy;aus&shy;weis hoch&shy;ge&shy;laden(!),
-    ein [Fake-Account](./2024-09-30_15-00_facebook_suspend-reason-fake-account.png)
+    ein [Fake-Account](./assets/2024-09-30_15-00_facebook_suspend-reason-fake-account.png)
     
   * ich kann die [Entscheidung des Meta-Konzerns gerichtlich pr&uuml;fen
-    las&shy;sen](./2024-09-30_16-00_facebook_challenge-decision.png)
+    las&shy;sen](./assets/2024-09-30_16-00_facebook_challenge-decision.png)
     
   * jetzt wird es lang&shy;sam span&shy;nend,
     da ich da&shy;rauf bren&shy;ne,
@@ -4243,9 +4323,9 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
     <img alt="Face&shy;book: Mgl.
       Vor&shy;ge&shy;hen"
       border-right="40px none transparent"
-      src="./2024-09-30_16-00_facebook_challenge-decision.png"
+      src="./assets/2024-09-30_16-00_facebook_challenge-decision.png"
       width="450px" />&nbsp;<img alt="Facebook: Appeal & wait.."
-      src="./2024-09-30_faceboock_appeal.png" width="450px" />
+      src="./assets/2024-09-30_faceboock_appeal.png" width="450px" />
     
     [**Erg.**] Einer der T&auml;ter
       (ich ver&shy;mute in&shy;zwi&shy;schen mind. zwei,
@@ -4293,7 +4373,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
 
   <img alt="Heizungsrohre: Kabelbinder"
     align="right"
-    src="./2024-10-06_whg-Borussiastr_heizung-kabelbinder.jpg"
+    src="./assets/2024-10-06_whg-Borussiastr_heizung-kabelbinder.jpg"
     width="300px">
   * ein, von der Vor&shy;mie&shy;te&shy;rin "ver&shy;ges&shy;se&shy;ner"
     Kabel&shy;bin&shy;der an den Heizungs&shy;roh&shy;ren im
@@ -4315,7 +4395,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
 
 * [**16.10.**] 
   img alt="E-Mails, neuer PubKey"
-    src="./2024-10-16_github_new-ssh-keys.jpg"
+    src="./assets/2024-10-16_github_new-ssh-keys.jpg"
 	width="300px">
   ~~Einer der *Psy*(?)-Dudes,
   der sich heute um die Sichtung der README kümmert,
