@@ -1197,9 +1197,10 @@ Aber wofür? Oder nur für mich?
 
 Eine von Fischers Spezialit&auml;ten
 ist die (**Achtung**: vollkommen degeneriert)
-**Gestaltung des emotionalen Seelenhaushaltes zweier Personen in divergierende Richtungen**
+**Gestaltung des emotionalen Seelenhaushaltes 
+zweier Personen in divergierende Richtungen**
 
-* deine vermutl. Realit&auml;t:
+* deine hoffentliche Realit&auml;t:
   * Auszug Ende April 2023
   * das Leben ist weitergegangen
   * ich bin eine kaum erinnnerliche,
@@ -1224,7 +1225,7 @@ ist die (**Achtung**: vollkommen degeneriert)
   emo&shy;tio&shy;na&shy;len Lei&shy;den,
   um den einen ge&shy;f&uuml;&shy;gig zu machen und
   dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t zu
-  neh&shy;men.*"<sup>:warning:Suggestion</sup> zu kommen.
+  neh&shy;men.*"<sup>:warning:Suggestion</sup>
 
 Ich weiß nicht, wie es dir geht, Sweety,
 ich mag emotional schwerf&auml;llig sein,
@@ -1234,8 +1235,6 @@ Zumal ich dir nie begegnen darf.
 Oder meinst Du,
 unterschwelliges Soufflieren mag unseren Gehirnen
 leichter Erinnerung erinnern?
-
-Naja, wie dem auch sei..
 
 ## Ende einer Schizophrenie
 
@@ -1250,11 +1249,11 @@ Naja, wie dem auch sei..
 > [!IMPORTANT]
 > [So., **13.10.**]
 > **Ende!!** Wie geil! Ich habe es immer gewusst. :grimacing:  
-> 1.380(?) Tage lang knech&shy;tet und fol&shy;tert Herr Feh&shy;ler aus R. (wobei ich meine, eine Art "Wechsel" bemerkt zu haben).
+> 1.380(?) Tage lang knech&shy;tet und fol&shy;tert Herr F. aus Reinickendorf
+> (wobei ich meine, eine Art "Wechsel" bemerkt zu haben).
 > Die reu&shy;digs&shy;te aller auf die&shy;sem Pla&shy;ne&shy;ten krau&shy;chen&shy;den 
-> Krea&shy;tu&shy;ren schei&shy;tert an mei&shy;ner vier, f&uuml;nf Male
-> (wenigs&shy;tens)
-> probierten Er&shy;mor&shy;dung. :joy:  
+> Krea&shy;tu&shy;ren schei&shy;tert nach vier Mordversuchen
+> an meiner Wenigkeit :joy:  
 > Und dann **ent&shy;schlei&shy;ert sich** sein kaum we&shy;ni&shy;ger
 > reu&shy;di&shy;ger **KI-Sa&shy;do-Kum&shy;pel**
 > (der mit dem "auf&shy;fäl&shy;li&shy;gen" Ego)
