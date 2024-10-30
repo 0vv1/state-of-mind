@@ -11,10 +11,11 @@ version: mi., 30. oct. 2024
 
 <h1>Es kann aber nicht sein, dass hier jemand zeigt, dass die Strafverfolgung einen Algorithmus verwendet, der gewöhnliche Straftaten gewöhnlich behandelt, ungewöhnliche hingegen gar nicht?</h1>
 
-Würde halt auch ein bisschen passen, da ich mir auch ranghöhere Mitglieder der Strafverfolgung als T&auml;ter "imaginiere", die sich in RL aber auskennen sollten. :shrug:  
-Ich kann beweisen, dass "auf Wunsch" einer, dieses(!) Repo mitlesenden Entität, und zum Zwecke der Verschleierung von Straftaten, Audio-Aufnahmen auf Dateisystemebene der internen Webserver bei GitHub Inc. manipuliert werden.  
+Würde passen, da ich mir auch ranghöhere Mitglieder der Strafverfolgung als T&auml;ter "imaginiere", die sich in RL aber auskennen sollten. :shrug:  
+Ich kann beweisen(!), dass vermutlich "auf Wunsch" einer, dieses(!) Repo mitlesenden Entität, und zum Zwecke der Verschleierung von Straftaten, Audio-Aufnahmen auf Dateisystemebene(!) der internen(!) Webserver bei GitHub(!) Inc. manipuliert werden.  
 (**Anm.**: Ich will wirklich nicht klugschei&szlig;en, aber Datenintegrität ist einer der Eckpfeiler der IT-Sec. und zwingenste Voraussetzung für die sog. Versionskontrolle).  
-Wieso wird ein Repo, daa niemanden interessiert, täglich im Schnitt 20 mal geclont? Woher kennen die Cloner den Namen, wenn ich ihn jede Woche ändere?
+Wieso wird ein Repo, das niemanden interessiert, täglich bis zu 40 mal geclont? Woher kennen diese Desinteressierten den Namen des Repos, wenn ich ihn jede Woche ändere?  
+(Sind Screenshots evtl. auch Teil einer schizophrenen Wahnidee? Das wäre ein Denkfehler meinerseits. Mea culpa!)  
 
 > [!IMPORTANT]
 > [**1st Things first**]
@@ -27,7 +28,7 @@ Wieso wird ein Repo, daa niemanden interessiert, täglich im Schnitt 20 mal gecl
 > aber (hoff&shy;ent&shy;lich) span&shy;nen&shy;de Ge&shy;schich&shy;te!  
 > S&auml;mt&shy;liche vor&shy;kom&shy;men&shy;den Namen
 > ent&shy;sprin&shy;gen ei&shy;ner sog. schi&shy;zo&shy;phre&shy;nen
-> Wahn&shy;idee umd k&ouml;n&shy;nen da&shy;mit,
+> Wahn&shy;idee und k&ouml;n&shy;nen da&shy;mit,
 > ge&shy;nau wie das hier be&shy;schrie&shy;be&shy;ne
 > "ein&shy;sa&shy;me Er&shy;le&shy;ben"
 > (Def. Schi&shy;zo&shy;phre&shy;nie),
