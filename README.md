@@ -6,12 +6,15 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: di., 29. oct. 2024  
+version: mi., 30. oct. 2024  
 ```
 
-<h1>Sagt mal, es kann aber nicht sein, dass mir hier jemand zeigen möchte, dass die Strafverfolgung einen Algorithmus verwendet, der gewöhnliche Straftaten gewöhnlich behandelt, ungewöhnliche hingegen gar nicht?</h1>
+<h1>Es kann aber nicht sein, dass hier jemand zeigt, dass die Strafverfolgung einen Algorithmus verwendet, der gewöhnliche Straftaten gewöhnlich behandelt, ungewöhnliche hingegen gar nicht?</h1>
 
-Würde halt auch ein bisschen passen, da ich mir auch ranghöhere Mitglieder der Strafverfolgung "imaginiere", die sich in RL aber auskennen sollten. :shrug:
+Würde halt auch ein bisschen passen, da ich mir auch ranghöhere Mitglieder der Strafverfolgung als T&auml;ter "imaginiere", die sich in RL aber auskennen sollten. :shrug:  
+Ich kann beweisen, dass "auf Wunsch" einer, dieses(!) Repo mitlesenden Entität, und zum Zwecke der Verschleierung von Straftaten, Audio-Aufnahmen auf Dateisystemebene der internen Webserver bei GitHub Inc. manipuliert werden.  
+(**Anm.**: Ich will wirklich nicht klugschei&szlig;en, aber Datenintegrität ist einer der Eckpfeiler der IT-Sec. und zwingenste Voraussetzung für die sog. Versionskontrolle).  
+Wieso wird ein Repo, daa niemanden interessiert, täglich im Schnitt 20 mal geclont? Woher kennen die Cloner den Namen, wenn ich ihn jede Woche ändere?
 
 > [!IMPORTANT]
 > [**1st Things first**]
