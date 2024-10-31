@@ -20,6 +20,11 @@ version: do., 31. oct. 2024
 > [**Info**]
 > von mir genutzter [Instagram](https://www.instagram.com/0vv1/)-Account!
 
+> [!TIP]
+> Was soll das werden? Rache?  
+> Weil ein einfacher Mensch ggü. einem &uuml;berm&auml;chtigen und unverschuldeten Gegner, das Schlimmste zu verhindern versucht?  
+> Ihr seid erb&auml;rmlich!
+
 <h1>Zeigt hier jemand, dass die Strafverfolgung einen Algorithmus verwendet, der gewöhnliche Straftaten gewöhnlich behandelt, undenkbare hingegen eher gar nicht?</h1>
 
 Z.B. die Errichtung privater KZs, in denen sich Wohnungen befinden, die zeitgleich akustische Folterkammern sind, in denen sich irgendwelche Strahlung emittieren lässt und wenn die "Insassen" nicht gef&uuml;gig sind, Gase eingelassen werden (Ist Meskalin "luftl&ouml;slich"?)?  
