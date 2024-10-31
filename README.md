@@ -16,7 +16,9 @@ version: do., 31. oct. 2024
 > Es hat sich jemand vor ein paar Min. aus einem Ort namens Eikeloh (NRW) in einen von mir ungenutzten Account eingeloggt.  
 > Ich bin in Berlin (gleich beim Zahnarzt)!  
 > [**Anm.**]
-> K&ouml;nnt ihr mich irgendwann mal in Ruhe lassen?
+> K&ouml;nnt ihr mich irgendwann mal in Ruhe lassen?  
+> [**Info**]
+> von mir genutzter [Instagram](https://www.instagram.com/0vv1/)-Account!
 
 <h1>Zeigt hier jemand, dass die Strafverfolgung einen Algorithmus verwendet, der gewöhnliche Straftaten gewöhnlich behandelt, undenkbare hingegen eher gar nicht?</h1>
 
