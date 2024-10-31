@@ -16,12 +16,6 @@ version: do., 31. oct. 2024
 > Es hat sich jemand vor ein paar Min. aus einem Ort namens Eikeloh (NRW) in einen von mir ungenutzten Instagram-Account eingeloggt.  
 > Ich bin in Berlin (gleich beim Zahnarzt)!
 >
-> [12:18]
-> Bin jetzt gleich dran, k&ouml;nnt ihr bitte versuchen,
-> euch zu benehmen?
-> Wenn es einen anderen Alexander Puls gibt,
-> bitte irgendwie einfangen.
-> 
 > [13:00]
 > LinkedIn übernommen (aber wohl recoverable (hetzner wohl safe, info-mail auch)
 > 
@@ -29,36 +23,26 @@ version: do., 31. oct. 2024
 > Bin ich vollständig aus dem Google-Such-Index raus?
 > Schön, dass das mal jemand macht,
 > aber darf ich fragen warum?
->
-> [**Anm.**]
-> K&ouml;nnt ihr mich irgendwann mal in Ruhe lassen?
-> Was soll das alles?
-> Verwechselt mich hier irgendwer?
-> Das ist doch Slapstick, Alter!
-> Werd ich verarscht?!
 > 
 > [**Info**]
 > Von mir genutzter [Instagram](https://www.instagram.com/0vv1/)-Account!
 
-> [!TIP]
-> Was soll das werden? Rache?  
-> Weil ein einfacher Mensch ggü. einem &uuml;berm&auml;chtigen und unverschuldeten Gegner, das Schlimmste zu verhindern versucht?  
-> Ihr seid erb&auml;rmlich!
-
+<h3>Kompromittierte SIM für 0170-9352526</h3>
 <img src="./assets/2024-10-31_11-50_mobilfunkmast.jpg" width="200px" align="right">
-
-> [!WARNING]
-> Ich komme aktuell nicht an alex@puls.sh, sollte aber safe sein.  
-> Tel. fraglich (auf der "alten" SIM hatte ich, wo immer ich war, meinen "eigenen" Funkturm).
-
+* irgendwann im Oktober ist mir aufgefallen,
+  dass Dritte nach Belieben Anrufe fingieren, als besetzt oder nicht erreichbar darstellen k&ouml;nnen
+* der im pic abgebildete Funkturm blieb im gesamten Stadtgebiet der selbe
+* SIM-Karte scheint mir keine origonale zu sein, dann muss sie ersetzt worden eein
 </img>
 
 <h1>Zeigt hier jemand, dass die Strafverfolgung einen Algorithmus verwendet, der gewöhnliche Straftaten gewöhnlich behandelt, undenkbare hingegen eher gar nicht?</h1>
 
-Z.B. die Errichtung privater KZs, in denen sich Wohnungen befinden, die zeitgleich akustische Folterkammern sind, in denen sich irgendwelche Strahlung emittieren lässt und wenn die "Insassen" nicht gef&uuml;gig sind, Gase eingelassen werden (Ist Meskalin "luftl&ouml;slich"?)?  
-Aber besser als die alten Nazis, die haben ihre Lager selbst bauen müssen.
+~~Z.B. die Errichtung privater KZs, in denen sich Wohnungen befinden, die zeitgleich akustische Folterkammern sind, in denen sich irgendwelche Strahlung emittieren lässt und wenn die "Insassen" nicht gef&uuml;gig sind, Gase eingelassen werden (Ist Meskalin "luftl&ouml;slich"?)?  
+Aber besser als die alten Nazis, die haben ihre Lager selbst bauen müssen.~~  
+Auch wenn's war ist: Es liest sich schräg und muss irgendwie anders.
 
-Würde passen, da ich mir auch ranghöhere Mitglieder der Strafverfolgung als T&auml;ter "imaginiere", die sich in RL aber auskennen sollten. (Ganz sicher bin mir da allerdings nicht. Mglw. alles auch Manipulation) :shrug:  
+Würde passen, da ich mir auch ranghöhere Mitglieder der Strafverfolgung als T&auml;ter "imaginiere", die sich in RL aber auskennen sollten. (Ganz sicher bin mir da allerdings nicht. Mglw. alles auch Manipulation) :shrug:
+
 Ich kann beweisen(!), dass vermutlich "auf Wunsch" einer, dieses(!) Repo mitlesenden Entität, und zum Zwecke der Verschleierung von Straftaten, Audio-Aufnahmen auf Dateisystemebene(!) der internen(!) Webserver bei GitHub(!) Inc. manipuliert werden.  
 (**Anm.**: Ich will wirklich nicht klugschei&szlig;en, aber Datenintegrität ist einer der Eckpfeiler der IT-Sec. und zwingenste Voraussetzung für die sog. Versionskontrolle).  
 Wieso wird ein Repo, das niemanden interessiert, täglich bis zu 40 mal geclont? Woher kennen diese Desinteressierten den Namen des Repos, wenn ich ihn jede Woche ändere?  
