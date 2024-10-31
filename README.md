@@ -13,8 +13,11 @@ version: do., 31. oct. 2024
 > [**AKT** 31.10. 11:00]
 > Jemand hat meine komplette Passwort-Datei und ich komme so schnell nicht hinterher.  
 > 
-> Es hat sich jemand vor ein paar Min. aus einem Ort namens Eikeloh (NRW) in einen von mir ungenutzten Account eingeloggt.  
+> Es hat sich jemand vor ein paar Min. aus einem Ort namens Eikeloh (NRW) in einen von mir ungenutzten Instagram-Account eingeloggt.  
 > Ich bin in Berlin (gleich beim Zahnarzt)!
+>
+> [13:00]
+> LinkedIn übernommen (aber wohl recoverable (hetzner wohl safe, info-mail auch)
 > 
 > [12:18] Bin jetzt gleich dran, k&ouml;nnt ihr bitte versuchen,
 > euch zu benehmen?
