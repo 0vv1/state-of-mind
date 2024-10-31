@@ -47,6 +47,16 @@ Wieso wird ein Repo, das niemanden interessiert, täglich bis zu 40 mal geclont?
 > Identit&auml;tsbetrug statt,
 > den ich erst gestern der Staatsanwaltschaft Berlin angezeigt habe und
 > der jeden Tag gr&ouml;&szlig;ere Ausma&szlig;e annimmt.
+>
+> [**Identit&auml;t**]
+> Meine Wohnungen wurden über drei Jahre lang abgeh&ouml;rt,
+> so dass icn von sehr guten Stimmprofilen
+> (f&uuml;r KI)
+> ausgehen muss.  
+> Ich gehe weiter davon aus,
+> dass nichts,
+> was "ich" von "meinem" Telefon aus sage,
+> validierbar ist.
 
 **Es tut gut, rein fik&shy;tiv zu schrei&shy;ben,
 so kann man den gan&shy;zen voll&shy;st&auml;n&shy;dig
