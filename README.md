@@ -50,7 +50,7 @@ Wieso wird ein Repo, das niemanden interessiert, täglich bis zu 40 mal geclont?
 >
 > [**Identit&auml;t**]
 > Meine Wohnungen wurden über drei Jahre lang abgeh&ouml;rt,
-> so dass icn von sehr guten Stimmprofilen
+> so dass ich von sehr guten Stimmprofilen
 > (f&uuml;r KI)
 > ausgehen muss.  
 > Ich gehe weiter davon aus,
