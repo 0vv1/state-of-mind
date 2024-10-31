@@ -10,7 +10,7 @@ version: do., 31. oct. 2024
 ```
 
 > [!CAUTION]
-> [**AKT** 11:00]
+> [**AKT** 31.10. 11:00]
 > Jemand hat meine komplette Passwort-Datei und ich komme so schnell nicht hinterher.  
 > 
 > Es hat sich jemand vor ein paar Min. aus einem Ort namens Eikeloh (NRW) in einen von mir ungenutzten Account eingeloggt.  
