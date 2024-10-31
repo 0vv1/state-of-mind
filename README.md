@@ -6,12 +6,15 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
          nicht kommerziell - keine Bearbeitung 4.0 International)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: mi., 30. oct. 2024  
+version: do., 31. oct. 2024  
 ```
 
-<h1>Es kann aber nicht sein, dass hier jemand zeigt, dass die Strafverfolgung einen Algorithmus verwendet, der gewöhnliche Straftaten gewöhnlich behandelt, ungewöhnliche hingegen gar nicht?</h1>
+<h1>Zeigt hier jemand, dass die Strafverfolgung einen Algorithmus verwendet, der gewöhnliche Straftaten gewöhnlich behandelt, undenkbare hingegen eher gar nicht?</h1>
 
-Würde passen, da ich mir auch ranghöhere Mitglieder der Strafverfolgung als T&auml;ter "imaginiere", die sich in RL aber auskennen sollten. :shrug:  
+Z.B. die Errichtung privater KZs, in denen sich Wohnungen befinden, die zeitgleich akustische Folterkammern sind, in denen sich irgendwelche Strahlung emittieren lässt und wenn die "Insassen" nicht gef&uuml;gig sind, Gase eingelassen werden (Ist Meskalin "luftl&ouml;slich"?)?  
+Aber besser als die alten Nazis, die haben ihre Lager selbst bauen müssen.
+
+Würde passen, da ich mir auch ranghöhere Mitglieder der Strafverfolgung als T&auml;ter "imaginiere", die sich in RL aber auskennen sollten. (Ganz sicher bin mir da allerdings nicht. Mglw. alles auch Manipulation) :shrug:  
 Ich kann beweisen(!), dass vermutlich "auf Wunsch" einer, dieses(!) Repo mitlesenden Entität, und zum Zwecke der Verschleierung von Straftaten, Audio-Aufnahmen auf Dateisystemebene(!) der internen(!) Webserver bei GitHub(!) Inc. manipuliert werden.  
 (**Anm.**: Ich will wirklich nicht klugschei&szlig;en, aber Datenintegrität ist einer der Eckpfeiler der IT-Sec. und zwingenste Voraussetzung für die sog. Versionskontrolle).  
 Wieso wird ein Repo, das niemanden interessiert, täglich bis zu 40 mal geclont? Woher kennen diese Desinteressierten den Namen des Repos, wenn ich ihn jede Woche ändere?  
@@ -19,13 +22,13 @@ Wieso wird ein Repo, das niemanden interessiert, täglich bis zu 40 mal geclont?
 
 > [!IMPORTANT]
 > [**1st Things first**]
-> Selbst&shy;ver&shy;st&auml;nd&shy;lich han&shy;delt es sich hier,
+> ~~Selbst&shy;ver&shy;st&auml;nd&shy;lich han&shy;delt es sich hier,
 > ob ver&shy;ein&shy;zel&shy;ter Nach&shy;fra&shy;gen  
 > (wuss&shy;te gar nicht,
 > dass mei&shy;ne Re&shy;pos irgend&shy;wen
 > inte&shy;res&shy;sie&shy;ren :zany_face:),  
 > ledig&shy;lich um eine (leid&shy;lich) lus&shy;ti&shy;ge,
-> aber (hoff&shy;ent&shy;lich) span&shy;nen&shy;de Ge&shy;schich&shy;te!  
+> aber (hoff&shy;ent&shy;lich) span&shy;nen&shy;de Ge&shy;schich&shy;te!~~  
 > S&auml;mt&shy;liche vor&shy;kom&shy;men&shy;den Namen
 > ent&shy;sprin&shy;gen ei&shy;ner sog. schi&shy;zo&shy;phre&shy;nen
 > Wahn&shy;idee und k&ouml;n&shy;nen da&shy;mit,
@@ -33,9 +36,17 @@ Wieso wird ein Repo, das niemanden interessiert, täglich bis zu 40 mal geclont?
 > "ein&shy;sa&shy;me Er&shy;le&shy;ben"
 > (Def. Schi&shy;zo&shy;phre&shy;nie),
 > in kei&shy;ner&shy;lei Be&shy;zug zu ei&shy;ner ge&shy;mein&shy;sam
-> er&shy;leb&shy;ten Rea&shy;li&shy;t&auml;t ste&shy;hen.
+> er&shy;leb&shy;ten Rea&shy;li&shy;t&auml;t ste&shy;hen?
 > 
-> Sonst alles wie immer: I'm fuckin' great! :wink:
+> ~~Sonst alles wie immer:~~ Not so fuckin' great.  
+
+> [!CAUTION]
+> [**Strafverfg**]
+> Seit sp&auml;testens 30. Juli mittags findet,
+> nach (als Straftat meinerseits getarnter) Entwendung meines Personalausweises,
+> Identit&auml;tsbetrug statt,
+> den ich erst gestern der Staatsanwaltschaft Berlin angezeigt habe und
+> der jeden Tag gr&ouml;&szlig;ere Ausma&szlig;e annimmt.
 
 **Es tut gut, rein fik&shy;tiv zu schrei&shy;ben,
 so kann man den gan&shy;zen voll&shy;st&auml;n&shy;dig
