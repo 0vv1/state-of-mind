@@ -9,6 +9,12 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: do., 31. oct. 2024  
 ```
 
+> [**AKT** 11:00]
+> Jemand hat meine komplette Passwort-Datei und ich komme sp schnell nicht hinterher.  
+> 
+> Es hat sich jemand vor ein paar Min. aus einem Ort namens Eikeloh (NRW) in einen von mir ungenutzten Account eingeloggt.  
+> Ich bin in Berlin!
+
 <h1>Zeigt hier jemand, dass die Strafverfolgung einen Algorithmus verwendet, der gewöhnliche Straftaten gewöhnlich behandelt, undenkbare hingegen eher gar nicht?</h1>
 
 Z.B. die Errichtung privater KZs, in denen sich Wohnungen befinden, die zeitgleich akustische Folterkammern sind, in denen sich irgendwelche Strahlung emittieren lässt und wenn die "Insassen" nicht gef&uuml;gig sind, Gase eingelassen werden (Ist Meskalin "luftl&ouml;slich"?)?  
