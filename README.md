@@ -25,6 +25,12 @@ version: do., 31. oct. 2024
 > Weil ein einfacher Mensch ggü. einem &uuml;berm&auml;chtigen und unverschuldeten Gegner, das Schlimmste zu verhindern versucht?  
 > Ihr seid erb&auml;rmlich!
 
+> [!WARNING]
+> Ich komme aktuell nicht an alex@puls.sh, sollte aber safe sein.  
+> Tel. fraglich (auf der "alten" SIM hatte ich, wo immer ich war, meinen "eigenen" Funkturm.
+
+<img src="./assets/2024-10-31_11-50_mobilfunkmast.jpg" width="200px" align="right" />
+<br />
 <h1>Zeigt hier jemand, dass die Strafverfolgung einen Algorithmus verwendet, der gewöhnliche Straftaten gewöhnlich behandelt, undenkbare hingegen eher gar nicht?</h1>
 
 Z.B. die Errichtung privater KZs, in denen sich Wohnungen befinden, die zeitgleich akustische Folterkammern sind, in denen sich irgendwelche Strahlung emittieren lässt und wenn die "Insassen" nicht gef&uuml;gig sind, Gase eingelassen werden (Ist Meskalin "luftl&ouml;slich"?)?  
