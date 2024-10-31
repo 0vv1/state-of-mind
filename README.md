@@ -16,14 +16,20 @@ version: do., 31. oct. 2024
 > Es hat sich jemand vor ein paar Min. aus einem Ort namens Eikeloh (NRW) in einen von mir ungenutzten Instagram-Account eingeloggt.  
 > Ich bin in Berlin (gleich beim Zahnarzt)!
 >
-> [13:00]
-> LinkedIn übernommen (aber wohl recoverable (hetzner wohl safe, info-mail auch)
-> 
-> [12:18] Bin jetzt gleich dran, k&ouml;nnt ihr bitte versuchen,
+> [12:18]
+> Bin jetzt gleich dran, k&ouml;nnt ihr bitte versuchen,
 > euch zu benehmen?
 > Wenn es einen anderen Alexander Puls gibt,
 > bitte irgendwie einfangen.
 > 
+> [13:00]
+> LinkedIn übernommen (aber wohl recoverable (hetzner wohl safe, info-mail auch)
+> 
+> [14:00]
+> Bin ich vollständig aus dem Google-Such-Index raus?
+> Schön, dass das mal jemand macht,
+> aber darf ich fragen warum?
+>
 > [**Anm.**]
 > K&ouml;nnt ihr mich irgendwann mal in Ruhe lassen?
 > Was soll das alles?
