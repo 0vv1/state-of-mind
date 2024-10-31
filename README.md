@@ -14,7 +14,9 @@ version: do., 31. oct. 2024
 > Jemand hat meine komplette Passwort-Datei und ich komme so schnell nicht hinterher.  
 > 
 > Es hat sich jemand vor ein paar Min. aus einem Ort namens Eikeloh (NRW) in einen von mir ungenutzten Account eingeloggt.  
-> Ich bin in Berlin!
+> Ich bin in Berlin (gleich beim Zahnarzt)!  
+> [**Anm.**]
+> K&ouml;nnt ihr mich irgendwann mal in Ruhe lassen?
 
 <h1>Zeigt hier jemand, dass die Strafverfolgung einen Algorithmus verwendet, der gewöhnliche Straftaten gewöhnlich behandelt, undenkbare hingegen eher gar nicht?</h1>
 
