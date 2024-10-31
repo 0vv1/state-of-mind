@@ -15,12 +15,19 @@ version: do., 31. oct. 2024
 > 
 > Es hat sich jemand vor ein paar Min. aus einem Ort namens Eikeloh (NRW) in einen von mir ungenutzten Account eingeloggt.  
 > Ich bin in Berlin (gleich beim Zahnarzt)!
-> [12:12] Bin jetzt gleich dran, k&ouml;nnt ihr bitte versuchen,
+> 
+> [12:18] Bin jetzt gleich dran, k&ouml;nnt ihr bitte versuchen,
 > euch zu benehmen?
 > Wenn es einen anderen Alexander Puls gibt,
-> bitte irgendwie einfangen.  
+> bitte irgendwie einfangen.
+> 
 > [**Anm.**]
 > K&ouml;nnt ihr mich irgendwann mal in Ruhe lassen?
+> Was soll das alles?
+> Verwechselt mich hier irgendwer?
+> Das ist doch Slapstick, Alter!
+> Werd ich verarscht?!
+> 
 > [**Info**]
 > Von mir genutzter [Instagram](https://www.instagram.com/0vv1/)-Account!
 
