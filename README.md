@@ -9,8 +9,9 @@ license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -
 version: do., 31. oct. 2024  
 ```
 
+> [!CAUTION]
 > [**AKT** 11:00]
-> Jemand hat meine komplette Passwort-Datei und ich komme sp schnell nicht hinterher.  
+> Jemand hat meine komplette Passwort-Datei und ich komme so schnell nicht hinterher.  
 > 
 > Es hat sich jemand vor ein paar Min. aus einem Ort namens Eikeloh (NRW) in einen von mir ungenutzten Account eingeloggt.  
 > Ich bin in Berlin!
