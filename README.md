@@ -14,23 +14,29 @@ version: do., 31. oct. 2024
 > Jemand hat meine komplette Passwort-Datei und ich komme so schnell nicht hinterher.  
 > 
 > Es hat sich jemand vor ein paar Min. aus einem Ort namens Eikeloh (NRW) in einen von mir ungenutzten Account eingeloggt.  
-> Ich bin in Berlin (gleich beim Zahnarzt)!  
+> Ich bin in Berlin (gleich beim Zahnarzt)!
+> [12:12] Bin jetzt gleich dran, k&ouml;nnt ihr bitte versuchen,
+> euch zu benehmen?
+> Wenn es einen anderen Alexander Puls gibt,
+> bitte irgendwie einfangen.  
 > [**Anm.**]
-> K&ouml;nnt ihr mich irgendwann mal in Ruhe lassen?  
+> K&ouml;nnt ihr mich irgendwann mal in Ruhe lassen?
 > [**Info**]
-> von mir genutzter [Instagram](https://www.instagram.com/0vv1/)-Account!
+> Von mir genutzter [Instagram](https://www.instagram.com/0vv1/)-Account!
 
 > [!TIP]
 > Was soll das werden? Rache?  
 > Weil ein einfacher Mensch ggü. einem &uuml;berm&auml;chtigen und unverschuldeten Gegner, das Schlimmste zu verhindern versucht?  
 > Ihr seid erb&auml;rmlich!
 
+<img src="./assets/2024-10-31_11-50_mobilfunkmast.jpg" width="200px" align="right">
+
 > [!WARNING]
 > Ich komme aktuell nicht an alex@puls.sh, sollte aber safe sein.  
-> Tel. fraglich (auf der "alten" SIM hatte ich, wo immer ich war, meinen "eigenen" Funkturm.
+> Tel. fraglich (auf der "alten" SIM hatte ich, wo immer ich war, meinen "eigenen" Funkturm).
 
-<img src="./assets/2024-10-31_11-50_mobilfunkmast.jpg" width="200px" align="right" />
-<br />
+</img>
+
 <h1>Zeigt hier jemand, dass die Strafverfolgung einen Algorithmus verwendet, der gewöhnliche Straftaten gewöhnlich behandelt, undenkbare hingegen eher gar nicht?</h1>
 
 Z.B. die Errichtung privater KZs, in denen sich Wohnungen befinden, die zeitgleich akustische Folterkammern sind, in denen sich irgendwelche Strahlung emittieren lässt und wenn die "Insassen" nicht gef&uuml;gig sind, Gase eingelassen werden (Ist Meskalin "luftl&ouml;slich"?)?  
