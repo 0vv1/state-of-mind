@@ -62,7 +62,7 @@ Auf die Idee hat mich ein Freund ge&shy;bracht,
 der mir mal ein hal&shy;bes St&uuml;nd&shy;chen zu&shy;ge&shy;h&ouml;hrt
 hat (THX S0fatr4sher!).
 
-<h1>Beob&shy;ach&shy;tun&shy;gen zum Spektrum
+<h2>Beob&shy;ach&shy;tun&shy;gen zum Spektrum
     <b>Kom&shy;mu&shy;ni&shy;ka&shy;<nobr>tion</b>/</nobr><b>Iso&shy;la&shy;tion</b>
     und der Wirk&shy;m&auml;ch&shy;tig&shy;keit
     <b>akus&shy;ti&shy;sche</b>r <b>Mani&shy;pu&shy;la&shy;tion</b> von
@@ -70,7 +70,7 @@ hat (THX S0fatr4sher!).
 	<sub><sup>oder<br />«&Uuml;ber das "ver&shy;bor&shy;ge&shy;ne"
     Wir&shy;ken min&shy;des&shy;tens einer
     ein&shy;fluss&shy;rei&shy;chen
-    <nobr>(Psy-)Sadis&shy;<nobr>ten-<wbr />Crew»</sup></sub></h1>
+    <nobr>(Psy-)Sadis&shy;<nobr>ten-<wbr />Crew»</sup></sub></h2>
 
 .. deren Herr F. aus Rei&shy;nicken&shy;dorf,
     Spe&shy;zia&shy;list f&uuml;r die qual&shy;vol&shy;le
