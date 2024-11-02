@@ -176,19 +176,28 @@ wenn ich ihn jede Woche &auml;nde&shy;re?
 > 
 > Sonst alles wie immer: I'm fuckin' great! :grimacing: 
 
-Und da&shy;mit be&shy;ginnt die Geschich&shy;te eigent&shy;lich erst,
-vor vier Jah&shy;ren in Rei&shy;ni&shy;cken&shy;dorf mit dem f&uuml;r
-nor&shy;ma&shy;le Men&shy;sch&shy;en viel&shy;leicht noch nicht so
-span&shy;nen&shy;den Thema, wie ich einem,
+Und da&shy;mit be&shy;ginnt die Geschich&shy;te eigent&shy;lich erst:  
+Vor vier Jah&shy;ren in einem ganz nor&shy;ma&shy;len
+Mehr&shy;fa&shy;mi&shy;lien&shy;haus
+in Rei&shy;ni&shy;cken&shy;dorf
+(das sich erst sp&auml;t als ein Tem&shy;pel des Wahn&shy;sinns herausstellt)
+mit dem f&uuml;r nor&shy;ma&shy;le Men&shy;sch&shy;en m&ouml;g&shy;lich&shy;er&shy;wei&shy;se
+noch nicht so span&shy;nen&shy;den Thema, wie man einen,
 an Schi&shy;zo&shy;phre&shy;nie "er&shy;krank&shy;ten" Men&shy;sch&shy;en,
-so lang&shy;sam wie m&ouml;g&shy;lich in einen grau&shy;sa&shy;men Tod schicke, immer darauf achtend, dass mein eigenes Wirken niemals die Schwelle einsamen Erlebens einer Schizophrenie &uuml;bertritt.  
-Ich vermute weiter, dass mein "Fall" anf&auml;nglich von einem Herrn F.(?)
-aus Reinickendorf &uuml;bernommen wurde und niemand
+so lang&shy;sam wie m&ouml;g&shy;lich in einen grau&shy;sa&shy;men Tod schickt,
+immer darauf ach&shy;tend, 
+dass das eigene Wir&shy;ken nie&shy;mals die Schwelle sog. ein&shy;sa&shy;men Er&shy;le&shy;bens
+einer Schi&shy;zo&shy;phre&shy;nie &uuml;ber&shy;tritt.  
+Ich ver&shy;mu&shy;te, 
+dass mein "Fall" an&shy;f&auml;ng&shy;lich von einem Herrn F.(?)
+aus Rei&shy;nicken&shy;dorf &uuml;ber&shy;nom&shy;men wurde und niemand
 (aus seiner "Crew") jemals damit rechnete,
-dass ich heute (2. Nov. 2024) hier
-(mich in einem Gartenhaus in &Ouml;sterreich "versteckend" und trotzdem mit Drohnenbegleitung) sitze und dar&uuml;ber reflektiere.
+dass das "Opfer" heute (2. Nov. 2024) hier
+(mich in einem Gar&shy;ten&shy;haus in &Ouml;ster&shy;reich "ver&shy;steckend" und 
+trotz&shy;dem mit Droh&shy;nen&shy;be&shy;glei&shy;tung) 
+sitze und da&shy;r&uuml;&shy;ber re&shy;flek&shy;tie&shy;re.
 
-Kommen wir mal zum Titel..
+Kom&shy;men wir mal zum Ti&shy;tel..
 
 Ich h&auml;t&shy;te gern mit drin&shy;nen,
 <h1>Iden&shy;ti&shy;t&auml;t und (v.&#8239;a. und i.&#8239;d.&#8239;Z.) Ver&shy;trau&shy;en,
