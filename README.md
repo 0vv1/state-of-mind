@@ -38,15 +38,70 @@ version: sa., 2. nov. 2024
 > [In&shy;sta&shy;gram](https://www.instagram.com/0vv1/)-Account!
 
 > [!IMPORTANT]
-> Diese README wird hier ganz gern mal sabotiert / kaputt gemacht,
+> Diese README wird hier ganz gern mal sa&shy;bo&shy;tiert / kaputt gemacht,
 > damit ich wirr/verr&uuml;ckt wirke und niemand weiter liest.  
 > Aber:
 > 1. ist mit mir alles i.&#8239;O.,
 > 2. setze ich mich die Tage ran, sortiere alles und
-> 3. ist es einer best. Interessengruppe eigent&uuml;licherweise
+> 3. ist es einer best. Interessengruppe eigent&uuml;mlicherweise
 >    wohl sehr wichtig,
 >    dass das hier aus dem Netz verschwindet
 >    (kann ich aber aus vielen Gr&uuml;nden nicht machen)
+
+> [!CAUTION]
+> [**IDEN&shy;TI&shy;T&Auml;TS&shy;BE&shy;TRUG**]
+> Seit mind. zwei Jahren,
+> ich lebte damals in der Pan&shy;ko&shy;wer Allee in Rei&shy;nicken&shy;dorf,
+> scheint es eine Enti&shy;t&auml;t zu geben,
+> die mir,
+> grob gesagt,
+> meine Per&shy;s&ouml;n&shy;lich&shy;keit ab&shy;neh&shy;men
+> (und mich dann t&ouml;ten?) will:
+> 1. ist das nicht meine Aus&shy;sage und
+> 2. nehme ich so einen Bl&ouml;d&shy;sinn nat&uuml;r&shy;lich(!) nicht ernst
+>    (nie&shy;mand muss so&shy;et&shy;was ernst neh&shy;men).
+>
+> Wie absurd ich das auch immer finde,
+> fing die&shy;ser Mensch vor Jahren an
+> 1. meine Whg. ab&shy;zu&shy;h&ouml;ren,
+>    um alles über mein Leben zu er&shy;fah&shy;ren,
+> 2. meine Stimme zu &uuml;ben,
+>    um damit ande&shy;ren
+>    (zu&shy;n&auml;chst "nur" Nachbarn,
+>    sp&auml;&shy;ter allen m&ouml;g&shy;lich&shy;en) Men&shy;schen als Alex&shy;an&shy;der Puls
+>    auf die Ner&shy;ven zu gehen,
+> 3. seit sp&auml;&shy;tes&shy;tens **30. Juli mit&shy;tags** wohl aus&shy;gie&shy;bi&shy;ger
+>    Iden&shy;ti&shy;t&auml;ts&shy;be&shy;trug,
+>    weil "er" wohl für 30 Minu&shy;ten(!?) mei&shy;nen Aus&shy;weis hatte
+>    (nach einem,
+>    als Straf&shy;tat mei&shy;ner&shy;seits,
+>    ge&shy;tarn&shy;ten Raub)
+>
+> [**wichtig!**]
+> Wer vier Jahre lang je&shy;des Ge&shy;r&auml;usch mei&shy;ner Woh&shy;nung&shy;(-en) ab&shy;nimmt,
+> muss(!) her&shy;vor&shy;ra&shy;gen&shy;de Stimm&shy;pro&shy;fi&shy;le vor&shy;hal&shy;ten!
+> Bitte (leider!) nicht davon aus&shy;ge&shy;hen,
+> dass je&shy;mand,
+> der am Tele&shy;fon klingt wie ich, auch wirk&shy;lich ich bin.
+> **Sorry**!
+> 
+> Die schei&shy;nen jeden&shy;falls sehr flei&szlig;ig und
+> am&shy;bi&shy;tio&shy;niert,
+> auch wenn ich den Sinn da&shy;hin&shy;ter nicht ver&shy;ste&shy;he!
+>   
+> Er selbst meint,
+> ich sei ge&shy;mein&shy;sam mit einer ehe&shy;ma&shy;li&shy;gen Nach&shy;ba&shy;rin
+> zur Te&shy;le&shy;pat&shy;hie be&shy;f&auml;higt,
+> wo&shy;rauf er nei&shy;disch w&auml;re,
+> au&szlig;er&shy;dem pas&shy;sen die be&shy;sag&shy;te Dame und ich an&shy;geb&shy;lich
+> gut zu&shy;sam&shy;men,
+> das gin&shy;ge auch nicht.  
+> Wenn man mich fragt:
+> **D&uuml;m&shy;mer geht es nicht!**
+> Was f&uuml;r ein reu&shy;di&shy;ger Schwach&shy;sinn!
+> Darf ich bitte er&shy;fah&shy;ren,
+> warum mir eine Kack Drohne durch Europa folgt???!!
+> Was wollt ihr von mir?
 
 <h1>Zeigt hier jemand,
   dass die Straf&shy;ver&shy;fol&shy;gung einen Algo&shy;rith&shy;mus
@@ -120,54 +175,6 @@ wenn ich ihn jede Woche &auml;nde&shy;re?
 > er&shy;leb&shy;ten Rea&shy;li&shy;t&auml;t ste&shy;hen?
 > 
 > Sonst alles wie immer: I'm fuckin' great! :grimacing: 
-
-> [!CAUTION]
-> [**Identit&auml;tsbetrug**]
-> Ich habe seit lan&shy;ger Zeit
-> (rund zwei Jahre)
-> einen ehe&shy;ma&shy;li&shy;gen Mit&shy;be&shy;woh&shy;ner eines
-> Mehr&shy;fa&shy;mi&shy;lien&shy;hau&shy;ses im Ber&shy;li&shy;ner
-ldd (**Ach&shy;tung**!)
-> mei&shy;ne Per&shy;s&ouml;n&shy;lich&shy;keit
-> &uuml;ber&shy;neh&shy;men und mich schlie&szlig;lich
-> t&ouml;ten zu wol&shy;len.  
-> Ich habe das nie wirk&shy;lich ernst ge&shy;nom&shy;men,
-> ob&shy;wohl die&shy;ser Typ wohl an&shy;fing,
-> 1. meine Wohung abzuh&ouml;ren
->    (in wel&shy;chem Um&shy;fang konn&shy;te ich nicht ahnen)
-> 2. meine Geflogenheiten und Kontakte auswendig zu lernen und
-> 3. mei&shy;ne Stim&shy;me zu &uuml;ben und ge&shy;mein&shy;sa&shy;me
->    Nach&shy;barn in mei&shy;nem Namen an&shy;zu&shy;schreien!
-> So&shy;zu&shy;sa&shy;gen zu&shy;min&shy;dest schon mal eine
-> eini&shy;ger&shy;ma&szlig;en de&shy;ge&shy;ne&shy;rier&shy;te
-> Iden&shy;ti&shy;t&auml;ts&shy;**ko&shy;pie**.
-
-> **Seit** sp&auml;&shy;tes&shy;tens **30. Juli mit&shy;tags**
-> fin&shy;det nach
-> (als Straf&shy;tat mei&shy;ner&shy;seits ge&shy;tarn&shy;tem)
-> Raub mei&shy;nes Per&shy;so&shy;nal&shy;aus&shy;wei&shy;ses,
-> **Iden&shy;ti&shy;t&auml;ts&shy;be&shy;trug** statt,
-> den ich erst ges&shy;tern der Staats&shy;an&shy;walt&shy;schaft
-> Ber&shy;lin an&shy;ge&shy;zeigt habe und
-> der jeden Tag gr&ouml;&szlig;ere Aus&shy;ma&szlig;e an&shy;nimmt.
-> 
-> Die schei&shy;nen jeden&shy;falls sehr flei&szlig;ig und
-> am&shy;bi&shy;tio&shy;niert,
-> auch wenn ich den Sinn da&shy;hin&shy;ter (noch!?) nicht
-> wirk&shy;lich sehe.  
-> Er selbst meint,
-> ich sei ge&shy;mein&shy;sam mit einer ande&shy;ren Nach&shy;ba&shy;rin
-> zur Te&shy;le&shy;pat&shy;hie be&shy;f&auml;giigt,
-> wo&shy;rauf er nei&shy;disch w&auml;re,
-> au&szlig;er&shy;dem pas&shy;sen die Dame und ich an&shy;geb&shy;lich i
-> gut zu&shy;sam&shy;men,
-> das gin&shy;ge auch nicht.
-> 
-> Vier ver&shy;schie&shy;de&shy;ne
-> (nur von mir(!), es gibt noch an&shy;de&shy;re)
-> Woh&shy;nun&shy;gen wur&shy;den in fast vier Jah&shy;ren
-> l&uuml;ckenlos abgeh&ouml;rt und wie ich meine,
-> sehr gute Stimm&shy;pro&shy;fi&shy;le er&shy;stellt.
 
 Und da&shy;mit be&shy;ginnt die Geschich&shy;te eigent&shy;lich erst,
 vor vier Jah&shy;ren in Rei&shy;ni&shy;cken&shy;dorf mit dem f&uuml;r
