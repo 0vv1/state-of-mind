@@ -1,62 +1,115 @@
 
 ```
-file:    state-of-mind/README.md  
-brief:   psy sado group log  
+file:    sos.log/README.md  
+brief:   state of society logbook  
 author:  © 2021-2024 alexander puls <github@0vv1.net>  
-license: CC BY-NC-ND 4.0 Int. (Creative Commons: Namensnennung -  
-         nicht kommerziell - keine Bearbeitung 4.0 International)  
+license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
+         nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: do., 31. oct. 2024  
+version: sa., 2. nov. 2024  
 ```
 
 > [!CAUTION]
-> [**AKT** 31.10. 11:00]
-> Jemand hat meine komplette Passwort-Datei und ich komme so schnell nicht hinterher.  
+> [**AKTUELL 31.10.**, 11:00]
+> Jemand hat eine mei&shy;ner (&auml;l&shy;te&shy;ren)
+> Pass&shy;wort-Da&shy;tei&shy;en und
+> ich komme so schnell nicht hin&shy;ter&shy;her.  
 > 
-> Es hat sich jemand vor ein paar Min. aus einem Ort namens Eikeloh (NRW) in einen von mir ungenutzten Instagram-Account eingeloggt.  
-> Ich bin in Berlin (gleich beim Zahnarzt)!
+> Au&szlig;er&shy;dem hat sich jemand vor ein paar Min. aus einem Ort
+> namens Eike&shy;loh (NRW),
+> in einen von mir un&shy;ge&shy;nutz&shy;ten Insta&shy;gram-Account
+> ein&shy;ge&shy;loggt.  
+> Ich bin in Ber&shy;lin (und auf dem Weg zum Zahn&shy;arzt).
 >
 > [13:00]
-> LinkedIn übernommen (aber wohl recoverable (hetzner wohl safe, info-mail auch)
+> * Linked&shy;In &uuml;ber&shy;nom&shy;men
+> (kann ich aber erst zu Hause recovern) :white_check_mark:
+> * hetzner ~~wohl~~ safe, Info-Mail damit auch :white_check_mark:
+> * ganz ehr&shy;lich: es riecht schon wieder nach einem Nach&shy;namen,
+>   der mit F. wie **F**otz&shy;kopf an&shy;f&auml;ngt
 > 
 > [14:00]
-> Bin ich vollständig aus dem Google-Such-Index raus?
+> Bin ich voll&shy;st&auml;n&shy;dig aus dem Google-Such-Index raus?  
 > Schön, dass das mal jemand macht,
-> aber darf ich fragen warum?
-> 
-> [**Info**]
-> Von mir genutzter [Instagram](https://www.instagram.com/0vv1/)-Account!
+> aber darf ich fragen, warum?
+ 
+> [!NOTE]
+> Der von mir aus&shy;schlie&szlig;&shy;lich ge&shy;nutz&shy;te
+> [In&shy;sta&shy;gram](https://www.instagram.com/0vv1/)-Account!
 
-<h3>Kompromittierte SIM für 0170-9352526</h3>
-<img src="./assets/2024-10-31_11-50_mobilfunkmast.jpg" width="200px" align="right">
-* irgendwann im Oktober ist mir aufgefallen,
-  dass Dritte nach Belieben Anrufe fingieren, als besetzt oder nicht erreichbar darstellen k&ouml;nnen
-* der im pic abgebildete Funkturm blieb im gesamten Stadtgebiet der selbe
-* SIM-Karte scheint mir keine origonale zu sein, dann muss sie ersetzt worden eein
-</img>
+> [!IMPORTANT]
+> Diese README wird hier ganz gern mal sabotiert / kaputt gemacht,
+> damit ich wirr/verr&uuml;ckt wirke und niemand weiter liest.  
+> Aber:
+> 1. ist mit mir alles i.&#8239;O.,
+> 2. setze ich mich die Tage ran, sortiere alles und
+> 3. ist es einer best. Interessengruppe eigent&uuml;licherweise
+>    wohl sehr wichtig,
+>    dass das hier aus dem Netz verschwindet
+>    (kann ich aber aus vielen Gr&uuml;nden nicht machen)
 
-<h1>Zeigt hier jemand, dass die Strafverfolgung einen Algorithmus verwendet, der gewöhnliche Straftaten gewöhnlich behandelt, undenkbare hingegen eher gar nicht?</h1>
+<h1>Zeigt hier jemand,
+  dass die Straf&shy;ver&shy;fol&shy;gung einen Algo&shy;rith&shy;mus
+  ver&shy;wen&shy;det,
+  der ge&shy;w&ouml;hn&shy;li&shy;che Straf&shy;ta&shy;ten
+  ge&shy;w&ouml;hn&shy;lich be&shy;han&shy;delt,
+  un&shy;denk&shy;ba&shy;re hin&shy;ge&shy;gen eher gar nicht?</h1>
 
-~~Z.B. die Errichtung privater KZs, in denen sich Wohnungen befinden, die zeitgleich akustische Folterkammern sind, in denen sich irgendwelche Strahlung emittieren lässt und wenn die "Insassen" nicht gef&uuml;gig sind, Gase eingelassen werden (Ist Meskalin "luftl&ouml;slich"?)?  
-Aber besser als die alten Nazis, die haben ihre Lager selbst bauen müssen.~~  
-Auch wenn's war ist: Es liest sich schräg und muss irgendwie anders.
+Z.&#8239;B. Wohn&shy;bl&ouml;cke,
+in denen sich Miet&shy;woh&shy;nun&shy;gen be&shy;fin&shy;den,
+deren Wohn&shy;r&auml;u&shy;me so&shy;wohl akus&shy;ti&shy;sche
+Fol&shy;ter&shy;kam&shy;mern sind,
+in denen sich aber auch Strah&shy;lung emit&shy;tie&shy;ren l&auml;sst
+und wenn die "In&shy;sas&shy;sen" nicht gef&uuml;&shy;gig sind, 
+Gase ein&shy;ge&shy;las&shy;sen wer&shy;den
+(Z.&#8239;B. wenn alle schla&shy;fen sol&shy;len.
+Ist Mes&shy;ka&shy;lin "luft&shy;l&ouml;s&shy;lich"?).  
+\+ + + Zu geil .. :joy: Wer soll sowas denn bitte glau&shy;ben?!
+\+ + +  
 
-Würde passen, da ich mir auch ranghöhere Mitglieder der Strafverfolgung als T&auml;ter "imaginiere", die sich in RL aber auskennen sollten. (Ganz sicher bin mir da allerdings nicht. Mglw. alles auch Manipulation) :shrug:
+Und vor allem(!): Zu was soll das denn bitte gut sein?!
+Men&shy;schen&shy;han&shy;<nobr>del/</nobr><wbr
+/>Zwangs&shy;pros&shy;ti&shy;tu&shy;tion?  
+Das funk&shy;tio&shy;niert nur mit lobo&shy;to&shy;mier&shy;ten Frauen?  
+Sicher?
+Weil, zu&shy;n&auml;chst h&ouml;rt sich das wirk&shy;lich
+be&shy;denk&shy;lich degene&shy;riert und kaputt an?
+Ach so: Und danach auch.
 
-Ich kann beweisen(!), dass vermutlich "auf Wunsch" einer, dieses(!) Repo mitlesenden Entität, und zum Zwecke der Verschleierung von Straftaten, Audio-Aufnahmen auf Dateisystemebene(!) der internen(!) Webserver bei GitHub(!) Inc. manipuliert werden.  
-(**Anm.**: Ich will wirklich nicht klugschei&szlig;en, aber Datenintegrität ist einer der Eckpfeiler der IT-Sec. und zwingenste Voraussetzung für die sog. Versionskontrolle).  
-Wieso wird ein Repo, das niemanden interessiert, täglich bis zu 40 mal geclont? Woher kennen diese Desinteressierten den Namen des Repos, wenn ich ihn jede Woche ändere?  
-(Sind Screenshots evtl. auch Teil einer schizophrenen Wahnidee? Das wäre ein Denkfehler meinerseits. Mea culpa!)  
+Naja, bes&shy;ser als die "alten" Na&shy;zis,
+die sich ihre Lager noch selbst haben bauen m&uuml;s&shy;sen.
+
+Jeden&shy;falls
+(und das wird hier alles noch be&shy;lie&shy;big
+ab&shy;ge&shy;fah&shy;re&shy;ner)
+ist mir auch eine zwei&shy;fels&shy;freie Auf&shy;nah&shy;me,
+mani&shy;pu&shy;lier&shy;ter Raum&shy;akus&shy;tik mit&shy;tels eines
+belie&shy;bi&shy;gen bei You&shy;Tu&shy;be ge&shy;la&shy;de&shy;nen
+Songs ge&shy;lun&shy;gen.  
+I.&#8239;d.&#8239;Z. dann auch gleich noch der Beweis,
+dass ver&shy;mut&shy;lich "auf Wunsch" einer,
+die&shy;ses(!) Repo mit&shy;le&shy;sen&shy;den
+Inte&shy;res&shy;sen&shy;grup&shy;pe,
+und zum Zwecke der Ver&shy;schleie&shy;rung von Straf&shy;ta&shy;ten,
+Audio-Auf&shy;nah&shy;men auf Datei&shy;sys&shy;tem&shy;ebe&shy;ne(!)
+der in&shy;ter&shy;nen(!) Web&shy;ser&shy;ver bei Git&shy;Hub(!) Inc.
+mani&shy;pu&shy;liert wur&shy;den.  
+Wieso wird eigent&shy;lich ein Repo,
+das nie&shy;man&shy;den inte&shy;res&shy;siert,
+täg&shy;lich bis zu 40 mal ge&shy;clont?
+Wo&shy;her ken&shy;nen die&shy;se Des&shy;inte&shy;res&shy;sier&shy;ten
+den Namen des Repos,
+wenn ich ihn jede Woche &auml;nde&shy;re?  
 
 > [!IMPORTANT]
 > [**1st Things first**]
-> ~~Selbst&shy;ver&shy;st&auml;nd&shy;lich han&shy;delt es sich hier,
+> Selbst&shy;ver&shy;st&auml;nd&shy;lich han&shy;delt es sich hier,
 > ob ver&shy;ein&shy;zel&shy;ter Nach&shy;fra&shy;gen  
 > (wuss&shy;te gar nicht,
 > dass mei&shy;ne Re&shy;pos irgend&shy;wen
 > inte&shy;res&shy;sie&shy;ren :zany_face:),  
 > ledig&shy;lich um eine (leid&shy;lich) lus&shy;ti&shy;ge,
-> aber (hoff&shy;ent&shy;lich) span&shy;nen&shy;de Ge&shy;schich&shy;te!~~  
+> aber (hoff&shy;ent&shy;lich) span&shy;nen&shy;de Ge&shy;schich&shy;te!  
 > S&auml;mt&shy;liche vor&shy;kom&shy;men&shy;den Namen
 > ent&shy;sprin&shy;gen ei&shy;ner sog. schi&shy;zo&shy;phre&shy;nen
 > Wahn&shy;idee und k&ouml;n&shy;nen da&shy;mit,
@@ -66,47 +119,79 @@ Wieso wird ein Repo, das niemanden interessiert, täglich bis zu 40 mal geclont?
 > in kei&shy;ner&shy;lei Be&shy;zug zu ei&shy;ner ge&shy;mein&shy;sam
 > er&shy;leb&shy;ten Rea&shy;li&shy;t&auml;t ste&shy;hen?
 > 
-> ~~Sonst alles wie immer:~~ Not so fuckin' great.  
+> Sonst alles wie immer: I'm fuckin' great! :grimacing: 
 
 > [!CAUTION]
-> [**Strafverfg**]
-> Seit sp&auml;testens 30. Juli mittags findet,
-> nach (als Straftat meinerseits getarnter) Entwendung meines Personalausweises,
-> Identit&auml;tsbetrug statt,
-> den ich erst gestern der Staatsanwaltschaft Berlin angezeigt habe und
-> der jeden Tag gr&ouml;&szlig;ere Ausma&szlig;e annimmt.
->
-> [**Identit&auml;t**]
-> Meine Wohnungen wurden über drei Jahre lang abgeh&ouml;rt,
-> so dass ich von sehr guten Stimmprofilen
-> (f&uuml;r KI)
-> ausgehen muss.  
-> Ich gehe weiter davon aus,
-> dass nichts,
-> was "ich" von "meinem" Telefon aus sage,
-> validierbar ist.
+> [**Identit&auml;tsbetrug**]
+> Ich habe seit lan&shy;ger Zeit
+> (rund zwei Jahre)
+> einen ehe&shy;ma&shy;li&shy;gen Mit&shy;be&shy;woh&shy;ner eines
+> Mehr&shy;fa&shy;mi&shy;lien&shy;hau&shy;ses im Ber&shy;li&shy;ner
+ldd (**Ach&shy;tung**!)
+> mei&shy;ne Per&shy;s&ouml;n&shy;lich&shy;keit
+> &uuml;ber&shy;neh&shy;men und mich schlie&szlig;lich
+> t&ouml;ten zu wol&shy;len.  
+> Ich habe das nie wirk&shy;lich ernst ge&shy;nom&shy;men,
+> ob&shy;wohl die&shy;ser Typ wohl an&shy;fing,
+> 1. meine Wohung abzuh&ouml;ren
+>    (in wel&shy;chem Um&shy;fang konn&shy;te ich nicht ahnen)
+> 2. meine Geflogenheiten und Kontakte auswendig zu lernen und
+> 3. mei&shy;ne Stim&shy;me zu &uuml;ben und ge&shy;mein&shy;sa&shy;me
+>    Nach&shy;barn in mei&shy;nem Namen an&shy;zu&shy;schreien!
+> So&shy;zu&shy;sa&shy;gen zu&shy;min&shy;dest schon mal eine
+> eini&shy;ger&shy;ma&szlig;en de&shy;ge&shy;ne&shy;rier&shy;te
+> Iden&shy;ti&shy;t&auml;ts&shy;**ko&shy;pie**.
 
-**Es tut gut, rein fik&shy;tiv zu schrei&shy;ben,
-so kann man den gan&shy;zen voll&shy;st&auml;n&shy;dig
-geis&shy;tes&shy;kran&shy;<nobr>ken/</nobr><wbr />de&shy;gene&shy;rier&shy;ten
-M&uuml;ll drop&shy;pen und muss we&shy;ni&shy;ger Angst haben,
-dass am nächs&shy;ten Tag, in Trä&shy;nen auf&shy;ge&shy;lös&shy;te
-Freunde vor einem stehen, um mich an&shy;zu&shy;bet&shy;teln,
-doch bitte ASAP in eine ge&shy;schlos&shy;se&shy;ne
-psychia&shy;tri&shy;sche An&shy;stalt ein&shy;zu&shy;zie&shy;hen.  
-Wei&shy;te&shy;rer Vor&shy;teil:
-Alles er&shy;gibt dann (lei&shy;der) Sinn.**  
-Auf die Idee hat mich ein Freund ge&shy;bracht,
-der mir mal ein hal&shy;bes St&uuml;nd&shy;chen zu&shy;ge&shy;h&ouml;hrt
-hat (THX S0fatr4sher!).
+> **Seit** sp&auml;&shy;tes&shy;tens **30. Juli mit&shy;tags**
+> fin&shy;det nach
+> (als Straf&shy;tat mei&shy;ner&shy;seits ge&shy;tarn&shy;tem)
+> Raub mei&shy;nes Per&shy;so&shy;nal&shy;aus&shy;wei&shy;ses,
+> **Iden&shy;ti&shy;t&auml;ts&shy;be&shy;trug** statt,
+> den ich erst ges&shy;tern der Staats&shy;an&shy;walt&shy;schaft
+> Ber&shy;lin an&shy;ge&shy;zeigt habe und
+> der jeden Tag gr&ouml;&szlig;ere Aus&shy;ma&szlig;e an&shy;nimmt.
+> 
+> Die schei&shy;nen jeden&shy;falls sehr flei&szlig;ig und
+> am&shy;bi&shy;tio&shy;niert,
+> auch wenn ich den Sinn da&shy;hin&shy;ter (noch!?) nicht
+> wirk&shy;lich sehe.  
+> Er selbst meint,
+> ich sei ge&shy;mein&shy;sam mit einer ande&shy;ren Nach&shy;ba&shy;rin
+> zur Te&shy;le&shy;pat&shy;hie be&shy;f&auml;giigt,
+> wo&shy;rauf er nei&shy;disch w&auml;re,
+> au&szlig;er&shy;dem pas&shy;sen die Dame und ich an&shy;geb&shy;lich i
+> gut zu&shy;sam&shy;men,
+> das gin&shy;ge auch nicht.
+> 
+> Vier ver&shy;schie&shy;de&shy;ne
+> (nur von mir(!), es gibt noch an&shy;de&shy;re)
+> Woh&shy;nun&shy;gen wur&shy;den in fast vier Jah&shy;ren
+> l&uuml;ckenlos abgeh&ouml;rt und wie ich meine,
+> sehr gute Stimm&shy;pro&shy;fi&shy;le er&shy;stellt.
 
-<h2>Beob&shy;ach&shy;tun&shy;gen zum Spektrum
-    <b>Kom&shy;mu&shy;ni&shy;ka&shy;<nobr>tion</b>/</nobr><b>Iso&shy;la&shy;tion</b>
-    und der Wirk&shy;m&auml;ch&shy;tig&shy;keit
-    <b>akus&shy;ti&shy;sche</b>r <b>Mani&shy;pu&shy;la&shy;tion</b> von
+Und da&shy;mit be&shy;ginnt die Geschich&shy;te eigent&shy;lich erst,
+vor vier Jah&shy;ren in Rei&shy;ni&shy;cken&shy;dorf mit dem f&uuml;r
+nor&shy;ma&shy;le Men&shy;sch&shy;en viel&shy;leicht noch nicht so
+span&shy;nen&shy;den Thema, wie ich einem,
+an Schi&shy;zo&shy;phre&shy;nie "er&shy;krank&shy;ten" Men&shy;sch&shy;en,
+so lang&shy;sam wie m&ouml;g&shy;lich in einen grau&shy;sa&shy;men Tod schicke, immer darauf achtend, dass mein eigenes Wirken niemals die Schwelle einsamen Erlebens einer Schizophrenie &uuml;bertritt.  
+Ich vermute weiter, dass mein "Fall" anf&auml;nglich von einem Herrn F.(?)
+aus Reinickendorf &uuml;bernommen wurde und niemand
+(aus seiner "Crew") jemals damit rechnete,
+dass ich heute (2. Nov. 2024) hier
+(mich in einem Gartenhaus in &Ouml;sterreich "versteckend" und trotzdem mit Drohnenbegleitung) sitze und dar&uuml;ber reflektiere.
+
+Kommen wir mal zum Titel..
+
+Ich h&auml;t&shy;te gern mit drin&shy;nen,
+<h2>Iden&shy;ti&shy;t&auml;t und (v.a.i.d.Z.) Ver&shy;trau&shy;en,
+  Beob&shy;ach&shy;tun&shy;gen zu
+  <b>Kom&shy;mu&shy;ni&shy;ka&shy;<nobr>tion</b>/</nobr><b>Iso&shy;la&shy;tion</b>
+    sowie der Wirk&shy;m&auml;ch&shy;tig&shy;keit
+    (vor allem <b>akus&shy;ti&shy;sche</b>r) <b>Mani&shy;pu&shy;la&shy;tion</b> von
 	(wohl auch Mas&shy;<nobr>sen-)</nobr><wbr />Wahr&shy;neh&shy;mung<br />
 	<sub><sup>oder<br />«&Uuml;ber das "ver&shy;bor&shy;ge&shy;ne"
-    Wir&shy;ken min&shy;des&shy;tens einer
+    Wir&shy;ken min&shy;des&shy;tens (irgend-)einer
     ein&shy;fluss&shy;rei&shy;chen
     <nobr>(Psy-)Sadis&shy;<nobr>ten-<wbr />Crew»</sup></sub></h2>
 
@@ -127,18 +212,19 @@ hat (THX S0fatr4sher!).
     die (lei&shy;der!) mit jeder Zei&shy;le rea&shy;ler wird?
 	
 Er hat es nicht ge&shy;schafft.
-    Statt&shy;des&shy;sen habe ich jetzt seine kom&shy;plet&shy;te Crew
-    an den Hacken, die aber,
-  	seit ich Ende August mit dem Schrei&shy;ben die&shy;ser zwar
-    **zeitaufw&auml;ndige**n,
+
+Statt&shy;des&shy;sen habe ich jetzt seine kom&shy;plet&shy;te Crew
+  an den Hacken, die aber,
+	seit ich Ende August mit dem Schrei&shy;ben die&shy;ser zwar
+  **zeitaufw&auml;ndige**n,
 	aber (wie sich bald heraus&shy;stell&shy;te) sehr 
-    not&shy;wen&shy;di&shy;gen **Doku&shy;men&shy;ta&shy;tion** 
-    an&shy;ge&shy;fan&shy;gen habe,
+  not&shy;wen&shy;di&shy;gen **Doku&shy;men&shy;ta&shy;tion** 
+  an&shy;ge&shy;fan&shy;gen habe,
  	auch nichts wirk&shy;lich aus&shy;rich&shy;ten kann.
 Wir sind alle stuck,
 	so dass ich mir vor&shy;stel&shy;len kann,
  	dass ich in K&uuml;r&shy;ze wie&shy;der auf 
-    ge&shy;w&ouml;hn&shy;li&shy;che Schizophrenie defaulten soll,
+  ge&shy;w&ouml;hn&shy;li&shy;che Schizophrenie defaulten soll,
 	wo&shy;zu ich nur sagen kann:
 Dieses Mal wird es nicht funk&shy;tio&shy;nie&shy;ren.
 Warum nicht?  
@@ -189,7 +275,8 @@ Der aller&shy;gr&ouml;&szlig;&shy;te Teil der
 > so&shy;dass poten&shy;tiel&shy;le Stal&shy;ker
 > (oder T&auml;ter all&shy;ge&shy;mein)
 > sich bei ~~mir~~ uns 
-> (Schi&shy;zo&shy;phre&shy;<nobr>nie-<wbr />Pa</nobr>&shy;tien&shy;ten)
+> ((ehemaligen)
+> Schi&shy;zo&shy;phre&shy;<nobr>nie-<wbr />Pa</nobr>&shy;tien&shy;ten))
 > (so&shy;lan&shy;ge ~~ich~~ wir allein ~~bin~~ sind)
 > sehr viel mehr erlau&shy;ben und siche&shy;rer f&uuml;h&shy;len 
 > k&ouml;n&shy;nen als bei Men&shy;sch&shy;en mit "norma&shy;ti&shy;ver"
@@ -437,7 +524,7 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > <img
 >	align="right"
 >   alt="GitHub Support Ticket #3067960 2. Eintrag"
-> 	src="./assets/2024-10-27_github_support-ticket-3067960.2.png"
+> 	src="./.assets/2024-10-27_github_support-ticket-3067960.2.png"
 > 	width="700px">
 >
 > * k.&#8239;A.,
@@ -474,8 +561,8 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 >   `lfs`-Kom&shy;man&shy;dos)
 > * hab [zu&shy;r&uuml;ck&shy;ge&shy;schrie&shy;ben](https://support.github.com/ticket/personal/0/3067960#tc-31657925723924)
 >   und die&shy;se bei&shy;den Screen&shy;shots an&shy;ge&shy;h&auml;ngt:  
->   ![Binary Mod at 28th late](./assets/2024-10-29-003237_1237x174_scrot.png)  
->   ![Binary Mod at 29th early](./assets/2024-10-29-003444_1238x199_scrot.png)  
+>   ![Binary Mod at 28th late](./.assets/2024-10-29-003237_1237x174_scrot.png)  
+>   ![Binary Mod at 29th early](./.assets/2024-10-29-003444_1238x199_scrot.png)  
 >   (Hier zeigen sich mehrere Mo&shy;di&shy;fi&shy;ka&shy;tio&shy;nen auf
 >   Datei&shy;sys&shy;tem&shy;ebe&shy;ne.
 >   Das kann man nicht anders interpretieren.)  
@@ -651,6 +738,20 @@ aufmachen/hacken.  -->
 > Die allermeisten Menschen kennen von mir einen Nachnamen und maximal noch ein Gesicht.
 > Alles andere resultierte aus Nachrede (und diese h&auml;tte &uuml;brigens zwangsl&auml;ufig(!) immer(!) eine Intention).
 
+<h3>Kompromittierte SIM für 0170-9352526</h3>
+
+<img src="./.assets/2024-10-15_mobilfunk.jpg"
+  width="200px"
+  align="right">
+* irgendwann im Oktober ist mir aufgefallen,
+  dass Dritte nach Belieben Anrufe fingieren,
+  als besetzt oder nicht erreichbar darstellen k&ouml;nnen
+* der im pic abgebildete Funkturm blieb im
+  gesamten Stadtgebiet der selbe
+* SIM-Karte scheint mir keine originale zu sein,
+  hei&szlig;t sie muss ersetzt worden eein
+</img> 
+
 > [!TIP]
 > Nur(!) wegen 1.000-facher Suggestion:  
 > **NEIN**, man kann seine Nachbarn **nicht** durch einen Meter dicke
@@ -751,7 +852,7 @@ Also der geht an den Anschlag.
 Kann damit irgendjemand was anfangen?!
 
 [**Erg. 23.10.** abends]
-Sch&ouml;nes [Video](./assets/2024-10-23_detektor-dialog.10m.mp4)
+Sch&ouml;nes [Video](./.assets/2024-10-23_detektor-dialog.10m.mp4)
 mit kleinerem Disput mit einem der T&auml;ter,
 der nicht das geringste Einsehen zeigt,
 irgendeines "seiner" Devices auszuschalten.
@@ -4147,7 +4248,7 @@ ihrer Opfer.
   * [fin&shy;gier&shy;te Social-Media-Accounts](#suspendierung-meines-1-facebook-accounts-am-30-sep-2024)
     zum Streuen von Hass und belie&shy;bi&shy;ger Des&shy;infor&shy;ma&shy;tion
     <img align="right" alt="Brief-Einwurf" width="400px"
-      src="./assets/2024-10-02_20-59_einwurf-brief.jpg">
+      src="./.assets/2024-10-02_20-59_einwurf-brief.jpg">
     (in diesem Zusam&shy;men&shy;hang mglw.
     [Job-Ver&shy;lust](#job-verlust))
   * Ver&shy;dacht der Unter&shy;dr&uuml;ckung regu&shy;l&auml;ren
@@ -4165,7 +4266,7 @@ ihrer Opfer.
       (m&ouml;g&shy;lich&shy;er&shy;wei&shy;se auch in ande&shy;ren
       Stadt&shy;tei&shy;len?!)
     <img align="right" alt="Brief: Ecke" width="200px"
-      src="./assets/2024-10-02_brief-an-l.ro.jpg">
+      src="./.assets/2024-10-02_brief-an-l.ro.jpg">
   * [**Anm.** 07.10.] Ob Sug&shy;ges&shy;tion heu&shy;te:
     Der
     (im&shy;mer freund&shy;li&shy;che :grimacing:)
@@ -4177,7 +4278,7 @@ ihrer Opfer.
     </img>
   * [**Erg.** 14.10.]
     <img align="right" alt="Einschreiben vom 14.10." width="500px"
-      src="./assets/2024-10-16_Post_rr290939664de.jpg">
+      src="./.assets/2024-10-16_Post_rr290939664de.jpg">
     Eine letzte Warnung vor einigen Personen, die sich
     m&ouml;glicherweise ausreichend Vertrauen erschlichen haben k&ouml;nnten,
     um einigen Schaden anzurichten,
@@ -4315,7 +4416,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
       Gegen&shy;sei&shy;te
       (keine auto&shy;ma&shy;tische oder Band&shy;an&shy;sa&shy;ge)
   <img align="right" alt="Call-Log: Notruf 16.08. 2:55" width="300px"
-    src="./assets/2024-08-16_emerg-call-Berliner-Polizei.png" />
+    src="./.assets/2024-08-16_emerg-call-Berliner-Polizei.png" />
   * keine Frage nach meinem Namen,
     Tel.-nr. oder ob ich evtl. Hilfe ben&ouml;&shy;ti&shy;ge
   * **Anlass**: Ich f&uuml;hl&shy;te mich durch,
@@ -4342,7 +4443,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
   "Not&shy;ru&shy;fe auch via GSM/EDGE" akti&shy;viert war
 
 * **Folgen**:
-  * eine [Nach&shy;frage](./assets/2024-08-22_Polizei-vorgang-16084602.pdf)
+  * eine [Nach&shy;frage](./.assets/2024-08-22_Polizei-vorgang-16084602.pdf)
     meiner&shy;seits,
     ob die Ab&shy;wick&shy;lung des Not&shy;rufs der Norm
     ent&shy;spr&auml;che
@@ -4352,7 +4453,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
     da der Ab&shy;lauf des Tele&shy;fo&shy;nats einige
     Auf&shy;f&auml;l&shy;lig&shy;kei&shy;ten offen&shy;ba&shy;ren
     w&uuml;rde
-  * [Beschwerde am 27. Aug](./assets/2024-08-27_Polizei-vorgang-17472005.pdf)
+  * [Beschwerde am 27. Aug](./.assets/2024-08-27_Polizei-vorgang-17472005.pdf)
     ein&shy;ge&shy;reicht,
     auf die wie&shy;der "nur" tele&shy;fo&shy;nisch
     (von einer Nr. der Ber&shy;li&shy;ner Poli&shy;zei:
@@ -4400,7 +4501,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
 
   <img align="right"
     alt="Call-Log: Notruf 6.10., ab 0:13"
-    src="./assets/2024-10-06_log_Polizei-notruf.jpg"
+    src="./.assets/2024-10-06_log_Polizei-notruf.jpg"
     width="300px">
   * einige Not&shy;rufe er&shy;rei&shy;chen die Po&shy;li&shy;zei
   * drei Not&shy;ru&shy;fe gehen durch,
@@ -4441,7 +4542,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
 
   <img alt="Face&shy;book: Fake-Account als Grund f&uuml;r die
     Suspendierung" align="right" border-left="100px none transparent"
-    src="./assets/2024-09-30_15-00_facebook_suspend-reason-fake-account.png"
+    src="./.assets/2024-09-30_15-00_facebook_suspend-reason-fake-account.png"
     width="600px">
   
   * einen(!) Tag nach Er&shy;&ouml;ff&shy;nung,
@@ -4457,9 +4558,9 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
     weil ich ja auch so wich&shy;tig und ber&uuml;hmt bin :joy:
   
   * hier die [Best&auml;ti&shy;gung der
-    Er&ouml;f&shy;fnung](./assets/2024-09-29_03-34_facebook_welcome.eml),  
+    Er&ouml;f&shy;fnung](./.assets/2024-09-29_03-34_facebook_welcome.eml),  
     und die
-    [Suspen&shy;dierung](./assets/2024-09-30_13-08_facebook_suspendierung.eml)
+    [Suspen&shy;dierung](./.assets/2024-09-30_13-08_facebook_suspendierung.eml)
     einen Tag sp&auml;ter :smirk:
   
   * Grund f&uuml;r die Sus&shy;pen&shy;die&shy;rung ist wohl,
@@ -4467,10 +4568,10 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
     Kon&shy;tos,
     zur soge&shy;nann&shy;ten "Sicher&shy;heit",
     meinen Per&shy;so&shy;nal&shy;aus&shy;weis hoch&shy;ge&shy;laden(!),
-    ein [Fake-Account](./assets/2024-09-30_15-00_facebook_suspend-reason-fake-account.png)
+    ein [Fake-Account](./.assets/2024-09-30_15-00_facebook_suspend-reason-fake-account.png)
     
   * ich kann die [Entscheidung des Meta-Konzerns gerichtlich pr&uuml;fen
-    las&shy;sen](./assets/2024-09-30_16-00_facebook_challenge-decision.png)
+    las&shy;sen](./.assets/2024-09-30_16-00_facebook_challenge-decision.png)
     
   * jetzt wird es lang&shy;sam span&shy;nend,
     da ich da&shy;rauf bren&shy;ne,
@@ -4481,9 +4582,9 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
     <img alt="Face&shy;book: Mgl.
       Vor&shy;ge&shy;hen"
       border-right="40px none transparent"
-      src="./assets/2024-09-30_16-00_facebook_challenge-decision.png"
+      src="./.assets/2024-09-30_16-00_facebook_challenge-decision.png"
       width="450px" />&nbsp;<img alt="Facebook: Appeal & wait.."
-      src="./assets/2024-09-30_faceboock_appeal.png" width="450px" />
+      src="./.assets/2024-09-30_faceboock_appeal.png" width="450px" />
     
     [**Erg.**] Einer der T&auml;ter
       (ich ver&shy;mute in&shy;zwi&shy;schen mind. zwei,
@@ -4531,7 +4632,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
 
   <img alt="Heizungsrohre: Kabelbinder"
     align="right"
-    src="./assets/2024-10-06_whg-Borussiastr_heizung-kabelbinder.jpg"
+    src="./.assets/2024-10-06_whg-Borussiastr_heizung-kabelbinder.jpg"
     width="300px">
   * ein, von der Vor&shy;mie&shy;te&shy;rin "ver&shy;ges&shy;se&shy;ner"
     Kabel&shy;bin&shy;der an den Heizungs&shy;roh&shy;ren im
@@ -4553,7 +4654,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
 
 * [**16.10.**] 
   <img alt="E-Mails, neuer PubKey"
-    src="./assets/2024-10-16_github_new-ssh-keys.jpg"
+    src="./.assets/2024-10-16_github_new-ssh-keys.jpg"
 	width="300px">
   ~~Einer der *Psy*(?)-Dudes,
   der sich heute um die Sichtung der README kümmert,
