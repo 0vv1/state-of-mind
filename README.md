@@ -1,7 +1,7 @@
 
 ```
 file:    sos.log/README.md  
-brief:   state of society logbook  
+brief:   state of society log  
 author:  © 2021-2024 alexander puls <github@0vv1.net>  
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
@@ -103,12 +103,12 @@ version: sa., 2. nov. 2024
 > warum mir eine Kack Drohne durch Europa folgt???!!
 > Was wollt ihr von mir?
 
-<h1>Zeigt hier jemand,
+<h2>Zeigt hier jemand,
   dass die Straf&shy;ver&shy;fol&shy;gung einen Algo&shy;rith&shy;mus
   ver&shy;wen&shy;det,
   der ge&shy;w&ouml;hn&shy;li&shy;che Straf&shy;ta&shy;ten
   ge&shy;w&ouml;hn&shy;lich be&shy;han&shy;delt,
-  un&shy;denk&shy;ba&shy;re hin&shy;ge&shy;gen eher gar nicht?</h1>
+  un&shy;denk&shy;ba&shy;re hin&shy;ge&shy;gen eher gar nicht?</h2>
 
 Z.&#8239;B. Wohn&shy;bl&ouml;cke,
 in denen sich Miet&shy;woh&shy;nun&shy;gen be&shy;fin&shy;den,
@@ -191,16 +191,16 @@ dass ich heute (2. Nov. 2024) hier
 Kommen wir mal zum Titel..
 
 Ich h&auml;t&shy;te gern mit drin&shy;nen,
-<h2>Iden&shy;ti&shy;t&auml;t und (v.a.i.d.Z.) Ver&shy;trau&shy;en,
-  Beob&shy;ach&shy;tun&shy;gen zu
+<h1>Iden&shy;ti&shy;t&auml;t und (v.&#8239;a. und i.&#8239;d.&#8239;Z.) Ver&shy;trau&shy;en,
+  dann Beob&shy;ach&shy;tun&shy;gen zu
   <b>Kom&shy;mu&shy;ni&shy;ka&shy;<nobr>tion</b>/</nobr><b>Iso&shy;la&shy;tion</b>
-    sowie der Wirk&shy;m&auml;ch&shy;tig&shy;keit
-    (vor allem <b>akus&shy;ti&shy;sche</b>r) <b>Mani&shy;pu&shy;la&shy;tion</b> von
-	(wohl auch Mas&shy;<nobr>sen-)</nobr><wbr />Wahr&shy;neh&shy;mung<br />
-	<sub><sup>oder<br />«&Uuml;ber das "ver&shy;bor&shy;ge&shy;ne"
+  sowie der Wirk&shy;m&auml;ch&shy;tig&shy;keit
+  (vor allem <b>akus&shy;ti&shy;sche</b>r) <b>Mani&shy;pu&shy;la&shy;tion</b> von
+  (wohl auch Mas&shy;<nobr>sen-)</nobr><wbr />Wahr&shy;neh&shy;mung<br />
+  <sub><sup>oder</sup></sub><br />«&Uuml;ber das "ver&shy;bor&shy;ge&shy;ne"
     Wir&shy;ken min&shy;des&shy;tens (irgend-)einer
     ein&shy;fluss&shy;rei&shy;chen
-    <nobr>(Psy-)Sadis&shy;<nobr>ten-<wbr />Crew»</sup></sub></h2>
+    <nobr>(Psy-)Sadis&shy;<nobr>ten-<wbr />Crew»</sup></sub></h1>
 
 .. deren Herr F. aus Rei&shy;nicken&shy;dorf,
     Spe&shy;zia&shy;list f&uuml;r die qual&shy;vol&shy;le
