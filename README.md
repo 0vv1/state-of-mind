@@ -757,7 +757,7 @@ aufmachen/hacken.  -->
 <h3>Kompromittierte SIM für 0170-9352526</h3>
 
 <img src="./.assets/2024-10-15_mobilfunk.jpg"
-  width="200px"
+  width="300px"
   align="right">
 * irgendwann im Oktober ist mir aufgefallen,
   dass Dritte nach Belieben Anrufe fingieren,
