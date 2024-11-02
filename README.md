@@ -271,6 +271,7 @@ Au&szlig;en&shy;wir&shy;kung!**
 > ```
 > **sinngem&auml;&szlig; auf Deutsch**: Verstanden. Is das i.O. f&uuml;r dich,
 > wenn wir den Mist bei uns l&ouml;schen?
+> 
 > (*Deswegen versteht mein Vater das auch nicht. Wieso liege ich Anfang 2021 in meinem
 > Bett und denke mir irgendwelche Stimmen aus und dann schreibt Ende 2024 ein Allan
 > aus New York, dass ich mir das doch nicht eingebildet habe und alles echt war?*)
