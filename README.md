@@ -250,6 +250,28 @@ aber:
 **Die&shy;ses Mal be&shy;wei&shy;se ich eure 
 Au&szlig;en&shy;wir&shy;kung!**
 
+> [!IMPORTANT]
+> [**DONE**?]
+> Ich kann es nicht entscheiden,
+> aber es f&uuml;hlt sich so an als bin ich doch nicht krank.
+> Nach Jahren,
+> in denen mir jeder(!) Mensch auf die&shy;sem Pla&shy;ne&shy;ten er&shy;z&auml;hlt,
+> ich sei nur ein Idiot,
+> der sich irgend&shy;eine Schei&szlig;e aus&shy;denkt,
+> schreibt mir Allan aus dem Support der, zu Microsoft Corp. geh&ouml;h&shy;ren&shy;den,
+> Git&shy;Hub Inc. aus New York:
+> ```
+> Greetings Alex,
+> Understood, thanks for the clarification.
+> Would you like us to go ahead and remove the LFS objects linked to 0vv1/state-of-mind from our servers?
+> You should then be able to remove those data packs.
+> Best regards,
+> Allan H
+> GitHub Support
+> ```
+> **sinngem&auml;&szlig; auf Deutsch**: Verstanden. Is das i.O. f&uuml;r dich,
+> wenn wir den Mist bei uns l&ouml;schen?
+
 Neben ihrer lebens&shy;ver&shy;sichern&shy;den Funk&shy;tion tut mir die
     sorg&shy;f&auml;l&shy;ti&shy;ge An&shy;fer&shy;ti&shy;gung einer
     Doku&shy;men&shy;ta&shy;tion au&szlig;er&shy;dem gut
