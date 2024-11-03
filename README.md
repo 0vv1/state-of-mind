@@ -12,7 +12,7 @@ version: so., 3. nov. 2024
 > [!IMPORTANT]
 > [**03.11.** 12:00]
 > Am Todestag meiner Ma und einem Gespräch beim Frühstück fällt es mir wie Schuppen von den Augen:  
-> Wenn ich mir dich nicht "nur" einbilde, bist Du einfach nur ein Stalker!  
+> Wenn ich mir dich nicht "nur" einbilde, muss ich dich einfach nur wie einen gewöhnlichen **Stalker** behandeln!  
 > Es geht nicht wirklich nur um mich?
 > Der gesamte andere monströse Müll entstammt einem vollständig degenerierten Gehirn?
 > (Und übrigens nicht meinem! Oder dem, einer mir abgespaltenen Persönlichkeit.
