@@ -9,44 +9,26 @@ license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -
 version: sa., 2. nov. 2024  
 ```
 
-> [!CAUTION]
-> [**AKTUELL 31.10.**, 11:00]
-> Jemand hat eine mei&shy;ner (&auml;l&shy;te&shy;ren)
-> Pass&shy;wort-Da&shy;tei&shy;en und
-> ich komme so schnell nicht hin&shy;ter&shy;her.  
-> 
+> [!NOTE]
+> [**03.11.**, 06:00]
+> Guten Morgen!
+> Ich glaube, der Meta-Stuff ist keine so gute Idee f&uuml;r mich.
+> Da gibt es einen Hater,
+> der nach Belieben meine Passw&ouml;rter jongliert, OTPs draus macht, um mir dann das innitiale PW zurückzugeben,
+> und Login-Spots/Places erg&auml;unzt.
+>
+> [**31.10.**, 11:00]
 > Au&szlig;er&shy;dem hat sich jemand vor ein paar Min. aus einem Ort
 > namens Eike&shy;loh (NRW),
 > in einen von mir un&shy;ge&shy;nutz&shy;ten Insta&shy;gram-Account
 > ein&shy;ge&shy;loggt.  
 > Ich bin in Ber&shy;lin (und auf dem Weg zum Zahn&shy;arzt).
->
-> [13:00]
-> * Linked&shy;In &uuml;ber&shy;nom&shy;men
-> (kann ich aber erst zu Hause recovern) :white_check_mark:
-> * hetzner ~~wohl~~ safe, Info-Mail damit auch :white_check_mark:
-> * ganz ehr&shy;lich: es riecht schon wieder nach einem Nach&shy;namen,
->   der mit F. wie **F**otz&shy;kopf an&shy;f&auml;ngt
 > 
-> [14:00]
-> Bin ich voll&shy;st&auml;n&shy;dig aus dem Google-Such-Index raus?  
-> Schön, dass das mal jemand macht,
-> aber darf ich fragen, warum?
- 
-> [!NOTE]
+> [**03.11.**, 05:31]
+> Oder Köln. Who cares..
+> 
 > Der von mir aus&shy;schlie&szlig;&shy;lich ge&shy;nutz&shy;te
 > [In&shy;sta&shy;gram](https://www.instagram.com/0vv1/)-Account!
-
-> [!IMPORTANT]
-> Diese README wird hier ganz gern mal sa&shy;bo&shy;tiert / kaputt gemacht,
-> damit ich wirr/verr&uuml;ckt wirke und niemand weiter liest.  
-> Aber:
-> 1. ist mit mir alles i.&#8239;O.,
-> 2. setze ich mich die Tage ran, sortiere alles und
-> 3. ist es einer best. Interessengruppe eigent&uuml;mlicherweise
->    wohl sehr wichtig,
->    dass das hier aus dem Netz verschwindet
->    (kann ich aber aus vielen Gr&uuml;nden nicht machen)
 
 > [!CAUTION]
 > [**IDEN&shy;TI&shy;T&Auml;TS&shy;BE&shy;TRUG**]
@@ -99,9 +81,7 @@ version: sa., 2. nov. 2024
 > Wenn man mich fragt:
 > **D&uuml;m&shy;mer geht es nicht!**
 > Was f&uuml;r ein reu&shy;di&shy;ger Schwach&shy;sinn!
-> Darf ich bitte er&shy;fah&shy;ren,
-> warum mir eine Kack Drohne durch Europa folgt???!!
-> Was wollt ihr von mir?
+> Was wollt ihr wirklich von mir?
 
 <h2>Zeigt hier jemand,
   dass die Straf&shy;ver&shy;fol&shy;gung einen Algo&shy;rith&shy;mus
