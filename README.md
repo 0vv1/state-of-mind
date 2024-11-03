@@ -173,8 +173,7 @@ dass mein "Fall" an&shy;f&auml;ng&shy;lich von einem Herrn F.(?)
 aus Rei&shy;nicken&shy;dorf &uuml;ber&shy;nom&shy;men wurde und niemand
 (aus seiner "Crew") jemals damit rechnete,
 dass das "Opfer" heute (2. Nov. 2024) hier
-(mich in einem Gar&shy;ten&shy;haus in &Ouml;ster&shy;reich "ver&shy;steckend" und 
-trotz&shy;dem mit Droh&shy;nen&shy;be&shy;glei&shy;tung) 
+(mich in einem Gar&shy;ten&shy;haus in &Ouml;ster&shy;reich "ver&shy;steckend") 
 sitze und da&shy;r&uuml;&shy;ber re&shy;flek&shy;tie&shy;re.
 
 Kom&shy;men wir mal zum Ti&shy;tel..
@@ -347,12 +346,13 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > an&shy;ru&shy;fen und sa&shy;gen k&ouml;n&shy;nen: " Der da nicht."  
 > (ohne je&shy;man&shy;den zu be&shy;las&shy;ten,
 > ich werde jetzt auch mal Namen hier raus neh&shy;men)  
-> Mir folgt seit Wochen nachts mind. eine von bis&shy;her 4
-> gr&ouml;&szlig;e&shy;ren Droh&shy;nen durch die Stadt.  
-> Jetzt auch grad (überm Hbf.), knapp ~~100~~ (sie sagt) 200 m 
+> ~~Mir folgt seit Wochen nachts mind. eine von bis&shy;her 4
+> gr&ouml;&szlig;e&shy;ren Droh&shy;nen durch die Stadt.~~  
+> ~~Jetzt auch grad (überm Hbf.), knapp ~~100~~ (sie sagt) 200 m 
 > H&ouml;he.. :wave: [NO SHIT!]  
 > Die wer&shy;de ich nur ohne Mobil&shy;funk 
-> (und zwei, drei Ver&shy;kehrs&shy;mit&shy;teln) los. :joy:
+> (und zwei, drei Ver&shy;kehrs&shy;mit&shy;teln) los.~~
+> <sup>:warning:Einrede?</sup>
 > 
 > [**Anm. 28.10.** 06:30]
 > * eine Sadisten-Crew mit
