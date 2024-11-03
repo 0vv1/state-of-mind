@@ -1,7 +1,7 @@
 
 ```
 file:    sos.log/README.md  
-brief:   state of society log  
+brief:   state of stalking(?) log  
 author:  © 2021-2024 alexander puls <github@0vv1.net>  
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
@@ -9,10 +9,22 @@ license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -
 version: so., 3. nov. 2024  
 ```
 
+> [!IMPORTANT]
+> [**03.11.** 12:00]
+> Am Todestag meiner Ma und einem Gespräch beim Frühstück fällt es mir wie Schuppen von den Augen:  
+> Wenn ich mir dich nicht "nur" einbilde, bist Du einfach nur ein Stalker!  
+> Es geht nicht wirklich nur um mich?
+> Der gesamte andere monströse Müll entstammt einem vollständig degenerierten Gehirn?
+> (Und übrigens nicht meinem! Oder dem, einer mir abgespaltenen Persönlichkeit.
+> Was für ein Blödsinn!)  
+> Du benutzt andere Menschen für deinen kranken Scheiß?
+> Ich sag dir was: Ich mach jetzt ein paar Tage Urlaub,
+> dann besorg ich mir einen Anwalt und vielleicht gibt es ja Zeugen für deinen Schwachsinn.
+
 > [!NOTE]
 > [**03.11.**, 06:00]
 > Guten Morgen!
-> Ich glaube, der Meta-Stuff ist keine so gute Idee f&uuml;r mich.
+> Ich glaube, der Facebook/Instagram-Stuff ist keine so gute Idee f&uuml;r mich.
 > Da gibt es einen Hater,
 > der nach Belieben meine Passw&ouml;rter jongliert und OTPs draus macht, um mir dann das initiale PW zurückzugeben,
 > und Login-Spots/Places erg&auml;nzt/l&ouml;scht.
