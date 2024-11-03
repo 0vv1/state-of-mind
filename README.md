@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: sa., 2. nov. 2024  
+version: so., 3. nov. 2024  
 ```
 
 > [!NOTE]
@@ -14,8 +14,8 @@ version: sa., 2. nov. 2024
 > Guten Morgen!
 > Ich glaube, der Meta-Stuff ist keine so gute Idee f&uuml;r mich.
 > Da gibt es einen Hater,
-> der nach Belieben meine Passw&ouml;rter jongliert, OTPs draus macht, um mir dann das innitiale PW zurückzugeben,
-> und Login-Spots/Places erg&auml;unzt.
+> der nach Belieben meine Passw&ouml;rter jongliert und OTPs draus macht, um mir dann das initiale PW zurückzugeben,
+> und Login-Spots/Places erg&auml;nzt/l&ouml;scht.
 >
 > [**31.10.**, 11:00]
 > Au&szlig;er&shy;dem hat sich jemand vor ein paar Min. aus einem Ort
