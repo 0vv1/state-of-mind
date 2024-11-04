@@ -40,17 +40,19 @@ version: mo., 4. nov. 2024
 
 > [!CAUTION]
 > [**31.10.**, 11:00]
-> Au&szlig;er&shy;dem hat sich jemand vor ein paar Min. aus einem Ort
+> Au&szlig;er&shy;dem hat sich jemand vor ein paar Min., in einem mir unbekannten Ort
 > namens Eike&shy;loh (NRW),
 > in einen von mir un&shy;ge&shy;nutz&shy;ten Insta&shy;gram-Account
 > ein&shy;ge&shy;loggt.  
 > Ich bin in Ber&shy;lin (und auf dem Weg zum Zahn&shy;arzt).
 > 
 > [**03.11.**, 05:31]
-> Logins auch in Köln, Bochum oder irgendwelchen Käffern in Niedersachsen.  > Who cares..
-> Wo bleiben eigentlich meine Login-Alerts seitens Facebook?
+> Logins (Facebook- sowir drei Instagram-Accounts) auch in Köln, Bochum oder irgendwelchen Käffern in Niedersachsen.
+> Who cares..
+> (ich scheine dagegen nichts ausrichten zu können und gehe langsam mal und ganz vorsichtig von Innent&auml;tern aus?)  
+> Wo bleiben eigentlich meine Login-Alerts seitens Facebook? :wink:
 > 
-> Der von mir aus&shy;schlie&szlig;&shy;lich ge&shy;nutz&shy;te
+> Der von mir(?) aus&shy;schlie&szlig;&shy;lich ge&shy;nutz&shy;te
 > [In&shy;sta&shy;gram](https://www.instagram.com/0vv1/)-Account!
 
 > [!CAUTION]
