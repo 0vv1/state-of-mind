@@ -9,7 +9,7 @@ license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -
 version: mo., 4. nov. 2024  
 ```
 
-> [!IMPORTANT]
+> [!NOTE]
 > [**03.11.** 12:00]
 > Am Todes&shy;tag mei&shy;ner Ma,
 > nach einem Früh&shy;stück mit
@@ -22,8 +22,11 @@ version: mo., 4. nov. 2024
 > was auch zum "Kon&shy;zept" geh&ouml;ren d&uuml;rfte.
 > Aber bevor ich mich be&shy;lie&shy;big ver&shy;stricken lasse,
 > fange ich einfach mal mit gew&ouml;hnlichem (Hate-)Stalking an,
-> dann ID-Betrug/-&uuml;bernahme et&.,
-> s&auml;mtliche andere absurde Einreden/Suggestionen kommen (mit Vermerk) extra.  
+> dann ID-Betrug/-&uuml;bernahme sowie aus&shy;ge&shy;feil&shy;ten Metho&shy;den psych. Terrors et&.
+> S&auml;mtliche andere absurde Ein&shy;re&shy;den/Sug&shy;ges&shy;tio&shy;nen kom&shy;men (mit Ver&shy;merk) extra.  
+> [**Anm. 04.11.** 12:00]
+> Nur für die Voll&shy;stän&shy;dig&shy;keit:
+> Ein sog. Iden&shy;ti&shy;täts&shy;dieb&shy;stahl ist m.M.n., so&shy;lange das "Ori&shy;gi&shy;nal" (noch) lebt, erst&shy;ein&shy;mal "nur" eine **Id**en&shy;ti&shy;täts**ko&shy;pie**.
 
 > [!WARNING]
 > [**31.10.**, 11:00]
