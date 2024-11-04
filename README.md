@@ -20,8 +20,8 @@ version: mo., 4. nov. 2024
 > Die Kontra&shy;hen&shy;ten sind be&shy;lie&shy;big
 > durch&shy;ge&shy;knallt,
 > was auch zum "Kon&shy;zept" geh&ouml;ren d&uuml;rfte.
-< Aber bevor ich mich be&shy;lie&shy;big ver&shy;stricken lasse,
-> fange ich einfach maal mit gewöuml;nlichem (Hate-)Stalking an.  
+> Aber bevor ich mich be&shy;lie&shy;big ver&shy;stricken lasse,
+> fange ich einfach maal mit gew&ouml;hnlichem (Hate-)Stalking an.  
 
 > [!WARNING]
 > [**31.10.**, 11:00]
