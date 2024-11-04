@@ -15,16 +15,22 @@ version: mo., 4. nov. 2024
 > nach einem Früh&shy;stück mit
 > nor&shy;ma&shy;len Men&shy;sch&shy;en:  
 > Auch wenn ich lang&shy;sam be&shy;grei&shy;fe,
-> dass ich mir [das hier](#recordings) nicht ein&shy;bil&shy;de,
-> wird es etwas dauern bis alles sor&shy;tiert ist.
-> Ich werde mir die n&auml;chsten zweu, drei Tage f&uuml;r diese doch sehr komplexen Zusammenhänge brauchen.  
+> dass ich mir (nicht nur) [das hier](#recordings) **nicht** einge&shy;bil&shy;det habe,
+> wird es etwas dauern,
+> bis alles sor&shy;tiert ist. 
+> Die n&auml;chsten zwei, drei Tage sollten
+> (et&shy;was Ruhe vor&shy;aus&shy;ge&shy;setzt!)
+> auch f&uuml;r doch recht komplexe Zusam&shy;men&shy;h&auml;n&shy;ge reichen.  
 > Die Kontra&shy;hen&shy;ten sind be&shy;lie&shy;big
 > durch&shy;ge&shy;knallt,
-> was auch zum "Kon&shy;zept" geh&ouml;ren d&uuml;rfte.
+> was auch zum "Kon&shy;zept" geh&ouml;ren d&uuml;rfte.  
 > Aber bevor ich mich be&shy;lie&shy;big ver&shy;stricken lasse,
 > fange ich einfach mal mit gew&ouml;hnlichem (Hate-)**Stalking** an,
-> dann **ID-Betrug**/-&uuml;bernahme sowie aus&shy;ge&shy;feil&shy;ten Metho&shy;den **psych. Terror**s et&.  
-> S&auml;mtliche andere absurde Ein&shy;re&shy;den/Sug&shy;ges&shy;tio&shy;nen kom&shy;men (mit Ver&shy;merk) extra.  
+> dann **ID-Betrug**/-&uuml;bernahme sowie aus&shy;ge&shy;feil&shy;ten
+> (und beweis&shy;ba&shy;ren)
+> Metho&shy;den **psych. Terror**s et&.  
+> S&auml;mtliche andere absurde Ein&shy;re&shy;den/Sug&shy;ges&shy;tio&shy;nen kom&shy;men (mit Ver&shy;merk) extra.
+> 
 > [**Anm. 04.11.** 12:00]
 > Nur für die Voll&shy;stän&shy;dig&shy;keit:
 > Ein sog. Iden&shy;ti&shy;täts&shy;dieb&shy;stahl ist m.M.n., so&shy;lange das "Ori&shy;gi&shy;nal" (noch) lebt, erst&shy;ein&shy;mal "nur" eine **Id**en&shy;ti&shy;täts**ko&shy;pie**.
