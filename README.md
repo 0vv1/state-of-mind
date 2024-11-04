@@ -16,13 +16,14 @@ version: mo., 4. nov. 2024
 > nor&shy;ma&shy;len Men&shy;sch&shy;en:  
 > Auch wenn ich lang&shy;sam be&shy;grei&shy;fe,
 > dass ich mir [das hier](#recordings) nicht ein&shy;bil&shy;de,
-> wird es etwas dauern bis alles sor&shy;tiert ist.  
+> wird es etwas dauern bis alles sor&shy;tiert ist.
+> Ich werde mir die n&auml;chsten zweu, drei Tage f&uuml;r diese doch sehr komplexen Zusammenhänge brauchen.  
 > Die Kontra&shy;hen&shy;ten sind be&shy;lie&shy;big
 > durch&shy;ge&shy;knallt,
 > was auch zum "Kon&shy;zept" geh&ouml;ren d&uuml;rfte.
 > Aber bevor ich mich be&shy;lie&shy;big ver&shy;stricken lasse,
-> fange ich einfach mal mit gew&ouml;hnlichem (Hate-)Stalking an,
-> dann ID-Betrug/-&uuml;bernahme sowie aus&shy;ge&shy;feil&shy;ten Metho&shy;den psych. Terrors et&.
+> fange ich einfach mal mit gew&ouml;hnlichem (Hate-)**Stalking** an,
+> dann **ID-Betrug**/-&uuml;bernahme sowie aus&shy;ge&shy;feil&shy;ten Metho&shy;den **psych. Terror**s et&.  
 > S&auml;mtliche andere absurde Ein&shy;re&shy;den/Sug&shy;ges&shy;tio&shy;nen kom&shy;men (mit Ver&shy;merk) extra.  
 > [**Anm. 04.11.** 12:00]
 > Nur für die Voll&shy;stän&shy;dig&shy;keit:
@@ -40,7 +41,8 @@ version: mo., 4. nov. 2024
 > Ich bin in Ber&shy;lin (und auf dem Weg zum Zahn&shy;arzt).
 > 
 > [**03.11.**, 05:31]
-> Oder loggen sich von Köln oder <BS>ochum (jedenfalls). Who cares..
+> Logins auch in Köln, Bochum oder irgendwelchen Käffern in Niedersachsen.  > Who cares..
+> Wo bleiben eigentlich meine Login-Alerts seitens Facebook?
 > 
 > Der von mir aus&shy;schlie&szlig;&shy;lich ge&shy;nutz&shy;te
 > [In&shy;sta&shy;gram](https://www.instagram.com/0vv1/)-Account!
