@@ -29,6 +29,9 @@ version: mo., 4. nov. 2024
 > Ein sog. Iden&shy;ti&shy;täts&shy;dieb&shy;stahl ist m.M.n., so&shy;lange das "Ori&shy;gi&shy;nal" (noch) lebt, erst&shy;ein&shy;mal "nur" eine **Id**en&shy;ti&shy;täts**ko&shy;pie**.
 
 > [!WARNING]
+> **Dt. Per&shy;so&shy;nal&shy;ausw&shy;eis** `L3HLWLK719` **un&shy;g&uuml;l&shy;tig** seit "Zeit&shy;punkt des Ver&shy;lustes" am <nobr>30.07.2024.</nobr>
+
+> [!CAUTION]
 > [**31.10.**, 11:00]
 > Au&szlig;er&shy;dem hat sich jemand vor ein paar Min. aus einem Ort
 > namens Eike&shy;loh (NRW),
