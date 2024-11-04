@@ -11,19 +11,19 @@ version: mo., 4. nov. 2024
 
 > [!IMPORTANT]
 > [**03.11.** 12:00]
-> Am Todestag meiner Ma, nach einem Frühstück mit normalen Menschen:  
-> Wenn ich mir [dich nicht einbilde](#recordings), bist Du einfach "nur" ein gewöhnlicher (Hate-)**Stalker**²!  
-> Es geht nicht wirklich nur um mich?
-> Der gesamte andere monströse Müll entstammt einem vollständig degenerierten Gehirn?
-> (Und übrigens nicht meinem! Oder dem, einer mir abgespaltenen Persönlichkeit.
-> Was für ein Blödsinn!)  
-> Du benutzt andere Menschen für deinen kranken Scheiß?  
-> Ich bin jetzt ein paar Tage raus aus der Stadt,
-> dann suche ich mir eine nette Kanzlei,
->die Bock auf 'ne krasse Story hat und
-> nenne ein paar Namen,
-> die mir einfallen.
+> Am Todes&shy;tag mei&shy;ner Ma,
+> nach einem Früh&shy;stück mit
+> nor&shy;ma&shy;len Men&shy;sch&shy;en:  
+> Auch wenn ich lang&shy;sam be&shy;grei&shy;fe,
+> dass ich mir [das hier](#recordings) nicht ein&shy;bil&shy;de,
+> wird es etwas dauern bis alles sor&shy;tiert ist.  
+> Die Kontra&shy;hen&shy;ten sind be&shy;lie&shy;big
+> durch&shy;ge&shy;knallt,
+> was auch zum "Kon&shy;zept" geh&ouml;ren d&uuml;rfte.
+< Aber bevor ich mich be&shy;lie&shy;big ver&shy;stricken lasse,
+> fange ich einfach maal mit gewöuml;nlichem (Hate-)Stalking an.  
 
+> [!WARNING]
 > [**31.10.**, 11:00]
 > Au&szlig;er&shy;dem hat sich jemand vor ein paar Min. aus einem Ort
 > namens Eike&shy;loh (NRW),
@@ -32,7 +32,7 @@ version: mo., 4. nov. 2024
 > Ich bin in Ber&shy;lin (und auf dem Weg zum Zahn&shy;arzt).
 > 
 > [**03.11.**, 05:31]
-> Oder Köln. Who cares..
+> Oder loggen sich von Köln oder <BS>ochum (jedenfalls). Who cares..
 > 
 > Der von mir aus&shy;schlie&szlig;&shy;lich ge&shy;nutz&shy;te
 > [In&shy;sta&shy;gram](https://www.instagram.com/0vv1/)-Account!
