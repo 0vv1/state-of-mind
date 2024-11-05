@@ -26,7 +26,7 @@ version: mo., 4. nov. 2024
 > was auch zum "Kon&shy;zept" geh&ouml;ren d&uuml;rfte.  
 > Aber bevor ich mich be&shy;lie&shy;big ver&shy;stricken lasse,
 > fange ich einfach mal mit gew&ouml;hnlichem (Hate-)**Stalking** an,
-> dann **ID-Betrug**/-&uuml;bernahme sowie aus&shy;ge&shy;feil&shy;ten
+> dann **ID-Betrug**/-&Uuml;bernahme sowie aus&shy;ge&shy;feil&shy;ten
 > (und beweis&shy;ba&shy;ren)
 > Metho&shy;den **psych. Terror**s et&.  
 > S&auml;mtliche andere absurde Ein&shy;re&shy;den/Sug&shy;ges&shy;tio&shy;nen kom&shy;men (mit Ver&shy;merk) extra.
@@ -39,10 +39,10 @@ version: mo., 4. nov. 2024
 	     alt="R&uuml;ckseite alter Ausweis (Wo ist die Datei?)"
 		src="./.assets/2024-08-09_puls_ausweis_ruck.jpg"
 		title="R&uuml;ckseite alter Ausweis (ung&uuml;ltig)"
-		width="150px">
+		width="200px">
 > [!WARNING]
 > **Dt. Per&shy;so&shy;nal&shy;ausw&shy;eis** `L3HLWLK719` **un&shy;g&uuml;l&shy;tig** seit "Zeit&shy;punkt des Ver&shy;lustes" am <nobr>30.07.2024.</nobr>  
-> Das Bild rechts zeigt die R&uuml;ckseite des alten (ung&uuml;ltigen) Ausweises.
+> Das Bild rechts zeigt die R&uuml;ckseite dieses (ung&uuml;ltigen) Ausweises.
 </img>
 
 > [!CAUTION]
