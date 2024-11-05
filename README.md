@@ -36,32 +36,45 @@ version: di., 5. nov. 2024
 > Ein sog. Iden&shy;ti&shy;täts&shy;dieb&shy;stahl ist m.M.n., so&shy;lange das "Ori&shy;gi&shy;nal" (noch) lebt, erst&shy;ein&shy;mal "nur" eine **Id**en&shy;ti&shy;täts**ko&shy;pie**.
 
 <img align="right"
-	     alt="R&uuml;ckseite alter Ausweis (Wo ist die Datei?)"
-		src="./.assets/2024-08-09_puls_ausweis_ruck.jpg"
-		title="R&uuml;ckseite alter Ausweis (ung&uuml;ltig)"
-		width="200px">
+  alt="R&uuml;ckseite alter Ausweis (Wo ist die Datei?)"
+  src="./.assets/2024-08-09_puls_ausweis_ruck.jpg"
+  title="R&uuml;ckseite alter Ausweis (ung&uuml;ltig)"
+  width="200px">
 > [!WARNING]
-> **Dt. Per&shy;so&shy;nal&shy;ausw&shy;eis** `L3HLWLK719` **un&shy;g&uuml;l&shy;tig** seit "Zeit&shy;punkt des Ver&shy;lustes" am <nobr>30.07.2024.</nobr>  
-> Das Bild rechts zeigt die R&uuml;ckseite dieses (zwar ung&uuml;ltigen) aber nach Raub am 30. Juli "zur&uuml;ckgegebenen" Ausweises.
-> Skurrilerweise dann am 9. Aug. um einen neuen Aufkleber (mit meiner aktuellen Adresse) erg&auml;nzt. :smirk:
+> **Dt. Per&shy;so&shy;nal&shy;ausw&shy;eis** `L3HLWLK719`
+> **un&shy;g&uuml;l&shy;tig** seit "Zeit&shy;punkt des
+> Ver&shy;lus&shy;tes" am <nobr>30.07.2024.</nobr>  
+> Das Bild rechts zeigt die R&uuml;cksei&shy;te die&shy;ses
+> (zwar ung&uuml;l&shy;ti&shy;gen)
+> aber nach Raub am 30. Juli
+> "zu&shy;r&uuml;ck&shy;ge&shy;ge&shy;be&shy;nen" Aus&shy;wei&shy;ses.
+> Skurri&shy;ler&shy;wei&shy;se dann am 9. Aug. um einen neuen
+> Auf&shy;kle&shy;ber
+> (mit mei&shy;ner aktu&shy;el&shy;len Adres&shy;se)
+> er&shy;g&auml;nzt. :smirk:
 </img>
 
+<img align="right"
+  alt="Trusted Devices sonstwo"
+  src="./.assets/2024-11-02_18-08_insta_trusted-devices.jpg"
+  title="Trusted Devices sonstwo"
+  width="200px">
 > [!CAUTION]
 > [**31.10.**, 11:00]
-> Au&szlig;er&shy;dem hat sich jemand vor ein paar Min., in einem mir unbekannten Ort
+> Au&szlig;er&shy;dem hat sich je&shy;mand vor ein paar Min., in einem
+> mir un&shy;be&shy;kann&shy;ten Ort
 > namens Eike&shy;loh (NRW),
 > in einen von mir un&shy;ge&shy;nutz&shy;ten Insta&shy;gram-Account
 > ein&shy;ge&shy;loggt.  
-> Ich bin in Ber&shy;lin (und auf dem Weg zum Zahn&shy;arzt).
+> Ich bin in Ber&shy;lin (und auf dem Weg zum Zahn&shy;arzt). :smirk:
 > 
 > [**03.11.**, 05:31]
-> Logins (Facebook- sowir drei Instagram-Accounts) auch in Köln, Bochum oder irgendwelchen Käffern in Niedersachsen.
-> Who cares..
-> (ich scheine dagegen nichts ausrichten zu können und gehe langsam mal und ganz vorsichtig von Innent&auml;tern aus?)  
-> Wo bleiben eigentlich meine Login-Alerts seitens Facebook? :wink:
-> 
-> Der von mir(?) aus&shy;schlie&szlig;&shy;lich ge&shy;nutz&shy;te
-> [In&shy;sta&shy;gram](https://www.instagram.com/0vv1/)-Account!
+> Logins (Face&shy;book- sowie drei Insta&shy;gram-Accounts)
+> auch in K&ouml;ln, Bochum oder irgendwelchen K&auml;f&shy;fern in
+> Nie&shy;der&shy;sach&shy;sen.
+> Jo. Und trus&shy;ted Devi&shy;ces
+> (gegen die ich nichts ausrichten kann). Sehr sch&ouml;n.
+</img>
 
 > [!CAUTION]
 > [**IDEN&shy;TI&shy;T&Auml;TS&shy;BE&shy;TRUG**]
@@ -103,25 +116,25 @@ version: di., 5. nov. 2024
 > Die schei&shy;nen jeden&shy;falls sehr flei&szlig;ig und
 > am&shy;bi&shy;tio&shy;niert,
 > auch wenn ich den Sinn da&shy;hin&shy;ter nicht ver&shy;ste&shy;he!
->   
-> Er selbst meint,
-> ich sei ge&shy;mein&shy;sam mit einer ehe&shy;ma&shy;li&shy;gen Nach&shy;ba&shy;rin
-> zur Te&shy;le&shy;pat&shy;hie be&shy;f&auml;higt,
-> wo&shy;rauf er nei&shy;disch w&auml;re,
-> au&szlig;er&shy;dem pas&shy;sen die be&shy;sag&shy;te Dame und ich an&shy;geb&shy;lich
-> gut zu&shy;sam&shy;men,
-> das gin&shy;ge auch nicht.  
-> Wenn man mich fragt:
-> **D&uuml;m&shy;mer geht es nicht!**
-> Was f&uuml;r ein reu&shy;di&shy;ger Schwach&shy;sinn!
-> Was wollt ihr wirklich von mir?
+   
+Er selbst meint,
+ich sei ge&shy;mein&shy;sam mit einer ehe&shy;ma&shy;li&shy;gen Nach&shy;ba&shy;rin
+zur Te&shy;le&shy;pat&shy;hie be&shy;f&auml;higt,
+wo&shy;rauf er nei&shy;disch w&auml;re,
+au&szlig;er&shy;dem pas&shy;sen die be&shy;sag&shy;te Dame und ich an&shy;geb&shy;lich
+gut zu&shy;sam&shy;men,
+das gin&shy;ge auch nicht.  
+Wenn man mich fragt:
+**D&uuml;m&shy;mer geht es nicht!**
+Was f&uuml;r ein reu&shy;di&shy;ger Schwach&shy;sinn!
+Was wollt ihr wirklich von mir?
 
-<h2>Zeigt hier jemand,
+<h3>Zeigt hier jemand,
   dass die Straf&shy;ver&shy;fol&shy;gung einen Algo&shy;rith&shy;mus
   ver&shy;wen&shy;det,
   der ge&shy;w&ouml;hn&shy;li&shy;che Straf&shy;ta&shy;ten
   ge&shy;w&ouml;hn&shy;lich be&shy;han&shy;delt,
-  un&shy;denk&shy;ba&shy;re hin&shy;ge&shy;gen eher gar nicht?</h2>
+  un&shy;denk&shy;ba&shy;re hin&shy;ge&shy;gen eher gar nicht?</h3>
 
 Z.&#8239;B. Wohn&shy;bl&ouml;cke,
 in denen sich Miet&shy;woh&shy;nun&shy;gen be&shy;fin&shy;den,
