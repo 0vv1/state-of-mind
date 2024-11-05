@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: mo., 4. nov. 2024  
+version: di., 5. nov. 2024  
 ```
 
 > [!NOTE]
@@ -42,7 +42,8 @@ version: mo., 4. nov. 2024
 		width="200px">
 > [!WARNING]
 > **Dt. Per&shy;so&shy;nal&shy;ausw&shy;eis** `L3HLWLK719` **un&shy;g&uuml;l&shy;tig** seit "Zeit&shy;punkt des Ver&shy;lustes" am <nobr>30.07.2024.</nobr>  
-> Das Bild rechts zeigt die R&uuml;ckseite dieses (ung&uuml;ltigen) Ausweises.
+> Das Bild rechts zeigt die R&uuml;ckseite dieses (zwar ung&uuml;ltigen) aber nach Raub am 30. Juli "zur&uuml;ckgegebenen" Ausweises.
+> Skurrilerweise dann am 9. Aug. um einen neuen Aufkleber (mit meiner aktuellen Adresse) erg&auml;nzt. :smirk:
 </img>
 
 > [!CAUTION]
