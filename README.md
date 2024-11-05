@@ -35,8 +35,15 @@ version: mo., 4. nov. 2024
 > Nur für die Voll&shy;stän&shy;dig&shy;keit:
 > Ein sog. Iden&shy;ti&shy;täts&shy;dieb&shy;stahl ist m.M.n., so&shy;lange das "Ori&shy;gi&shy;nal" (noch) lebt, erst&shy;ein&shy;mal "nur" eine **Id**en&shy;ti&shy;täts**ko&shy;pie**.
 
+<img align="right"
+	     alt="R&uuml;ckseite alter Ausweis (Wo ist die Datei?)"
+		src="./.assets/2024-08-09_puls_ausweis_ruck.jpg"
+		title="R&uuml;ckseite alter Ausweis (ung&uuml;ltig)"
+		width="150px">
 > [!WARNING]
-> **Dt. Per&shy;so&shy;nal&shy;ausw&shy;eis** `L3HLWLK719` **un&shy;g&uuml;l&shy;tig** seit "Zeit&shy;punkt des Ver&shy;lustes" am <nobr>30.07.2024.</nobr>
+> **Dt. Per&shy;so&shy;nal&shy;ausw&shy;eis** `L3HLWLK719` **un&shy;g&uuml;l&shy;tig** seit "Zeit&shy;punkt des Ver&shy;lustes" am <nobr>30.07.2024.</nobr>  
+> Das Bild rechts zeigt die R&uuml;ckseite des alten (ung&uuml;ltigen) Ausweises.
+</img>
 
 > [!CAUTION]
 > [**31.10.**, 11:00]
