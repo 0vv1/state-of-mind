@@ -154,7 +154,7 @@ Allein ge&shy;las&shy;sen mit den kran&shy;ken Fan&shy;ta&shy;sien und
 Was glaubt ihr, wie es nach Jah&shy;ren aus&shy;sieht?  
 Genauer:
 	Knapp 1.390 Tage oder un&shy;gef&auml;hr 18.000 Std. Lebens&shy;zeit
-	spauml;ter.
+	sp&auml;ter.
   
 Und es inte&shy;res&shy;siert mich auch &uuml;ber&shy;haupt nicht,
 	wer wem be&shy;lie&shy;big mon&shy;str&ouml;&shy;sen M&uuml;ll
@@ -5161,7 +5161,7 @@ Gerech&shy;tig&shy;keit ge&shy;gen je&shy;den zu &uuml;ben.
 Sie/er hat nicht ge&shy;schwo&shy;ren,
 	un&shy;ge&shy;fragt in den Schlaf&shy;zim&shy;mern ein&shy;fach&shy;er 
 	Men&shy;sch&shy;en um&shy;her&shy;zu&shy;pim&shy;meln und sie in
-	h&ouml;;chs&shy;tem Ma&zlig;e zu be&shy;las&shy;ten.  
+	h&ouml;;chs&shy;tem Ma&szlig;e zu be&shy;las&shy;ten.  
 Ich habe nichts ge&shy;gen Hie&shy;rar&shy;chien.
 Anders funk&shy;tio&shy;nie&shy;ren moderne,
 hoch arbeits&shy;tei&shy;li&shy;ge Gesell&shy;schaf&shy;ten nicht.
@@ -5171,8 +5171,8 @@ Rich&shy;ter und hohe Beam&shy;te des Bun&shy;des und der L&auml;nder
 die ich mir z.&#8239;B. nicht vor&shy;stel&shy;len woll&shy;te.  
 Sol&shy;ch&shy;er Art Han&shy;deln und Orga&shy;ni&shy;sa&shy;tion
 	wahr&shy;neh&shy;men zu m&uuml;s&shy;sen,
-	sich zwi&shy;schen&shy;zeit&shy;lich in die
-	Schi&shy;zo&shy;phre&shy;nie zu&shy;r&uuml;ck&shy;zu&shy;seh&shy;nen,
+	(sich zwi&shy;schen&shy;zeit&shy;lich in eine
+	Schi&shy;zo&shy;phre&shy;nie zu&shy;r&uuml;ck&shy;zu&shy;seh&shy;nen)
 	ero&shy;diert unse&shy;re Ge&shy;sell&shy;schaft.
 	Und zwar bis auf ihre Grundfesten.  
 	(Nur) Ich pers&ouml;n&shy;lich, und auch wenn ich es mir nicht
