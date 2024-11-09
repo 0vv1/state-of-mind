@@ -5134,15 +5134,93 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
 > Spreng&shy;ar&shy;bei&shy;ten. :boom:~~
 > SCHON LANGE NICHT MEHR LUSTIG
 
+Da&shy;f&uuml;r m&ouml;ch&shy;te ich mit den Wor&shy;ten eines
+	be&shy;stimmt bereits &auml;l&shy;te&shy;ren,
+	sicher auch eini&shy;ger&shy;ma&szlig;&shy;en
+	ein&shy;fluss&shy;rei&shy;chen Anta&shy;go&shy;nis&shy;ten
+	schlie&szlig;en:  
+"*Alex,
+	Du m&ouml;ch&shy;test doch be&shy;stimmt auch irgend&shy;wann mal
+	wie&shy;der eine Freun&shy;din ha&shy;ben?*"  
+Ich habe da&shy;mals nicht ge&shy;ant&shy;wor&shy;tet.
+Das m&ouml;ch&shy;te ich nach&shy;ho&shy;len:  
+Mit Sicher&shy;heit nicht.
 
----
+Viel&shy;leicht noch die&shy;se Klei&shy;nig&shy;keit:  
+Mensch&shy;lich habe ich in Ab&shy;gr&uuml;n&shy;de schau&shy;en
+	m&uuml;s&shy;sen und mir in mei&shy;nem Leben nicht
+	vor&shy;stel&shy;len k&ouml;n&shy;nen,
+	dass es so&shy;et&shy;was gibt.  
+Unter die&shy;sen "Men&shy;schen" sind "rang&shy;h&ouml;&shy;he&shy;re"
+	Ver&shy;tre&shy;ter unse&shy;rer Ge&shy;sell&shy;schaft.
+Die/der ein(-e) oder an&shy;de&shy;re hat ein&shy;mal einen Eid
+	ge&shy;schwo&shy;ren.  
+Ihre/seine Kraft dem Woh&shy;le des Vol&shy;kes zu wid&shy;men.  
+Scha&shy;den ab&shy;zu&shy;wen&shy;den.  
+Gerech&shy;tig&shy;keit ge&shy;gen je&shy;den zu &uuml;ben.  
+Sie/er hat nicht ge&shy;schwo&shy;ren,
+	un&shy;ge&shy;fragt in den Schlaf&shy;zim&shy;mern ein&shy;fach&shy;er 
+	Men&shy;sch&shy;en um&shy;her&shy;zu&shy;pim&shy;meln und sie in
+	h&ouml;;chs&shy;tem Ma&zlig;e zu be&shy;las&shy;ten.  
+Ich habe nichts ge&shy;gen Hie&shy;rar&shy;chien.
+Anders funk&shy;tio&shy;nie&shy;ren moderne,
+hoch arbeits&shy;tei&shy;li&shy;ge Gesell&shy;schaf&shy;ten nicht.
+Rich&shy;ter und hohe Beam&shy;te des Bun&shy;des und der L&auml;nder
+	&uuml;ben ver&shy;ant&shy;wor&shy;tungs&shy;vol&shy;le
+	T&auml;&shy;tig&shy;kei&shy;ten aus,
+die ich mir z.&#8239;B. nicht vor&shy;stel&shy;len woll&shy;te.  
+Sol&shy;ch&shy;er Art Han&shy;deln und Orga&shy;ni&shy;sa&shy;tion
+	wahr&shy;neh&shy;men zu m&uuml;s&shy;sen,
+	sich zwi&shy;schen&shy;zeit&shy;lich in die
+	Schi&shy;zo&shy;phre&shy;nie zu&shy;r&uuml;ck&shy;zu&shy;seh&shy;nen,
+	ero&shy;diert unse&shy;re Ge&shy;sell&shy;schaft.
+	Und zwar bis auf ihre Grundfesten.  
+	(Nur) Ich pers&ouml;n&shy;lich, und auch wenn ich es mir nicht
+	vor&shy;stel&shy;len kann,
+	w&uuml;rde mir w&uuml;n&shy;schen,
+	dass "wir" alle (wie&shy;der) Grund&shy;z&uuml;&shy;ge von
+	Res&shy;pekt f&uuml;r alle dort drau&szlig;en zu ent&shy;wickeln in
+	der Lage sind.  
+	Und wie&shy;der an&shy;fan&shy;gen zu fra&shy;gen,
+	be&shy;vor wir eine be&shy;lie&shy;bi&shy;ge
+	per&shy;s&ouml;n&shy;li&shy;che Gren&shy;ze eines an&shy;de&shy;ren zu
+	&uuml;ber&shy;schrei&shy;ten dro&shy;hen.
 
-[^1]: Eine &uuml;berraschende Beobachtung:
-	Diese
+[^1]: Eine &uuml;ber&shy;ra&shy;schen&shy;de Beob&shy;ach&shy;tung:
+	Die&shy;se
 	(sich schein&shy;bar auch selbst so be&shy;zei&shy;chnen&shy;den)
-	Sadisten 
+	Sadis&shy;ten neh&shy;me ich als un&shy;fass&shy;bar feige wahr.  
+	So fei&shy;ge wie grau&shy;sam.
+	Da&shy;raus habe ich die The&shy;se ab&shy;ge&shy;lei&shy;tet,
+	dass sie mglw. nicht be&shy;reit sind,
+	den Preis f&uuml;r das Leben zu be&shy;zah&shy;len.
+	Irgend&shy;wann w&auml;h&shy;rend die&shy;ser gan&shy;zen
+	Tor&shy;tu&shy;ren war mir n&auml;m&shy;lich
+	auf&shy;ge&shy;fal&shy;len,
+	dass das Leben zwar ein Ge&shy;schenk ist[^8],
+	so ganz kostenfrei aber eben auch nicht.
+	Sein Preis scheint unser Lei&shy;den zu sein.
+	Und unter uns scheint es eini&shy;ge zu ge&shy;ben,
+	die die&shy;sen Preis nicht zu zahlen bereit oder f&auml;hig sind.  
+	&Uuml;ber&shy;haupt ist mir ein st&auml;n&shy;di&shy;ges
+	Deli&shy;gie&shy;ren auf&shy;ge&shy;fal&shy;len.
+	Ver&shy;ant&shy;wor&shy;tung z.&#8239;B. auch.  
+	Die aller&shy;meis&shy;ten ste&shy;hen noch nicht ein&shy;mal zu ihrer
+	eige&shy;nen Exis&shy;tenz und ver&shy;stecken sich ein Leben lang
+	(oder bis sie mehr ver&shy;ste&shy;hen).
 
-[^3] Das ist aus&shy;dr&uuml;ck&shy;lich kei&shy;ne(!)
+[^2]: Den Nach&shy;weis einer Au&szlig;en&shy;wir&shy;kung
+	n&auml;m&shy;lich.
+	Damit ist Gesche&shy;he&shy;nes eben nicht ein&shy;sa&shy;mes
+	Er&shy;le&shy;ben
+	(einer Schi&shy;zo&shy;phre&shy;nie),
+	son&shy;dern kann ge&shy;mein&shy;sam er&shy;fah&shy;ren wer&shy;den.
+	Das ist das Schreck&shy;li&shy;che an die&shy;ser "St&ouml;&shy;rung":
+	Die Ein&shy;sam&shy;keit in einer
+	(mutma&szlig;lich)
+	"eige&shy;nen" Welt.
+
+[^3]: Das ist aus&shy;dr&uuml;ck&shy;lich kei&shy;ne(!)
   Ver&shy;d&auml;ch&shy;ti&shy;gung,
   kann der Ob&shy;fus&shy;ka&shy;tion per&shy;fi&shy;der T&auml;ter
   die&shy;nen und wei&shy;ter:
