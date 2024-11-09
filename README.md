@@ -1,63 +1,307 @@
 
 ```
 file:    sos.log/README.md  
-brief:   state of stalking(?) log  
+brief:   state of society log  
 author:  © 2021-2024 alexander puls <github@0vv1.net>  
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: di., 5. nov. 2024  
+version: sa., 9. nov. 2024  
 ```
 
-> [!NOTE]
-> [**03.11.** 12:00]
-> Am Todes&shy;tag mei&shy;ner Ma,
-> nach einem Früh&shy;stück mit
-> nor&shy;ma&shy;len Men&shy;sch&shy;en:  
-> Auch wenn ich lang&shy;sam be&shy;grei&shy;fe,
-> dass ich mir (nicht nur) [das hier](#recordings) **nicht** einge&shy;bil&shy;det habe,
-> wird es etwas dauern,
-> bis alles sor&shy;tiert ist. 
-> Die n&auml;chsten zwei, drei Tage sollten
-> (et&shy;was Ruhe vor&shy;aus&shy;ge&shy;setzt!)
-> auch f&uuml;r doch recht komplexe Zusam&shy;men&shy;h&auml;n&shy;ge reichen.  
-> Die Kontra&shy;hen&shy;ten sind be&shy;lie&shy;big
-> durch&shy;ge&shy;knallt,
-> was auch zum "Kon&shy;zept" geh&ouml;ren d&uuml;rfte.  
-> Aber bevor ich mich be&shy;lie&shy;big ver&shy;stricken lasse,
-> fange ich einfach mal mit gew&ouml;hnlichem (Hate-)**Stalking** an,
-> dann **ID-Betrug**/-&Uuml;bernahme sowie aus&shy;ge&shy;feil&shy;ten
-> (und beweis&shy;ba&shy;ren)
-> Metho&shy;den **psych. Terror**s et&.  
-> S&auml;mtliche andere absurde Ein&shy;re&shy;den/Sug&shy;ges&shy;tio&shy;nen kom&shy;men (mit Ver&shy;merk) extra.
+<h1>Von einer Crew da drau&szlig;en,
+	die aus dem Verborgenen so glaub&shy;w&uuml;r&shy;dig und
+	&uuml;ber&shy;zeu&shy;gend tut als ob,
+	dass jeder an&shy;nimmt, es ist.</h1>
+
+Mit drin h&auml;tte ich gern:  
+	**Iden&shy;ti&shy;t&auml;t** und
+	(vor allem und i.&#8239;d.&#8239;Z.) **Ver&shy;trau&shy;en**,
+	Beob&shy;ach&shy;tun&shy;gen zu
+	**Kom&shy;mu&shy;ni&shy;ka&shy;<nobr>tion**/</nobr>**Iso&shy;la&shy;tion**
+	sowie der Wirk&shy;m&auml;ch&shy;tig&shy;keit von
+	(vor allem akus&shy;ti&shy;scher)
+	**Mani&shy;pu&shy;la&shy;tion** der
+	(m&ouml;g&shy;li&shy;ch&shy;er&shy;wei&shy;se auch
+	Mas&shy;<nobr>sen-)</nobr><wbr />**Wahr&shy;neh&shy;mung**<br />.
+
+<details>
+	<summary>Oder, wer es gern pathetischer h&auml;t&shy;<nobr>te
+	  ..<sup>:warning:per&shy;s&ouml;n&shy;lich</nobr></summary>
+	<h3>Von der aus&shy;schlie&szlig;&shy;lich ver&shy;mit&shy;tel&shy;ten
+		Kom&shy;mu&shy;ni&shy;ka&shy;tion in einer
+		auf&shy;ge&shy;zwun&shy;ge&shy;nen Be&shy;zie&shy;hung zwi&shy;schen
+		zwei Men&shy;schen,
+		die sich real nie bege&shy;gne&shy;ten,
+		der will&shy;k&uuml;r&shy;li&shy;chen Zeich&shy;nung ihrer
+		Per&shy;s&ouml;n&shy;lich&shy;kei&shy;ten gg&uuml;. dem ande&shy;ren,
+		bei m&ouml;glichst voll&shy;st&auml;n&shy;di&shy;ger
+		Kon&shy;trol&shy;le und gr&ouml;&szlig;t&shy;lich&shy;er
+		Besch&auml;&shy;di&shy;gung alles Emo&shy;tio&shy;na&shy;len,
+		was nur bei gleich&shy;zei&shy;ti&shy;ger aggres&shy;si&shy;ver
+		Kon&shy;takt&shy;ver&shy;hin&shy;de&shy;rung ge&shy;lin&shy;gen kann,
+		um..<br />
+	<b>Was</b> eigent&shy;lich?<br />  
+	Den einen ge&shy;f&uuml;&shy;gig zu machen und
+		dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t
+		zu rauben?<sup>:warning:Suggestion</sup></h3>
+
+Um des Sadis&shy;mus' so man&shy;chem,
+	vor allem aber des Mamons Wil&shy;len?
+
+Was f&uuml;r ein Bl&ouml;d&shy;sinn!
+Ihr reicht mir!
+Ich wer&shy;de so vie&shy;le Ein&shy;schrei&shy;ben schicken,
+	bis sie mit mir spricht.
+Ich ken&shy;ne sie &uuml;ber&shy;haupt nicht.
+(Und sie mich nicht.)
+Es blei&shy;ben am Ende nur eure schr&auml;&shy;gen
+	Charak&shy;ter&shy;zeich&shy;nun&shy;gen.
+Wir hatten nie eine Chance,
+	uns ken&shy;nen&shy;zu&shy;ler&shy;nen.  
+Was bil&shy;det ihr euch ein?
+Was glaubt ihr,
+	wer ihr seid,
+	mir immer wie&shy;der mit dem Schick&shy;sal die&shy;ses einen
+	Men&shy;schen zu kom&shy;men?
+
+Bei (nahe&shy;zu t&auml;g&shy;lich&shy;en!)
+	will&shy;lk&uuml;r&shy;lich&shy;en Ein&shy;re&shy;den
+	schockie&shy;ren&shy;der Ge&shy;schich&shy;ten &uuml;ber
+	Ver&shy;bleib und Zu&shy;stand die&shy;ser Frau,
+	lasst ihr mich nicht ver&shy;ges&shy;sen.
+Direk&shy;ten Kon&shy;takt ver&shy;hin&shy;dert ihr aber seit
+	mitt&shy;ler&shy;wei&shy;le andert&shy;halb Jah&shy;ren. :shrug:  
+
+**Wer** seid ihr?
+Aber vor allem:
+**Wie kaputt**?
+
+Ich zitiere sie mal von einem ihrer Hand&shy;zet&shy;tel,
+aus einer kur&shy;zen Zeit vor euch Irren,
+den ich s&uuml;&szlig; fand und be&shy;hal&shy;ten habe:  
+*Und falls Du mal etwas brauchst
+kannst Du gerne jeder&shy;zeit klin&shy;geln!*  
+Glei&shy;ches gilt um&shy;ge&shy;kehrt,
+auch wenn ich nie mehr Ge&shy;le&shy;gen&shy;heit fand,
+es so aus&shy;zu&shy;rich&shy;ten.
+
+> [!TIP]
+> Be&shy;reits drei Mi&shy;nu&shy;ten ver&shy;f&auml;lsch&shy;ten
+> (und da&shy;mit nicht mehr ge&shy;mein&shy;sa&shy;men)
+> Er&shy;le&shy;bens,
+> ge&shy;schwei&shy;ge denn Kom&shy;mu&shy;ni&shy;ka&shy;tion,
+> m&uuml;s&shy;sen da&shy;zu f&uuml;h&shy;ren,
+> dass Men&shy;schen sich nicht mehr
+> un&shy;vor&shy;ein&shy;ge&shy;nom&shy;men be&shy;geg&shy;nen
+> k&ouml;n&shy;nen.
 > 
-> [**Anm. 04.11.** 12:00]
-> Nur für die Voll&shy;stän&shy;dig&shy;keit:
-> Ein sog. Iden&shy;ti&shy;täts&shy;dieb&shy;stahl ist m.M.n., so&shy;lange das "Ori&shy;gi&shy;nal" (noch) lebt, erst&shy;ein&shy;mal "nur" eine **Id**en&shy;ti&shy;täts**ko&shy;pie**.
+> Ach so:
+> &Uuml;bri&shy;gens nie mehr.
+> 
+> [**Anm**. **12.10.**]
+> **Jede(!) In&shy;for&shy;ma&shy;tion** eurer&shy;seits ist
+> (in&shy;ten&shy;diert!)
+> nicht ein&shy;fach nur **falsch**,
+> sie **soll** immer **maxi&shy;ma&shy;len**
+> emo&shy;tio&shy;na&shy;len **Scha&shy;den ver&shy;ur&shy;sachen**!
+
+Also:  
+**Wo ist L.?**  
+
+Und wer oder was ist sie &uuml;ber&shy;haupt?  
+Warum ant&shy;wor&shy;tet sie mir nicht,
+	ver&shy;suche ich,
+	es heraus&shy;zu&shy;fin&shy;den?  
+Warum wird mir ihr Leben be&shy;droht,
+	ver&shy;su&shy;che ich,
+	sie zu sehen?  
+Warum "durf&shy;te" ich es nie wie&shy;der?
+In einem frei&shy;en Land.
+
+Ich bin die&shy;sem Men&shy;schen in der Realit&auml;t drei,
+vier Mal fl&uuml;ch&shy;tig begeg&shy;net.    
+Warum lan&shy;det ihr Name immer wie&shy;der in mei&shy;nem
+Ge&shy;d&auml;cht&shy;nis?  
+Wo&shy;her ken&shy;ne ich ihr Geburts&shy;da&shy;tum?  
+Ihre Hei&shy;mat&shy;stadt?  
+Einen Lieb&shy;lings&shy;fu&szlig;&shy;ball&shy;club?  
+Wenn nicht von ihr?
+
+Soll&shy;te es Ver&shy;ant&shy;wort&shy;liche f&uuml;r die&shy;sen
+	Irr&shy;sinn geben,
+	irgend&shy;je&shy;mand bereits vor Jahren mit Ein&shy;rede,
+	Sug&shy;ges&shy;tion (Hyp&shy;nose?) und
+	Kon&shy;trol&shy;<nobr>le/</nobr>Mani&shy;pu&shy;la&shy;tion
+	der Kom&shy;mu&shy;ni&shy;ka&shy;tion be&shy;gon&shy;nen haben,
+	k&ouml;nnt ihr ver&shy;su&shy;chen,
+	euch vor&shy;zu&shy;stel&shy;len,
+	wie das all&shy;ge&shy;mei&shy;ne Be&shy;fin&shy;den nach drei
+	Mona&shy;ten aus&shy;sieht?  
+Bei gleich&shy;zei&shy;ti&shy;gem An&shy;hei&shy;zen fal&shy;scher
+	Er&shy;in&shy;ne&shy;rung an bereits verf&auml;lsch&shy;tes,
+	der Fan&shy;ta&shy;sie eines Ir&shy;ren
+	&uuml;ber&shy;las&shy;se&shy;nen,
+	Er&shy;le&shy;bens?  
+Bei gleich&shy;zei&shy;ti&shy;gem quasi Kon&shy;takt&shy;ver&shy;bot
+	oder -ver&shy;hin&shy;de&shy;rung nach Kr&auml;f&shy;ten?
+Bitte auch vor dem Hin&shy;ter&shy;grund,
+	in einer k&uuml;nstlich her&shy;bei&shy;ge&shy;f&uuml;hr&shy;ten
+	Schi&shy;zo&shy;phre&shy;nie ge&shy;ba&shy;det zu wer&shy;den.
+Allein ge&shy;las&shy;sen mit den kran&shy;ken Fan&shy;ta&shy;sien und
+	Ge&shy;l&uuml;s&shy;ten eines &uuml;ber alle Ma&szlig;en feigen wie
+	grau&shy;sa&shy;men Sadis&shy;ten?[^1]
+Was glaubt ihr, wie es nach Jah&shy;ren aus&shy;sieht?  
+Genauer:
+	Knapp 1.390 Tage oder un&shy;gef&auml;hr 18.000 Std. Lebens&shy;zeit
+	spauml;ter.
+  
+Und es inte&shy;res&shy;siert mich auch &uuml;ber&shy;haupt nicht,
+	wer wem be&shy;lie&shy;big mon&shy;str&ouml;&shy;sen M&uuml;ll
+	wann wie "an&shy;h&auml;n&shy;gen" m&ouml;ch&shy;te.
+Das ist euer Hobby.
+Die gegen&shy;sei&shy;ti&shy;ge Knech&shy;tung, Unter&shy;jo&shy;chung
+	und die&shy;ses herr&shy;li&shy;che Rum&shy;ge&shy;br&uuml;l&shy;le.  
+Ich will die sog. Wahr&shy;heit wis&shy;sen!  
+So schreck&shy;lich oder banal sie auch immer sein mag.
+	</details>
+
+<h2>Eige&shy;ne Sa&shy;che</h2>
+
+Das mag al&shy;les Ein&shy;bil&shy;dung sein,
+	aber ich sehe mich ziem&shy;lich un&shy;ter Be&shy;schuss.
+
+Ich bin mir eini&shy;ger&shy;ma&szlig;en "sicher",
+	dass Inte&shy;res&shy;sen&shy;grup&shy;pen
+	Dif&shy;fa&shy;mie&shy;rungs&shy;kampa&shy;gnen gegen mich 
+	fah&shy;ren.
+Mir scheint(!) es selbst bei ver&shy;schie&shy;de&shy;nen
+	gro&szlig;en Kon&shy;zer&shy;nen Innen&shy;t&auml;&shy;ter zu geben,
+	deren Wir&shy;ken zum Ziel hat,
+	meine(?) Repu&shy;ta&shy;tion zu be&shy;sch&auml;&shy;di&shy;gen
+	(Manche Accounts gro&szlig;er Plat&shy;for&shy;men kann ich keine
+	30 min halten! Voll&shy;kom&shy;men ab&shy;surd.)
+Dazu wei&shy;ter unten mehr.
+Ich fra&shy;ge mich,
+	wer ich in deren Augen sein soll.
+Ver&shy;wech&shy;seln die mich oder was?  
+Was wol&shy;len die von mir?
+
+> [!CAUTION]
+> [**IDEN&shy;TI&shy;T&Auml;TS&shy;BE&shy;TRUG**]
+> Seit mind. zwei Jah&shy;ren,
+> ich lebte da&shy;mals in der Pan&shy;ko&shy;wer Allee in
+> Rei&shy;nicken&shy;dorf,
+> scheint es eine Enti&shy;t&auml;t zu ge&shy;ben,
+> die mir,
+> grob ge&shy;sagt,
+> meine Per&shy;s&ouml;n&shy;lich&shy;keit ab&shy;neh&shy;men
+> (und mich dann t&ouml;ten?) will:
+> 1. ist das nicht meine Aus&shy;sage und
+> 2. nehme ich so einen Bl&ouml;d&shy;sinn nicht ernst
+>    (nie&shy;mand muss so&shy;et&shy;was ernst neh&shy;men).
+>
+> Wie ab&shy;surd ich das auch immer finde,
+> fing die&shy;ser Mensch vor Jah&shy;ren an
+> 1. meine Whg. ab&shy;zu&shy;h&ouml;ren,
+>    um alles über mein Leben zu er&shy;fah&shy;ren,
+> 2. meine Stim&shy;me zu &uuml;ben,
+>    um damit ande&shy;ren
+>    (zu&shy;n&auml;chst "nur" Nach&shy;barn,
+>    sp&auml;&shy;ter allen m&ouml;g&shy;lich&shy;en)
+>		 Men&shy;schen als ich auf die Ner&shy;ven zu gehen und
+> 3. am **30. Juli nach&shy;mit&shy;tags** war mein Aus&shy;weis,
+>		 nach einem,
+>		 (un&shy;glaub&shy;lich ge&shy;schickt)
+>		 als Straf&shy;tat mei&shy;ner&shy;seits
+>		 ge&shy;tarn&shy;ten Raub,
+>		 f&uuml;r 30 Minu&shy;ten in Fremd&shy;be&shy;sitz,
+>		 offen&shy;bar voll&shy;kom&shy;men aus&shy;rei&shy;chend f&uuml;r
+>		 nach&shy;weis&shy;ba&shy;ren
+>		 Iden&shy;ti&shy;t&auml;ts&shy;be&shy;trug.
+>
+> [**wichtig!**]
+> Wer lange Zeit je&shy;des Ge&shy;r&auml;usch mei&shy;ner
+> Woh&shy;nung&shy;(-en) ab&shy;nimmt,
+> kann irgend&shy;wann her&shy;vor&shy;ra&shy;gen&shy;de
+> Stimm&shy;pro&shy;fi&shy;le vor&shy;hal&shy;ten!
+> Bitte (lei&shy;der!) nicht davon aus&shy;ge&shy;hen,
+> dass je&shy;mand,
+> der am Tele&shy;fon klingt wie ich,
+> auch wirk&shy;lich ich bin.
+> **Sorry**!
+> Ich habe wirk&shy;lich her&shy;vor&shy;ra&shy;gen&shy;de
+> Imi&shy;ta&shy;tio&shy;nen ge&shy;h&ouml;rt.
+> 
+> Die schei&shy;nen jeden&shy;falls sehr flei&szlig;ig und
+> am&shy;bi&shy;tio&shy;niert,
+> auch wenn ich den Sinn da&shy;hin&shy;ter nicht ver&shy;ste&shy;he.  
+> 
+> [**Anm. 09.11.**]
+> So lang&shy;sam viel&shy;leicht schon.
+> Es l&auml;sst sich n&auml;m&shy;lich,
+> ein hohes Ma&szlig; an Skru&shy;pel&shy;lo&shy;sig&shy;keit
+> vo&shy;raus&shy;ge&shy;setzt,
+> (mal wie&shy;der)
+> Geld ver&shy;die&shy;nen.
+   
+Er selbst meint,
+ich sei ge&shy;mein&shy;sam mit einer ehe&shy;ma&shy;li&shy;gen
+Nach&shy;ba&shy;rin zur Te&shy;le&shy;pat&shy;hie be&shy;f&auml;higt,
+wo&shy;rauf er nei&shy;disch w&auml;re,
+au&szlig;er&shy;dem pas&shy;sen die be&shy;sag&shy;te Dame und ich
+an&shy;geb&shy;lich "gut zu&shy;sam&shy;men",
+das gin&shy;ge auch nicht.  
+Wenn man mich fragt:
+**D&uuml;m&shy;mer geht es nicht!**
+Was f&uuml;r ein reu&shy;di&shy;ger Schwach&shy;sinn!  
+Was wollt ihr wirk&shy;lich von mir?
+
+> [!IMPORTANT]
+> &Uuml;ber&shy;haupt
+> (und das ist mir wirk&shy;lich wich&shy;tig!)
+> ist das hier **nicht mein M&uuml;ll**,
+> ich r&auml;ume hier im Grun&shy;de nur hin&shy;ter&shy;her und
+> doku&shy;men&shy;tie&shy;re so gut es geht.
+>
+> Eine Sache w&uuml;rde ich n&auml;mlich schon gern ver&shy;mei&shy;den:  
+> Das "die" sich am Ende zu&shy;r&uuml;ck&shy;zie&shy;hen und es dann
+> hei&szlig;t:
+> Sch&ouml;ne Ge&shy;schich&shy;te haben sie da ge&shy;schrie&shy;ben,
+> Herr Puls.
+> Wir haben da die ein oder ande&shy;re Detail&shy;fra&shy;ge. :joy:  
 
 <img align="right"
-  alt="R&uuml;ckseite alter Ausweis (Wo ist die Datei?)"
-  src="./.assets/2024-08-09_puls_ausweis_ruck.jpg"
-  title="R&uuml;ckseite alter Ausweis (ung&uuml;ltig)"
+  alt="Vor&shy;der&shy;sei&shy;te alter Aus&shy;weis
+	  (Wo ist die Datei?)"
+  src="./.assets/2024-08-09_puls_ausweis.front.jpg"
+  title="Vor&shy;der&shy;sei&shy;te alter Aus&shy;weis
+		(un&shy;g&uuml;l&shy;tig)"
   width="200px">
 > [!WARNING]
-> **Dt. Per&shy;so&shy;nal&shy;ausw&shy;eis** `L3HLWLK719`
-> **un&shy;g&uuml;l&shy;tig** seit "Zeit&shy;punkt des
-> Ver&shy;lus&shy;tes" am <nobr>30.07.2024.</nobr>  
-> Das Bild rechts zeigt die R&uuml;cksei&shy;te die&shy;ses
-> (zwar ung&uuml;l&shy;ti&shy;gen)
-> aber nach Raub am 30. Juli
-> "zu&shy;r&uuml;ck&shy;ge&shy;ge&shy;be&shy;nen" Aus&shy;wei&shy;ses.
-> Skurri&shy;ler&shy;wei&shy;se dann am 9. Aug. um einen neuen
-> Auf&shy;kle&shy;ber
-> (mit mei&shy;ner aktu&shy;el&shy;len Adres&shy;se)
-> er&shy;g&auml;nzt. :smirk:
+>	Dt. **Per&shy;so&shy;nal&shy;ausw&shy;eis** `L3HLWLK719`
+>		**un&shy;g&uuml;l&shy;tig** seit "Zeit&shy;punkt des
+>		Ver&shy;lus&shy;tes" am <nobr>30.07.2024.</nobr>  
+> Auf den Bil&shy;dern rechts die Vor&shy;der- wie
+>		R&uuml;ck&shy;sei&shy;te die&shy;ses
+>		(zwar ung&uuml;l&shy;ti&shy;gen)
+>		aber nach Raub am 30. Juli
+>		"zu&shy;r&uuml;ck&shy;ge&shy;ge&shy;be&shy;nen" Aus&shy;wei&shy;ses.
+>	Skurri&shy;ler&shy;wei&shy;se dann am 9. Aug. um einen neuen
+>		Auf&shy;kle&shy;ber
+>		(mit mei&shy;ner aktu&shy;el&shy;len Adres&shy;se)
+>		er&shy;g&auml;nzt. :smirk:
 </img>
+<img align="right"
+  alt="R&uuml;ck&shy;sei&shy;te alter Aus&shy;weis (Wo ist die Datei?)"
+  src="./.assets/2024-08-09_puls_ausweis.ruck.jpg"
+  title="R&uuml;ck&shy;sei&shy;te alter Aus&shy;weis (ung&uuml;ltig)"
+  width="200px" />
 
 <img align="right"
-  alt="Trusted Devices sonstwo"
-  src="./.assets/2024-11-02_18-08_insta_trusted-devices.jpg"
-  title="Trusted Devices sonstwo"
+  alt="Trus&shy;ted Devi&shy;ces sonst&shy;wo"
+  src="./.assets/2024-10-31_10-15_insta_trusted-devices.png"
+  title="Trus&shy;ted Devi&shy;ces sonst&shy;wo"
   width="200px">
 > [!CAUTION]
 > [**31.10.**, 11:00]
@@ -66,75 +310,50 @@ version: di., 5. nov. 2024
 > namens Eike&shy;loh (NRW),
 > in einen von mir un&shy;ge&shy;nutz&shy;ten Insta&shy;gram-Account
 > ein&shy;ge&shy;loggt.  
-> Ich bin in Ber&shy;lin (und auf dem Weg zum Zahn&shy;arzt). :smirk:
+> Ich bin in Ber&shy;lin
+> (und auf dem Weg zum Zahn&shy;arzt). :smirk:
 > 
 > [**03.11.**, 05:31]
-> Logins (Face&shy;book- sowie drei Insta&shy;gram-Accounts)
-> auch in K&ouml;ln, Bochum oder irgendwelchen K&auml;f&shy;fern in
-> Nie&shy;der&shy;sach&shy;sen.
+> Log&shy;ins (Face&shy;book- so&shy;wie Insta&shy;gram-Accounts)
+> auch in K&ouml;ln, Bochum oder irgend&shy;wel&shy;chen
+>	K&auml;f&shy;fern in
+> Nie&shy;der&shy;sach&shy;sen.  
 > Jo. Und trus&shy;ted Devi&shy;ces
-> (gegen die ich nichts ausrichten kann). Sehr sch&ouml;n.
+> (gegen die ich nichts aus&shy;rich&shy;ten kann).
+> Sehr sch&ouml;n.  
+> </img>
+
+<img align="right"
+  alt="Log&shy;in einer link-<wbr />loka&shy;len IP-<wbr />Adres&shy;se
+		in mein Face&shy;book-Kon&shy;to"
+  src="./.assets/2024-11-08_facebook_login-link-lokal.jpg"
+  title="Log&shy;in einer
+	  link-<wbr />lo&shy;ka&shy;len APIPA-<wbr />Adres&shy;se"
+  width="400px">
+> [**Anm**. **08.11.**]
+> Es sind knapp 50 "feind&shy;li&shy;che" Log&shy;ins die Woche,
+> die auch so&shy;fort das Pass&shy;wort &auml;n&shy;dern,
+> und pein&shy;lich ge&shy;nau darauf ach&shy;ten,
+> als "Trus&shy;ted Device" Ho&shy;heit &uuml;ber mei&shy;nen Account
+> zu wah&shy;ren.
+> Die schei&shy;nen auch wun&shy;der&shy;bar ohne
+> l&auml;s&shy;ti&shy;ges Pass&shy;wort und 2FA klar zu kom&shy;men.  
+> Rechts ein Screen&shy;shot des bis&shy;he&shy;ri&shy;gen
+> H&ouml;he&shy;punk&shy;tes i.&#8239;d.&#8239;Z.:
+> Log&shy;in einer link-<wbr />lo&shy;ka&shy;len
+> <nobr>APIPA/</nobr>IPAC-<wbr />IP-<wbr />Adres&shy;se,
+> der eigent&shy;lich nur aus einem in&shy;ter&shy;nen (Sub-)<wbr />Netz
+> inner&shy;halb des Face&shy;book-/<wbr />Meta-<wbr />Kon&shy;zerns
+> aus&shy;ge&shy;f&uuml;hrt wor&shy;den sein kann?
 </img>
 
-> [!CAUTION]
-> [**IDEN&shy;TI&shy;T&Auml;TS&shy;BE&shy;TRUG**]
-> Seit mind. zwei Jahren,
-> ich lebte damals in der Pan&shy;ko&shy;wer Allee in Rei&shy;nicken&shy;dorf,
-> scheint es eine Enti&shy;t&auml;t zu geben,
-> die mir,
-> grob gesagt,
-> meine Per&shy;s&ouml;n&shy;lich&shy;keit ab&shy;neh&shy;men
-> (und mich dann t&ouml;ten?) will:
-> 1. ist das nicht meine Aus&shy;sage und
-> 2. nehme ich so einen Bl&ouml;d&shy;sinn nat&uuml;r&shy;lich(!) nicht ernst
->    (nie&shy;mand muss so&shy;et&shy;was ernst neh&shy;men).
->
-> Wie absurd ich das auch immer finde,
-> fing die&shy;ser Mensch vor Jahren an
-> 1. meine Whg. ab&shy;zu&shy;h&ouml;ren,
->    um alles über mein Leben zu er&shy;fah&shy;ren,
-> 2. meine Stimme zu &uuml;ben,
->    um damit ande&shy;ren
->    (zu&shy;n&auml;chst "nur" Nachbarn,
->    sp&auml;&shy;ter allen m&ouml;g&shy;lich&shy;en) Men&shy;schen als Alex&shy;an&shy;der Puls
->    auf die Ner&shy;ven zu gehen,
-> 3. seit sp&auml;&shy;tes&shy;tens **30. Juli mit&shy;tags** wohl aus&shy;gie&shy;bi&shy;ger
->    Iden&shy;ti&shy;t&auml;ts&shy;be&shy;trug,
->    weil "er" wohl für 30 Minu&shy;ten(!?) mei&shy;nen Aus&shy;weis hatte
->    (nach einem,
->    als Straf&shy;tat mei&shy;ner&shy;seits,
->    ge&shy;tarn&shy;ten Raub)
->
-> [**wichtig!**]
-> Wer vier Jahre lang je&shy;des Ge&shy;r&auml;usch mei&shy;ner Woh&shy;nung&shy;(-en) ab&shy;nimmt,
-> muss(!) her&shy;vor&shy;ra&shy;gen&shy;de Stimm&shy;pro&shy;fi&shy;le vor&shy;hal&shy;ten!
-> Bitte (leider!) nicht davon aus&shy;ge&shy;hen,
-> dass je&shy;mand,
-> der am Tele&shy;fon klingt wie ich, auch wirk&shy;lich ich bin.
-> **Sorry**!
-> 
-> Die schei&shy;nen jeden&shy;falls sehr flei&szlig;ig und
-> am&shy;bi&shy;tio&shy;niert,
-> auch wenn ich den Sinn da&shy;hin&shy;ter nicht ver&shy;ste&shy;he!
-   
-Er selbst meint,
-ich sei ge&shy;mein&shy;sam mit einer ehe&shy;ma&shy;li&shy;gen Nach&shy;ba&shy;rin
-zur Te&shy;le&shy;pat&shy;hie be&shy;f&auml;higt,
-wo&shy;rauf er nei&shy;disch w&auml;re,
-au&szlig;er&shy;dem pas&shy;sen die be&shy;sag&shy;te Dame und ich an&shy;geb&shy;lich
-gut zu&shy;sam&shy;men,
-das gin&shy;ge auch nicht.  
-Wenn man mich fragt:
-**D&uuml;m&shy;mer geht es nicht!**
-Was f&uuml;r ein reu&shy;di&shy;ger Schwach&shy;sinn!
-Was wollt ihr wirklich von mir?
-
-<h3>Zeigt hier jemand,
+N&auml;ch&shy;ste Fra&shy;<nobr>ge/</nobr>Ver&shy;mu&shy;tung:  
+Viel&shy;leicht m&ouml;ch&shy;te je&shy;mand zei&shy;gen,
   dass die Straf&shy;ver&shy;fol&shy;gung einen Algo&shy;rith&shy;mus
   ver&shy;wen&shy;det,
   der ge&shy;w&ouml;hn&shy;li&shy;che Straf&shy;ta&shy;ten
   ge&shy;w&ouml;hn&shy;lich be&shy;han&shy;delt,
-  un&shy;denk&shy;ba&shy;re hin&shy;ge&shy;gen eher gar nicht?</h3>
+  un&shy;denk&shy;ba&shy;re hin&shy;ge&shy;gen eher gar nicht?
 
 Z.&#8239;B. Wohn&shy;bl&ouml;cke,
 in denen sich Miet&shy;woh&shy;nun&shy;gen be&shy;fin&shy;den,
@@ -143,37 +362,112 @@ Fol&shy;ter&shy;kam&shy;mern sind,
 in denen sich aber auch Strah&shy;lung emit&shy;tie&shy;ren l&auml;sst
 und wenn die "In&shy;sas&shy;sen" nicht gef&uuml;&shy;gig sind, 
 Gase ein&shy;ge&shy;las&shy;sen wer&shy;den
-(Z.&#8239;B. wenn alle schla&shy;fen sol&shy;len.
-Ist Mes&shy;ka&shy;lin "luft&shy;l&ouml;s&shy;lich"?).  
-\+ + + Zu geil .. :joy: Wer soll sowas denn bitte glau&shy;ben?!
+(z.&#8239;B. wenn alle schla&shy;fen sol&shy;len.
+Ist Mes&shy;ka&shy;lin "luft&shy;l&ouml;s&shy;lich"?).
+
+\+ + + Zu geil .. :joy: Wer soll so&shy;was denn bitte glau&shy;ben?!
 \+ + +  
 
-Und vor allem(!): Zu was soll das denn bitte gut sein?!
+Und vor allem:
+Zu was soll das denn bitte gut sein?!
 Men&shy;schen&shy;han&shy;<nobr>del/</nobr><wbr
 />Zwangs&shy;pros&shy;ti&shy;tu&shy;tion?  
-Das funk&shy;tio&shy;niert nur mit lobo&shy;to&shy;mier&shy;ten Frauen?  
-Sicher?
+Das funk&shy;tio&shy;niert nur mit lobo&shy;to&shy;mier&shy;ten Frauen?
+Sicher?  
 Weil, zu&shy;n&auml;chst h&ouml;rt sich das wirk&shy;lich
-be&shy;denk&shy;lich degene&shy;riert und kaputt an?
-Ach so: Und danach auch.
+  be&shy;denk&shy;lich de&shy;ge&shy;ne&shy;riert und ka&shy;putt an!  
+Ach so:
+  Und es wird danach irgend&shy;wie auch nicht bes&shy;ser.
 
 Naja, bes&shy;ser als die "alten" Na&shy;zis,
 die sich ihre Lager noch selbst haben bauen m&uuml;s&shy;sen.
 
+Ach so:
+Der Ver&shy;kauf von
+(leicht ge&shy;brauch&shy;ten)
+Iden&shy;ti&shy;t&auml;&shy;ten ist das neueste Ding.
+Die Sau du Jeur, so&shy;zu&shy;sa&shy;gen.
+Gern mit sau&shy;be&shy;ren
+Akten/F&uuml;h&shy;rungs&shy;zeu&shy;gnis&shy;sen o.&#8239;&auml;.
+(wie bei mir :grimacing:).
+
+> [!TIP]
+> Eigent&shy;lich sind s&auml;mt&shy;liche "Side-<wbr />Storys"
+> voll&shy;kom&shy;men ab&shy;sur&shy;der Schwach&shy;sinn!  
+> Das eigent&shy;li&shy;che "Wir&shy;ken" die&shy;ser
+> h&ouml;chs&shy;tens zwei Crews ist
+> (bei aller Skru&shy;pel&shy;lo&shy;sig&shy;<nobr>keit/</nobr><wbr
+> />Grau&shy;sam&shy;keit)
+> das eigent&shy;lich
+> span&shy;nen&shy;<nobr>de/</nobr><wbr />auf&shy;f&auml;l&shy;li&shy;ge.
+> 
+> Einer der T&auml;ter hat mir mal Keyser S&ouml;jze aus
+> «The Usual Sus&shy;pects» zitiert und irgend&shy;wie haben "die"
+> sich das zum Pro&shy;gramm ge&shy;macht:  
+> <q>The Grea&shy;test Trick the Devil Ever Pul&shy;led Was
+> Con&shy;vin&shy;cing the World He Didn’t Exist</q>
+> (ur&shy;spr&uuml;ng&shy;lich wohl Char&shy;les
+> Bau&shy;de&shy;lai&shy;re).  
+> Aber habe ich mir ge&shy;dacht, 
+> fan&shy;ge ich doch mal mit der Worst-<wbr />Case-<wbr />These an! :
+
+<h2>These / Ideen zum Motiv</h2>
+
+<h3>Best Case</h3>
+
+Irgend&shy;je&shy;mand hat ein&shy;fach nur un&shy;fass&shy;bar viel
+Zeit und neben&shy;bei krasse M&ouml;g&shy;lich&shy;kei&shy;ten),
+mich mal so rich&shy;tig zu ver&shy;ar&shy;schen
+(aus was f&uuml;r Gr&uuml;den auch immer).  
+Wobei ich sagen muss,
+dass auch "nur" vor&shy;ge&shy;t&auml;usch&shy;te Straf&shy;ta&shy;ten
+f&uuml;r Zeu&shy;gen die glei&shy;che Be&shy;las&shy;tung sind und zu
+Recht selbst Straf&shy;ta&shy;ten dar&shy;stel&shy;len.
+
+<h3>Worst Case</h3>
+
+* eine "Sadis&shy;ten"-Crew sucht Opfer nach fol&shy;gen&shy;den
+  Kri&shy;te&shy;rien aus:
+  * famili&auml;r schwache Bin&shy;dung oder wenig
+    Ver&shy;wandt&shy;schaft
+  * sozial nicht sehr stark vernetzt
+  * wenig "Ein&shy;fluss"/Be&shy;kannt&shy;heit in der Gesell&shy;schaft
+
+* Unter&shy;mi&shy;nie&shy;rung der Glaub&shy;w&uuml;r&shy;dig&shy;keit
+  * Induk&shy;tion "k&uuml;nst&shy;lich&shy;er"
+    Schi&shy;zo&shy;phre&shy;nien o.&#8239;&auml;.
+    (wie hoch ist eigent&shy;lich die Schi&shy;zo&shy;phre&shy;nie-Quote
+    bei (v.a. m&auml;nn&shy;li&shy;chen) Be&shy;woh&shy;nern
+    des Hinterhauses in der Pankower Allee 86?)
+  * "Zu&shy;spam&shy;men" mit Trash-Storys
+
+* &Uuml;ber&shy;ga&shy;be an eine (Arbeits&shy;ti&shy;tel)
+  "Psy"-Sek&shy;te,
+  die die Opfer wei&shy;ter be&shy;ar&shy;bei&shy;tet
+
+* irgend&shy;wann wissen die Opfer ihre eige&shy;nen Namen nicht mehr
+  und wer&shy;den zur Pros&shy;ti&shy;tu&shy;tion ge&shy;zwun&shy;gen
+  oder ihre Iden&shy;ti&shy;t&auml;&shy;ten ver&shy;h&ouml;&shy;kert
+
+* Opfer wer&shy;den f&uuml;r even&shy;tu&shy;el&shy;le
+  For&shy;ma&shy;lien auf B&uuml;r&shy;ger&shy;geld
+  "ge&shy;hal&shy;ten" und mit Bull&shy;shit wie
+  "Gedan&shy;ken&shy;&uuml;ber&shy;tra&shy;gung "be&shy;spa&szlig;t"
+
 Jeden&shy;falls
 (und das wird hier alles noch be&shy;lie&shy;big
 ab&shy;ge&shy;fah&shy;re&shy;ner)
-ist mir auch eine zwei&shy;fels&shy;freie Auf&shy;nah&shy;me,
+ist mir eine zwei&shy;fels&shy;freie Auf&shy;nah&shy;me,
 mani&shy;pu&shy;lier&shy;ter Raum&shy;akus&shy;tik mit&shy;tels eines
 belie&shy;bi&shy;gen bei You&shy;Tu&shy;be ge&shy;la&shy;de&shy;nen
 Songs ge&shy;lun&shy;gen.  
-I.&#8239;d.&#8239;Z. dann auch gleich noch der Beweis,
+I.&#8239;d.&#8239;Z. ein Nachweis,
 dass ver&shy;mut&shy;lich "auf Wunsch" einer,
 die&shy;ses(!) Repo mit&shy;le&shy;sen&shy;den
 Inte&shy;res&shy;sen&shy;grup&shy;pe,
 und zum Zwecke der Ver&shy;schleie&shy;rung von Straf&shy;ta&shy;ten,
-Audio-Auf&shy;nah&shy;men auf Datei&shy;sys&shy;tem&shy;ebe&shy;ne(!)
-der in&shy;ter&shy;nen(!) Web&shy;ser&shy;ver bei Git&shy;Hub(!) Inc.
+Audio-Auf&shy;nah&shy;men auf Datei&shy;sys&shy;tem&shy;ebe&shy;ne
+der in&shy;ter&shy;nen Web&shy;ser&shy;ver bei Git&shy;Hub Inc.
 mani&shy;pu&shy;liert wur&shy;den.  
 Wieso wird eigent&shy;lich ein Repo,
 das nie&shy;man&shy;den inte&shy;res&shy;siert,
@@ -182,98 +476,100 @@ Wo&shy;her ken&shy;nen die&shy;se Des&shy;inte&shy;res&shy;sier&shy;ten
 den Namen des Repos,
 wenn ich ihn jede Woche &auml;nde&shy;re?  
 
-> [!IMPORTANT]
-> [**1st Things first**]
-> Selbst&shy;ver&shy;st&auml;nd&shy;lich han&shy;delt es sich hier,
-> ob ver&shy;ein&shy;zel&shy;ter Nach&shy;fra&shy;gen  
-> (wuss&shy;te gar nicht,
-> dass mei&shy;ne Re&shy;pos irgend&shy;wen
-> inte&shy;res&shy;sie&shy;ren :zany_face:),  
-> ledig&shy;lich um eine (leid&shy;lich) lus&shy;ti&shy;ge,
-> aber (hoff&shy;ent&shy;lich) span&shy;nen&shy;de Ge&shy;schich&shy;te!  
-> S&auml;mt&shy;liche vor&shy;kom&shy;men&shy;den Namen
-> ent&shy;sprin&shy;gen ei&shy;ner sog. schi&shy;zo&shy;phre&shy;nen
-> Wahn&shy;idee und k&ouml;n&shy;nen da&shy;mit,
-> ge&shy;nau wie das hier be&shy;schrie&shy;be&shy;ne
-> "ein&shy;sa&shy;me Er&shy;le&shy;ben"
-> (Def. Schi&shy;zo&shy;phre&shy;nie),
-> in kei&shy;ner&shy;lei Be&shy;zug zu ei&shy;ner ge&shy;mein&shy;sam
-> er&shy;leb&shy;ten Rea&shy;li&shy;t&auml;t ste&shy;hen?
-> 
-> Sonst alles wie immer: I'm fuckin' great! :grimacing: 
-
 Und da&shy;mit be&shy;ginnt die Geschich&shy;te eigent&shy;lich erst:  
 Vor vier Jah&shy;ren in einem ganz nor&shy;ma&shy;len
 Mehr&shy;fa&shy;mi&shy;lien&shy;haus
 in Rei&shy;ni&shy;cken&shy;dorf
-(das sich erst sp&auml;t als ein Tem&shy;pel des Wahn&shy;sinns herausstellt)
-mit dem f&uuml;r nor&shy;ma&shy;le Men&shy;sch&shy;en m&ouml;g&shy;lich&shy;er&shy;wei&shy;se
-noch nicht so span&shy;nen&shy;den Thema, wie man einen,
-an Schi&shy;zo&shy;phre&shy;nie "er&shy;krank&shy;ten" Men&shy;sch&shy;en,
-so lang&shy;sam wie m&ouml;g&shy;lich in einen grau&shy;sa&shy;men Tod schickt,
+(das sich erst sp&auml;t als ein Tem&shy;pel des Wahn&shy;sinns
+he&shy;raus&shy;stellt)
+mit dem f&uuml;r nor&shy;ma&shy;le Men&shy;sch&shy;en
+m&ouml;g&shy;lich&shy;er&shy;wei&shy;se noch nicht so span&shy;nen&shy;den Thema, wie man einen,
+an Schi&shy;zo&shy;phre&shy;nie "er&shy;krank&shy;ten"
+Men&shy;sch&shy;en,
+so lang&shy;sam wie m&ouml;g&shy;lich in einen grau&shy;sa&shy;men Tod
+schickt,
 immer darauf ach&shy;tend, 
-dass das eigene Wir&shy;ken nie&shy;mals die Schwelle sog. ein&shy;sa&shy;men Er&shy;le&shy;bens
-einer Schi&shy;zo&shy;phre&shy;nie &uuml;ber&shy;tritt.  
+dass das eigene Wir&shy;ken nie&shy;mals die Schwelle sog.
+ein&shy;sa&shy;men Er&shy;le&shy;bens einer Schi&shy;zo&shy;phre&shy;nie
+&uuml;ber&shy;tritt.  
 Ich ver&shy;mu&shy;te, 
 dass mein "Fall" an&shy;f&auml;ng&shy;lich von einem Herrn F.(?)
-aus Rei&shy;nicken&shy;dorf &uuml;ber&shy;nom&shy;men wurde und niemand
-(aus seiner "Crew") jemals damit rechnete,
+aus Rei&shy;nicken&shy;dorf &uuml;ber&shy;nom&shy;men wurde und
+nie&shy;mand 	(aus seiner "Crew") jemals damit rechnete,
 dass das "Opfer" heute (2. Nov. 2024) hier
 (mich in einem Gar&shy;ten&shy;haus in &Ouml;ster&shy;reich "ver&shy;steckend") 
 sitze und da&shy;r&uuml;&shy;ber re&shy;flek&shy;tie&shy;re.
 
-Kom&shy;men wir mal zum Ti&shy;tel..
-
-Ich h&auml;t&shy;te gern mit drin&shy;nen,
-<h1>Iden&shy;ti&shy;t&auml;t und (v.&#8239;a. und i.&#8239;d.&#8239;Z.) Ver&shy;trau&shy;en,
-  dann Beob&shy;ach&shy;tun&shy;gen zu
-  <b>Kom&shy;mu&shy;ni&shy;ka&shy;<nobr>tion</b>/</nobr><b>Iso&shy;la&shy;tion</b>
-  sowie der Wirk&shy;m&auml;ch&shy;tig&shy;keit
-  (vor allem <b>akus&shy;ti&shy;sche</b>r) <b>Mani&shy;pu&shy;la&shy;tion</b> von
-  (wohl auch Mas&shy;<nobr>sen-)</nobr><wbr />Wahr&shy;neh&shy;mung<br />
-  <sub><sup>oder</sup></sub><br />«&Uuml;ber das "ver&shy;bor&shy;ge&shy;ne"
-    Wir&shy;ken min&shy;des&shy;tens (irgend-)einer
-    ein&shy;fluss&shy;rei&shy;chen
-    <nobr>(Psy-)Sadis&shy;<nobr>ten-<wbr />Crew»</sup></sub></h1>
-
-.. deren Herr F. aus Rei&shy;nicken&shy;dorf,
-    Spe&shy;zia&shy;list f&uuml;r die qual&shy;vol&shy;le
-    Er&shy;mor&shy;dung von 
-    Schi&shy;zo&shy;phre&shy;nie-<wbr />Pa&shy;tien&shy;ten,
-    dem Autor die&shy;ser Zei&shy;len vor knapp 1.390 Tagen eine
+Der Rei&shy;nicken&shy;dorfer(?) ist wohl Spe&shy;zia&shy;list f&uuml;r
+	die qual&shy;vol&shy;le Er&shy;mor&shy;dung von
+	Schi&shy;zo&shy;phre&shy;nie-<wbr />Pa&shy;tien&shy;ten,
+    der dem Autor die&shy;ser Zei&shy;len vor knapp 1.390 Tagen eine
     **k&uuml;nst&shy;li&shy;che Schi&shy;zo&shy;phre&shy;nie**
     in&shy;du&shy;zier&shy;te,
-	um ihn als sein Todes-<wbr />Opfer Nr. 17 mit 
+    um ihn als sein Todes-<wbr />Opfer Nr. 17 mit 
     Schi&shy;zo&shy;phre&shy;nie-<wbr />Diag&shy;no&shy;se so
     lang&shy;sam wie nur m&ouml;g&shy;lich in den quasi siche&shy;ren
     Tod zu fol&shy;tern.  
-	Warum hier trotz&shy;dem je&shy;mand an einer recht
+    Warum hier trotz&shy;dem je&shy;mand an einer recht
     kom&shy;ple&shy;xen und wen&shy;dungs&shy;rei&shy;chen 
     Ge&shy;schich&shy;te schreibt,
     die (lei&shy;der!) mit jeder Zei&shy;le rea&shy;ler wird?
-	
-Er hat es nicht ge&shy;schafft.
+    
+Nun. Er hat es nicht ge&shy;schafft.
+	Ich lebe noch immer.
+Und das,
+	zu&shy;sam&shy;men mit die&shy;ser Doku&shy;men&shy;ta&shy;tion,
+	wird lang&shy;sam zum Pro&shy;blem.
 
 Statt&shy;des&shy;sen habe ich jetzt seine kom&shy;plet&shy;te Crew
   an den Hacken, die aber,
-	seit ich Ende August mit dem Schrei&shy;ben die&shy;ser zwar
+    seit ich Ende August mit dem Schrei&shy;ben die&shy;ser zwar
   **zeitaufw&auml;ndige**n,
-	aber (wie sich bald heraus&shy;stell&shy;te) sehr 
+    aber (wie sich bald heraus&shy;stell&shy;te) sehr 
   not&shy;wen&shy;di&shy;gen **Doku&shy;men&shy;ta&shy;tion** 
   an&shy;ge&shy;fan&shy;gen habe,
- 	auch nichts wirk&shy;lich aus&shy;rich&shy;ten kann.
+    auch nichts wirk&shy;lich aus&shy;rich&shy;ten kann.
 Wir sind alle stuck,
-	so dass ich mir vor&shy;stel&shy;len kann,
- 	dass ich in K&uuml;r&shy;ze wie&shy;der auf 
+    so dass ich mir vor&shy;stel&shy;len kann,
+    dass ich in K&uuml;r&shy;ze wie&shy;der auf 
   ge&shy;w&ouml;hn&shy;li&shy;che Schizophrenie defaulten soll,
-	wo&shy;zu ich nur sagen kann:
+    wo&shy;zu ich nur sagen kann:
 Dieses Mal wird es nicht funk&shy;tio&shy;nie&shy;ren.
 Warum nicht?  
-Weil ihr (wie letz&shy;tes Mal) Au&szlig;en&shy;wir&shy;kung
-er&shy;zielt habt,
-aber:
-**Die&shy;ses Mal be&shy;wei&shy;se ich eure 
-Au&szlig;en&shy;wir&shy;kung!**
+Weil ihr 
+	(ge&shy;nau wie letz&shy;tes Mal auch)
+	Au&szlig;en&shy;wir&shy;kung er&shy;zeugt habt, aber:  
+**Die&shy;ses Mal be&shy;wei&shy;se ich es.**
+Wenn auch nur mir selbst.
+Und als Spe&shy;zia&shy;lis&shy;ten f&uuml;r die Zer&shy;set&shy;zung
+	der Wahr&shy;neh&shy;mung eu&shy;rer Mit&shy;men&shy;schen wisst ihr
+	nat&uuml;rlich sehr ge&shy;nau,
+	wie wich&shy;tig mir das ist.  
+Was ihr nicht wisst:
+Die Sache ist viel gr&ouml;&szlig;er.
+Weil man, 
+wenn alles so stimmt,
+wie von mir wahr&shy;ge&shy;nom&shy;men,
+in Zu&shy;kunft zwin&shy;gend an&shy;ders auf
+	Schi&shy;zo&shy;phre&shy;nie-<wbr />Pa&shy;tien&shy;ten
+	rea&shy;gie&shy;ren muss,
+	wenn diese das Ge&shy;f&uuml;hl haben,
+	es gibt **doch** Trig&shy;ger "von au&szlig;en".  
+Damit endet dann n&auml;m&shy;lich (hoffent&shy;lich) euer kran&shy;kes
+	"Spiel" mit denen,
+	die sich per Defi&shy;ni&shy;tion nicht weh&shy;ren k&ouml;n&shy;nen!
+	"Wir" "d&uuml;r&shy;fen" es schlicht und er&shy;grei&shy;fend nicht,
+	weil das immer(!) als Ver&shy;schlech&shy;te&shy;rung der
+	gesund&shy;heit&shy;lichen Situa&shy;tion ver&shy;stan&shy;den wird.
+Es gibt bei die&shy;ser "St&ouml;&shy;rung n&auml;m&shy;lich keine 
+	falsch posi&shy;ti&shy;ven Diag&shy;no&shy;sen.
+	Die kann es nicht geben.
+Wei&szlig; ich.
+Ich w&auml;re n&auml;m&shy;lich
+(aller Vor&shy;aus&shy;sicht nach)
+eine.
+
+### + + + bis hier erstmal einigerma&szlig;en sortiert + +  +
 
 > [!IMPORTANT]
 > [**DONE**?]
@@ -282,56 +578,59 @@ Au&szlig;en&shy;wir&shy;kung!**
 > Nach Jahren,
 > in denen mir jeder(!) Mensch auf die&shy;sem Pla&shy;ne&shy;ten er&shy;z&auml;hlt,
 > ich sei nur ein Idiot,
-> der sich irgend&shy;eine Schei&szlig;e aus&shy;denkt,
+> der sich irgend&shy;einen wirklich bedenklich degenerierten Mist aus&shy;denkt,
 > schreibt mir Allan aus dem Support, der zu Microsoft Corp. geh&ouml;h&shy;ren&shy;den,
 > Git&shy;Hub Inc. aus New York:
 > ```
 > Greetings Alex,
 > Understood, thanks for the clarification.
-> Would you like us to go ahead and remove the LFS objects linked to 0vv1/state-of-mind from our servers?
+> Would you like us to go ahead and remove the LFS objects
+> linked to 0vv1/state-of-mind from our servers?
 > You should then be able to remove those data packs.
 > Best regards,
 > Allan H
 > GitHub Support
 > ```
-> **Sinngem&auml;&szlig; auf Deutsch**: Verstanden. Is das i.O. f&uuml;r dich,
-> wenn wir "diese Sachen" bei uns l&ouml;schen?
 > 
-> (Deswegen versteht mein Vater das auch nicht: Wieso liege ich Anfang 2021 in meinem
-> Bett und denke mir irgendwelche Stimmen aus und dann schreibt Ende 2024 ein Allan
-> aus New York, dass ich mir das doch nicht eingebildet habe und alles echt war?)
+> (Des&shy;wegen ver&shy;steht mein Vater das auch nicht:
+> Wieso liege ich An&shy;fang 2021 in mei&shy;nem Bett in einer
+>	1-Raum-Whg. in Ber&shy;lin-<wbr />Rei&shy;nicken&shy;dorf und
+> den&shy;ke mir irgend&shy;wel&shy;che Stim&shy;men aus und dann
+> schreibt mir Ende 2024 ein Allan aus New York und ich bin doch
+> ge&shy;sund?
+> Wer soll das[^2] denn bit&shy;te auch ver&shy;ste&shy;hen?)
 
 Neben ihrer lebens&shy;ver&shy;sichern&shy;den Funk&shy;tion tut mir die
     sorg&shy;f&auml;l&shy;ti&shy;ge An&shy;fer&shy;ti&shy;gung einer
     Doku&shy;men&shy;ta&shy;tion au&szlig;er&shy;dem gut
-	**und wird für den**
-	(hoff&shy;ent&shy;lich)
-	&auml;u&szlig;erst un&shy;wahr&shy;schein&shy;lich&shy;en **Fall,
-	dass** irgend&shy;wann ein&shy;mal **ein** ande&shy;rer **Mensch
-	ähn&shy;liche Er&shy;fah&shy;run&shy;gen mach&shy;en muss**,
- 	vor&shy;ge&shy;hal&shy;ten.
+    **und wird für den**
+    (hoff&shy;ent&shy;lich)
+    &auml;u&szlig;erst un&shy;wahr&shy;schein&shy;lich&shy;en **Fall,
+    dass** irgend&shy;wann ein&shy;mal **ein** ande&shy;rer **Mensch
+    ähn&shy;liche Er&shy;fah&shy;run&shy;gen mach&shy;en muss**,
+    vor&shy;ge&shy;hal&shy;ten.
 Sp&auml;&shy;te&shy;re <nobr>T&auml;ter/</nobr>-<wbr />in&shy;nen
     sol&shy;len es dann so schwer wie mög&shy;lich haben,
-	ihr Tun zu ob&shy;fus&shy;kier&shy;en <nobr>und/</nobr><wbr>oder
+    ihr Tun zu ob&shy;fus&shy;kier&shy;en <nobr>und/</nobr><wbr>oder
     ihre Opfer zu iso&shy;lie&shy;ren.
 
 Der aller&shy;gr&ouml;&szlig;&shy;te Teil der
-	(bis&shy;her nat&uuml;r&shy;lich von mir nur 
+    (bis&shy;her nat&uuml;r&shy;lich von mir nur 
     ver&shy;mu&shy;te&shy;ten 
     Des&shy;in&shy;for&shy;ma&shy;tions-M&uuml;ll-)**Sen&shy;der trat** 
     zu&shy;min&shy;dest mir gegen&shy;über demon&shy;stra&shy;tiv
-	**hos&shy;<nobr>til**/**ver</nobr>&shy;ächt&shy;lich** auf und
-	nutzte mein,
-	durch die Diag&shy;no&shy;se indu&shy;zier&shy;tes,
-	durch ihre Taten noch **beschleu&shy;nig&shy;t** und wei&shy;ter
-	**ab&shy;neh&shy;men&shy;des Ver&shy;trau&shy;en in die eige&shy;nen
-	Sin&shy;nes&shy;wahr&shy;neh&shy;mung&shy;en**,
-	aus&shy;gie&shy;big und ohne jeden Skru&shy;pel,
-	so&shy;wohl zur Wir&shy;kungs&shy;ver&shy;stär&shy;kung ihrer
-	Mit&shy;tel
-	(*kurz*: man kann mich viel bes&shy;ser täu&shy;sch&shy;en)
-	als auch zur Ver&shy;schleie&shy;rung ihrer eige&shy;nen
-	Iden&shy;ti&shy;tät[^3] **aus**.
+    **hos&shy;<nobr>til**/**ver</nobr>&shy;ächt&shy;lich** auf und
+    nutzte mein,
+    durch die Diag&shy;no&shy;se indu&shy;zier&shy;tes,
+    durch ihre Taten noch **beschleu&shy;nig&shy;t** und wei&shy;ter
+    **ab&shy;neh&shy;men&shy;des Ver&shy;trau&shy;en in die eige&shy;nen
+    Sin&shy;nes&shy;wahr&shy;neh&shy;mung&shy;en**,
+    aus&shy;gie&shy;big und ohne jeden Skru&shy;pel,
+    so&shy;wohl zur Wir&shy;kungs&shy;ver&shy;stär&shy;kung ihrer
+    Mit&shy;tel
+    (*kurz*: man kann mich viel bes&shy;ser täu&shy;sch&shy;en)
+    als auch zur Ver&shy;schleie&shy;rung ihrer eige&shy;nen
+    Iden&shy;ti&shy;tät[^3] **aus**.
 
 > [!WARNING]
 > Ich konn&shy;te mir bis&shy;her,
@@ -360,9 +659,9 @@ Der aller&shy;gr&ouml;&szlig;&shy;te Teil der
 <!-- ende warnung -->
 
 Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
-	(oder Hil&shy;fe)
-	"von außen" aus&shy;kom&shy;men muss,
-	hilft da oft nur sehr viel Humor. :grimacing:  
+    (oder Hil&shy;fe)
+    "von außen" aus&shy;kom&shy;men muss,
+    hilft da oft nur sehr viel Humor. :grimacing:  
 
 <h2>Gliederung</h2>
 
@@ -402,8 +701,8 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > 
 > [**Anm. 28.10.** 06:30]
 > * eine Sadisten-Crew mit
-> 	1. einer gr&ouml;&szlig;eren Zahl auch einflussreicherer Mitglieder (Strafverfolgung, Justiz, [Psychologische Fakult&auml;ten](#uni-psych), Politik) und
->  	2. mglw. auch internationalen Kontakten (nat&uuml;rlich alles Zufall, aber hier fahren Botschaftsangeh&ouml;rige vor)
+>   1. einer gr&ouml;&szlig;eren Zahl auch einflussreicherer Mitglieder (Strafverfolgung, Justiz, [Psychologische Fakult&auml;ten](#uni-psych), Politik) und
+>   2. mglw. auch internationalen Kontakten (nat&uuml;rlich alles Zufall, aber hier fahren Botschaftsangeh&ouml;rige vor)
 >
 > * eine unterst&uuml;tzende "Psy"-"Sekte" (k.&#8239;A., wie ich diese Crew besser benennen k&ouml;nnte und TBH bin ich mir bzgl. Hierarchien gar nicht (mehr) so sicher)
 >   * ich habe die anf&auml;nglich f&uuml;r eine beliebige Hacker-Crew gehalten, ganz ehrlich: Die sind an der Kiste nicht soo geil.  
@@ -542,11 +841,9 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 <h2>Recordings</h2>
 
 > [!CAUTION]
-> <!-- Dieser reudige, menschenverachtende, stumpfe, die Sch&ouml;pfung verneinende Duktus in der Kommunikation.  
-> Ihr missachtet die W&uuml;rde des einzelnen.
-> Auch eure eigene.  
-> In eurer N&auml;he ist alles egal. --> 
-> **GitHub Inc. kann die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten**?
+> **GitHub** Inc. kann
+> (nach T&auml;ter-Einrede)
+> die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten**?
 > Warum sollten sie das nicht k&ouml;nnen?
 > Hochgeladene Dateien, abgelegt auf (internen) Servern,
 > &auml;ndern alle f&uuml;nf Minuten ihre Pr&uuml;fsumme?  
@@ -590,10 +887,10 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > [!CAUTION]
 > [**27.10.**, 13:52]
 > <img
->	align="right"
+>   align="right"
 >   alt="GitHub Support Ticket #3067960 2. Eintrag"
-> 	src="./.assets/2024-10-27_github_support-ticket-3067960.2.png"
-> 	width="700px">
+>   src="./.assets/2024-10-27_github_support-ticket-3067960.2.png"
+>   width="700px">
 >
 > * k.&#8239;A.,
 >   viel&shy;leicht nehme ich mich auch zu wich&shy;tig oder so. :shrug:
@@ -758,11 +1055,11 @@ Ich denke manchmal, sie kennt mich überhaupt nicht.
   * jedenfalls der Track:
     * entstellt singt sie, Du bist die erste Nummer (Suggestion: "Alex" erster im Tel.-buch in einer glücklichen Beziehung, die ich nie hatte,
       hoffentlich sie, und dann aber auch wieder nicht. Das erbettelst Du, dass diese Frau dich hoffentlich nicht kennt! Weil Du tödlich bist. Das allerletzte, was irgendwer gebrauchen kann)
-	* dazwischen allerlei Freak-Kram
+    * dazwischen allerlei Freak-Kram
     * dann: Du bist die letzte Nr. (Suggestion: die ich anrufe, bevor ich springe)
     * und dann lässt dich der Man in the Middle ausrasten, stoppt dafür die Musik, dass alles laut und deutlich vernehmbar ist,
       das erste Mal seit Jahren
-  	* **dann**: Einrede, ihr sprecht gerade das erste Mal direkt miteinander(!) und deine letzten Worte waren entscheidend für ihr Fortleben,
+    * **dann**: Einrede, ihr sprecht gerade das erste Mal direkt miteinander(!) und deine letzten Worte waren entscheidend für ihr Fortleben,
       besonderes Bonbon: sie wiederholt deine Schimpfworte
 
   * alles leider abhängig von Stimmung und Adrenalin etc.
@@ -931,7 +1228,7 @@ was passiert.
 > [!CAUTION]
 > Und hier eine interessante Beobachtung:
 > Ich nehme diese Sadisten als unfassbar feige wahr.
-> So feige wie grausam.
+> So feige wie grausam.[^1]
 > Diese hier f&uuml;hlen sich aber vollkommen sicher.
 > Und dass kann nur eines bedeuten:
 > Die Strafverfolgung kann ihnen nichts!  
@@ -1549,41 +1846,6 @@ Und uns trenn&shy;ten nur eine Holz&shy;t&uuml;r und eine
 
 .. und alle fal&shy;len aus&shy;ein&shy;an&shy;der.
 
-F&uuml;r L\. zi&shy;tiere ich,
-warum auch immer sie das hier lesen soll&shy;te,
-von ei&shy;nem ihrer Hand&shy;zet&shy;tel,
-aus einer kur&shy;zen Zeit vor die&shy;sen Irren,
-den ich so süß fand,
-dass ich ihn be&shy;hal&shy;ten habe:  
-*Und falls Du mal etwas brauchst kannst Du gerne jederzeit klingeln!*
-
-Glei&shy;ches gilt nat&uuml;r&shy;lich um&shy;ge&shy;kehrt,
-auch wenn ich bis heute nie mehr Ge&shy;le&shy;gen&shy;heit fand,
-es dir so aus&shy;zu&shy;rich&shy;ten.
-
-Be&shy;reits drei Mi&shy;nu&shy;ten ver&shy;f&auml;lsch&shy;ten
-(da&shy;mit nicht mehr ge&shy;mein&shy;sa&shy;men!)
-Er&shy;le&shy;bens,
-ge&shy;schwei&shy;ge denn Kom&shy;mu&shy;ni&shy;ka&shy;tion(!),
-m&uuml;s&shy;sen da&shy;zu f&uuml;h&shy;ren,
-dass Men&shy;schen sich nicht mehr
-un&shy;vor&shy;ein&shy;ge&shy;nom&shy;men be&shy;geg&shy;nen
-k&ouml;n&shy;nen.
-
-Ach so:
-&Uuml;brigens nie mehr.
-
-> [!CAUTION]
-> [**12.10.**]
-> Ich hielt es bis&shy;her f&uuml;r eine schizo&shy;ide Idee,
-> dass Kom&shy;mu&shy;ni&shy;ka&shy;tion ver&shy;f&auml;lscht ist.  
-> Gera&shy;de f&auml;llt mir auf:  
-> **Jede(!) Kom&shy;mu&shy;ni&shy;ka&shy;tion** ist
-> (bei vol&shy;ler In&shy;ten&shy;tion!)
-> nicht nur **falsch**,
-> son&shy;dern **soll maxi&shy;mals&shy;ten** emo&shy;tio&shy;na&shy;len
-> **Scha&shy;den ver&shy;ur&shy;sachen!**
-
 [Di., **15.10., 10:12**]
 Mir wird
 (ge&shy;ra&shy;de in die&shy;sem Mo&shy;ment)
@@ -1594,7 +1856,7 @@ soll&shy;te diese Frau sicher sein,
 wenn seine ekel&shy;haf&shy;te
 (und ich ver&shy;mu&shy;te lei&shy;der in&shy;zwi&shy;schen gr&ouml;&szlig;e&shy;re)
 Crew hier mit&shy;<nobr>h&ouml;rt/-</nobr><wbr />liest.  
-Durch Nen&shy;nung des Vor&shy;na&shy;mens "Ste&shy;<nobr>fan/</nobr><wbr />Stephan"[^1]
+Durch Nen&shy;nung des Vor&shy;na&shy;mens "Ste&shy;<nobr>fan/</nobr><wbr />Stephan"
 ei&shy;ner weib&shy;lichen Stim&shy;me,
 soll mir ge&shy;ra&shy;de ein Haupt&shy;t&auml;ter sug&shy;ge&shy;riert wer&shy;&shy;den,
 Mei&shy;ne Ver&shy;kn&uuml;p&shy;fung
@@ -1630,71 +1892,9 @@ Ach so, ich hätte 'ne Idee wegen der Misshandlungsgeschichte..
 > (bis ich mer&shy;ke,
 > es ist der Kon&shy;trast).
 
-Ab&shy;ge&shy;se&shy;hen von die&shy;sem gan&shy;zen
-  mon&shy;str&ouml;s grau&shy;sa&shy;men M&uuml;ll,
-  der an&shy;geb&shy;lich mit, mir im Wesent&shy;li&shy;chen
-  un&shy;be&shy;kann&shy;ten, Per&shy;so&shy;nen
-  ver&shy;an&shy;stal&shy;tet wird,
-  geht es sehr oft um eine,
-  mir eigent&shy;lich auch un&shy;be&shy;kann&shy;te,
-  reale(!) Per&shy;son
-  (die je&shy;doch auf per&shy;fi&shy;des&shy;te Wei&shy;se
-  ge&shy;t&auml;uscht sein soll&shy;te),
-  je&shy;doch ver&shy;se&shy;hen mit einem Namen,
-  umgeben von der seit anderthalb Jahren gleichen Frage:
- 
-  **Wo ist Lia?**  
- 
-Und wer oder was ist sie &uuml;ber&shy;haupt?  
-  Warum ant&shy;wor&shy;tet sie mir nicht,
-  ver&shy;suche ich,
-  es heraus&shy;zu&shy;fin&shy;den?  
-  Warum wird mir(!) ihr Leben bedroht,
-  versuche ich sie zu sehen?  
-  Warum "durfte" ich es nie wieder?
-  In einem freien Land.
-  
-Ich bin die&shy;sem Men&shy;schen in der Realit&auml;t drei,
-  vier Mal fl&uuml;ch&shy;tig begeg&shy;net.    
-  Warum lan&shy;det ihr Name immer wie&shy;der in mei&shy;nem
-  Ge&shy;d&auml;cht&shy;nis?  
-  Woher kenne ich ihr Geburts&shy;da&shy;tum?  
-  Ihre Heimat&shy;stadt?  
-  Ihren Lieblings&shy;fu&szlig;&shy;ball&shy;club?  
-  Wenn nicht von ihr?
- 
-Soll&shy;te es Ver&shy;ant&shy;wort&shy;liche f&uuml;r die&shy;sen
-  Irr&shy;sinn geben:  
-  Wenn irgend&shy;je&shy;mand vor Jahren bereits mit Ein&shy;rede,
-  Sug&shy;ges&shy;tion (Hyp&shy;nose?) und
-  Kon&shy;trol&shy;<nobr>le/</nobr>Mani&shy;pu&shy;la&shy;tion
-  der Kom&shy;mu&shy;ni&shy;ka&shy;tion be&shy;gon&shy;nen haben
-  soll&shy;te,
-  halte ich es nach drei Minu&shy;ten schon f&uuml;r sehr schwierig,
-  dass sich zwei Men&shy;schen un&shy;vor&shy;ein&shy;ge&shy;nom&shy;men
-  begeg&shy;nen k&ouml;n&shy;nen.
- 
-Habt ihr ver&shy;rot&shy;te&shy;ten Krea&shy;tu&shy;ren eine Idee davon,
-  wie es nach drei Mona&shy;ten aus&shy;sieht?
-  Oder Jah&shy;ren?  
-  Bei gleich&shy;zei&shy;ti&shy;gem An&shy;hei&shy;zen fal&shy;scher
-  Er&shy;in&shy;ne&shy;rung an bereits verf&auml;lsch&shy;tes
-  Er&shy;le&shy;ben?  
-  Bei gleich&shy;zei&shy;ti&shy;gem quasi Kon&shy;takt&shy;ver&shy;bot
-  oder -ver&shy;hin&shy;de&shy;rung nach Kr&auml;f&shy;ten?
-    
-Darf ich fra&shy;gen,
-  wo es noch hin&shy;geht?
- 
-Und es inte&shy;res&shy;siert mich auch &uuml;ber&shy;haupt nicht,
-  wer wem be&shy;lie&shy;big mon&shy;str&ouml;&shy;sen M&uuml;ll
-  wann wie "an&shy;h&auml;n&shy;gen" m&ouml;ch&shy;te,
-  ich will die sog. Wahr&shy;heit wis&shy;sen,
-  ihr reu&shy;di&shy;gen Lap&shy;pen!
-   
 > [**Anm.** 16:10]
 > Grad mal 'nen Test ge&shy;macht und laut ge&shy;sagt,
-> dass ich eh Kon&shy;takt zu ihr habe und meine "Stim&shy;men" nur
+> dass ich eh Kon&shy;takt zu L. ihr habe und meine "Stim&shy;men" nur
 > ver&shy;arsche.
 > Die "Stim&shy;men" wur&shy;den recht auf&shy;ge&shy;regt,
 > fast "zu laut" f&uuml;r eine Schi&shy;zo&shy;phre&shy;nie?  
@@ -2523,7 +2723,7 @@ mit viel Zeit und hohem
 Aufwand sog. [Neuro-Lingu&shy;is&shy;tische
 Pro&shy;gram&shy;me](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
 indu&shy;<nobr>ziert<sup><a
-href="#wvt">:warning:VT</a></sup>[^1],</nobr>
+href="#wvt">:warning:VT</a></sup>,</nobr>
 die dann tags&shy;über in irgend&shy;einer Weise
 (wenn man nicht weiß, woher Stimmen und "Ideen" stammen)
 fast zwingend abge&shy;ar&shy;beitet wer&shy;den müs&shy;sen,
@@ -2942,7 +3142,7 @@ Aus&shy;füh&shy;rung.
 > ver&shy;wen&shy;de und die
 > <nobr>**"[NLP-Stimmen](#wesen-der-neuro-linguistischen-programme)"</nobr>
 > da&shy;durch lei&shy;ser und bes&shy;ser
-> hand&shy;<nobr>hab**-/</nobr><wbr>**mani&shy;pu&shy;lier&shy;<nobr>bar**<sup><a href="#wvt">:warning:VT</a></sup>[^1]</nobr>
+> hand&shy;<nobr>hab**-/</nobr><wbr>**mani&shy;pu&shy;lier&shy;<nobr>bar**<sup><a href="#wvt">:warning:VT</a></sup></nobr>
 > wer&shy;den,
 > war <nobr>ein(-e)</nobr> qua&shy;si
 > vir&shy;tu&shy;el&shy;<nobr>le(-r)</nobr>
@@ -2954,13 +3154,13 @@ Aus&shy;füh&shy;rung.
 > (wie bereits öfter),
 > zur **[Tele&shy;pa&shy;thie](https://de.wikipedia.org/wiki/Telepathie)
 > befä&shy;higte Men&shy;<nobr>schen**<sup><a href="#wvt"><a
-> href="#wvt">:warning:VT</a></sup>[^1],</nobr>
+> href="#wvt">:warning:VT</a></sup>,</nobr>
 > [gegen deren Willen](https://www.unicum.de/wissenswertes/raus-aus-meinem-kopf-kann-hypnose-dich-willenlos-machen)
 > via [Hyp&shy;nose](https://de.wikipedia.org/wiki/Hypnose)
 > dafür "miss&shy;braucht" hat,
 > mich wäh&shy;rend des Schlafs aus&shy;ge&shy;dehnt
 > [neuro-linguistisch](https://de.wikipedia.org/wiki/Neuro-Linguistisches_Programmieren)
-> zu pro&shy;gram&shy;mie<nobr>ren<sup><a href="#wvt">:warning:VT</a></sup>[^1]. :+1:</nobr>  
+> zu pro&shy;gram&shy;mie<nobr>ren<sup><a href="#wvt">:warning:VT</a></sup>. :+1:</nobr>  
 > *.. nee, wird schon stimmen, Dude!* :joy:
 
 ---
@@ -4165,7 +4365,7 @@ All&shy;tags&shy;ge&shy;scheh&shy;nis&shy;se und
 nut&shy;zen
 (und **deren Mani&shy;pu&shy;la&shy;tion selbst "lediglich"
 sug&shy;ge&shy;rier&shy;en** zu
-wol&shy;<nobr>len<sup><a href="#wvt">:warning:VT</a></sup>[^1]),</nobr>
+wol&shy;<nobr>len<sup><a href="#wvt">:warning:VT</a></sup>,</nobr>
 in&shy;dem <nobr>sie/</nobr><wbr>er die&shy;se via
 [NLP](#wesen-der-neuro-linguistischen-programme)s für
 <nobr>ihre/</nobr><wbr>sei&shy;ne Opfer
@@ -4247,7 +4447,7 @@ weiter ge&shy;hirn&shy;ge&shy;wa&shy;schen :smirk:)
 > durch die Um&shy;ge&shy;bungs&shy;luft lau&shy;fen&shy;de,
 > Wel&shy;len&shy;käm&shy;me zu
 > er&shy;ken&shy;<nobr>nen<sup><a
-  href="#wvt">:warning:VT</a></sup>[^1]</nobr> sind.
+  href="#wvt">:warning:VT</a></sup></nobr> sind.
 
 #**T.&#8239;B.&#8239;C.&#8239;..**
   </details>
@@ -4723,7 +4923,7 @@ ich traue den T&auml;tern in&shy;zwischen alles zu..
 * [**16.10.**] 
   <img alt="E-Mails, neuer PubKey"
     src="./.assets/2024-10-16_github_new-ssh-keys.jpg"
-	width="300px">
+    width="300px">
   ~~Einer der *Psy*(?)-Dudes,
   der sich heute um die Sichtung der README kümmert,
   war ob des Inhaltes bzgl. Straftaten einer der Täter
@@ -4934,9 +5134,15 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
 > Spreng&shy;ar&shy;bei&shy;ten. :boom:~~
 > SCHON LANGE NICHT MEHR LUSTIG
 
-<br>
 
-[^1]: Das ist aus&shy;dr&uuml;ck&shy;lich kei&shy;ne(!)
+---
+
+[^1]: Eine &uuml;berraschende Beobachtung:
+	Diese
+	(sich schein&shy;bar auch selbst so be&shy;zei&shy;chnen&shy;den)
+	Sadisten 
+
+[^3] Das ist aus&shy;dr&uuml;ck&shy;lich kei&shy;ne(!)
   Ver&shy;d&auml;ch&shy;ti&shy;gung,
   kann der Ob&shy;fus&shy;ka&shy;tion per&shy;fi&shy;der T&auml;ter
   die&shy;nen und wei&shy;ter:
