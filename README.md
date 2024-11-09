@@ -40,7 +40,7 @@ Mit drin h&auml;tte ich gern:
 		Besch&auml;&shy;di&shy;gung alles Emo&shy;tio&shy;na&shy;len,
 		was nur bei gleich&shy;zei&shy;ti&shy;ger aggres&shy;si&shy;ver
 		Kon&shy;takt&shy;ver&shy;hin&shy;de&shy;rung ge&shy;lin&shy;gen kann,
-		um..<br />
+		um ..<br />
 	<b>Was</b> eigent&shy;lich?<br />  
 	Den einen ge&shy;f&uuml;&shy;gig zu machen und
 		dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t
@@ -86,7 +86,6 @@ Glei&shy;ches gilt um&shy;ge&shy;kehrt,
 auch wenn ich nie mehr Ge&shy;le&shy;gen&shy;heit fand,
 es so aus&shy;zu&shy;rich&shy;ten.
 
-> [!TIP]
 > Be&shy;reits drei Mi&shy;nu&shy;ten ver&shy;f&auml;lsch&shy;ten
 > (und da&shy;mit nicht mehr ge&shy;mein&shy;sa&shy;men)
 > Er&shy;le&shy;bens,
@@ -330,7 +329,8 @@ Was wollt ihr wirk&shy;lich von mir?
   title="Log&shy;in einer
 	  link-<wbr />lo&shy;ka&shy;len APIPA-<wbr />Adres&shy;se"
   width="400px">
-> [**Anm**. **08.11.**]
+> [!NOTE]
+> <span id="2024-11-08">[**Anm**. **08.11.**]</span>
 > Es sind knapp 50 "feind&shy;li&shy;che" Log&shy;ins die Woche,
 > die auch so&shy;fort das Pass&shy;wort &auml;n&shy;dern,
 > und pein&shy;lich ge&shy;nau darauf ach&shy;ten,
@@ -396,20 +396,20 @@ Akten/F&uuml;h&shy;rungs&shy;zeu&shy;gnis&shy;sen o.&#8239;&auml;.
 > voll&shy;kom&shy;men ab&shy;sur&shy;der Schwach&shy;sinn!  
 > Das eigent&shy;li&shy;che "Wir&shy;ken" die&shy;ser
 > h&ouml;chs&shy;tens zwei Crews ist
-> (bei aller Skru&shy;pel&shy;lo&shy;sig&shy;<nobr>keit/</nobr><wbr
-> />Grau&shy;sam&shy;keit)
+> (bei aller
+> Skru&shy;pel&shy;lo&shy;sig&shy;<nobr>keit/</nobr><wbr />Grau&shy;sam&shy;keit)
 > das eigent&shy;lich
 > span&shy;nen&shy;<nobr>de/</nobr><wbr />auf&shy;f&auml;l&shy;li&shy;ge.
 > 
-> Einer der T&auml;ter hat mir mal Keyser S&ouml;jze aus
+> Einer der T&auml;ter hat mir mal Keyser S&ouml;ze aus
 > «The Usual Sus&shy;pects» zitiert und irgend&shy;wie haben "die"
 > sich das zum Pro&shy;gramm ge&shy;macht:  
-> <q>The Grea&shy;test Trick the Devil Ever Pul&shy;led Was
-> Con&shy;vin&shy;cing the World He Didn’t Exist</q>
+> <blockquote>The Grea&shy;test Trick the Devil Ever Pul&shy;led Was
+> Con&shy;vin&shy;cing the World He Didn’t Exist.</blockquote>
 > (ur&shy;spr&uuml;ng&shy;lich wohl Char&shy;les
 > Bau&shy;de&shy;lai&shy;re).  
-> Aber habe ich mir ge&shy;dacht, 
-> fan&shy;ge ich doch mal mit der Worst-<wbr />Case-<wbr />These an! :
+> Aber, habe ich mir ge&shy;dacht, 
+> fan&shy;ge ich doch mal mit der Worst-<wbr />Case-<wbr />These an:
 
 <h2>These / Ideen zum Motiv</h2>
 
@@ -483,7 +483,8 @@ in Rei&shy;ni&shy;cken&shy;dorf
 (das sich erst sp&auml;t als ein Tem&shy;pel des Wahn&shy;sinns
 he&shy;raus&shy;stellt)
 mit dem f&uuml;r nor&shy;ma&shy;le Men&shy;sch&shy;en
-m&ouml;g&shy;lich&shy;er&shy;wei&shy;se noch nicht so span&shy;nen&shy;den Thema, wie man einen,
+m&ouml;g&shy;lich&shy;er&shy;wei&shy;se noch nicht so
+span&shy;nen&shy;den Thema, wie man einen,
 an Schi&shy;zo&shy;phre&shy;nie "er&shy;krank&shy;ten"
 Men&shy;sch&shy;en,
 so lang&shy;sam wie m&ouml;g&shy;lich in einen grau&shy;sa&shy;men Tod
@@ -497,7 +498,8 @@ dass mein "Fall" an&shy;f&auml;ng&shy;lich von einem Herrn F.(?)
 aus Rei&shy;nicken&shy;dorf &uuml;ber&shy;nom&shy;men wurde und
 nie&shy;mand 	(aus seiner "Crew") jemals damit rechnete,
 dass das "Opfer" heute (2. Nov. 2024) hier
-(mich in einem Gar&shy;ten&shy;haus in &Ouml;ster&shy;reich "ver&shy;steckend") 
+(mich in einem Gar&shy;ten&shy;haus in &Ouml;ster&shy;reich
+"ver&shy;steckend") 
 sitze und da&shy;r&uuml;&shy;ber re&shy;flek&shy;tie&shy;re.
 
 Der Rei&shy;nicken&shy;dorfer(?) ist wohl Spe&shy;zia&shy;list f&uuml;r
@@ -569,24 +571,30 @@ Ich w&auml;re n&auml;m&shy;lich
 (aller Vor&shy;aus&shy;sicht nach)
 eine.
 
-### + + + bis hier erstmal einigerma&szlig;en sortiert + +  +
+### + + + bis hier erstmal einigerma&szlig;en sortiert + + +
 
 > [!IMPORTANT]
 > [**DONE**?]
-> Ich kann es nicht entscheiden,
+> Ich kann es nicht ent&shy;schei&shy;den,
 > aber es f&uuml;hlt sich so an als bin ich doch nicht krank.
-> Nach Jahren,
-> in denen mir jeder(!) Mensch auf die&shy;sem Pla&shy;ne&shy;ten er&shy;z&auml;hlt,
+> Nach Jah&shy;ren,
+> in denen mir je&shy;der(!) Mensch auf die&shy;sem Pla&shy;ne&shy;ten
+>	er&shy;z&auml;hlt,
 > ich sei nur ein Idiot,
-> der sich irgend&shy;einen wirklich bedenklich degenerierten Mist aus&shy;denkt,
-> schreibt mir Allan aus dem Support, der zu Microsoft Corp. geh&ouml;h&shy;ren&shy;den,
+> der sich irgend&shy;einen wirk&shy;lich be&shy;denk&shy;lich 
+> de&shy;ge&shy;ne&shy;rier&shy;ten Mist aus&shy;denkt,
+> schreibt mir Allan aus dem Sup&shy;port,
+>	der zu Micro&shy;soft Corp. geh&ouml;h&shy;ren&shy;den,
 > Git&shy;Hub Inc. aus New York:
 > ```
 > Greetings Alex,
+> 
 > Understood, thanks for the clarification.
+> 
 > Would you like us to go ahead and remove the LFS objects
 > linked to 0vv1/state-of-mind from our servers?
 > You should then be able to remove those data packs.
+>
 > Best regards,
 > Allan H
 > GitHub Support
@@ -601,36 +609,36 @@ eine.
 > Wer soll das[^2] denn bit&shy;te auch ver&shy;ste&shy;hen?)
 
 Neben ihrer lebens&shy;ver&shy;sichern&shy;den Funk&shy;tion tut mir die
-    sorg&shy;f&auml;l&shy;ti&shy;ge An&shy;fer&shy;ti&shy;gung einer
-    Doku&shy;men&shy;ta&shy;tion au&szlig;er&shy;dem gut
-    **und wird für den**
-    (hoff&shy;ent&shy;lich)
-    &auml;u&szlig;erst un&shy;wahr&shy;schein&shy;lich&shy;en **Fall,
-    dass** irgend&shy;wann ein&shy;mal **ein** ande&shy;rer **Mensch
-    ähn&shy;liche Er&shy;fah&shy;run&shy;gen mach&shy;en muss**,
-    vor&shy;ge&shy;hal&shy;ten.
+	sorg&shy;f&auml;l&shy;ti&shy;ge An&shy;fer&shy;ti&shy;gung einer
+	Doku&shy;men&shy;ta&shy;tion au&szlig;er&shy;dem gut
+	**und wird für den**
+	(hoff&shy;ent&shy;lich)
+	&auml;u&szlig;erst un&shy;wahr&shy;schein&shy;lich&shy;en **Fall,
+	dass** irgend&shy;wann ein&shy;mal **ein** ande&shy;rer **Mensch
+	ähn&shy;liche Er&shy;fah&shy;run&shy;gen mach&shy;en muss**,
+	vor&shy;ge&shy;hal&shy;ten.
 Sp&auml;&shy;te&shy;re <nobr>T&auml;ter/</nobr>-<wbr />in&shy;nen
-    sol&shy;len es dann so schwer wie mög&shy;lich haben,
-    ihr Tun zu ob&shy;fus&shy;kier&shy;en <nobr>und/</nobr><wbr>oder
-    ihre Opfer zu iso&shy;lie&shy;ren.
+	sol&shy;len es dann so schwer wie mög&shy;lich haben,
+	ihr Tun zu ob&shy;fus&shy;kier&shy;en <nobr>und/</nobr><wbr>oder
+	ihre Opfer zu iso&shy;lie&shy;ren.
 
 Der aller&shy;gr&ouml;&szlig;&shy;te Teil der
-    (bis&shy;her nat&uuml;r&shy;lich von mir nur 
-    ver&shy;mu&shy;te&shy;ten 
-    Des&shy;in&shy;for&shy;ma&shy;tions-M&uuml;ll-)**Sen&shy;der trat** 
-    zu&shy;min&shy;dest mir gegen&shy;über demon&shy;stra&shy;tiv
-    **hos&shy;<nobr>til**/**ver</nobr>&shy;ächt&shy;lich** auf und
-    nutzte mein,
-    durch die Diag&shy;no&shy;se indu&shy;zier&shy;tes,
-    durch ihre Taten noch **beschleu&shy;nig&shy;t** und wei&shy;ter
-    **ab&shy;neh&shy;men&shy;des Ver&shy;trau&shy;en in die eige&shy;nen
-    Sin&shy;nes&shy;wahr&shy;neh&shy;mung&shy;en**,
-    aus&shy;gie&shy;big und ohne jeden Skru&shy;pel,
-    so&shy;wohl zur Wir&shy;kungs&shy;ver&shy;stär&shy;kung ihrer
-    Mit&shy;tel
-    (*kurz*: man kann mich viel bes&shy;ser täu&shy;sch&shy;en)
-    als auch zur Ver&shy;schleie&shy;rung ihrer eige&shy;nen
-    Iden&shy;ti&shy;tät[^3] **aus**.
+	(bis&shy;her nat&uuml;r&shy;lich von mir nur 
+	ver&shy;mu&shy;te&shy;ten 
+	Des&shy;in&shy;for&shy;ma&shy;tions-M&uuml;ll-)**Sen&shy;der trat** 
+	zu&shy;min&shy;dest mir gegen&shy;über demon&shy;stra&shy;tiv
+	**hos&shy;<nobr>til**/**ver</nobr>&shy;ächt&shy;lich** auf und
+	nutzte mein,
+	durch die Diag&shy;no&shy;se indu&shy;zier&shy;tes,
+	durch ihre Taten noch **beschleu&shy;nig&shy;t** und wei&shy;ter
+	**ab&shy;neh&shy;men&shy;des Ver&shy;trau&shy;en in die eige&shy;nen
+	Sin&shy;nes&shy;wahr&shy;neh&shy;mung&shy;en**,
+	aus&shy;gie&shy;big und ohne jeden Skru&shy;pel,
+	so&shy;wohl zur Wir&shy;kungs&shy;ver&shy;stär&shy;kung ihrer
+	Mit&shy;tel
+	(*kurz*: man kann mich viel bes&shy;ser täu&shy;sch&shy;en)
+	als auch zur Ver&shy;schleie&shy;rung ihrer eige&shy;nen
+	Iden&shy;ti&shy;tät[^3] **aus**.
 
 > [!WARNING]
 > Ich konn&shy;te mir bis&shy;her,
@@ -666,9 +674,9 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 <h2>Gliederung</h2>
 
 * Idee/These
-* ein paar Recor&shy;dings als "Beweis"
 * Beschrei&shy;<nobr>bung/</nobr><wbr />Me&shy;tho&shy;den der
   Sadis&shy;ten-<wbr />Crew
+	* bereits mit Audiomitschnitten
 * Be&shy;schrei&shy;<nobr>bung/</nobr><wbr />Me&shy;tho&shy;den der, 
   sie unter&shy;st&uuml;t&shy;zen&shy;den, 
   (Eigen&shy;be&shy;griff) Psy-Crew?
@@ -691,73 +699,113 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > an&shy;ru&shy;fen und sa&shy;gen k&ouml;n&shy;nen: " Der da nicht."  
 > (ohne je&shy;man&shy;den zu be&shy;las&shy;ten,
 > ich werde jetzt auch mal Namen hier raus neh&shy;men)  
-> ~~Mir folgt seit Wochen nachts mind. eine von bis&shy;her 4
-> gr&ouml;&szlig;e&shy;ren Droh&shy;nen durch die Stadt.~~  
+> ~~Mir folgt seit Wochen nachts eine Droh&shy;ne durch die Stadt.~~  
 > ~~Jetzt auch grad (überm Hbf.), knapp ~~100~~ (sie sagt) 200 m 
 > H&ouml;he.. :wave: [NO SHIT!]  
 > Die wer&shy;de ich nur ohne Mobil&shy;funk 
 > (und zwei, drei Ver&shy;kehrs&shy;mit&shy;teln) los.~~
 > <sup>:warning:Einrede?</sup>
 > 
-> [**Anm. 28.10.** 06:30]
+>	<span id="20241028">[**Anm. 28.10.** 06:30]</span>
 > * eine Sadisten-Crew mit
->   1. einer gr&ouml;&szlig;eren Zahl auch einflussreicherer Mitglieder (Strafverfolgung, Justiz, [Psychologische Fakult&auml;ten](#uni-psych), Politik) und
->   2. mglw. auch internationalen Kontakten (nat&uuml;rlich alles Zufall, aber hier fahren Botschaftsangeh&ouml;rige vor)
+>	  1. einer gr&ouml;&szlig;eren Zahl auch einflussreicherer
+>			 Mitglieder (Strafverfolgung, Justiz, [Psychologische
+>			 Fakult&auml;ten](#uni-psych), Politik) und
+>   2. mglw. auch internationalen Kontakten
+> 		 (nat&uuml;rlich alles Zufall,
+>			 aber hier fahren Botschaftsangeh&ouml;rige vor)
 >
-> * eine unterst&uuml;tzende "Psy"-"Sekte" (k.&#8239;A., wie ich diese Crew besser benennen k&ouml;nnte und TBH bin ich mir bzgl. Hierarchien gar nicht (mehr) so sicher)
->   * ich habe die anf&auml;nglich f&uuml;r eine beliebige Hacker-Crew gehalten, ganz ehrlich: Die sind an der Kiste nicht soo geil.  
+> * eine unterst&uuml;tzende "Psy"-"Sekte"
+>			(k.&#8239;A., wie ich diese Crew besser benennen
+>			k&ouml;nnte und TBH bin ich mir bzgl. Hierarchien
+>			gar nicht (mehr) so sicher)
+>   * ich habe die anf&auml;nglich f&uuml;r eine
+>			beliebige Hacker-Crew gehalten, ganz ehrlich:
+>			Die (meisten) sind an der Kiste nicht soo geil.  
 >     **Aber**: Tun so! Und das scheint denen auch wichtig.
->   * (nochmal, ich schreibe hier *fiktiv*!) die **scheinen**(!) mir ihre "Probleme" anders zu l&ouml;sen und
+>   * die **scheinen**(!) mir ihre "Probleme" anders zu l&ouml;sen und
 >   * k&ouml;nnen zumindest mir(!) sehr glaub&shy;haft **suggerieren**(!),  
 >     zumindest in einem begrenzten Radius von knapp f&uuml;nf Metern,  
 >     in gewissen Grenzen und erst nach einiger Zeit des "Eingroovens",  
 >     unter notwendiger Hinzunahme/Beachtung weiterer Parameter,  
->     sozusagen formulierte (und damit sauberere) Gedanken anderer (technisch gel&ouml;st?) soetwas wie mitlesen zu k&ouml;nnen,  
->     was einer von ihnen (mir) auch jetzt gerade (durch Gebrabbel) **suggeriert**(!)  
+>     sozusagen formulierte (und damit saubere) Gedanken anderer
+>			(technisch gel&ouml;st?) soetwas wie mitlesen zu k&ouml;nnen,  
+>     was einer von ihnen (mir) auch jetzt gerade
+>			(durch Gebrabbel) **suggeriert**(!)  
 >     (Ich glaube,
 >     das ist es,
 >     was diese Geschichte so unglaubw&uuml;rdig macht,
 >     kombiniert mit einer (Verdachts-)Diagnose Schizophrenie,
->     die aber selbst die, mich behandelnde, ambulante Psychiatrie inzwischen bezweifelt und:  
->     Ich denke, viele Mitlesende &uuml;berlesen das Wort "**suggerieren**".)
+>     die aber selbst die, mich behandelnde,
+>			ambulante Psychiatrie inzwischen bezweifelt und:  
+>     Ich denke, dass einige, die das hier zum Zeitvertreib lesen,
+>			das Wort "**suggerieren**" &uuml;berlesen.)
 >   * nochmal zum Mitmei&szlig;eln: **"Die" tun so glaubhaft als ob,
 >     dass die Opfer der Meinung sind, es ist.**
 >     * Bsp.: Suggestion einer Schizophrenie,
 >       so glaubhaft,
 >       dass das Opfer *glauben* muss,
->       echte Stimmen seien imaginiert.  
->       Damit: Im Grunde eine umgekehrte Schizophrenie
->       (**Dieses st&auml;ndige Umkehren von Faktischem ist ein ganz wesentliches Element dieser Nummer hier.**
+>       **echte Stimmen seien imaginiert**.  
+>       Damit: Im Grunde eine **umgekehrte Schizophrenie**
+>       (**Dieses st&auml;ndige Umkehren von Faktischem
+>				ist ein ganz wesentliches Element dieser Nummer hier.**
 >       Finde ich.)
->   * damit &uuml;berlassen sie **fast**(?) s&auml;mtliche "Au&szlig;enwirkung" ihren zahlreichen Opfern
+>   * damit &uuml;berlassen sie **fast**(?) s&auml;mtliche
+>			"Au&szlig;enwirkung" ihren zahlreichen Opfern
 >   * um das letzte **fast** geht es mir:
 >     1. provozieren von "Au&szlig;enwirkung"
->     2. Beweis ihrer(!) "Au&szlig;enwirkung"
->     3. Ich lasse mich nicht von euch und eurem reu&shy;di&shy;gen Nazi-Duk&shy;tus ver&shy;ar&shy;schen, ihr Lap&shy;pen!  
->        Nie&shy;mand(!) **sug&shy;ge&shy;riert**(!) mir eine vir&shy;tuel&shy;le(!) **Mikro**(!)**-Dik&shy;ta&shy;tur** per (**sug&shy;ge&shy;rier&shy;ter**?) Ge&shy;dan&shy;ken-Soufflage(?),
->        inkl. (sug&shy;ge&shy;rier&shy;tem) Men&shy;schen&shy;han&shy;del, (sug&shy;ge&shy;rier&shy;ter) Zwangs&shy;pros&shy;ti&shy;tu&shy;tion und (sug&shy;ge&shy;rier&shy;ter) Re&shy;mote-Steue&shy;rung von Mit&shy;glie&shy;dern der Straf&shy;ver&shy;fol&shy;gung
->        in mei&shy;ner di&shy;rek&shy;ten Um&shy;ge&shy;bung ohne dass ich so&shy;et&shy;was per&shy;s&ouml;n&shy;lich nehme.  
->        (Ihr konn&shy;tet das nicht wis&shy;sen, aber ich bin (lei&shy;der) die echte Anti&shy;fa.  
->        Ich ver&shy;ach&shy;te eure de&shy;ge&shy;ne&shy;rier&shy;te Moral,
->        jede(!), auch die kleins&shy;te(!), Grenz&shy;&uuml;ber&shy;schrei&shy;tung
+>     2. beweisen ihrer(!) "Au&szlig;enwirkung" und
+>     3. noch etwas:
+>				 Ich lasse mich nicht von euch und eurem reu&shy;di&shy;gen
+>				 Nazi-Duk&shy;tus ver&shy;ar&shy;schen, ihr Lap&shy;pen!  
+>        Nie&shy;mand(!) **sug&shy;ge&shy;riert**(!) mir eine
+>				 vir&shy;tuel&shy;le(!) **Mikro**(!)**-Dik&shy;ta&shy;tur**
+>				 per (**sug&shy;ge&shy;rier&shy;ter**?)
+>				 Ge&shy;dan&shy;ken-Soufflage(?),
+>        inkl. (sug&shy;ge&shy;rier&shy;tem)
+>				 Men&shy;schen&shy;han&shy;del, (sug&shy;ge&shy;rier&shy;ter)
+>				 Zwangs&shy;pros&shy;ti&shy;tu&shy;tion und
+>				 (sug&shy;ge&shy;rier&shy;ter) Re&shy;mote-Steue&shy;rung von
+>				 Mit&shy;glie&shy;dern der Straf&shy;ver&shy;fol&shy;gung
+>        in mei&shy;ner di&shy;rek&shy;ten Um&shy;ge&shy;bung ohne dass
+>				 ich so&shy;et&shy;was per&shy;s&ouml;n&shy;lich nehme.  
+>        (Ihr konn&shy;tet das nicht wis&shy;sen,
+>				 aber ich bin (lei&shy;der) die echte Anti&shy;fa.  
+>        Ich ver&shy;ach&shy;te eure de&shy;ge&shy;ne&shy;rier&shy;te
+>				 Moral,
+>        jede(!),
+>				 auch die kleins&shy;te Grenz&shy;&uuml;ber&shy;schrei&shy;tung
 >        (nein, es wird keine(!) Ge&shy;w&ouml;h&shy;nung geben),
 >        euren (sug&shy;ge&shy;rier&shy;ten) stump&shy;fen Duk&shy;tus,
->        eure per&shy;ver&shy;tier&shy;te Um&shy;deu&shy;tung des Begriffs "Liebe"
->        (nein, Besitz und Kon&shy;trol&shy;le haben mit ihr nichts zu tun und werden es nie).  
->        Nie&shy;mand &uuml;bt (ab&shy;ge&shy;se&shy;hen von sich im Dienst be&shy;find&shy;li&shy;chen Mit&shy;glie&shy;dern von Exe&shy;ku&shy;tiv&shy;be&shy;h&ouml;r&shy;den) hier(!), auch im Pri&shy;va&shy;ten, irgend&shy;eine Form von Zwang aus,
+>        eure per&shy;ver&shy;tier&shy;te Um&shy;deu&shy;tung des
+>				 Begriffs "Liebe"
+>        (nein, Besitz und Kon&shy;trol&shy;le haben mit ihr nichts zu
+>				 tun und werden es nie).  
+>        Nie&shy;mand &uuml;bt (ab&shy;ge&shy;se&shy;hen von sich im
+>				 Dienst be&shy;find&shy;li&shy;chen Mit&shy;glie&shy;dern von
+>				 Exe&shy;ku&shy;tiv&shy;be&shy;h&ouml;r&shy;den)
+>				 hier(!), auch im Pri&shy;va&shy;ten, irgend&shy;eine Form von
+>				 Zwang aus,
 >        ohne dass ich darauf rea&shy;gie&shy;re und    
->        (aber das ist et&shy;was per&shy;s&ouml;n&shy;li&shy;ches) ich rea&shy;gie&shy;re (lei&shy;der) auch aller&shy;gisch,
->        wenn irgend&shy;wer irgend&shy;was bes&shy;ser zu wis&shy;sen glaubt als irgend&shy;wer sonst,
->        erst recht, wenn sich (wie so oft) auch noch Sen&shy;dungs&shy;be&shy;wusst&shy;sein da&shy;zu ge&shy;sellt.  
->        Ihr seid so (und von Her&shy;zen) Schei&szlig;e, Alter! :love_letter:
+>        (aber das ist et&shy;was per&shy;s&ouml;n&shy;li&shy;ches)
+>				 ich rea&shy;gie&shy;re (lei&shy;der) auch aller&shy;gisch,
+>        wenn irgend&shy;wer irgend&shy;was bes&shy;ser zu wis&shy;sen
+>				 glaubt als irgend&shy;wer sonst,
+>        erst recht, wenn sich (wie so oft) auch noch
+>				 Sen&shy;dungs&shy;be&shy;wusst&shy;sein da&shy;zu ge&shy;sellt.  
+>        Ihr seid so (und von Her&shy;zen) Schei&szlig;e,
+>				 Alter! :love_letter:
 >
-> [**Diffamierung**]
-> "Die" fahren m.&#8239;M.&#8239;n. monstr&ouml;se Diffamierungskampagnen und sind auch psychologisch wahnsinnig geschickt.  
+>	[**Diffamierung**]
+>	"Die" fahren m.&#8239;M.&#8239;n. monstr&ouml;se
+>	Diffamierungskampagnen und sind auch psychologisch
+> wahnsinnig geschickt.  
 > Das dauert zwei Wochen und kein Nachbar schaut dich noch an.  
-> Ein Dutzend Freunde geben sich unabh&auml;ngig(!) voneinander die Klinke in die Hand,
-> um,
+> Ein Dutzend Freunde geben sich unabh&auml;ngig(!) voneinander
+> die Klinke in die Hand, um,
 > teilweise in Tr&auml;nen aufgel&ouml;st,
-> deine Einweisung in eine geschlossene psychiatrische Einrichtung zu erflehen
+> deine Einweisung in eine geschlossene psychiatrische
+> Einrichtung zu erflehen
 > (was immer ich da soll).  
 > Therapeuten machen sich solche Sorgen,
 > dass sie anfangen,
@@ -767,45 +815,57 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > exakt in deinem beschissensten Moment der Woche.  
 > Und Du gehst durch die Sonne und denkst so: H&auml;?!
 > Wie zur H&ouml;lle machen die das?  
-> Die T&auml;ter selbst labern einen w&auml;hrend des Verfassens solcher Zeilen von der Seite voll,
-> soufflieren so wahnsinnig geschickt stumpfe Verschw&ouml;rungstheorien,
+> Die T&auml;ter selbst labern einen w&auml;hrend
+> des Verfassens solcher Zeilen von der Seite voll,
+> soufflieren so wahnsinnig geschickt stumpfe
+> Verschw&ouml;rungstheorien,
 > dass davon immer was im Text bleibt,
 > so sehr man auch aufpasst.  
-> Es wird anscheinend selektive unidirektionale Kommunikation au&szlig;erhalb ihres urspr&uuml;nglichen Kontexts verwendet
-> (sozusagen ein individuelles und k&uuml;nstlich verst&auml;rktes(!) **Worst-Of**), z.&#8239;B. (ich nenne es)
+> Es wird anscheinend selektive unidirektionale
+> Kommunikation au&szlig;erhalb ihres urspr&uuml;nglichen Kontexts verwendet
+> (sozusagen ein individuelles und k&uuml;nstlich
+> verst&auml;rktes(!) **Worst-Of**), z.&#8239;B. (ich nenne es)
 > *Crunch-Mail*:  
 > Stundenlanger emotionaler Druck,
 > nur um unter suggeriertem Zeitdruck,
-> einen m&ouml;glichst komplexen Zussammenhang, (wichtig!) **ohne Kontext**, in einer E-Mail rauszuhauen.  
+> einen m&ouml;glichst komplexen Zussammenhang,
+> (wichtig!) **ohne Kontext**, in einer E-Mail rauszuhauen.  
 > Das klappt jedes Mal! Ich hab hier E-Mails liegen.. :joy:
 > <details>
->        <summary>[aufklappen f&uuml;r] Letzte Crunch-Mail: 60 Sek. Zeit
->                 einen "Selbstmord" zu verhindern</summary>
+>		<summary>[aufklappen f&uuml;r] Letzte Crunch-Mail: 60 Sek. Zeit
+>			einen "Selbstmord" zu verhindern</summary>
 > 
->        Ich weiß nicht, was er aus mir gemacht hat. \*\*\*, er dreht Persönlichkeiten um.
->        Aber ich hasse dich nicht, ich bin auch kein Stalker!
->        Ich würde dir nie etwas tun, vielleicht kennst Du mich auch gar nicht.
+>     Ich weiß nicht, was er aus mir gemacht hat.
+>				\*\*\*, er dreht Persönlichkeiten um.
+>       Aber ich hasse dich nicht, ich bin auch kein Stalker!
+>       Ich würde dir nie etwas tun,
+>				vielleicht kennst Du mich auch gar nicht.
 > 
->        Entschuldige bitte alles, was ich nie getan hab.
->        Ich habe keine gespaltene Persönlichkeit! Sowas gibt es nicht.
+>				Entschuldige bitte alles, was ich nie getan hab.
+>				Ich habe keine gespaltene Persönlichkeit! Sowas gibt es nicht.
 > 
->        Alex
-> </details>
+>				Alex
+>		</details>
 >
-> Traumhaft. Wer soetwas bekommt, d&uuml;rfte sich wirklich wohl f&uuml;hlen und kaum bedroht. :smirk:
+>		Traumhaft. Wer soetwas bekommt,
+>		d&uuml;rfte sich wirklich wohl f&uuml;hlen und kaum bedroht. :smirk:
 > 
-> Probleme:
-> * glaubhafte **Suggestion**, dass das die einzige, die Addressatin erreichende, E-Mail ist
+>	Probleme:
+> * glaubhafte **Suggestion**, dass das die einzige,
+>		die Addressatin erreichende, E-Mail ist
 > * keine (f&uuml;r mich!) ersichtliche Au&szlig;enwirkung
-> * in der Folge versuche ich, eine mir in der Realit&auml;t nahezu unbekannte Person,
->   die (erstmal nur f&uuml;r mich, nicht zwangsl&auml;ufig f&uuml;r sie!) in
+> * in der Folge versuche ich,
+>		eine mir in der Realit&auml;t nahezu unbekannte Person,
+>   die (erstmal nur f&uuml;r mich,
+>		nicht zwangsl&auml;ufig f&uuml;r sie!) in
 >   (nur mir suggerierter?) gro&szlig;ter Gefahr schwebt,
 >   zu erreichen
 > 
 > <span id="uni-psych">Hier nochmal eine **deutliche Warnung**</span>:  
 > Nix Schizo! Hier arbeiten absolute Pros! Und nicht nur einer.
 > Das sind auch nicht irgendwelche Psychologen:  
-> Es f&uuml;hlt sich hier nach profunden F&auml;higkeiten und soviel Erfahrung an,
+> Es f&uuml;hlt sich hier nach profunden F&auml;higkeiten und
+>	soviel Erfahrung an,
 > dass man sich bei so manchem hier vorstellen kann,
 > dass die mal den Auftrag erhalten haben,
 > ihr Wissen weiterzugeben!
@@ -815,8 +875,9 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > [**Motivation**]
 > Ich werde vier Meter &uuml;ber mei&shy;nem Kopf kei&shy;ne
 > Ge&shy;walt&shy;ver&shy;bre&shy;chen,
-> und dann auch noch in Kom&shy;bi&shy;na&shy;tion mit die&shy;sem stumpfen und
-> res&shy;pekt&shy;lo&shy;sen <nobr>(Nazi-)</nobr><wbr>Duk&shy;tus,
+> und dann auch noch in Kom&shy;bi&shy;na&shy;tion mit die&shy;sem
+> stumpfen und res&shy;pekt&shy;lo&shy;sen
+> <nobr>(Nazi-)</nobr><wbr>Duk&shy;tus,
 > ak&shy;zep&shy;tie&shy;ren.
 > Nie.  
 > Egal ob ein&shy;ge&shy;bil&shy;det
@@ -836,109 +897,91 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > Ich ver&shy;stehe die&shy;se Pro&shy;vo&shy;ka&shy;tion auch nicht,
 > das kann doch un&shy;m&ouml;g&shy;lich ernst ge&shy;meint sein? -->
 
-<!-- h2><a href="https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit">Datenintegrit&auml;t</a> bei GitHub nicht gegeben</h2 -->
+<details>
+	<summary><h2>1. Versuch Hosting Records (GitHub)</h2></summary>
 
-<h2>Recordings</h2>
+	<span id="20241025">[**25.10.**]</span>
+	**GitHub** Inc. kann
+	(nach T&auml;ter-Einrede)
+	die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten?
+	T&auml;ter meint, sie h&aumltten dort jemanden,
+		der sich darum k&uuml;mmert,
+		dass kein f&uuml;r sie belastendes Material auf den Servern liegt.
+	Hochgeladene Dateien, abgelegt auf (internen) Servern,
+		&auml;ndern alle f&uuml;nf Minuten ihre Pr&uuml;fsumme?  
 
-> [!CAUTION]
-> **GitHub** Inc. kann
-> (nach T&auml;ter-Einrede)
-> die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten**?
-> Warum sollten sie das nicht k&ouml;nnen?
-> Hochgeladene Dateien, abgelegt auf (internen) Servern,
-> &auml;ndern alle f&uuml;nf Minuten ihre Pr&uuml;fsumme?  
->
-> Warum glaube ich das sofort?  
-> Lasst mich raten:
-> Eine liebe,
-> von euch geschickte,
-> Fee k&uuml;mmert sich endlich um den Kinder- & Jugendschutz.  
+	Warum glaube ich das sofort?  
+	Lasst mich raten:
+	Eine liebe,
+		von euch geschickte,
+		Fee k&uuml;mmert sich endlich um den Kinder- & Jugendschutz.  
 
-> [**Anm. 26.10.** 01:50]
-> * die ent&shy;spr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2 Mal
->   in&shy;tern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
-> * Down&shy;load  mit Pr&uuml;f&shy;sum&shy;me  
->   `sha256 5b056140d0b43de09fbb8905f8295c8dd89fb450624df51500f1c695fbbf3155`,
->   m&uuml;ss&shy;te aber eigent&shy;lich  
->   `sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d`
->   sein!
-> * Ist es aber nicht. 
-> * Was ist das denn?!
-> * er&shy;neu&shy;ter **Upload**
-> * **er&shy;neu&shy;te Mani&shy;pu&shy;la&shy;tion**(?)
->   (un&shy;z&auml;hli&shy;ge Ma&shy;le, ein paar Pr&uuml;f&shy;sum&shy;men:  
->   `sha256 0a76b85ff7767f9c2dcdab72890854f1ebea45359564a6bcdbae5aea295d6c5a`,  
->   `sha256 5505523390453fedb16a1ccd124ef9c7b857ff608e43d62d6b3d8a1fe97d22ff`,  
->   `sha256 e678f56c2b0634ce95010fab688a77bb51a2d7a151f56685e4c8447a7044eb0e`,  
->   `sha256 7474c95a8d885ec748895f3fbfd78d520f3d92f86a44245210aea32fb28cd9bc`,  
->   `sha256 8a312d6db6d8db709e5da3e37962293443413440feb90371cc467a7666980cd7`,  
->   `sha256 b47d907ec8da5feda5d6e5dfdf006232cff4f0bd4985d53ab86b0e24aed64e01`)
->   <!-- > * **Integrit&auml;t von Daten bei GitHub**(?) Inc.
->   (vorerst) **nicht gegeben**!  
->   (Nicht euer Ernst oder?!
->   Ich glaube,
->   das war kein so geiler Move.) -->
-> * betr. Dateien werden (erstmal) von einer VM bei hetzner.com bereitgestellt
->   (auch dort gab's Probleme mit dem Wirken der Crew,
->   aber ich hab jetzt erst mal nichts anderes): https://0vv1.io/stlk
-> * Abkl&auml;rung via
->   [Support-Ticket #3067960](https://support.github.com/ticket/personal/0/3067960)
+	<span id="20241026">[**Anm. 26.10.** 01:50]</span>
+	* die ent&shy;spr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2x
+		in&shy;tern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
+	* Down&shy;load  mit Pr&uuml;f&shy;sum&shy;me  
+		`sha256 5b056140d0b43de09fbb8905f8295c8dd89fb450624df51500f1c695fbbf3155`,
+		m&uuml;ss&shy;te aber eigent&shy;lich  
+		`sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d`
+		sein!
+	* ist es aber nicht
+	* er&shy;neu&shy;ter **Upload**
+	* **er&shy;neut modifizierte Datein**
+		(ich habe es wirk&shy;lich oft pro&shy;biert, ein paar
+		Pr&uuml;f&shy;sum&shy;men:  
+		`sha256 0a76b85ff7767f9c2dcdab72890854f1ebea45359564a6bcdbae5aea295d6c5a`,  
+		`sha256 5505523390453fedb16a1ccd124ef9c7b857ff608e43d62d6b3d8a1fe97d22ff`,  
+		`sha256 e678f56c2b0634ce95010fab688a77bb51a2d7a151f56685e4c8447a7044eb0e`,  
+		`sha256 7474c95a8d885ec748895f3fbfd78d520f3d92f86a44245210aea32fb28cd9bc`,  
+		`sha256 8a312d6db6d8db709e5da3e37962293443413440feb90371cc467a7666980cd7`,  
+		`sha256 b47d907ec8da5feda5d6e5dfdf006232cff4f0bd4985d53ab86b0e24aed64e01`)
+	* bei hetzner weiter erreichbar: https://0vv1.io/stlk
+	* Abkl&auml;rung via
+		[Support-Ticket #3067960](https://support.github.com/ticket/personal/0/3067960)
 
-> [!CAUTION]
-> [**27.10.**, 13:52]
-> <img
->   align="right"
->   alt="GitHub Support Ticket #3067960 2. Eintrag"
->   src="./.assets/2024-10-27_github_support-ticket-3067960.2.png"
->   width="700px">
->
-> * k.&#8239;A.,
->   viel&shy;leicht nehme ich mich auch zu wich&shy;tig oder so. :shrug:
->
-> * ich habe Ende letz&shy;ter Woche dem Sup&shy;port
->   ge&shy;schrie&shy;ben und bin fast da&shy;von
->   aus&shy;ge&shy;gan&shy;gen,
->   dass ich inner&shy;halb von zehn Minu&shy;ten eine
->   In&shy;ves&shy;ti&shy;ga&shy;tion an&shy;ge&shy;sto&szlig;en
->   be&shy;kom&shy;me,
->   wenn ich der welt&shy;weit gr&ouml;&szlig;&shy;ten Platt&shy;form
->   zur Ver&shy;sions&shy;kon&shy;trol&shy;le an&shy;deu&shy;te,
->   dass ich ihre Kern&shy;kom&shy;pe&shy;tenz besch&auml;digt sehe
-> * aber gut,
->   ich muss `LFS` hier be&shy;en&shy;den,
->   kei&shy;ne Bi&shy;na&shy;rys mehr com&shy;mit&shy;ten und
->   mir irgend&shy;wie mer&shy;ken(!?),  
->   dass auch [**Daten&shy;in&shy;te&shy;gri&shy;t&auml;t**](https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit))
->   nie&shy;man&shy;den mehr wirk&shy;lich in&shy;te&shy;res&shy;siert  
->   (Wo&shy;bei ich mich schon fra&shy;ge:
->   Was eigent&shy;lich dann? Irgend&shy;wer?!)  
-> </img>
->
-> * OK, ich hos&shy;te jetzt **auf "ei&shy;ge&shy;ner"
->   Infra&shy;struk&shy;tur** f&uuml;r 4,58 &euro;/Monat und hof&shy;fe,
->   dass sie mir nicht zu Staub zer&shy;bal&shy;lert wird. :zany_face:  
->   **Siehe weiter unten!**
-> 
-> [**29.10.**, 02:06]
-> * der Sup&shy;port hat ge&shy;ant&shy;wor&shy;tet und nimmt mich
->   &uuml;ber&shy;haupt nicht ernst
->   (irgend&shy;was mit Account-High&shy;jack&shy;ing und ein paar
->   `lfs`-Kom&shy;man&shy;dos)
-> * hab [zu&shy;r&uuml;ck&shy;ge&shy;schrie&shy;ben](https://support.github.com/ticket/personal/0/3067960#tc-31657925723924)
->   und die&shy;se bei&shy;den Screen&shy;shots an&shy;ge&shy;h&auml;ngt:  
->   ![Binary Mod at 28th late](./.assets/2024-10-29-003237_1237x174_scrot.png)  
->   ![Binary Mod at 29th early](./.assets/2024-10-29-003444_1238x199_scrot.png)  
->   (Hier zeigen sich mehrere Mo&shy;di&shy;fi&shy;ka&shy;tio&shy;nen auf
->   Datei&shy;sys&shy;tem&shy;ebe&shy;ne.
->   Das kann man nicht anders interpretieren.)  
->   Die Dateien werden nach&shy;tr&auml;g&shy;lich ge&shy;gen
->   irgend&shy;ei&shy;nen Medien&shy;ser&shy;ver ge&shy;linkt?
->   Sorry, aber dann ge&shy;h&ouml;&shy;ren die Dateien nicht
->   unter&shy;halb einer Ver&shy;sions&shy;ver&shy;wal&shy;tung.
->   Das habe ich denen auch so ge&shy;schrie&shy;ben und auch mal das
->   Execu&shy;tive Board ver&shy;linkt,
->   aber viel&shy;leicht ist denen das auch alles egal,
->   mal schauen..)
+	[!CAUTION]
+	<span id="20241027">[**27.10.** 13:52]</span>
+	<img
+		align="right"
+		alt="GitHub Support Ticket #3067960 2. Eintrag"
+		src="./.assets/2024-10-27_github_support-ticket-3067960.2.png"
+		width="700px">
+
+	* k.&#8239;A.,
+		viel&shy;leicht nehme ich mich auch zu wich&shy;tig :shrug:
+
+	* ich habe Ende letz&shy;ter Woche dem Sup&shy;port
+		ge&shy;schrie&shy;ben und bin fast da&shy;von
+		aus&shy;ge&shy;gan&shy;gen,
+		dass ich inner&shy;halb von zehn Minu&shy;ten eine
+		In&shy;ves&shy;ti&shy;ga&shy;tion an&shy;ge&shy;sto&szlig;en
+		be&shy;kom&shy;me,
+		wenn ich der welt&shy;weit gr&ouml;&szlig;&shy;ten Platt&shy;form
+		zur Ver&shy;sions&shy;kon&shy;trol&shy;le an&shy;deu&shy;te,
+		dass ich ihre Kern&shy;kom&shy;pe&shy;tenz besch&auml;digt sehe
+
+	* ich verzichte (vorerst) auf `LFS` ([**Daten&shy;in&shy;te&shy;gri&shy;t&auml;t**](https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit)))
+	</img>
+
+	* OK, ich hos&shy;te jetzt auf "**ei&shy;ge&shy;ne**r"
+		**Infra&shy;struk&shy;tur** f&uuml;r 4,58 &euro;/Monat und hof&shy;fe,
+		dass sie mir nicht zu Staub zer&shy;bal&shy;lert wird :zany_face:
+		**Siehe weiter unten!**
+
+	<span id="20241029">[**29.10.**, 02:06]</span>
+	* Allan vom Sup&shy;port hat ge&shy;schrie&shy;ben:
+		irgend&shy;was mit Account-High&shy;jack&shy;ing und ein paar
+		`lfs`-Kom&shy;man&shy;dos
+	* hab [ge&shy;ant&shy;wor&shy;tet](https://support.github.com/ticket/personal/0/3067960#tc-31657925723924) und zwei Screen&shy;shots
+		an&shy;ge&shy;h&auml;ngt,
+		die m.M.n. belegen,
+		dass auf Dateisystemebene Modifikationen stattfinden:  
+		![Binary Mod at 28th late](./.assets/2024-10-29-003237_1237x174_scrot.png)  
+		![Binary Mod at 29th early](./.assets/2024-10-29-003444_1238x199_scrot.png)  
+		</details>
+		<!-- ende versuch-1-hosting -->
+
+### + + + das muss alles ordentlich und in Kontext gesetzt werden + + +
 
 (die besagten Records auf einer eigenen VM bei hetnzer in Falkenstein, daf&uuml;r mit zusicherbarer Datenintegrit&auml;t)  
 `sha256 a6cdd3b780e0c1b6511404076c992d16d124a3096410129f17eb6d376d1e5baa` [10.03: Hypnose Whg. Pankower Allee](https://0vv1.io/stlk/2024-03-10_12-08_whg-Pankower-Allee.3h53m.mp3) (3h53)  
@@ -1198,12 +1241,6 @@ aufmachen/hacken.  -->
 * aber eben nicht komplett
 * die restlichen 2% lassen E-Mails von geistig Verwirrten und improvisierten Absendern entstehen  -->
 
-> [!TIP]
-> I.&#8239;d.&#8239;Z. eine bescheidene Frage (da ich keine Statistiken kenne):  
-> **Wieviele Diagnosen Schizophrenie o.&#8239;&auml;. sind falsch positiv?**
-> (Ich denke da vor allem an den Typus "Attent&auml;ter, dem Stimmen etwas befohlen haben", weil ich sowas noch nie gehabt habe.
-> Nur eben reale Arschl&ouml;cher, die einen wie doof zuspammen.)
-
 [**23.10.**]
 Heu&shy;te mal einen RF-"Wan&shy;zen&shy;"**de&shy;tek&shy;tor**" **aus&shy;pro&shy;biert**.
 So&shy;viel kann ich sa&shy;gen:  
@@ -1240,23 +1277,28 @@ was passiert.
 >   'nen pubkey rauszuziehen?
 > * eines der Opfer meinte ich mal "eure Polizisten" sagen hören
 > * der Einfluss sollte zumindest so hoch sein,
->   dass man bei einer Dienststelle der Polizei Berlin anrufen und sagen kann:
+>   dass man bei einer Dienststelle der Polizei Berlin anrufen und
+>		sagen kann:
 >   "Der da nicht." oder die Wache beim LKA sagen lassen kann,
 >   es sei kein Beamter mehr im Haus.  
 >   Das w&uuml;rde einiges erklären..
 
 [**21.10.: Eingeredete M&uuml;llstory des Tages**]
-Guten Morgen (vermutlich und für heute) Herr F.<sup>:warning:KI?</sup> aus R., Herr(-en) M. aus M., 
-der abstoßende "Das ist doch alles nur ein Spiel"-
-Abbruch-"Anwalt" oder was immer Du (oder eure Hoheit) da tut/tun,
-NLP-Julia<sup>:warning:KI?</sup> und der Rest der reudigen Sado-Crew an den Turn-Tables des Grauens!
-(*alle Namen selbstverständlich nur in meinem Kopf,
-so dass niemand in der Realität seine Persönlichkeitsrechte auch nur im
-Mindesten touchiert sehen dürfte*)
+Guten Morgen (vermutlich und für heute) Herr F.<sup>:warning:KI?</sup>
+	aus R., Herr(-en) M. aus M., 
+	der abstoßende "Das ist doch alles nur ein Spiel"-
+	Abbruch-"Anwalt" oder was immer Du (oder eure Hoheit) da tut/tun,
+	NLP-Julia<sup>:warning:KI?</sup> und der Rest der reudigen
+	Sado-Crew an den Turn-Tables des Grauens!
+	(*alle Namen selbstverständlich nur in meinem Kopf,
+	so dass niemand in der Realität seine
+	Persönlichkeitsrechte auch nur im
+	Mindesten touchiert sehen dürfte*)
 
-Auf der Suche nach dem Original und dem Versuch ihrer größtmöglichen psychischen Misshandlung,
-werdet ihr sicherlich auch heute wieder Ersatz-Lias und andere
-"Informations"-Quellen über alle Maßen belästigen.
+Auf der Suche nach dem Original und dem Versuch
+	ihrer größtmöglichen psychischen Misshandlung,
+	werdet ihr sicherlich auch heute wieder Ersatz-L.s und andere
+	"Informations"-Quellen über alle Maßen belästigen.
 
 Ich weiß ja nun, dass meine Schizophrenie "lediglich" zum Zwecke der psychischens Misshandlung von euch induziert wurde und
 diese Scheiße inkl. Mordversuchen echt ist
