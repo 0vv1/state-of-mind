@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: sa., 9. nov. 2024  
+version: mo., 11. nov. 2024  
 ```
 
 <h1>Von einer Crew da drau&szlig;en,
@@ -898,7 +898,8 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 > das kann doch un&shy;m&ouml;g&shy;lich ernst ge&shy;meint sein? -->
 
 <details>
-	<summary><h2>1. Versuch Hosting Records (GitHub)</h2></summary>
+	<summary><h2>1. Versuch Hosting Records
+		(f&uuhrt mglw. zur Manipulation von Daten bei GitHub)</h2></summary>
 
 <span id="20241025">[**25.10.**]</span>
 **GitHub** Inc. kann
@@ -981,9 +982,9 @@ Eine liebe,
 	![Binary Mod at 29th early](./.assets/2024-10-29-003444_1238x199_scrot.png)  
 
 <span id="20241106">[**06.11.** 20:48]</span>
-Hier ein Screen&shy;shot von mglw. et&shy;was hek&shy;ti&shy;schen
-	Be&shy;m&uuml;&shy;hun&shy;gen,
-	der Berei&shy;ni&shy;gung von Datei&shy;me&shy;ta&shy;da&shy;ten:
+M&ouml;g&shy;lich&shy;er&shy;wei&shy;se der Hek&shy;tik bei der
+	Berei&shy;ni&shy;gung der Ab&shy;la&shy;ge&shy;or&shy;ten ent&shy;spr.
+	Dateien ge&shy;schul&shy;det:  
 <img
 	alt="Screen&shy;shot zum Nach&shy;weis schlam&shy;pi&shy;gen
 		Auf&shy;r&auml;u&shy;mens"
@@ -999,10 +1000,10 @@ Im Nach&shy;gang zu den (mut&shy;ma&szlig;&shy;lich&shy;en)
 	(wenig&shy;stens f&uuml;r mich)
 	ein&shy;mal gescreen&shy;shotet habe.
 
-[**Erg**. **11.11.** 16:50]
+[**11.11.** 16:50]
 Ak&shy;tu&shy;el&shy;ler Screen&shy;shot der
-	Meta&shy;da&shy;ten&shy;&yyml;ber&shy;sicht mit berei&shy;nig&shy;tem
-	`tag`-<wbr />`value`:  
+	Meta&shy;da&shy;ten&shy;&uuml;ber&shy;sicht mit berei&shy;nig&shy;tem
+	`tag`-<wbr />Wert:  
 <img
 	alt="Meta&shy;da&shy;ten auf dem Ser&shy;ver bzgl. o.a. Datei"
 	src="./.assets/2024-11-11_16-50_metadata.current.edit.jpg"
