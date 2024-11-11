@@ -330,7 +330,7 @@ Was wollt ihr wirk&shy;lich von mir?
 	  link-<wbr />lo&shy;ka&shy;len APIPA-<wbr />Adres&shy;se"
   width="400px">
 > [!NOTE]
-> <span id="2024-11-08">[**Anm**. **08.11.**]</span>
+> <span id="2024-11-08">[**08.11.**]</span>
 > Es sind knapp 50 "feind&shy;li&shy;che" Log&shy;ins die Woche,
 > die auch so&shy;fort das Pass&shy;wort &auml;n&shy;dern,
 > und pein&shy;lich ge&shy;nau darauf ach&shy;ten,
@@ -899,7 +899,7 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 
 <details>
 	<summary><h2>1. Versuch Hosting Records
-		(f&uuhrt mglw. zur Manipulation von Daten bei GitHub)</h2></summary>
+		(f&uuml;hrt mglw. zur Manipulation von Daten bei GitHub)</h2></summary>
 
 <span id="20241025">[**25.10.**]</span>
 **GitHub** Inc. kann
@@ -917,7 +917,7 @@ Eine liebe,
 	von euch geschickte,
 	Fee k&uuml;mmert sich endlich um den Kinder- & Jugendschutz.  
 
-<span id="20241026">[**Anm. 26.10.** 01:50]</span>
+<span id="20241026">[**26.10.** 01:50]</span>
 * die ent&shy;spr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2x
 	in&shy;tern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
 * Down&shy;load  mit Pr&uuml;f&shy;sum&shy;me  
@@ -940,7 +940,6 @@ Eine liebe,
 * Abkl&auml;rung via
 	[Support-Ticket #3067960](https://support.github.com/ticket/personal/0/3067960)
 
-[!CAUTION]
 <span id="20241027">[**27.10.** 13:52]</span>
 <img
 	align="right"
@@ -970,7 +969,7 @@ Eine liebe,
 	dass sie mir nicht zu Staub zer&shy;bal&shy;lert wird :zany_face:
 	**Siehe weiter unten!**
 
-<span id="20241029">[**29.10.**, 02:06]</span>
+<span id="20241029">[**29.10.** 02:06]</span>
 * Allan vom Sup&shy;port hat ge&shy;schrie&shy;ben:
 	irgend&shy;was mit Account-High&shy;jack&shy;ing und ein paar
 	`lfs`-Kom&shy;man&shy;dos
@@ -1000,7 +999,7 @@ Im Nach&shy;gang zu den (mut&shy;ma&szlig;&shy;lich&shy;en)
 	(wenig&shy;stens f&uuml;r mich)
 	ein&shy;mal gescreen&shy;shotet habe.
 
-[**11.11.** 16:50]
+<span id="20241111">[**11.11.** 16:50]</span>
 Ak&shy;tu&shy;el&shy;ler Screen&shy;shot der
 	Meta&shy;da&shy;ten&shy;&uuml;ber&shy;sicht mit berei&shy;nig&shy;tem
 	`tag`-<wbr />Wert:  
@@ -1579,7 +1578,7 @@ Also bei mir nicht. Vielleicht [beim anderen Alexander Puls](#m&ouml;glicher-ide
 > hoffentlich nicht..
 >
 > ~~**Kann mir bitte jemand die Existenz dieses Menschen bestätigen!**~~ <sup>:warning:obsolet</sup>  
-> [<span id="2024-10-18-19-00">**18.10.** 19:00</span>]
+> <span id="2024-10-18-19-00">[**18.10.** 19:00]</span>
 > Scheiß drauf!
 > Du kommst nie drauf,
 > welch erhebender Moment die Kraft hat,
