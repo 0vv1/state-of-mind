@@ -900,86 +900,115 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 <details>
 	<summary><h2>1. Versuch Hosting Records (GitHub)</h2></summary>
 
-	<span id="20241025">[**25.10.**]</span>
-	**GitHub** Inc. kann
-	(nach T&auml;ter-Einrede)
-	die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten?
-	T&auml;ter meint, sie h&aumltten dort jemanden,
-		der sich darum k&uuml;mmert,
-		dass kein f&uuml;r sie belastendes Material auf den Servern liegt.
-	Hochgeladene Dateien, abgelegt auf (internen) Servern,
-		&auml;ndern alle f&uuml;nf Minuten ihre Pr&uuml;fsumme?  
+<span id="20241025">[**25.10.**]</span>
+**GitHub** Inc. kann
+(nach T&auml;ter-Einrede)
+die Integrit&auml;t gehosteter Daten nicht gew&auml;hrleisten?
+T&auml;ter meint, sie h&aumltten dort jemanden,
+	der sich darum k&uuml;mmert,
+	dass kein f&uuml;r sie belastendes Material auf den Servern liegt.
+Hochgeladene Dateien, abgelegt auf (internen) Servern,
+	&auml;ndern alle f&uuml;nf Minuten ihre Pr&uuml;fsumme?  
 
-	Warum glaube ich das sofort?  
-	Lasst mich raten:
-	Eine liebe,
-		von euch geschickte,
-		Fee k&uuml;mmert sich endlich um den Kinder- & Jugendschutz.  
+Warum glaube ich das sofort?  
+Lasst mich raten:
+Eine liebe,
+	von euch geschickte,
+	Fee k&uuml;mmert sich endlich um den Kinder- & Jugendschutz.  
 
-	<span id="20241026">[**Anm. 26.10.** 01:50]</span>
-	* die ent&shy;spr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2x
-		in&shy;tern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
-	* Down&shy;load  mit Pr&uuml;f&shy;sum&shy;me  
-		`sha256 5b056140d0b43de09fbb8905f8295c8dd89fb450624df51500f1c695fbbf3155`,
-		m&uuml;ss&shy;te aber eigent&shy;lich  
-		`sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d`
-		sein!
-	* ist es aber nicht
-	* er&shy;neu&shy;ter **Upload**
-	* **er&shy;neut modifizierte Datein**
-		(ich habe es wirk&shy;lich oft pro&shy;biert, ein paar
-		Pr&uuml;f&shy;sum&shy;men:  
-		`sha256 0a76b85ff7767f9c2dcdab72890854f1ebea45359564a6bcdbae5aea295d6c5a`,  
-		`sha256 5505523390453fedb16a1ccd124ef9c7b857ff608e43d62d6b3d8a1fe97d22ff`,  
-		`sha256 e678f56c2b0634ce95010fab688a77bb51a2d7a151f56685e4c8447a7044eb0e`,  
-		`sha256 7474c95a8d885ec748895f3fbfd78d520f3d92f86a44245210aea32fb28cd9bc`,  
-		`sha256 8a312d6db6d8db709e5da3e37962293443413440feb90371cc467a7666980cd7`,  
-		`sha256 b47d907ec8da5feda5d6e5dfdf006232cff4f0bd4985d53ab86b0e24aed64e01`)
-	* bei hetzner weiter erreichbar: https://0vv1.io/stlk
-	* Abkl&auml;rung via
-		[Support-Ticket #3067960](https://support.github.com/ticket/personal/0/3067960)
+<span id="20241026">[**Anm. 26.10.** 01:50]</span>
+* die ent&shy;spr. Datei wur&shy;de jetzt min&shy;des&shy;tens 2x
+	in&shy;tern(?) bei Git&shy;Hub Inc. modi&shy;fi&shy;ziert
+* Down&shy;load  mit Pr&uuml;f&shy;sum&shy;me  
+	`sha256 5b056140d0b43de09fbb8905f8295c8dd89fb450624df51500f1c695fbbf3155`,
+	m&uuml;ss&shy;te aber eigent&shy;lich  
+	`sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d`
+	sein!
+* ist es aber nicht
+* er&shy;neu&shy;ter **Upload**
+* **er&shy;neut modifizierte Datein**
+	(ich habe es wirk&shy;lich oft pro&shy;biert, ein paar
+	Pr&uuml;f&shy;sum&shy;men:  
+	`sha256 0a76b85ff7767f9c2dcdab72890854f1ebea45359564a6bcdbae5aea295d6c5a`,  
+	`sha256 5505523390453fedb16a1ccd124ef9c7b857ff608e43d62d6b3d8a1fe97d22ff`,  
+	`sha256 e678f56c2b0634ce95010fab688a77bb51a2d7a151f56685e4c8447a7044eb0e`,  
+	`sha256 7474c95a8d885ec748895f3fbfd78d520f3d92f86a44245210aea32fb28cd9bc`,  
+	`sha256 8a312d6db6d8db709e5da3e37962293443413440feb90371cc467a7666980cd7`,  
+	`sha256 b47d907ec8da5feda5d6e5dfdf006232cff4f0bd4985d53ab86b0e24aed64e01`)
+* bei hetzner weiter erreichbar: https://0vv1.io/stlk
+* Abkl&auml;rung via
+	[Support-Ticket #3067960](https://support.github.com/ticket/personal/0/3067960)
 
-	[!CAUTION]
-	<span id="20241027">[**27.10.** 13:52]</span>
-	<img
-		align="right"
-		alt="GitHub Support Ticket #3067960 2. Eintrag"
-		src="./.assets/2024-10-27_github_support-ticket-3067960.2.png"
-		width="700px">
+[!CAUTION]
+<span id="20241027">[**27.10.** 13:52]</span>
+<img
+	align="right"
+	alt="GitHub Support Ticket #3067960 2. Eintrag"
+	src="./.assets/2024-10-27_github_support-ticket-3067960.2.png"
+	width="700px">
 
-	* k.&#8239;A.,
-		viel&shy;leicht nehme ich mich auch zu wich&shy;tig :shrug:
+* k.&#8239;A.,
+	viel&shy;leicht nehme ich mich auch zu wich&shy;tig :shrug:
 
-	* ich habe Ende letz&shy;ter Woche dem Sup&shy;port
-		ge&shy;schrie&shy;ben und bin fast da&shy;von
-		aus&shy;ge&shy;gan&shy;gen,
-		dass ich inner&shy;halb von zehn Minu&shy;ten eine
-		In&shy;ves&shy;ti&shy;ga&shy;tion an&shy;ge&shy;sto&szlig;en
-		be&shy;kom&shy;me,
-		wenn ich der welt&shy;weit gr&ouml;&szlig;&shy;ten Platt&shy;form
-		zur Ver&shy;sions&shy;kon&shy;trol&shy;le an&shy;deu&shy;te,
-		dass ich ihre Kern&shy;kom&shy;pe&shy;tenz besch&auml;digt sehe
+* ich habe Ende letz&shy;ter Woche dem Sup&shy;port
+	ge&shy;schrie&shy;ben und bin fast da&shy;von
+	aus&shy;ge&shy;gan&shy;gen,
+	dass ich inner&shy;halb von zehn Minu&shy;ten eine
+	In&shy;ves&shy;ti&shy;ga&shy;tion an&shy;ge&shy;sto&szlig;en
+	be&shy;kom&shy;me,
+	wenn ich der welt&shy;weit gr&ouml;&szlig;&shy;ten Platt&shy;form
+	zur Ver&shy;sions&shy;kon&shy;trol&shy;le an&shy;deu&shy;te,
+	dass ich ihre Kern&shy;kom&shy;pe&shy;tenz besch&auml;digt sehe
 
-	* ich verzichte (vorerst) auf `LFS` ([**Daten&shy;in&shy;te&shy;gri&shy;t&auml;t**](https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit)))
-	</img>
+* ich verzichte (vorerst) auf `LFS`
+	([**Daten&shy;in&shy;te&shy;gri&shy;t&auml;t**](https://de.wikipedia.org/wiki/Integrit%C3%A4t_(Informationssicherheit)))
+</img>
 
-	* OK, ich hos&shy;te jetzt auf "**ei&shy;ge&shy;ne**r"
-		**Infra&shy;struk&shy;tur** f&uuml;r 4,58 &euro;/Monat und hof&shy;fe,
-		dass sie mir nicht zu Staub zer&shy;bal&shy;lert wird :zany_face:
-		**Siehe weiter unten!**
+* OK, ich hos&shy;te jetzt auf "**ei&shy;ge&shy;ne**r"
+	**Infra&shy;struk&shy;tur** f&uuml;r 4,58 &euro;/Monat und hof&shy;fe,
+	dass sie mir nicht zu Staub zer&shy;bal&shy;lert wird :zany_face:
+	**Siehe weiter unten!**
 
-	<span id="20241029">[**29.10.**, 02:06]</span>
-	* Allan vom Sup&shy;port hat ge&shy;schrie&shy;ben:
-		irgend&shy;was mit Account-High&shy;jack&shy;ing und ein paar
-		`lfs`-Kom&shy;man&shy;dos
-	* hab [ge&shy;ant&shy;wor&shy;tet](https://support.github.com/ticket/personal/0/3067960#tc-31657925723924) und zwei Screen&shy;shots
-		an&shy;ge&shy;h&auml;ngt,
-		die m.M.n. belegen,
-		dass auf Dateisystemebene Modifikationen stattfinden:  
-		![Binary Mod at 28th late](./.assets/2024-10-29-003237_1237x174_scrot.png)  
-		![Binary Mod at 29th early](./.assets/2024-10-29-003444_1238x199_scrot.png)  
-		</details>
-		<!-- ende versuch-1-hosting -->
+<span id="20241029">[**29.10.**, 02:06]</span>
+* Allan vom Sup&shy;port hat ge&shy;schrie&shy;ben:
+	irgend&shy;was mit Account-High&shy;jack&shy;ing und ein paar
+	`lfs`-Kom&shy;man&shy;dos
+* hab [ge&shy;ant&shy;wor&shy;tet](https://support.github.com/ticket/personal/0/3067960#tc-31657925723924) und zwei Screen&shy;shots
+	an&shy;ge&shy;h&auml;ngt,
+	die m.M.n. belegen,
+	dass auf Dateisystemebene Modifikationen stattfinden:  
+	![Binary Mod at 28th late](./.assets/2024-10-29-003237_1237x174_scrot.png)  
+	![Binary Mod at 29th early](./.assets/2024-10-29-003444_1238x199_scrot.png)  
+
+<span id="20241106">[**06.11.** 20:48]</span>
+Hier ein Screen&shy;shot von mglw. et&shy;was hek&shy;ti&shy;schen
+	Be&shy;m&uuml;&shy;hun&shy;gen,
+	der Berei&shy;ni&shy;gung von Datei&shy;me&shy;ta&shy;da&shy;ten:
+<img
+	alt="Screen&shy;shot zum Nach&shy;weis schlam&shy;pi&shy;gen
+		Auf&shy;r&auml;u&shy;mens"
+	src="./.assets/2024-11-06-20-48_github_cleaning-up-mistake.edit.jpg"
+	titel="Schlam&shy;pi&shy;ges Auf&shy;r&auml;u&shy;men im Nach&shy;gang
+		zu Datei&shy;ma&shy;ni&shy;pu&shy;la&shy;tio&shy;nen" />
+Im Nach&shy;gang zu den (mut&shy;ma&szlig;&shy;lich&shy;en)
+	in&shy;ter&shy;nen Datei&shy;ma&shy;ni&shy;pu&shy;la&shy;tio&shy;nen 
+	wur&shy;den offen&shy;bar Fl&uuml;ch&shy;tig&shy;keits&shy;feh&shy;ler 
+	ge&shy;macht,
+	die heu&shy;te sicher be&shy;ho&shy;ben sind,
+	die ich aber
+	(wenig&shy;stens f&uuml;r mich)
+	ein&shy;mal gescreen&shy;shotet habe.
+
+[**Erg**. **11.11.** 16:50]
+Ak&shy;tu&shy;el&shy;ler Screen&shy;shot der
+	Meta&shy;da&shy;ten&shy;&yyml;ber&shy;sicht mit berei&shy;nig&shy;tem
+	`tag`-<wbr />`value`:  
+<img
+	alt="Meta&shy;da&shy;ten auf dem Ser&shy;ver bzgl. o.a. Datei"
+	src="./.assets/2024-11-11_16-50_metadata.current.edit.jpg"
+	titel="Meta&shy;da&shy;ten auf dem Ser&shy;ver bzgl. o.a. Datei" />
+</details>
+	<!-- ende versuch-1-hosting -->
 
 ### + + + das muss alles ordentlich und in Kontext gesetzt werden + + +
 
@@ -5175,6 +5204,8 @@ als mach&shy;te man das ers&shy;te Mal die Augen auf..
 > Gern mit aus&shy;ge&shy;dehn&shy;ten
 > Spreng&shy;ar&shy;bei&shy;ten. :boom:~~
 > SCHON LANGE NICHT MEHR LUSTIG
+
+<!-- Das ist das Problem, wenn man auf der falschen Seite der Geschichte steht -->
 
 Da&shy;f&uuml;r m&ouml;ch&shy;te ich mit den Wor&shy;ten eines
 	be&shy;stimmt bereits &auml;l&shy;te&shy;ren,
