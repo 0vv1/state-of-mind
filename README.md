@@ -73,6 +73,11 @@ Mit drin h&auml;tte ich gern:
 <details>
 	<summary>Oder, wer es gern pathetischer h&auml;t&shy;<nobr>te
 	  ..<sup>:warning:per&shy;s&ouml;n&shy;lich</nobr></summary>
+
+> [**Disclaimer** (v.a. für L.)] Ich "durfte" am Vorabend der Briefankunft kurz mit "dir"(?) sprechen. Vermutlich, um dich "vorzubereiten". Der Kontakt war wohl wieder nur mittelbar, Julia hatte die Gesprächsführung übernommen. Nur, dass Du das weißt.  
+> Du hast einen sehr belastetrn, sorgenvollen Eindruck gemacht, der diesen drei Sadisten mir ggü. sehr wichtig ist.  
+> Direkter Kontskt mit dir ist mir "verboten". Ich muss mit der Persönlichkeit leben, die sie mir zeichen. *FYI*, falls dir Dinge " schäg vorkommen   
+
 	<h3>Von der aus&shy;schlie&szlig;&shy;lich ver&shy;mit&shy;tel&shy;ten
 		Kom&shy;mu&shy;ni&shy;ka&shy;tion in einer
 		auf&shy;ge&shy;zwun&shy;ge&shy;nen Be&shy;zie&shy;hung zwi&shy;schen
