@@ -9,10 +9,55 @@ license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -
 version: mo., 11. nov. 2024  
 ```
 
-<h1>Von einer Crew da drau&szlig;en,
-	die aus dem Verborgenen so glaub&shy;w&uuml;r&shy;dig und
-	&uuml;ber&shy;zeu&shy;gend tut als ob,
+<h1>Von Crews da drau&szlig;en,
+	die aus dem Ver&shy;bor&shy;ge&shy;nen so glaub&shy;w&uuml;r&shy;dig
+	und &uuml;ber&shy;zeu&shy;gend tut als ob,
 	dass jeder an&shy;nimmt, es ist.</h1>
+
+> [!CAUTION]
+> .. und dann ist min&shy;des&shy;tens eine (die einzige?) davon
+>	pl&ouml;tz&shy;lich hoch-<wbr />pro&shy;fes&shy;sio&shy;nel&shy;le
+>	orga&shy;ni&shy;sier&shy;te Kri&shy;mi&shy;na&shy;li&shy;t&auml;t, 
+>	die Auf&shy;trag&shy;ge&shy;ber mit **neue**n
+>	**Iden&shy;ti&shy;t&auml;&shy;t**en aus&shy;stat&shy;tet?
+> Nicht ein &micro; Skru&shy;pel hat,
+>	Men&shy;schen nach Be&shy;darf aus&shy;zu&shy;beu&shy;ten /
+>	zu be&shy;nutzen und genau dann Ideen von Mensch&shy;lich&shy;keit
+>	und Freund&shy;lich&shy;keit zeigt,
+>	wenn es einem Zweck dient?  
+> Die drin&shy;gen in Woh&shy;nun&shy;gen ein,
+>	um dein [Tele&shy;fon](#kompromittierte-sim) und dei&shy;nen
+>	[Com&shy;pu&shy;ter](#kompromittierter-router) zu
+>	pr&auml;&shy;pa&shy;rie&shy;ren?
+> Die haben Leute bei Meta und
+>	[Git&shy;Hub](#manipulation-von-daten-bei-github)?
+>	
+> **Was sind denn das f&uuml;r kaputte**?
+> 
+> [**Anm**. **15.11.**]
+> Veil&shy;leicht sind Sadis&shy;ten-<wbr />Crews und
+> irgend&shy;wel&shy;che Eso-<wbr />Sek&shy;ten,
+> die uns wegen an&shy;geb&shy;lich&shy;er
+> "*tele&shy;pa&shy;thi&shy;scher*" F&auml;hig&shy;kei&shy;ten jagen,
+> "nur" Ob&shy;fus&shy;ka&shy;tion.
+> Oder irgend&shy;wie zu&shy;f&auml;l&shy;lig
+> rein&shy;ge&shy;ra&shy;ten?  
+> Das ganze ist jeden&shy;falls in&shy;so&shy;fern ver&shy;r&uuml;ckt,
+> als dass "das hier" immer wie&shy;der be&shy;lie&shy;big
+> es&shy;ka&shy;liert und ein&shy;zel&shy;ne
+> Pro&shy;ta&shy;go&shy;nis&shy;ten<wbr />(-grup&shy;pen)
+> gern mal "Kon&shy;trol&shy;le" zu
+> ver&shy;lie&shy;ren schei&shy;nen,
+> ab&shy;gel&ouml;st wer&shy;den oder
+> "keine Lust" mehr haben.  
+> Irgendwie wirr.
+> Vor allem:
+> **Was hab ich damit zu tun?**  
+> (OK, bei ID komm ich noch mit.
+> Es sind ja tat&shy;s&auml;ch&shy;lich ein paar mehr
+>	Alex&shy;an&shy;der Puls (zu&shy;min&shy;dest digi&shy;tal)
+>	in Ber&shy;lin auf&shy;ge&shy;taucht.
+> Kann ja sein, das eine "neue Identit&auml;t" dabei ist. K.A.)
 
 Mit drin h&auml;tte ich gern:  
 	**Iden&shy;ti&shy;t&auml;t** und
@@ -24,6 +69,20 @@ Mit drin h&auml;tte ich gern:
 	**Mani&shy;pu&shy;la&shy;tion** der
 	(m&ouml;g&shy;li&shy;ch&shy;er&shy;wei&shy;se auch
 	Mas&shy;<nobr>sen-)</nobr><wbr />**Wahr&shy;neh&shy;mung**<br />.
+
+> [!IMPORTANT]
+> <span id="20241109">[**09.11.**]</span>
+> In den Mor&shy;gen&shy;stun&shy;den des 9. No&shy;vem&shy;bers ist
+> je&shy;mand schr&auml;g gegen&shy;&uuml;ber in der 35C
+> (3. OG, front&shy;sei&shy;tig rechts)
+> ver&shy;stor&shy;ben!
+> S&auml;mt&shy;liche(!) Um&shy;st&auml;n&shy;de empfin&shy;de ich
+> (mindestens!) als (euphe&shy;mis&shy;tisch)
+> be&shy;mer&shy;kens&shy;wert.  
+> (Die ich aber hier mit Sicher&shy;heit nicht hin&shy;schrei&shy;be.)  
+> Jeden&shy;falls: **Ich ver&shy;mis&shy;se eine Stim&shy;me**
+> (in der Wand)**!*
+> Ich will wissen, wer das war!
 
 <details>
 	<summary>Oder, wer es gern pathetischer h&auml;t&shy;<nobr>te
@@ -901,6 +960,12 @@ Da ich ohne jedes Ver&shy;st&auml;n&shy;dnis
 	<summary><h2>1. Versuch Hosting Records
 		(f&uuml;hrt mglw. zur Manipulation von Daten bei GitHub)</h2></summary>
 
+(Innen-)<wbr />T&auml;ter haben nach Hoch&shy;la&shy;den von
+  Audio-<wbr />Dateien,
+	die&shy;se intern auf den Ser&shy;vern bei Git&shy;Hub
+	mani&shy;pu&shy;liert,
+	um jeden m&ouml;g&shy;lich&shy;en Nach&shy;weis von
+	Straf&shy;ta&shy;ten zu ver&shy;hin&shy;dern
 <span id="20241025">[**25.10.**]</span>
 **GitHub** Inc. kann
 (nach T&auml;ter-Einrede)
@@ -1175,19 +1240,56 @@ aufmachen/hacken.  -->
 > Die allermeisten Menschen kennen von mir einen Nachnamen und maximal noch ein Gesicht.
 > Alles andere resultierte aus Nachrede (und diese h&auml;tte &uuml;brigens zwangsl&auml;ufig(!) immer(!) eine Intention).
 
-<h3>Kompromittierte SIM für 0170-9352526</h3>
+<h3>Kom&shy;pro&shy;mit&shy;tier&shy;te SIM</h3>
 
 <img src="./.assets/2024-10-15_mobilfunk.jpg"
   width="300px"
   align="right">
-* irgendwann im Oktober ist mir aufgefallen,
-  dass Dritte nach Belieben Anrufe fingieren,
-  als besetzt oder nicht erreichbar darstellen k&ouml;nnen
-* der im pic abgebildete Funkturm blieb im
-  gesamten Stadtgebiet der selbe
-* SIM-Karte scheint mir keine originale zu sein,
-  hei&szlig;t sie muss ersetzt worden eein
-</img> 
+* f&uuml;r die alte Ruf&shy;nr. 0170-9352526
+* irgend&shy;wann An&shy;fang Okto&shy;ber ist mir
+	auf&shy;ge&shy;fal&shy;len,
+  dass Drit&shy;te nach Belie&shy;ben An&shy;ru&shy;fe
+	fin&shy;gie&shy;ren,
+  als be&shy;setzt oder nicht er&shy;reich&shy;bar dar&shy;stel&shy;len
+	k&ouml;nnen
+* der in der Abb. rechts ab&shy;ge&shy;bil&shy;de&shy;te "Funk&shy;turm"
+	bleibt im ge&shy;sam&shy;ten Stadt&shy;ge&shy;biet der selbe
+<img src="./.assets/2024-10-18_kompromitierte-SIM.jpg"
+  width="100px"
+  align="right">
+* SIM-Karte scheint mir keine ori&shy;gi&shy;na&shy;le zu sein,
+  hei&szlig;t sie muss er&shy;setzt wor&shy;den sein
+</img></img> 
+
+<h3>Kom&shy;pro&shy;mit&shy;tier&shy;ter Rou&shy;ter</h3>
+
+<img src="./.assets/2024-11-13_10-48_router-ports.png"
+  width="300px"
+  align="right">
+* der f&uuml;r das Hacking
+	(oder wenig&shy;stens Mani&shy;pu&shy;la&shy;tion)
+	der Devi&shy;ces zur Kom&shy;mu&shy;ni&shy;ka&shy;tion
+	ver&shy;ant&shy;wort&shy;li&shy;che Dude (Psy-Crew) hat mir den Router
+	ein&shy;mal komp&shy;lett nach au&szlig;en auf&shy;ge&shy;macht
+
+* **Anm**.: Nicht zu be&shy;werk&shy;stel&shy;li&shy;gen,
+	ohne in die ent&shy;sprechen&shy;de Woh&shy;nung
+	ein&shy;zu&shy;drin&shy;gen
+
+* und dann auch gleich noch der Nach&shy;weis des Ein&shy;satzes von
+	Tools zur Netz&shy;werk&shy;&uuml;ber&shy;wachung
+</img>
+
+<img src="./.assets/2024-11-13-10_17_router-scan.png"
+  width="250px"
+  align="right">
+* Links zu den Her&shy;stel&shy;lern:
+	* [Intermapper](https://www.fortra.com/products/network-monitoring-software)
+		von Fortra
+	* [iTach](https://www.globalcache.co.uk/categories/itach/)-Devices
+		wohl von
+		[Global Cache](https://www.globalcache.co.uk/categories/itach/)
+</img>
 
 > [!TIP]
 > Nur(!) wegen 1.000-facher Suggestion:  
