@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: mo., 11. nov. 2024  
+version: fr., 15. nov. 2024  
 ```
 
 <h1>Von Crews da drau&szlig;en,
@@ -1282,15 +1282,14 @@ aufmachen/hacken.  -->
 </img>
 
 <img src="./.assets/2024-11-13-10_17_router-scan.png"
-  width="250px"
-  align="right">
+  width="300px"
+  align="right" />
 * Links zu den Her&shy;stel&shy;lern:
 	* [Intermapper](https://www.fortra.com/products/network-monitoring-software)
 		von Fortra
 	* [iTach](https://www.globalcache.co.uk/categories/itach/)-Devices
 		wohl von
 		[Global Cache](https://www.globalcache.co.uk/categories/itach/)
-</img>
 
 > [!TIP]
 > Nur(!) wegen 1.000-facher Suggestion:  
