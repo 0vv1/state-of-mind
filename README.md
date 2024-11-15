@@ -68,7 +68,7 @@ Mit drin h&auml;tte ich gern:
 	(vor allem akus&shy;ti&shy;scher)
 	**Mani&shy;pu&shy;la&shy;tion** der
 	(m&ouml;g&shy;li&shy;ch&shy;er&shy;wei&shy;se auch
-	Mas&shy;<nobr>sen-)</nobr><wbr />**Wahr&shy;neh&shy;mung**<br />.
+	Mas&shy;<nobr>sen-)</nobr><wbr />**Wahr&shy;neh&shy;mung**.
 
 <details>
 	<summary>Oder, wer es gern pathetischer h&auml;t&shy;<nobr>te
@@ -131,6 +131,7 @@ Glei&shy;ches gilt um&shy;ge&shy;kehrt,
 auch wenn ich nie mehr Ge&shy;le&shy;gen&shy;heit fand,
 es so aus&shy;zu&shy;rich&shy;ten.
 
+> [!WARNING]
 > Be&shy;reits drei Mi&shy;nu&shy;ten ver&shy;f&auml;lsch&shy;ten
 > (und da&shy;mit nicht mehr ge&shy;mein&shy;sa&shy;men)
 > Er&shy;le&shy;bens,
