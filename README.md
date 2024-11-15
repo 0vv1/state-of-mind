@@ -81,7 +81,7 @@ Mit drin h&auml;tte ich gern:
 > be&shy;mer&shy;kens&shy;wert.  
 > (Die ich aber hier mit Sicher&shy;heit nicht hin&shy;schrei&shy;be.)  
 > Jeden&shy;falls: **Ich ver&shy;mis&shy;se eine Stim&shy;me**
-> (in der Wand)**!*
+> (in der Wand)**!**
 > Ich will wissen, wer das war!
 
 <details>
