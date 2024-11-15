@@ -70,20 +70,6 @@ Mit drin h&auml;tte ich gern:
 	(m&ouml;g&shy;li&shy;ch&shy;er&shy;wei&shy;se auch
 	Mas&shy;<nobr>sen-)</nobr><wbr />**Wahr&shy;neh&shy;mung**<br />.
 
-> [!IMPORTANT]
-> <span id="20241109">[**09.11.**]</span>
-> In den Mor&shy;gen&shy;stun&shy;den des 9. No&shy;vem&shy;bers ist
-> je&shy;mand schr&auml;g gegen&shy;&uuml;ber in der 35C
-> (3. OG, front&shy;sei&shy;tig rechts)
-> ver&shy;stor&shy;ben!
-> S&auml;mt&shy;liche(!) Um&shy;st&auml;n&shy;de empfin&shy;de ich
-> (mindestens!) als (euphe&shy;mis&shy;tisch)
-> be&shy;mer&shy;kens&shy;wert.  
-> (Die ich aber hier mit Sicher&shy;heit nicht hin&shy;schrei&shy;be.)  
-> Jeden&shy;falls: **Ich ver&shy;mis&shy;se eine Stim&shy;me**
-> (in der Wand)**!**
-> Ich will wissen, wer das war!
-
 <details>
 	<summary>Oder, wer es gern pathetischer h&auml;t&shy;<nobr>te
 	  ..<sup>:warning:per&shy;s&ouml;n&shy;lich</nobr></summary>
@@ -223,6 +209,20 @@ Die gegen&shy;sei&shy;ti&shy;ge Knech&shy;tung, Unter&shy;jo&shy;chung
 Ich will die sog. Wahr&shy;heit wis&shy;sen!  
 So schreck&shy;lich oder banal sie auch immer sein mag.
 	</details>
+
+> [!IMPORTANT]
+> <span id="20241109">[**09.11.**]</span>
+> In den Mor&shy;gen&shy;stun&shy;den des **9. No&shy;vem&shy;ber**s
+> **ist je&shy;mand** schr&auml;g gegen&shy;&uuml;ber in der 35C
+> (3. OG, front&shy;sei&shy;tig rechts)
+> **ver&shy;stor&shy;ben**!
+> S&auml;mt&shy;liche(!) Um&shy;st&auml;n&shy;de empfin&shy;de ich
+> (mindestens!) als (euphe&shy;mis&shy;tisch)
+> be&shy;mer&shy;kens&shy;wert.  
+> (Die ich aber hier mit Sicher&shy;heit nicht hin&shy;schrei&shy;be.)  
+> Jeden&shy;falls: **Ich ver&shy;mis&shy;se eine Stim&shy;me**
+> (in der Wand)**!**
+> Ich will wis&shy;sen, wer das war!
 
 <h2>Eige&shy;ne Sa&shy;che</h2>
 
