@@ -4683,11 +4683,12 @@ ihrer Opfer.
 <h4>Kom&shy;mu&shy;ni&shy;ka&shy;tions&shy;un&shy;ter&shy;dr&uuml;ckung</h4>
   
   * Ver&shy;dacht unter&shy;dr&uuml;ck&shy;ten E-Mail-Ver&shy;kehrs
-    in 4 Fäl&shy;len mglw. durch Mani&shy;pu&shy;la&shy;tion der
+    in (mittlerweile) 10 Fäl&shy;len ~~mglw. durch Mani&shy;pu&shy;la&shy;tion der
     DSL-Lei&shy;tung
-    (nach Ein&shy;re&shy;de durch T&auml;ter)
+    (nach Ein&shy;re&shy;de durch T&auml;ter)~~
     * Mails vom **12.02., 20:08**, **16.08., 2:49** & **21:00** sowie
-      **2. Okt., 5:30**
+      **2. Okt., 5:30** u.v.w.  
+  * mittlerweile ist einigermaßen "klar", dass das Postfach der Adressatin live gemonitort wird 
   * mglw. fin&shy;gier&shy;te "Er&shy;satz"-E-Mails vol&shy;ler Hass
     * mglw. fin&shy;gier&shy;ter Ab&shy;sen&shy;der aus
       ab&shy;ge&shy;fisch&shy;ten ori&shy;gi&shy;na&shy;len E-Mails
