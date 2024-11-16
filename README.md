@@ -11,11 +11,13 @@ version: sa., 16. nov. 2024
 
 <h1>Von Crews da drau&szlig;en,
 	die aus dem Ver&shy;bor&shy;ge&shy;nen so glaub&shy;w&uuml;r&shy;dig
-	und &uuml;ber&shy;zeu&shy;gend tut als ob,
+	und &uuml;ber&shy;zeu&shy;gend tun als ob,
 	dass jeder an&shy;nimmt, es ist.</h1>
 
 > [!CAUTION]
-> .. und dann ist min&shy;des&shy;tens eine (die einzige?) davon
+> .. **bis es auf einmal tatsächlich ist!**
+> 
+> nd dann ist min&shy;des&shy;tens eine (die einzige?) "Psy"-Crew
 >	pl&ouml;tz&shy;lich hoch-<wbr />pro&shy;fes&shy;sio&shy;nel&shy;le
 >	orga&shy;ni&shy;sier&shy;te Kri&shy;mi&shy;na&shy;li&shy;t&auml;t, 
 >	die Auf&shy;trag&shy;ge&shy;ber mit **neue**n
@@ -80,24 +82,23 @@ Mit drin h&auml;tte ich gern:
 > Jedenfalls muss ich mit der Persönlichkeit leben, die sie mir zeichnen.
 > *FYI*, sollten dir Dinge *schräg* vorkommen.  
 
-
-	<h3>Von der aus&shy;schlie&szlig;&shy;lich ver&shy;mit&shy;tel&shy;ten
-		Kom&shy;mu&shy;ni&shy;ka&shy;tion in einer
-		auf&shy;ge&shy;zwun&shy;ge&shy;nen Be&shy;zie&shy;hung zwi&shy;schen
-		zwei Men&shy;schen,
-		die sich real nie bege&shy;gne&shy;ten,
-		der will&shy;k&uuml;r&shy;li&shy;chen Zeich&shy;nung ihrer
+<h3>Von der aus&shy;schlie&szlig;&shy;lich ver&shy;mit&shy;tel&shy;ten
+Kom&shy;mu&shy;ni&shy;ka&shy;tion in einer
+auf&shy;ge&shy;zwun&shy;ge&shy;nen Be&shy;zie&shy;hung zwi&shy;schen
+zwei Men&shy;schen,
+die sich real nie bege&shy;gne&shy;ten,
+der will&shy;k&uuml;r&shy;li&shy;chen Zeich&shy;nung ihrer
 		Per&shy;s&ouml;n&shy;lich&shy;kei&shy;ten gg&uuml;. dem ande&shy;ren,
-		bei m&ouml;glichst voll&shy;st&auml;n&shy;di&shy;ger
-		Kon&shy;trol&shy;le und gr&ouml;&szlig;t&shy;mög&shy;lich&shy;er
-		Besch&auml;&shy;di&shy;gung alles Emo&shy;tio&shy;na&shy;len,
-		was nur bei gleich&shy;zei&shy;ti&shy;ger aggres&shy;si&shy;ver
-		Kon&shy;takt&shy;ver&shy;hin&shy;de&shy;rung ge&shy;lin&shy;gen kann,
-		um ..<br />
+bei m&ouml;glichst voll&shy;st&auml;n&shy;di&shy;ger
+Kon&shy;trol&shy;le und gr&ouml;&szlig;t&shy;mög&shy;lich&shy;er
+Besch&auml;&shy;di&shy;gung alles Emo&shy;tio&shy;na&shy;len,
+was nur bei gleich&shy;zei&shy;ti&shy;ger aggres&shy;si&shy;ver
+Kon&shy;takt&shy;ver&shy;hin&shy;de&shy;rung ge&shy;lin&shy;gen kann,
+um ..<br />
 	<b>Was</b> eigent&shy;lich?<br />  
 	Den einen ge&shy;f&uuml;&shy;gig zu machen und
-		dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t
-		zu rauben?<sup>:warning:Suggestion</sup></h3>
+dem ande&shy;ren nach Sui&shy;zid die Iden&shy;ti&shy;t&auml;t
+zu rauben?<sup>:warning:Suggestion</sup></h3>
 
 Um des Sadis&shy;mus' so man&shy;chem,
 	vor allem aber des Mamons Wil&shy;len?
