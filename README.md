@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: fr., 15. nov. 2024  
+version: sa., 16. nov. 2024  
 ```
 
 <h1>Von Crews da drau&szlig;en,
@@ -77,7 +77,9 @@ Mit drin h&auml;tte ich gern:
 > [**Disclaimer** (v.a. für L.)] Ich "durfte" am Vorabend der Briefankunft kurz mit "dir"(?) sprechen. Vermutlich, um dich "vorzubereiten". Der Kontakt war wohl wieder nur mittelbar, Julia hatte die Gesprächsführung übernommen. Nur, dass Du das weißt.  
 > Du hast einen sehr belasteten, sorgenvollen Eindruck gemacht, der diesen drei Sadisten mir ggü. sehr wichtig ist.  
 > Direkter Kontakt mit dir ist mir "verboten" und wird nach Kräften unterbunden. Einen Brief hatte ich sogar händisch eingeworfen.   
-> Jedenfalls muss ich mit der Persönlichkeit leben, die sie mir zeichnen. *FYI*, falls dir Dinge " schäg vorkommen   
+> Jedenfalls muss ich mit der Persönlichkeit leben, die sie mir zeichnen.
+> *FYI*, sollten dir Dinge *schräg* vorkommen.  
+
 
 	<h3>Von der aus&shy;schlie&szlig;&shy;lich ver&shy;mit&shy;tel&shy;ten
 		Kom&shy;mu&shy;ni&shy;ka&shy;tion in einer
@@ -87,7 +89,7 @@ Mit drin h&auml;tte ich gern:
 		der will&shy;k&uuml;r&shy;li&shy;chen Zeich&shy;nung ihrer
 		Per&shy;s&ouml;n&shy;lich&shy;kei&shy;ten gg&uuml;. dem ande&shy;ren,
 		bei m&ouml;glichst voll&shy;st&auml;n&shy;di&shy;ger
-		Kon&shy;trol&shy;le und gr&ouml;&szlig;t&shy;lich&shy;er
+		Kon&shy;trol&shy;le und gr&ouml;&szlig;t&shy;mög&shy;lich&shy;er
 		Besch&auml;&shy;di&shy;gung alles Emo&shy;tio&shy;na&shy;len,
 		was nur bei gleich&shy;zei&shy;ti&shy;ger aggres&shy;si&shy;ver
 		Kon&shy;takt&shy;ver&shy;hin&shy;de&shy;rung ge&shy;lin&shy;gen kann,
