@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: sa., 16. nov. 2024  
+version: di., 19. nov. 2024  
 ```
 
 <h1>Von Crews da drau&szlig;en,
@@ -255,7 +255,7 @@ Ich fra&shy;ge mich,
 Ver&shy;wech&shy;seln die mich oder was?  
 Was wol&shy;len die von mir?
 
-> [!CAUTION]
+> <span id="ident">[!CAUTION]</span>
 > [**IDEN&shy;TI&shy;T&Auml;TS&shy;BE&shy;TRUG**]
 > Seit mind. zwei Jah&shy;ren,
 > ich lebte da&shy;mals in der Pan&shy;ko&shy;wer Allee in
@@ -264,7 +264,7 @@ Was wol&shy;len die von mir?
 > die mir,
 > grob ge&shy;sagt,
 > meine Per&shy;s&ouml;n&shy;lich&shy;keit ab&shy;neh&shy;men
-> (und mich dann t&ouml;ten?) will:
+> (und mich dann (nat&uuml;rlich) t&ouml;ten) will:
 > 1. ist das nicht meine Aus&shy;sage und
 > 2. nehme ich so einen Bl&ouml;d&shy;sinn nicht ernst
 >    (nie&shy;mand muss so&shy;et&shy;was ernst neh&shy;men).
@@ -293,13 +293,11 @@ Was wol&shy;len die von mir?
 > Woh&shy;nung&shy;(-en) ab&shy;nimmt,
 > kann irgend&shy;wann her&shy;vor&shy;ra&shy;gen&shy;de
 > Stimm&shy;pro&shy;fi&shy;le vor&shy;hal&shy;ten!
-> Bitte (lei&shy;der!) nicht davon aus&shy;ge&shy;hen,
+> Bitte (lei&shy;der) nicht davon aus&shy;ge&shy;hen,
 > dass je&shy;mand,
 > der am Tele&shy;fon klingt wie ich,
 > auch wirk&shy;lich ich bin.
 > **Sorry**!
-> Ich habe wirk&shy;lich her&shy;vor&shy;ra&shy;gen&shy;de
-> Imi&shy;ta&shy;tio&shy;nen ge&shy;h&ouml;rt.
 > 
 > Die schei&shy;nen jeden&shy;falls sehr flei&szlig;ig und
 > am&shy;bi&shy;tio&shy;niert,
