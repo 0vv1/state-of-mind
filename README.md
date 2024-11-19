@@ -255,8 +255,8 @@ Ich fra&shy;ge mich,
 Ver&shy;wech&shy;seln die mich oder was?  
 Was wol&shy;len die von mir?
 
-> <span id="ident">[!CAUTION]</span>
-> [**IDEN&shy;TI&shy;T&Auml;TS&shy;BE&shy;TRUG**]
+> [!CAUTION]
+> <span id="ident">[**IDEN&shy;TI&shy;T&Auml;TS&shy;BE&shy;TRUG**]</span>
 > Seit mind. zwei Jah&shy;ren,
 > ich lebte da&shy;mals in der Pan&shy;ko&shy;wer Allee in
 > Rei&shy;nicken&shy;dorf,
@@ -288,7 +288,7 @@ Was wol&shy;len die von mir?
 >		 nach&shy;weis&shy;ba&shy;ren
 >		 Iden&shy;ti&shy;t&auml;ts&shy;be&shy;trug.
 >
-> [**wichtig!**]
+> [**wichtig**]
 > Wer lange Zeit je&shy;des Ge&shy;r&auml;usch mei&shy;ner
 > Woh&shy;nung&shy;(-en) ab&shy;nimmt,
 > kann irgend&shy;wann her&shy;vor&shy;ra&shy;gen&shy;de
@@ -297,7 +297,7 @@ Was wol&shy;len die von mir?
 > dass je&shy;mand,
 > der am Tele&shy;fon klingt wie ich,
 > auch wirk&shy;lich ich bin.
-> **Sorry**!
+> Sorry!
 > 
 > Die schei&shy;nen jeden&shy;falls sehr flei&szlig;ig und
 > am&shy;bi&shy;tio&shy;niert,
