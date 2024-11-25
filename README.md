@@ -6,16 +6,16 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: di., 19. nov. 2024  
+version: mo., 25. nov. 2024  
 ```
 
 <h1>Von Crews da drau&szlig;en,
 	die aus dem Ver&shy;bor&shy;ge&shy;nen so glaub&shy;w&uuml;r&shy;dig
 	und &uuml;ber&shy;zeu&shy;gend tun als ob,
-	dass jeder an&shy;nimmt, es ist.</h1>
+	dass jeder an&shy;nimmt, es ist</h1>
 
 > [!CAUTION]
-> .. **bis es auf einmal tatsächlich ist!**
+> .. **bis es auf einmal tatsächlich ist**
 > 
 > nd dann ist min&shy;des&shy;tens eine (die einzige?) "Psy"-Crew
 >	pl&ouml;tz&shy;lich hoch-<wbr />pro&shy;fes&shy;sio&shy;nel&shy;le
@@ -55,11 +55,6 @@ version: di., 19. nov. 2024
 > Irgendwie wirr.
 > Vor allem:
 > **Was hab ich damit zu tun?**  
-> (OK, bei ID komm ich noch mit.
-> Es sind ja tat&shy;s&auml;ch&shy;lich ein paar mehr
->	Alex&shy;an&shy;der Puls (zu&shy;min&shy;dest digi&shy;tal)
->	in Ber&shy;lin auf&shy;ge&shy;taucht.
-> Kann ja sein, das eine "neue Identit&auml;t" dabei ist. K.A.)
 
 Mit drin h&auml;tte ich gern:  
 	**Iden&shy;ti&shy;t&auml;t** und
@@ -220,19 +215,47 @@ Ich will die sog. Wahr&shy;heit wis&shy;sen!
 So schreck&shy;lich oder banal sie auch immer sein mag.
 	</details>
 
+> [!CAUTION]
+> <span id="2024-11-25-1">[**25.11.**]</span>
+> Nach sehr "anstrengender" Woche und unter dem Eindruck der vergangenen Nacht,
+> wird mir (leider) immer bewusster,
+> dass
+> 1. weite Teile meines **Erleben**s **real** (oder mindestens inszeniert?) sind,  
+> 2. an vielen Tätern so gut wie nichts menschlich, lustig o.ä. ist,    
+. 3. im Gegenteil Skrupellosigkeit, Niedertracht und tatsächlich (teils unbändige) Freude am Leid der anderen ihr Handeln bestimmen und  
+> 4. ich halte es (doch) für möglich,
+> dass initiale Täter mir die Verantwortung für sämtliche (mir oft noch nicht einmal bekannte) vergangene und zukünftige Taten anhängen möchten bzw. es so geplant hatten:  
+>    * *Hacker" packen aus, haben auf einmal überlegene, teils absurde Fähigkeiten und beschäftigen mich fast die gesamte Woche mit dem Zusammenhalten/Flicken meiner Infrastruktur
+> (on-going, nach drei zerrockten Laptops und zwei Tastaturen sowie Umstellen auf Hardware-2FA)  
+>    * gerade heute eine fast schon skurril erbitterte Auseinandersetzung um ssh-Keys (einer von den Typen ist fast immer mit auf der Kiste, bei täglich mehrfach wechselnden PWn!)
+>    * die ziehen nach Sitzungsende ohne Mühe einmal die komplette(!) Passwort-Datenbank, 
+       egal von welchem Gerät(!)
+>    * die verfügen mglw. über eine Technik(?),
+> nach Unter-Strom-Setzen(?) der gesamten Wohnung(!),
+> durch Digitalisierung der Veränderungen des sich bildenden Magnetfeldes(?),
+>      nicht nur sämtlichen Datenverkehr ausleiten zu können,
+>      sondern auch Eingabegeräte sowie Bildausgabe beobachten und screenshoten zu können!?
+>    * die sind spätestens(!) 45 min nachdem ich (auf der Flucht :smirk:) mit dem ÖPNV und ausgeschaltetem Telefon mit händischer Registrierung und Barzahlung in einem zufälligen Hotel unterkomme, wieder in der Nähe und loggen sich (via offenem Hotel-WLAN?) in den Laptop ein,
+> um auf ssh zu warten  
+> **Nochmal**: Ich bin ein ganz **normaler Dully**, der **arbeitslos** aus seiner kleinen Wohnung in Tempelhof winkt. :shrug:  
+> Die verwechseln mich!  
+> Und was soll ich mit dieser Täterschaft?
+> Hab ich irgendwem was getan?
+
 > [!IMPORTANT]
 > <span id="20241109">[**09.11.**]</span>
-> In den Mor&shy;gen&shy;stun&shy;den des **9. No&shy;vem&shy;ber**s
+> In den Mor&shy;gen&shy;stun&shy;den (6:40) des **10. No&shy;vem&shy;ber**s
 > **ist je&shy;mand** schr&auml;g gegen&shy;&uuml;ber in der 35C
 > (3. OG, front&shy;sei&shy;tig rechts)
-> **ver&shy;stor&shy;ben**!
-> S&auml;mt&shy;liche(!) Um&shy;st&auml;n&shy;de empfin&shy;de ich
-> (mindestens!) als (euphe&shy;mis&shy;tisch)
-> be&shy;mer&shy;kens&shy;wert.  
-> (Die ich aber hier mit Sicher&shy;heit nicht hin&shy;schrei&shy;be.)  
-> Jeden&shy;falls: **Ich ver&shy;mis&shy;se eine Stim&shy;me**
-> (in der Wand)**!**
-> Ich will wis&shy;sen, wer das war!
+> **ver&shy;stor&shy;ben**.
+> Einige Um&shy;st&auml;n&shy;de empfin&shy;de ich als
+> be&shy;mer&shy;kens&shy;wert:  
+> * Polizei/RTW waren am Vorabend längere Zeit vor Ort
+> * ein Bus der Gerichtsmedizin hat für den Aufenthalt in der Wohnung und Abtransport eines (gefüllten) Leichensacks unter 20 min benötigt
+> * auch vor Ort befand sich ein Mann mittl. Alters, der aber (von der Polizei) nicht weiter befragt wurde und alsbald im Nebenhaus (35B) verschwand  
+> <span id="20241125">[**25.11.**]</span>
+> Ich mag hier monströs verarscht werden, aber ""ich ver&shy;mis&shy;se** die Stim&shy;me einer **Sabrina** alias Lia II (in der Wand) und
+> w&uuml;rde (nur zur Sicherheit) gern wis&shy;sen, wer das war.
 
 <h2>Eige&shy;ne Sa&shy;che</h2>
 
