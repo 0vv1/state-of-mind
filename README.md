@@ -257,7 +257,7 @@ So schreck&shy;lich oder banal sie auch immer sein mag.
 > * ein Bus der Gerichtsmedizin hat für den Aufenthalt in der Wohnung und Abtransport eines (gefüllten) Leichensacks unter 20 min benötigt
 > * auch vor Ort befand sich ein Mann mittl. Alters, der aber (von der Polizei) nicht weiter befragt wurde und alsbald im Nebenhaus (35B) verschwand  
 > <span id="20241125">[**25.11.**]</span>
-> Ich mag hier monströs verarscht werden, aber ""ich ver&shy;mis&shy;se** die Stim&shy;me einer **Sabrina** alias Lia II (in der Wand) und
+> Ich mag hier monströs verarscht werden, aber **ich ver&shy;mis&shy;se** die Stim&shy;me einer **Sabrina** alias Lia II (in der Wand) und
 > w&uuml;rde (nur zur Sicherheit) gern wis&shy;sen, wer das war.
 
 <h2>Eige&shy;ne Sa&shy;che</h2>
