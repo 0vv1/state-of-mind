@@ -228,18 +228,21 @@ So schreck&shy;lich oder banal sie auch immer sein mag.
 > dass initiale Täter mir die Verantwortung für sämtliche (mir oft noch nicht einmal bekannte) vergangene und zukünftige Taten anhängen möchten bzw. es so geplant hatten:  
 >    * "Hacker" packen aus, haben auf einmal überlegene, teils absurde Fähigkeiten und beschäftigen mich fast die gesamte Woche mit dem Zusammenhalten/Flicken meiner Infrastruktur
 > (on-going, nach drei zerrockten Laptops und zwei Tastaturen sowie Umstellen auf Hardware-2FA)  
->    * gerade heute eine fast schon skurril erbitterte Auseinandersetzung um ssh-Keys (einer von den Typen ist fast immer mit auf der Kiste, bei täglich mehrfach wechselnden PWn!)
+>    * gerade gestern eine fast schon skurril erbitterte Auseinandersetzung um einen(!) (2048bit-)ssh-Key (einer von den Typen ist fast immer mit auf der Kiste, bei täglich mehrfach wechselnden Passwörtern!)
 >    * die ziehen nach Sitzungsende ohne Mühe einmal die komplette(!) Passwort-Datenbank, 
        egal von welchem Gerät(!)
 >    * die verfügen mglw. über eine Technik(?),
 > nach Unter-Strom-Setzen(?) der gesamten Wohnung(!),
 > durch Digitalisierung der Veränderungen des sich bildenden Magnetfeldes(?),
->      nicht nur sämtlichen Datenverkehr ausleiten zu können,
+>      darüber nicht nur sämtlichen Datenverkehr ausleiten zu können,
 >      sondern auch Eingabegeräte sowie Bildausgabe beobachten und screenshoten zu können!?
+>    * [**Erg**. 15:35] **dieses "Magnetfeld" sorgt für die Bluetooth-Umgebung meiner alten Wohnung in Reinickendorf (!?)**
+>    * mglw. noch **andere Signale?**
+>      (ist sowas überhaupt möglich?!)
 >    * die sind spätestens(!) 45 min nachdem ich (auf der Flucht :smirk:) mit dem ÖPNV und ausgeschaltetem Telefon mit händischer Registrierung (ohne Plattform) und Barzahlung in einem zufälligen Hotel unterkomme,
 >  wieder in der Nähe und loggen sich (via offenem Hotel-WLAN?) in den komplett onion-gerouteten Laptop ein,
 > um auf ssh zu warten  
-> [**Erg**.] Die scheinen mich (insb. in den letzten zwei Wochen relativ stark) mit (wohl natürlichen) Psycho-Aktiva zu druggen.  
+> [**Erg**.] Die scheinen mich (insb. in den letzten zwei Wochen relativ stark) mit (wohl natürlichen) Psycho-Aktiva zu druggen (Meskalin?).  
 > **Nochmal**: Ich bin ein ganz **normaler Dully**, der **arbeitslos** aus seiner kleinen Wohnung in Tempelhof winkt. :shrug:  
 > Die verwechseln mich!  
 > Und was soll ich mit dieser Täterschaft?
@@ -254,8 +257,9 @@ So schreck&shy;lich oder banal sie auch immer sein mag.
 > Einige Um&shy;st&auml;n&shy;de empfin&shy;de ich als
 > be&shy;mer&shy;kens&shy;wert:  
 > * Polizei/RTW waren am Vorabend längere Zeit vor Ort
-> * ein Bus der Gerichtsmedizin hat für den Aufenthalt in der Wohnung und Abtransport eines (gefüllten) Leichensacks unter 20 min benötigt
+> * ein Kleinbus der Gerichtsmedizin hat für den Aufenthalt in der Wohnung und Abtransport eines (gefüllten) Leichensacks unter 20 min benötigt
 > * auch vor Ort befand sich ein Mann mittl. Alters, der aber (von der Polizei) nicht weiter befragt wurde und alsbald im Nebenhaus (35B) verschwand  
+> 
 > <span id="20241125">[**25.11.**]</span>
 > Ich mag hier monströs verarscht werden, aber **ich ver&shy;mis&shy;se** die Stim&shy;me einer **Sabrina** alias Lia II (in der Wand) und
 > w&uuml;rde (nur zur Sicherheit) gern wis&shy;sen, wer das war.
