@@ -17,7 +17,7 @@ version: mo., 25. nov. 2024
 > [!CAUTION]
 > .. **bis es auf einmal tatsächlich ist**
 > 
-> nd dann ist min&shy;des&shy;tens eine (die einzige?) "Psy"-Crew
+> Und dann ist min&shy;des&shy;tens eine (die einzige?) "Psy"-Crew
 >	pl&ouml;tz&shy;lich hoch-<wbr />pro&shy;fes&shy;sio&shy;nel&shy;le
 >	orga&shy;ni&shy;sier&shy;te Kri&shy;mi&shy;na&shy;li&shy;t&auml;t, 
 >	die Auf&shy;trag&shy;ge&shy;ber mit **neue**n
@@ -220,12 +220,13 @@ So schreck&shy;lich oder banal sie auch immer sein mag.
 > Nach sehr "anstrengender" Woche und unter dem Eindruck der vergangenen Nacht,
 > wird mir (leider) immer bewusster,
 > dass
-> 1. weite Teile meines **Erleben**s **real** (oder mindestens inszeniert?) sind,  
+> 1. weite Teile meines **Erleben**s **real** (oder mindestens inszeniert?) waren/sind
+> (und die "Rückführung" dauert!),  
 > 2. an vielen Tätern so gut wie nichts menschlich, lustig o.ä. ist,    
-. 3. im Gegenteil Skrupellosigkeit, Niedertracht und tatsächlich (teils unbändige) Freude am Leid der anderen ihr Handeln bestimmen und  
+> 3. im Gegenteil, Skrupellosigkeit, Niedertracht und tatsächlich (teils unbändige) Freude am Leid der anderen ihr Handeln bestimmen und  
 > 4. ich halte es (doch) für möglich,
 > dass initiale Täter mir die Verantwortung für sämtliche (mir oft noch nicht einmal bekannte) vergangene und zukünftige Taten anhängen möchten bzw. es so geplant hatten:  
->    * *Hacker" packen aus, haben auf einmal überlegene, teils absurde Fähigkeiten und beschäftigen mich fast die gesamte Woche mit dem Zusammenhalten/Flicken meiner Infrastruktur
+>    * "Hacker" packen aus, haben auf einmal überlegene, teils absurde Fähigkeiten und beschäftigen mich fast die gesamte Woche mit dem Zusammenhalten/Flicken meiner Infrastruktur
 > (on-going, nach drei zerrockten Laptops und zwei Tastaturen sowie Umstellen auf Hardware-2FA)  
 >    * gerade heute eine fast schon skurril erbitterte Auseinandersetzung um ssh-Keys (einer von den Typen ist fast immer mit auf der Kiste, bei täglich mehrfach wechselnden PWn!)
 >    * die ziehen nach Sitzungsende ohne Mühe einmal die komplette(!) Passwort-Datenbank, 
@@ -235,8 +236,10 @@ So schreck&shy;lich oder banal sie auch immer sein mag.
 > durch Digitalisierung der Veränderungen des sich bildenden Magnetfeldes(?),
 >      nicht nur sämtlichen Datenverkehr ausleiten zu können,
 >      sondern auch Eingabegeräte sowie Bildausgabe beobachten und screenshoten zu können!?
->    * die sind spätestens(!) 45 min nachdem ich (auf der Flucht :smirk:) mit dem ÖPNV und ausgeschaltetem Telefon mit händischer Registrierung und Barzahlung in einem zufälligen Hotel unterkomme, wieder in der Nähe und loggen sich (via offenem Hotel-WLAN?) in den Laptop ein,
+>    * die sind spätestens(!) 45 min nachdem ich (auf der Flucht :smirk:) mit dem ÖPNV und ausgeschaltetem Telefon mit händischer Registrierung (ohne Plattform) und Barzahlung in einem zufälligen Hotel unterkomme,
+>  wieder in der Nähe und loggen sich (via offenem Hotel-WLAN?) in den komplett onion-gerouteten Laptop ein,
 > um auf ssh zu warten  
+> [**Erg**.] Die scheinen mich (insb. in den letzten zwei Wochen relativ stark) mit (wohl natürlichen) Psycho-Aktiva zu druggen.  
 > **Nochmal**: Ich bin ein ganz **normaler Dully**, der **arbeitslos** aus seiner kleinen Wohnung in Tempelhof winkt. :shrug:  
 > Die verwechseln mich!  
 > Und was soll ich mit dieser Täterschaft?
