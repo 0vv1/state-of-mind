@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: mo., 25. nov. 2024  
+version: fr., 29. nov. 2024  
 ```
 
 <h1>Von Crews da drau&szlig;en,
@@ -214,6 +214,27 @@ Die gegen&shy;sei&shy;ti&shy;ge Knech&shy;tung, Unter&shy;jo&shy;chung
 Ich will die sog. Wahr&shy;heit wis&shy;sen!  
 So schreck&shy;lich oder banal sie auch immer sein mag.
 	</details>
+
+> [!NOTE]
+> <span id="2024-11-29">[**29.11.**]</span>
+> Ich denke, ich werde peinlicherweise eine Wand im Schlafzimmer aufstemmen.
+> Der Detektor schl&auml;gt immer an derselben Stelle an,
+> so dass ich denke,
+> dass da "etwas ist".
+> Was soll ich sonst tun?
+> Niemand glaubt mir und diese Dudes sind so unfassbar belastend mit ihren Horror-Storys und dem ewigen Gelaber davon,
+> wie sie dir ihren Mist unterschieben wollen.
+> 
+> [**Anm.**]
+> Ansonsten bin ich einigerma&szlig;en m&uuml;de und ersch&ouml;pft von der schieren Masse,
+> die mir t&auml;glich reingedr&uuml;ckt wird.
+> Manchmal denke ich, das sind ein Dutzend Leute,
+> die den ganzen Tag nichts anderes tun als andere schwerstens zu belasten.
+>
+> Dazu kommt,
+> dass ich glaube,
+> die machen mir alles nach.
+> Ver&ouml;ffentlichen mglw. sogar "kurz" vor mir. :shrug:
 
 > [!CAUTION]
 > <span id="2024-11-25-1">[**25.11.**]</span>
