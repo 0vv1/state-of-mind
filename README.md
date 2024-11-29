@@ -235,6 +235,8 @@ So schreck&shy;lich oder banal sie auch immer sein mag.
 > dass ich glaube,
 > die machen mir alles nach.
 > Ver&ouml;ffentlichen mglw. sogar "kurz" vor mir. :shrug:
+> Und noch was: Irgendwie bin ich hier der einzige Mensch mit einem Namen.
+> &Uuml;berhaupt wissen alle alles und ich nichts und keiner verr&auml;t auch nur ein &micro;.
 
 > [!CAUTION]
 > <span id="2024-11-25-1">[**25.11.**]</span>
@@ -270,7 +272,7 @@ So schreck&shy;lich oder banal sie auch immer sein mag.
 > Hab ich irgendwem was getan?
 
 > [!IMPORTANT]
-> <span id="20241109">[**09.11.**]</span>
+> <span id="20241109">[**10.11.**]</span>
 > In den Mor&shy;gen&shy;stun&shy;den (6:40) des **10. No&shy;vem&shy;ber**s
 > **ist je&shy;mand** schr&auml;g gegen&shy;&uuml;ber in der 35C
 > (3. OG, front&shy;sei&shy;tig rechts)
