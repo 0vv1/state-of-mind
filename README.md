@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: fr., 29. nov. 2024  
+version: do., 12. dec. 2024  
 ```
 
 <h1>Von Crews da drau&szlig;en,
@@ -691,8 +691,6 @@ Wei&szlig; ich.
 Ich w&auml;re n&auml;m&shy;lich
 (aller Vor&shy;aus&shy;sicht nach)
 eine.
-
-### + + + bis hier erstmal einigerma&szlig;en sortiert + + +
 
 > [!IMPORTANT]
 > [**DONE**?]
