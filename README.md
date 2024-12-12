@@ -36,24 +36,7 @@ version: do., 12. dec. 2024
 >	
 > **Was sind denn das f&uuml;r kaputte**?
 > 
-> [**Anm**. **15.11.**]
-> Veil&shy;leicht sind Sadis&shy;ten-<wbr />Crews und
-> irgend&shy;wel&shy;che Eso-<wbr />Sek&shy;ten,
-> die uns wegen an&shy;geb&shy;lich&shy;er
-> "*tele&shy;pa&shy;thi&shy;scher*" F&auml;hig&shy;kei&shy;ten jagen,
-> "nur" Ob&shy;fus&shy;ka&shy;tion.
-> Oder irgend&shy;wie zu&shy;f&auml;l&shy;lig
-> rein&shy;ge&shy;ra&shy;ten?  
-> Das ganze ist jeden&shy;falls in&shy;so&shy;fern ver&shy;r&uuml;ckt,
-> als dass "das hier" immer wie&shy;der be&shy;lie&shy;big
-> es&shy;ka&shy;liert und ein&shy;zel&shy;ne
-> Pro&shy;ta&shy;go&shy;nis&shy;ten<wbr />(-grup&shy;pen)
-> gern mal "Kon&shy;trol&shy;le" zu
-> ver&shy;lie&shy;ren schei&shy;nen,
-> ab&shy;gel&ouml;st wer&shy;den oder
-> "keine Lust" mehr haben.  
-> Irgendwie wirr.
-> Vor allem:
+> Und:
 > **Was hab ich damit zu tun?**  
 
 Mit drin h&auml;tte ich gern:  
@@ -288,10 +271,7 @@ So schreck&shy;lich oder banal sie auch immer sein mag.
 > w&uuml;rde (nur zur Sicherheit) gern wis&shy;sen, wer das war.  
 > (Und das nicht nur, weil sie, genau wie Lia I, äußerst(!) wichtige Zeugin wäre! Die Zeugin!)
 
-<h2>Eige&shy;ne Sa&shy;che</h2>
-
-Das mag al&shy;les Ein&shy;bil&shy;dung sein,
-	aber ich sehe mich ziem&shy;lich un&shy;ter Be&shy;schuss.
+<h2>In eige&shy;ner Sa&shy;che</h2>
 
 Ich bin mir eini&shy;ger&shy;ma&szlig;en "sicher",
 	dass Inte&shy;res&shy;sen&shy;grup&shy;pen
@@ -304,21 +284,22 @@ Mir scheint(!) es selbst bei ver&shy;schie&shy;de&shy;nen
 	(Manche Accounts gro&szlig;er Plat&shy;for&shy;men kann ich keine
 	30 min halten! Voll&shy;kom&shy;men ab&shy;surd.)
 Dazu wei&shy;ter unten mehr.
+
 Ich fra&shy;ge mich,
 	wer ich in deren Augen sein soll.
-Ver&shy;wech&shy;seln die mich oder was?  
-Was wol&shy;len die von mir?
+Ver&shy;wech&shy;seln die mich oder was:  
 
 > [!CAUTION]
 > <span id="ident">[**IDEN&shy;TI&shy;T&Auml;TS&shy;BE&shy;TRUG**]</span>
 > Seit mind. zwei Jah&shy;ren,
 > ich lebte da&shy;mals in der Pan&shy;ko&shy;wer Allee in
 > Rei&shy;nicken&shy;dorf,
-> scheint es eine Enti&shy;t&auml;t zu ge&shy;ben,
-> die mir,
+> scheint es **jemand**en zu ge&shy;ben,
+> **der mir**,
 > grob ge&shy;sagt,
-> meine Per&shy;s&ouml;n&shy;lich&shy;keit ab&shy;neh&shy;men
-> (und mich dann (nat&uuml;rlich) t&ouml;ten) will:
+> **meine Per&shy;s&ouml;n&shy;lich&shy;keit ab&shy;neh&shy;men**
+> (und mich dann (nat&uuml;rlich) t&ouml;ten) **will** und
+> derweil **in meinem Namen kommuniziert**:
 > 1. ist das nicht meine Aus&shy;sage und
 > 2. nehme ich so einen Bl&ouml;d&shy;sinn nicht ernst
 >    (nie&shy;mand muss so&shy;et&shy;was ernst neh&shy;men).
@@ -328,19 +309,22 @@ Was wol&shy;len die von mir?
 > 1. meine Whg. ab&shy;zu&shy;h&ouml;ren,
 >    um alles über mein Leben zu er&shy;fah&shy;ren,
 > 2. meine Stim&shy;me zu &uuml;ben,
->    um damit ande&shy;ren
+>    um damit
 >    (zu&shy;n&auml;chst "nur" Nach&shy;barn,
->    sp&auml;&shy;ter allen m&ouml;g&shy;lich&shy;en)
->		 Men&shy;schen als ich auf die Ner&shy;ven zu gehen und
-> 3. am **30. Juli nach&shy;mit&shy;tags** war mein Aus&shy;weis,
->		 nach einem,
->		 (un&shy;glaub&shy;lich ge&shy;schickt)
->		 als Straf&shy;tat mei&shy;ner&shy;seits
->		 ge&shy;tarn&shy;ten Raub,
->		 f&uuml;r 30 Minu&shy;ten in Fremd&shy;be&shy;sitz,
->		 offen&shy;bar voll&shy;kom&shy;men aus&shy;rei&shy;chend f&uuml;r
->		 nach&shy;weis&shy;ba&shy;ren
->		 Iden&shy;ti&shy;t&auml;ts&shy;be&shy;trug.
+>    dann)
+>    allen m&ouml;g&shy;lich&shy;en Men&shy;schen **als meine Person**
+>    auf die Ner&shy;ven zu gehen
+>    (er scheint au&szlig;erdem ein guter Stimmimitator)
+>    und
+> 4. am **30. Juli nach&shy;mit&shy;tags** war mein Aus&shy;weis,
+>    nach einem,
+>    (un&shy;glaub&shy;lich ge&shy;schickt)
+>    als Straf&shy;tat mei&shy;ner&shy;seits
+>    ge&shy;tarn&shy;ten Raub,
+>    f&uuml;r 30 Minu&shy;ten in Fremd&shy;be&shy;sitz,
+>    offen&shy;bar voll&shy;kom&shy;men aus&shy;rei&shy;chend f&uuml;r
+>    nach&shy;weis&shy;ba&shy;ren
+>    Iden&shy;ti&shy;t&auml;ts&shy;be&shy;trug.
 >
 > [**wichtig**]
 > Wer lange Zeit je&shy;des Ge&shy;r&auml;usch mei&shy;ner
@@ -1145,7 +1129,7 @@ Ak&shy;tu&shy;el&shy;ler Screen&shy;shot der
 `sha256 a82acc6892bde774e12de47d95485331aab08ce9aaec117f97f78f57c55be2d9` [18. Okt.: Polizei Wache Abschnitt 44](https://0vv1.io/stlk/2024-10-18_00-47-23_gegensprechanl-wache-44.1.mp3) (wenige Sek., legt auf, als er merkt, dass ich aufnehme)  
 `sha256 0474b09958180d12dc2c8b83274f563d5c41082dc21b46bf7b3dcd2263414146` [18. Okt.: Polizei Wache Abschnitt 44](https://0vv1.io/stlk/2024-10-18_00-47-41_gegensprechanl-wache-44.2.mp3) (47s)  
 `sha256 90fd75d9a81f017226ce1885d5badd81624a13084d6d5e685a345331791d8c6d` [24. Okt.: Whg. Borussiastr.](https://0vv1.io/stlk/2024-10-24_05-06_psy-terror.probe.4m16s.mp3) (4m16s)  
-`sha256 5d02296f97a718ef251647cf6f30a7481bde22b4dc29f0ed1912dc8e4c983060` [27. Okt.: Whg. Extended Version](https://0vv1.io/stlk/2024-10-27_Fischä-n-his-AI-Pile-of-Shit_Blooming-Hearts.club-remix.extended.mp3) (40min)
+`sha256 5d02296f97a718ef251647cf6f30a7481bde22b4dc29f0ed1912dc8e4c983060` [27. Okt.: Whg. Extended Version](https://0vv1.io/stlk/2024-10-27_psy-terror.extended.mp3) (40min)
 
 [**24.10.**]
 Zun&auml;chst die letzten beiden.
@@ -1170,13 +1154,6 @@ Das hier ist **nur** dann wirklich besonders,
 wenn man ein Jahr (und mehr) Anlauf nimmt.  
 Dann hat das hier das Potential,
 dass man f&uuml;r den Rest seines hoffentlich kurzen Lebens sprachlos aus dem Fenster starrt und nie wieder ein Wort sagt.  
-So wundervoll verletzend und t&ouml;dlich,
-auf vielen Ebenen,
-dass ich das hier
-(auch wenn er Unterst&uuml;tzung hat)
-einen echten ~~Fischer&trade;~~ nenne!
-(ich weiß, es gibt in meinem alten Wohnhaus einen gleichnamigen Mieter,
-der hier nicht explizit gemeint ist)
 
 Ich muss diese Geschichte komplett erzählen, und das kann dauern
 (schon mal Stichpunkte).  
@@ -1247,7 +1224,7 @@ Ich denke manchmal, sie kennt mich überhaupt nicht.
       als eine Art Mantra etabliert, dass es mir etwas leichter machte, weil ich sie manchmal erahnte (und das muss er irgendwie gemerkt haben)
 
   * da fehlt jetzt noch echt viel,
-    aber: Das ist das was nach Sadismus kommt. Fischerismus habe ich das genannt.
+    aber: Das ist das was nach Sadismus kommt. 
 
   * jedenfalls der Track:
     * entstellt singt sie, Du bist die erste Nummer (Suggestion: "Alex" erster im Tel.-buch in einer glücklichen Beziehung, die ich nie hatte,
@@ -1950,7 +1927,7 @@ Aber wofür? Oder nur für mich?
 > Wie&shy;der da.
 > Sicher nur Zu&shy;fall.. :wink:
 
-Eine von Fischers Spezialit&auml;ten
+Eine der Spezialit&auml;ten dieses Initialt&auml;ters
 ist die (**Achtung**: vollkommen degeneriert)
 **Gestaltung des emotionalen Seelenhaushaltes 
 zweier Personen in divergierende Richtungen**
