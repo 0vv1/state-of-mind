@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: do., 12. dec. 2024  
+version: do., 12. dez. 2024  
 ```
 
 <h1>Von Crews da drau&szlig;en,
@@ -19,14 +19,14 @@ version: do., 12. dec. 2024
 > 
 > Und dann ist min&shy;des&shy;tens eine (die einzige?) "Psy"-Crew
 >	pl&ouml;tz&shy;lich hoch-<wbr />pro&shy;fes&shy;sio&shy;nel&shy;le
->	orga&shy;ni&shy;sier&shy;te Kri&shy;mi&shy;na&shy;li&shy;t&auml;t, 
->	die Auf&shy;trag&shy;ge&shy;ber mit **neue**n
->	**Iden&shy;ti&shy;t&auml;&shy;t**en aus&shy;stat&shy;tet?
-> Nicht ein &micro; Skru&shy;pel hat,
+>	orga&shy;ni&shy;sier&shy;te Kri&shy;mi&shy;na&shy;li&shy;t&auml;t?  
+> **Die was macht?!**
+> Au&szlig;er nicht einen &micro; Skru&shy;pel haben,
 >	Men&shy;schen nach Be&shy;darf aus&shy;zu&shy;beu&shy;ten /
 >	zu be&shy;nutzen und genau dann Ideen von Mensch&shy;lich&shy;keit
->	und Freund&shy;lich&shy;keit zeigt,
+>	und Freund&shy;lich&shy;keit zu zeigen,
 >	wenn es einem Zweck dient?  
+> **F&uuml;r was genau?**  
 > Die drin&shy;gen in Woh&shy;nun&shy;gen ein,
 >	um dein [Tele&shy;fon](#kompromittierte-sim) und dei&shy;nen
 >	[Com&shy;pu&shy;ter](#kompromittierter-router) zu
@@ -34,10 +34,104 @@ version: do., 12. dec. 2024
 > Die haben Leute bei Meta und
 >	[Git&shy;Hub](#manipulation-von-daten-bei-github)?
 >	
-> **Was sind denn das f&uuml;r kaputte**?
-> 
 > Und:
 > **Was hab ich damit zu tun?**  
+
+<h2>In eige&shy;ner Sa&shy;che</h2>
+
+Ich bin mir eini&shy;ger&shy;ma&szlig;en "sicher",
+	dass Inte&shy;res&shy;sen&shy;grup&shy;pen
+	Dif&shy;fa&shy;mie&shy;rungs&shy;kampa&shy;gnen gegen mich 
+	fah&shy;ren.
+Mir scheint(!) es selbst bei ver&shy;schie&shy;de&shy;nen
+	gro&szlig;en Kon&shy;zer&shy;nen Innen&shy;t&auml;&shy;ter zu geben,
+	deren Wir&shy;ken zum Ziel hat,
+	meine(?) Repu&shy;ta&shy;tion zu be&shy;sch&auml;&shy;di&shy;gen
+	(Manche Accounts gro&szlig;er Plat&shy;for&shy;men kann ich keine
+	30 min halten! Voll&shy;kom&shy;men ab&shy;surd.)
+Dazu wei&shy;ter unten mehr.
+
+Ich fra&shy;ge mich,
+	wer ich in deren Augen sein soll.
+Ver&shy;wech&shy;seln die mich oder was:  
+
+> [!CAUTION]
+> <span id="ident">[**IDEN&shy;TI&shy;T&Auml;TS&shy;BE&shy;TRUG**]</span>
+> Seit mind. zwei Jah&shy;ren,
+> ich lebte da&shy;mals in der Pan&shy;ko&shy;wer Allee in
+> Rei&shy;nicken&shy;dorf,
+> scheint es **jemand**en zu ge&shy;ben,
+> **der mir**,
+> grob ge&shy;sagt,
+> **meine Per&shy;s&ouml;n&shy;lich&shy;keit ab&shy;neh&shy;men**
+> (und mich dann (nat&uuml;rlich) t&ouml;ten) **will** und
+> derweil **in meinem Namen kommuniziert**:
+> 1. ist das nicht meine Aus&shy;sage und
+> 2. nehme ich so einen Bl&ouml;d&shy;sinn nicht ernst
+>    (nie&shy;mand muss so&shy;et&shy;was ernst neh&shy;men).
+>
+> Wie ab&shy;surd ich das auch immer finde,
+> fing die&shy;ser Mensch vor Jah&shy;ren an
+> 1. meine Whg. ab&shy;zu&shy;h&ouml;ren,
+>    um alles über mein Leben zu er&shy;fah&shy;ren,
+> 2. meine Stim&shy;me zu &uuml;ben,
+>    um damit
+>    (zu&shy;n&auml;chst "nur" Nach&shy;barn,
+>    dann)
+>    allen m&ouml;g&shy;lich&shy;en Men&shy;schen **als meine Person**
+>    auf die Ner&shy;ven zu gehen
+>    (er scheint au&szlig;erdem ein guter Stimmimitator)
+>    und
+> 4. am **30. Juli nach&shy;mit&shy;tags** war mein Aus&shy;weis,
+>    nach einem,
+>    (un&shy;glaub&shy;lich ge&shy;schickt)
+>    als Straf&shy;tat mei&shy;ner&shy;seits
+>    ge&shy;tarn&shy;ten Raub,
+>    f&uuml;r 30 Minu&shy;ten in Fremd&shy;be&shy;sitz,
+>    offen&shy;bar voll&shy;kom&shy;men aus&shy;rei&shy;chend f&uuml;r
+>    nach&shy;weis&shy;ba&shy;ren
+>    Iden&shy;ti&shy;t&auml;ts&shy;be&shy;trug.
+>
+> [**wichtig**]
+> Wer lange Zeit je&shy;des Ge&shy;r&auml;usch mei&shy;ner
+> Woh&shy;nung&shy;(-en) ab&shy;nimmt,
+> kann irgend&shy;wann her&shy;vor&shy;ra&shy;gen&shy;de
+> Stimm&shy;pro&shy;fi&shy;le vor&shy;hal&shy;ten!
+> Bitte (lei&shy;der) nicht davon aus&shy;ge&shy;hen,
+> dass je&shy;mand,
+> der am Tele&shy;fon klingt wie ich,
+> auch wirk&shy;lich ich bin.
+> Sorry!
+> 
+> Die schei&shy;nen jeden&shy;falls sehr flei&szlig;ig und
+> am&shy;bi&shy;tio&shy;niert,
+> auch wenn ich den Sinn da&shy;hin&shy;ter nicht ver&shy;ste&shy;he.  
+   
+Er selbst meint,
+ich sei ge&shy;mein&shy;sam mit einer ehe&shy;ma&shy;li&shy;gen
+Nach&shy;ba&shy;rin zur Te&shy;le&shy;pat&shy;hie be&shy;f&auml;higt,
+wo&shy;rauf er nei&shy;disch w&auml;re,
+au&szlig;er&shy;dem pas&shy;sen die be&shy;sag&shy;te Dame und ich
+an&shy;geb&shy;lich "gut zu&shy;sam&shy;men",
+das gin&shy;ge auch nicht.  
+Wenn man mich fragt:
+**D&uuml;m&shy;mer geht es nicht!**
+Was f&uuml;r ein reu&shy;di&shy;ger Schwach&shy;sinn!  
+Was wollt ihr wirk&shy;lich von mir?
+
+> [!IMPORTANT]
+> &Uuml;ber&shy;haupt
+> (und das ist mir wirk&shy;lich wich&shy;tig!)
+> ist das hier **nicht mein M&uuml;ll**,
+> ich r&auml;ume hier im Grun&shy;de nur hin&shy;ter&shy;her und
+> doku&shy;men&shy;tie&shy;re so gut es geht.
+>
+> Eine Sache w&uuml;rde ich n&auml;mlich schon gern ver&shy;mei&shy;den:  
+> Das "die" sich am Ende zu&shy;r&uuml;ck&shy;zie&shy;hen und es dann
+> hei&szlig;t:
+> Sch&ouml;ne Ge&shy;schich&shy;te haben sie da ge&shy;schrie&shy;ben,
+> Herr Puls.
+> Wir haben da die ein oder ande&shy;re Detail&shy;fra&shy;ge. :joy:  
 
 Mit drin h&auml;tte ich gern:  
 	**Iden&shy;ti&shy;t&auml;t** und
@@ -270,110 +364,6 @@ So schreck&shy;lich oder banal sie auch immer sein mag.
 > Ich mag hier monströs verarscht werden, aber **ich ver&shy;mis&shy;se** die Stim&shy;me einer **Sabrina** alias Lia II (in der Wand) und
 > w&uuml;rde (nur zur Sicherheit) gern wis&shy;sen, wer das war.  
 > (Und das nicht nur, weil sie, genau wie Lia I, äußerst(!) wichtige Zeugin wäre! Die Zeugin!)
-
-<h2>In eige&shy;ner Sa&shy;che</h2>
-
-Ich bin mir eini&shy;ger&shy;ma&szlig;en "sicher",
-	dass Inte&shy;res&shy;sen&shy;grup&shy;pen
-	Dif&shy;fa&shy;mie&shy;rungs&shy;kampa&shy;gnen gegen mich 
-	fah&shy;ren.
-Mir scheint(!) es selbst bei ver&shy;schie&shy;de&shy;nen
-	gro&szlig;en Kon&shy;zer&shy;nen Innen&shy;t&auml;&shy;ter zu geben,
-	deren Wir&shy;ken zum Ziel hat,
-	meine(?) Repu&shy;ta&shy;tion zu be&shy;sch&auml;&shy;di&shy;gen
-	(Manche Accounts gro&szlig;er Plat&shy;for&shy;men kann ich keine
-	30 min halten! Voll&shy;kom&shy;men ab&shy;surd.)
-Dazu wei&shy;ter unten mehr.
-
-Ich fra&shy;ge mich,
-	wer ich in deren Augen sein soll.
-Ver&shy;wech&shy;seln die mich oder was:  
-
-> [!CAUTION]
-> <span id="ident">[**IDEN&shy;TI&shy;T&Auml;TS&shy;BE&shy;TRUG**]</span>
-> Seit mind. zwei Jah&shy;ren,
-> ich lebte da&shy;mals in der Pan&shy;ko&shy;wer Allee in
-> Rei&shy;nicken&shy;dorf,
-> scheint es **jemand**en zu ge&shy;ben,
-> **der mir**,
-> grob ge&shy;sagt,
-> **meine Per&shy;s&ouml;n&shy;lich&shy;keit ab&shy;neh&shy;men**
-> (und mich dann (nat&uuml;rlich) t&ouml;ten) **will** und
-> derweil **in meinem Namen kommuniziert**:
-> 1. ist das nicht meine Aus&shy;sage und
-> 2. nehme ich so einen Bl&ouml;d&shy;sinn nicht ernst
->    (nie&shy;mand muss so&shy;et&shy;was ernst neh&shy;men).
->
-> Wie ab&shy;surd ich das auch immer finde,
-> fing die&shy;ser Mensch vor Jah&shy;ren an
-> 1. meine Whg. ab&shy;zu&shy;h&ouml;ren,
->    um alles über mein Leben zu er&shy;fah&shy;ren,
-> 2. meine Stim&shy;me zu &uuml;ben,
->    um damit
->    (zu&shy;n&auml;chst "nur" Nach&shy;barn,
->    dann)
->    allen m&ouml;g&shy;lich&shy;en Men&shy;schen **als meine Person**
->    auf die Ner&shy;ven zu gehen
->    (er scheint au&szlig;erdem ein guter Stimmimitator)
->    und
-> 4. am **30. Juli nach&shy;mit&shy;tags** war mein Aus&shy;weis,
->    nach einem,
->    (un&shy;glaub&shy;lich ge&shy;schickt)
->    als Straf&shy;tat mei&shy;ner&shy;seits
->    ge&shy;tarn&shy;ten Raub,
->    f&uuml;r 30 Minu&shy;ten in Fremd&shy;be&shy;sitz,
->    offen&shy;bar voll&shy;kom&shy;men aus&shy;rei&shy;chend f&uuml;r
->    nach&shy;weis&shy;ba&shy;ren
->    Iden&shy;ti&shy;t&auml;ts&shy;be&shy;trug.
->
-> [**wichtig**]
-> Wer lange Zeit je&shy;des Ge&shy;r&auml;usch mei&shy;ner
-> Woh&shy;nung&shy;(-en) ab&shy;nimmt,
-> kann irgend&shy;wann her&shy;vor&shy;ra&shy;gen&shy;de
-> Stimm&shy;pro&shy;fi&shy;le vor&shy;hal&shy;ten!
-> Bitte (lei&shy;der) nicht davon aus&shy;ge&shy;hen,
-> dass je&shy;mand,
-> der am Tele&shy;fon klingt wie ich,
-> auch wirk&shy;lich ich bin.
-> Sorry!
-> 
-> Die schei&shy;nen jeden&shy;falls sehr flei&szlig;ig und
-> am&shy;bi&shy;tio&shy;niert,
-> auch wenn ich den Sinn da&shy;hin&shy;ter nicht ver&shy;ste&shy;he.  
-> 
-> [**Anm. 09.11.**]
-> So lang&shy;sam viel&shy;leicht schon.
-> Es l&auml;sst sich n&auml;m&shy;lich,
-> ein hohes Ma&szlig; an Skru&shy;pel&shy;lo&shy;sig&shy;keit
-> vo&shy;raus&shy;ge&shy;setzt,
-> (mal wie&shy;der)
-> Geld ver&shy;die&shy;nen.
-   
-Er selbst meint,
-ich sei ge&shy;mein&shy;sam mit einer ehe&shy;ma&shy;li&shy;gen
-Nach&shy;ba&shy;rin zur Te&shy;le&shy;pat&shy;hie be&shy;f&auml;higt,
-wo&shy;rauf er nei&shy;disch w&auml;re,
-au&szlig;er&shy;dem pas&shy;sen die be&shy;sag&shy;te Dame und ich
-an&shy;geb&shy;lich "gut zu&shy;sam&shy;men",
-das gin&shy;ge auch nicht.  
-Wenn man mich fragt:
-**D&uuml;m&shy;mer geht es nicht!**
-Was f&uuml;r ein reu&shy;di&shy;ger Schwach&shy;sinn!  
-Was wollt ihr wirk&shy;lich von mir?
-
-> [!IMPORTANT]
-> &Uuml;ber&shy;haupt
-> (und das ist mir wirk&shy;lich wich&shy;tig!)
-> ist das hier **nicht mein M&uuml;ll**,
-> ich r&auml;ume hier im Grun&shy;de nur hin&shy;ter&shy;her und
-> doku&shy;men&shy;tie&shy;re so gut es geht.
->
-> Eine Sache w&uuml;rde ich n&auml;mlich schon gern ver&shy;mei&shy;den:  
-> Das "die" sich am Ende zu&shy;r&uuml;ck&shy;zie&shy;hen und es dann
-> hei&szlig;t:
-> Sch&ouml;ne Ge&shy;schich&shy;te haben sie da ge&shy;schrie&shy;ben,
-> Herr Puls.
-> Wir haben da die ein oder ande&shy;re Detail&shy;fra&shy;ge. :joy:  
 
 <img align="right"
   alt="Vor&shy;der&shy;sei&shy;te alter Aus&shy;weis
