@@ -363,7 +363,7 @@ T&auml;tig&shy;keit i.&#8239;Z.&#8239;m. einer Art **P&auml;do-Sadis&shy;mus**?
 * Teile der "Crew" folgen mir und bedr&auml;ngen mich
 * ich frage sie,
   ob sie die Gr&ouml;&szlig;e h&auml;tten,
-  mit ihr zun Arzt zu gehen
+  mit ihr zum Arzt zu gehen
 * nachdem sie ver&shy;spre&shy;chen,
   das morgen zu tun,
   sehe ich von einem Besuch ab und gehe wieder ins Hotel
@@ -372,11 +372,12 @@ Im Hotel wei&shy;te&shy;re Eska&shy;la&shy;tion:
 
 * Crew-Mit&shy;glie&shy;der behaup&shy;ten, sie w&uuml;rden
   "Besuch bekommen" und es best&uuml;nde mglw. Gefahr
-* gegen 3 Uhr nachts m&uuml;ssen alle auf einmal los
-  und lassen mich allein
-  (Kennzeichen s&auml;mtlich *BOT*,
+* gegen 3 Uhr nachts m&uuml;s&shy;sen alle auf ein&shy;mal los
+  und las&shy;sen mich allein
+  (Kenn&shy;zei&shy;chen s&auml;mt&shy;lich *BOT*,
   ver&shy;sp&auml;te&shy;te blon&shy;de Frau in
-  <nobr>*BOT GS*(*T*?) *582*<sup>(?)</sup></nobr>?)
+  <nobr>*BOT GS*(*T*?) *582*<sup>(?)</sup></nobr>
+  mag nicht so recht an mir vor&shy;bei?)
 * grandiose Idee F.:
   Ich w&auml;re ein inter&shy;na&shy;tio&shy;nal gesuch&shy;ter Chef eines
   P&auml;do-Sado-Rings und h&auml;tte mit zahl&shy;rei&shy;chen
