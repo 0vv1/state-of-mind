@@ -297,12 +297,13 @@ Ich will die sog. Wahr&shy;heit wis&shy;sen!
 So schreck&shy;lich oder banal sie auch immer sein mag.
 	</details>
 
-<span id="2024-12-07">[**07.12.**]</span>
-Dieser komische
-(sich jetzt langsam herausstellende)
-Gelegenheitsstrich(?) MUSS "umziehen" und obfuskiert wie bl&ouml;d den
-Ziel&shy;ort: Ham&shy;burg, M&uuml;n&shy;chen, Bielefeld
-(angebl. Herkunftsort des H&auml;uptlings dieser Bande).
+<span id="2024-12-07">[Sa., **07.12.**]</span>
+Dieser komi&shy;sche
+(sich jetzt lang&shy;sam heraus&shy;stel&shy;len&shy;de)
+Gele&shy;gen&shy;heits&shy;strich(?) MUSS "um&shy;zie&shy;hen" und
+ob&shy;fus&shy;kiert wie bl&ouml;d den
+Ziel&shy;ort: Ham&shy;burg, M&uuml;n&shy;chen, Biele&shy;feld
+(angebl. Her&shy;kunfts&shy;ort des H&auml;upt&shy;lings dieser Bande).
 
 [**Ger&uuml;cht**, hef&shy;tig **obfuskiert**]
 Nach&shy;tr&auml;g&shy;li&shy;che Ziel&shy;ort-In&shy;fo eines
@@ -312,19 +313,24 @@ Stand&shy;ort bzw. Unter&shy;kunft eini&shy;ger R&auml;delsf&uuml;hrer
 ist mglw. der **Pap&shy;pel&shy;hain 33**.  
 (10 Grains of Salt!)
 
-Heute Abend/Nacht das erste Mal eine Art Andeu&shy;tung bzgl.
-P&auml;do-Sadis&shy;mus?  
-Diese am n&auml;chsten Tag wie&shy;der (teil-)revi&shy;diert?  
+Heute Abend/Nacht das erste Mal eine Andeu&shy;tung bzgl.
+einer Art P&auml;do-Sadis&shy;mus
+(wenn es soetwas gibt)?  
+Diese am n&auml;chsten Tag wie&shy;der (teil-)revi&shy;diert?
+
+In derselben Nacht
+
 So. fr&uuml;h (08.12.) einer der T&auml;ter nach
 Hand&shy;greif&shy;lich&shy;keit in ins&shy;ze&shy;nier&shy;ter Not:
 "Alex&shy;an&shy;der, kannst Du einen Kran&shy;ken&shy;wa&shy;gen rufen?"
 
 <span id="2024-12-11">[**11.12.**]</span>
-Ich bin in ein Hotel an der Turmstr. "gefl&uuml;chtet,
-weil ich die Atmosph&auml;hre "zu Hause" nicht mehr aushalte.
-Wie gehabt, sind ein halbes bis ein Dutzend der "Crew"-Mitglieder
-sp&auml;testens eine Stunde sp&auml;ter auch im Hotel und
-beziehen die Zimmer links und rechts von mir, sowie das Zimmer
+Ich bin in ein Hotel an der Turm&shy;str. "ge&shy;fl&uuml;ch&shy;tet",
+weil ich die Atmo&shy;sph&auml;h&shy;re "zu Hause" nicht mehr
+aus&shy;hal&shy;te.
+Wie ge&shy;habt, sind ein halbes bis ein Dutzend der "Crew"-Mit&shy;glie&shy;der
+sp&auml;tes&shy;tens eine Stunde sp&auml;ter auch im Hotel und
+bezie&shy;hen die Zim&shy;mer links und rechts von mir, sowie das Zim&shy;mer
 &uuml;ber meinem!  
 **Wo auch immer ich mich aufhalte,
 habe ich Mitglieder dieser OK(?) max. vier Meter entfernt**,
@@ -333,50 +339,56 @@ mich so gut es geht zu nerven und nicht auch nur eine halbe
 Sekunde nachdenken zu lassen.
 
 <span id="2024-12-12">[**12.12.**]</span>
-Eskalation in der zweiten Hotelnacht:
-Hinweise auf (mindestens) gesch&auml;ftliche T&auml;tigkeit
-i.&#8239;Z.&#8239;m. einer Art **P&auml;do-Sadismus**?
+Eska&shy;la&shy;tion in der zwei&shy;ten Hotel&shy;nacht:
+Hin&shy;wei&shy;se auf (min&shy;des&shy;tens) gesch&auml;ft&shy;liche
+T&auml;tig&shy;keit i.&#8239;Z.&#8239;m. einer Art **P&auml;do-Sadis&shy;mus**?
 
-* (ich glaube) Andeutung sadistischer Misshandlung sehr junger
-  Menschen, auch durch Mitglieder dieser seltsamen Gang?
-* ich sage "S&auml;uglings-Ficker" und irgendwie scheint
-  es niemanden zu st&ouml;ren?
-* mglw. VT-Streuung durch Einrede?!
-  (ich kann mir beim besten Willen nicht vorstellen,
-  dass es soetwas gibt)
-* abends fortw&auml;hrende Einrede,
-  Lias Gehirn ist &uuml;ber einen langen Zeitraum
-  mit einer Kurzwellen-Waffe(?) beschossen worden
-* Suggestion einer Frau in einem hilflosen Zustand kurz
-  vor der geistigen Behinderung?
+* (ich glaube) Andeu&shy;tung sadis&shy;ti&shy;scher
+  Miss&shy;hand&shy;lung sehr jun&shy;ger Men&shy;schen,
+  auch durch Mit&shy;glie&shy;der die&shy;ser selt&shy;sa&shy;men Gang?
+* ich sage "S&auml;uglings-Ficker" und irgend&shy;wie scheint
+  es nie&shy;man&shy;den zu st&ouml;ren?
+* mglw. VT-Streuung durch Ein&shy;rede?!
+  (ich kann mir beim besten Willen nicht vor&shy;stel&shy;len,
+  dass es soet&shy;was gibt)
+* abends fortw&auml;h&shy;ren&shy;de Ein&shy;rede,
+  Lias Gehirn ist &uuml;ber einen lan&shy;gen Zeit&shy;raum
+  mit einer Kurz&shy;wel&shy;len-Waffe(?) beschossen wor&shy;den
+* Sugges&shy;tion einer Frau in einem hilf&shy;lo&shy;sen Zu&shy;stand kurz
+  vor der geis&shy;ti&shy;gen Behin&shy;de&shy;rung?
 * ich beschlie&szlig;e abends
-  (auch unter der Annahme, blosgestellt zu werden),
-  sie zu besuchen und n&ouml;tigenfalls zur Notaufnahme
+  (auch unter der An&shy;nahme, blos&shy;ge&shy;stellt zu wer&shy;den),
+  sie zu besuchen und n&ouml;ti&shy;gen&shy;falls zur Not&shy;auf&shy;nahme
   zu gehen
 * Teile der "Crew" folgen mir und bedr&auml;ngen mich
 * ich frage sie,
   ob sie die Gr&ouml;&szlig;e h&auml;tten,
   mit ihr zun Arzt zu gehen
-* nachdem sie versprechen,
+* nachdem sie ver&shy;spre&shy;chen,
   das morgen zu tun,
   sehe ich von einem Besuch ab und gehe wieder ins Hotel
 
-Im Hotel weitere Eskalation:
+Im Hotel wei&shy;te&shy;re Eska&shy;la&shy;tion:
 
-* Crew-Mitglieder behaupten, sie w&uuml;rden
+* Crew-Mit&shy;glie&shy;der behaup&shy;ten, sie w&uuml;rden
   "Besuch bekommen" und es best&uuml;nde mglw. Gefahr
 * gegen 3 Uhr nachts m&uuml;ssen alle auf einmal los
   und lassen mich allein
-* Einrede:
-  Ich w&auml;re ein international gesuchter Chef eines
-  P&auml;do-Sado-Rings und h&auml;tte mit zahlreichen
-  Menschen
-  (Kindeseltern(!) sowie organisierte Kriminalit&auml;t)
-  "Probleme" und alle seien "hinter mir her"
-* Suggestion, F. w&uuml;rde mir tats&auml;chlich
-  die schlimmstvorstellbaren Taten der
-  Menschheitsgeschichte unterschieben k&ouml;nnen
-* in Kombination mit "**Pers&ouml;nlichkeits-Tausch**"?
+  (Kennzeichen s&auml;mtlich *BOT*,
+  ver&shy;sp&auml;te&shy;te blon&shy;de Frau in
+  <nobr>*BOT GS*(*T*?) *582*<sup>(?)</sup></nobr>?)
+* grandiose Idee F.:
+  Ich w&auml;re ein inter&shy;na&shy;tio&shy;nal gesuch&shy;ter Chef eines
+  P&auml;do-Sado-Rings und h&auml;tte mit zahl&shy;rei&shy;chen
+  Men&shy;schen
+  (Kindes&shy;eltern(!) sowie orga&shy;ni&shy;sier&shy;te
+  Kri&shy;mi&shy;na&shy;li&shy;t&auml;t)
+  "Pro&shy;ble&shy;me" und alle seien "hin&shy;ter mir her"
+* Sug&shy;ges&shy;tion, F. w&uuml;r&shy;de mir tat&shy;s&auml;ch&shy;lich
+  die schlimmst&shy;vor&shy;stell&shy;ba&shy;ren Taten der
+  Mensch&shy;heits&shy;ge&shy;schich&shy;te unter&shy;schie&shy;ben k&ouml;nnen
+* in Kom&shy;bi&shy;na&shy;tion mit
+  "**Per&shy;s&ouml;n&shy;lich&shy;keits-Tausch**"?
 
 > [!NOTE]
 > <span id="2024-11-29">[**29.11.**]</span>
