@@ -24,7 +24,7 @@ version: sa., 14. dez. 2024
 > Au&szlig;er nicht einen &micro; Skru&shy;pel haben,
 >	Men&shy;schen nach Be&shy;darf aus&shy;zu&shy;beu&shy;ten /
 >	zu be&shy;nutzen und genau dann Ideen von Mensch&shy;lich&shy;keit
->	und Freund&shy;lich&shy;keit zu zeigen,
+>	und Freund&shy;lich&shy;keit zu zei&shy;gen,
 >	wenn es einem Zweck dient?  
 > **F&uuml;r was genau?**  
 > Die drin&shy;gen in Woh&shy;nun&shy;gen ein,
@@ -65,7 +65,7 @@ Ver&shy;wech&shy;seln die mich oder was:
 > grob ge&shy;sagt,
 > **meine Per&shy;s&ouml;n&shy;lich&shy;keit ab&shy;neh&shy;men**
 > (und mich dann (nat&uuml;rlich) t&ouml;ten) **will** und
-> derweil **in meinem Namen kommuniziert**:
+> derweil **in meinem Namen kom&shy;mu&shy;ni&shy;ziert**:
 > 1. ist das nicht meine Aus&shy;sage und
 > 2. nehme ich so einen Bl&ouml;d&shy;sinn nicht ernst
 >    (nie&shy;mand muss so&shy;et&shy;was ernst neh&shy;men).
@@ -78,9 +78,9 @@ Ver&shy;wech&shy;seln die mich oder was:
 >    um damit
 >    (zu&shy;n&auml;chst "nur" Nach&shy;barn,
 >    dann)
->    allen m&ouml;g&shy;lich&shy;en Men&shy;schen **als meine Person**
+>    allen m&ouml;g&shy;lich&shy;en Men&shy;schen **als meine Per&shy;son**
 >    auf die Ner&shy;ven zu gehen
->    (er scheint au&szlig;erdem ein guter Stimmimitator)
+>    (er scheint au&szlig;er&shy;dem ein guter Stimm&shy;imi&shy;ta&shy;tor)
 >    und
 > 4. am **30. Juli nach&shy;mit&shy;tags** war mein Aus&shy;weis,
 >    nach einem,
@@ -148,7 +148,12 @@ Mit drin h&auml;tte ich gern:
 	<summary>Oder, wer es gern pathetischer h&auml;t&shy;<nobr>te
 	  ..<sup>:warning:per&shy;s&ouml;n&shy;lich</nobr></summary>
 
-> [**Disclaimer** (v.a. für L.)] Ich "durfte" am Vorabend der Briefankunft kurz mit "dir"(?) sprechen. Vermutlich, um dich "vorzubereiten". Der Kontakt war wohl wieder nur mittelbar, Julia hatte die Gesprächsführung übernommen. Nur, dass Du das weißt.  
+> [**Disclaimer** (v.a. für L.)] Ich "durfte" am Vor&shy;abend der
+> Brief&shy;an&shy;kunft kurz mit "dir"(?) sprechen.
+> Ver&shy;mut&shy;lich,
+> um dich "vor&shy;zu&shy;be&shy;rei&shy;ten". 
+> Der Kon&shy;takt war wohl wie&shy;der nur mit&shy;tel&shy;bar,
+> Julia hatte die Gesprächsführung übernommen. Nur, dass Du das weißt.  
 > Du hast einen sehr belasteten, sorgenvollen Eindruck gemacht, der diesen drei Sadisten mir ggü. sehr wichtig ist.  
 > Direkter Kontakt mit dir ist mir "verboten" und wird nach Kräften unterbunden. Einen Brief hatte ich sogar händisch eingeworfen.   
 > Jedenfalls muss ich mit der Persönlichkeit leben, die sie mir zeichnen.
@@ -293,12 +298,26 @@ So schreck&shy;lich oder banal sie auch immer sein mag.
 	</details>
 
 <span id="2024-12-07">[**07.12.**]</span>
-Heute Abend/Nacht das erste Mal eine Art Andeutung bzgl.
-P&auml;do-Sadismus?  
-Diese am n&auml;chsten Tag wieder (teil-)reviediert?  
-So. fr&uuml;h (08.12.) einer der T&auml;ter nach Handgreiflichkeit
-in inszenierter Not:
-"Alexander, kannst Du einen Krankenwagen rufen?"
+Dieser komische
+(sich jetzt langsam herausstellende)
+Gelegenheitsstrich(?) MUSS "umziehen" und obfuskiert wie bl&ouml;d den
+Ziel&shy;ort: Ham&shy;burg, M&uuml;n&shy;chen, Bielefeld
+(angebl. Herkunftsort des H&auml;uptlings dieser Bande).
+
+[**Ger&uuml;cht**, hef&shy;tig **obfuskiert**]
+Nach&shy;tr&auml;g&shy;li&shy;che Ziel&shy;ort-In&shy;fo eines
+min&shy;der&shy;j&auml;h&shy;ri&shy;gen Opfers ist wohl
+eine **Schu&shy;ma&shy;cher-Sied&shy;lung** in **Ket&shy;zin**/Havel.  
+Stand&shy;ort bzw. Unter&shy;kunft eini&shy;ger R&auml;delsf&uuml;hrer
+ist mglw. der **Pap&shy;pel&shy;hain 33**.  
+(10 Grains of Salt!)
+
+Heute Abend/Nacht das erste Mal eine Art Andeu&shy;tung bzgl.
+P&auml;do-Sadis&shy;mus?  
+Diese am n&auml;chsten Tag wie&shy;der (teil-)revi&shy;diert?  
+So. fr&uuml;h (08.12.) einer der T&auml;ter nach
+Hand&shy;greif&shy;lich&shy;keit in ins&shy;ze&shy;nier&shy;ter Not:
+"Alex&shy;an&shy;der, kannst Du einen Kran&shy;ken&shy;wa&shy;gen rufen?"
 
 <span id="2024-12-11">[**11.12.**]</span>
 Ich bin in ein Hotel an der Turmstr. "gefl&uuml;chtet,
