@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: do., 12. dez. 2024  
+version: sa., 14. dez. 2024  
 ```
 
 <h1>Von Crews da drau&szlig;en,
@@ -291,6 +291,73 @@ Die gegen&shy;sei&shy;ti&shy;ge Knech&shy;tung, Unter&shy;jo&shy;chung
 Ich will die sog. Wahr&shy;heit wis&shy;sen!  
 So schreck&shy;lich oder banal sie auch immer sein mag.
 	</details>
+
+<span id="2024-12-07">[**07.12.**]</span>
+Heute Abend/Nacht das erste Mal eine Art Andeutung bzgl.
+P&auml;do-Sadismus?  
+Diese am n&auml;chsten Tag wieder (teil-)reviediert?  
+So. fr&uuml;h (08.12.) einer der T&auml;ter nach Handgreiflichkeit
+in inszenierter Not:
+"Alexander, kannst Du einen Krankenwagen rufen?"
+
+<span id="2024-12-11">[**11.12.**]</span>
+Ich bin in ein Hotel an der Turmstr. "gefl&uuml;chtet,
+weil ich die Atmosph&auml;hre "zu Hause" nicht mehr aushalte.
+Wie gehabt, sind ein halbes bis ein Dutzend der "Crew"-Mitglieder
+sp&auml;testens eine Stunde sp&auml;ter auch im Hotel und
+beziehen die Zimmer links und rechts von mir, sowie das Zimmer
+&uuml;ber meinem!  
+**Wo auch immer ich mich aufhalte,
+habe ich Mitglieder dieser OK(?) max. vier Meter entfernt**,
+offenbar mit dem "Auftrag",
+mich so gut es geht zu nerven und nicht auch nur eine halbe
+Sekunde nachdenken zu lassen.
+
+<span id="2024-12-12">[**12.12.**]</span>
+Eskalation in der zweiten Hotelnacht:
+Hinweise auf (mindestens) gesch&auml;ftliche T&auml;tigkeit
+i.&#8239;Z.&#8239;m. einer Art **P&auml;do-Sadismus**?
+
+* (ich glaube) Andeutung sadistischer Misshandlung sehr junger
+  Menschen, auch durch Mitglieder dieser seltsamen Gang?
+* ich sage "S&auml;uglings-Ficker" und irgendwie scheint
+  es niemanden zu st&ouml;ren?
+* mglw. VT-Streuung durch Einrede?!
+  (ich kann mir beim besten Willen nicht vorstellen,
+  dass es soetwas gibt)
+* abends fortw&auml;hrende Einrede,
+  Lias Gehirn ist &uuml;ber einen langen Zeitraum
+  mit einer Kurzwellen-Waffe(?) beschossen worden
+* Suggestion einer Frau in einem hilflosen Zustand kurz
+  vor der geistigen Behinderung?
+* ich beschlie&szlig;e abends
+  (auch unter der Annahme, blosgestellt zu werden),
+  sie zu besuchen und n&ouml;tigenfalls zur Notaufnahme
+  zu gehen
+* Teile der "Crew" folgen mir und bedr&auml;ngen mich
+* ich frage sie,
+  ob sie die Gr&ouml;&szlig;e h&auml;tten,
+  mit ihr zun Arzt zu gehen
+* nachdem sie versprechen,
+  das morgen zu tun,
+  sehe ich von einem Besuch ab und gehe wieder ins Hotel
+
+Im Hotel weitere Eskalation:
+
+* Crew-Mitglieder behaupten, sie w&uuml;rden
+  "Besuch bekommen" und es best&uuml;nde mglw. Gefahr
+* gegen 3 Uhr nachts m&uuml;ssen alle auf einmal los
+  und lassen mich allein
+* Einrede:
+  Ich w&auml;re ein international gesuchter Chef eines
+  P&auml;do-Sado-Rings und h&auml;tte mit zahlreichen
+  Menschen
+  (Kindeseltern(!) sowie organisierte Kriminalit&auml;t)
+  "Probleme" und alle seien "hinter mir her"
+* Suggestion, F. w&uuml;rde mir tats&auml;chlich
+  die schlimmstvorstellbaren Taten der
+  Menschheitsgeschichte unterschieben k&ouml;nnen
+* in Kombination mit "**Pers&ouml;nlichkeits-Tausch**"?
 
 > [!NOTE]
 > <span id="2024-11-29">[**29.11.**]</span>
