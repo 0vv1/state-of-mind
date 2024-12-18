@@ -103,9 +103,11 @@ Ver&shy;wech&shy;seln die mich oder was:
 > auch wirk&shy;lich ich bin.
 > Sorry!
 > 
-> Die schei&shy;nen jeden&shy;falls sehr flei&szlig;ig und
-> am&shy;bi&shy;tio&shy;niert,
-> auch wenn ich den Sinn da&shy;hin&shy;ter nicht ver&shy;ste&shy;he.  
+> [Mi., **18.12.**]
+> Heute habe ich bemerkt,
+> dass "die" mich auch mit den **Stimme**n **anderer Protagonisten** sprechen lassen k&ouml;nnen,
+> ich also quasi auch jede andere Identit&auml;t abbilde,
+> wenn "die" das wollen!
    
 Er selbst meint,
 ich sei ge&shy;mein&shy;sam mit einer ehe&shy;ma&shy;li&shy;gen
