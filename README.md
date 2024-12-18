@@ -6,7 +6,7 @@ author:  © 2021-2024 alexander puls <github@0vv1.net>
 license: cc by-nc-nd 4.0 int. (creative commons: namensnennung -  
          nicht kommerziell - keine bearbeitung 4.0 international)  
          <https://0vv1.io/cc-by-nc-nd>  
-version: sa., 14. dez. 2024  
+version: mi., 18. dez. 2024  
 ```
 
 <h1>Von Crews da drau&szlig;en,
